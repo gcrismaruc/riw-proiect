@@ -32,11 +32,14 @@ public class Mapper implements  Runnable{
 //    private final Object writeLock = new Object();
     public  static Map<String, Long> totalNumberOfWords = new ConcurrentHashMap<>();
 
+    private static final Gson gson = new Gson();
+
+
     private final ReadWriteLock readWriteLock = new ReentrantReadWriteLock();
     private final Lock readLock = readWriteLock.readLock();
     private final Lock writeLock = readWriteLock.writeLock();
 
-    public ObjectMapper objectMapper;
+    private static final ObjectMapper objectMapper = new ObjectMapper();
 
     private Path path;
 
@@ -52,9 +55,9 @@ public class Mapper implements  Runnable{
     public Mapper(Path path, String phase){
         this.path = path;
         this.phase = phase;
-        objectMapper = new ObjectMapper();
-        objectMapper.configure(JsonParser.Feature.AUTO_CLOSE_SOURCE, true);
-//        objectMapper.configure(JsonParser.Feature.ALLOW_UNQUOTED_CONTROL_CHARS, true);
+
+//        objectMapper.configure(JsonParser.Feature.AUTO_CLOSE_SOURCE, true);
+        objectMapper.configure(JsonParser.Feature.ALLOW_UNQUOTED_CONTROL_CHARS, true);
     }
     public String mapPhaseOne(Path path) throws IOException {
         System.out.println(PHASE_ONE + " " + Thread.currentThread().getId() + " " + path.toString());
@@ -72,6 +75,9 @@ public class Mapper implements  Runnable{
     }
 
     public void mapPhaseTwo(Path path) throws IOException {
+
+        writeLock.lock();
+
         Map<String, MyPair> directIndex = objectMapper.readValue(new File(String.valueOf(path)), new TypeReference<TreeMap<String, MyPair>>() {});
 
         System.out.println(PHASE_TWO + "  " + Thread.currentThread().getId() + "   " + path.toString());
@@ -97,24 +103,20 @@ public class Mapper implements  Runnable{
             if(!tempMap.isEmpty() && c == 'z'){
                 printToCharFile(c, tempMap);
             }
+            writeLock.unlock();
     }
 
     private void printToCharFile(char c, List<DirectIndex> tempMap) throws IOException {
 
-        writeLock.lock();
         String filePath = "E:\\RIW-proiect\\src\\DirectIndex\\" + c + "DirectIndex.idc";
             File file = new File(filePath);
-            file.createNewFile();
+            //file.createNewFile();
             List<DirectIndex> objectList;
-            FileReader reader = new FileReader(file);
-            BufferedReader br = new BufferedReader(reader);
-            try {
-
-                if (br.readLine() != null) {
+           // FileReader reader = new FileReader(file);
+           // BufferedReader br = new BufferedReader(reader);
+                if (file.exists()) {
                     objectList = objectMapper.readValue(new File(String.valueOf(filePath)), new TypeReference<ArrayList<DirectIndex>>() {});
-//                    Gson gson = new Gson();
 //                    JsonReader jsonReader = new JsonReader(new FileReader(file));
-////                    List<Review> data = gson.fromJson(reader, REVIEW_TYPE);
 //                    objectList =  gson.fromJson(jsonReader,  new TypeToken<ArrayList<DirectIndex>>() {}.getType());
                 } else {
                     objectList = new ArrayList<>();
@@ -124,24 +126,16 @@ public class Mapper implements  Runnable{
                     objectList.add(directIndex1);
                 }
 
+                readLock.lock();
                 FileOutputStream outputStream = new FileOutputStream(file);
                 objectMapper.writerWithDefaultPrettyPrinter().writeValue(outputStream, objectList);
                 outputStream.close();
-
+                readLock.unlock();
 //                try (Writer writer = new FileWriter(file)) {
-//                    Gson gson = new GsonBuilder().create();
 //                    gson.toJson(objectList, writer);
 //                }
 
-            } catch (JsonParseException jsonParseException) {
-            } catch (JsonMappingException j) {
-
-            } finally {
-                reader.close();
-                br.close();
             }
-        writeLock.unlock();
-    }
 
     public long countWords(Path path) throws IOException {
         long count = 0;

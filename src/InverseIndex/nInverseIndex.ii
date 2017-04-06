@@ -3,10 +3,6 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 1
   } ],
-  "nabi" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  } ],
   "nabob" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 1
@@ -15,45 +11,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 6
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 30
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 1
   } ],
   "nail" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 9
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 16
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 3
   } ],
   "nake" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
@@ -61,17 +27,6 @@
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "naked" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  } ],
-  "nam" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   } ],
   "name" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
@@ -80,41 +35,20 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 34
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 109
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 34
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 29
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 25
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 42
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 49
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 19
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 61
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 69
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 44
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 61
   } ],
   "nameless" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
@@ -123,20 +57,8 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 1
   } ],
-  "namesak" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  } ],
   "nanc" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  } ],
-  "nane" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  } ],
-  "nant" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   } ],
   "nap" : [ {
@@ -146,26 +68,14 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 6
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
   } ],
   "napkin" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
     "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
@@ -177,13 +87,6 @@
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 19
-  } ],
-  "napoleon" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 2
   } ],
   "narborough" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
@@ -193,21 +96,6 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 3
   } ],
-  "narcot" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
-  } ],
-  "nardi" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  } ],
-  "nardo" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  } ],
   "nari" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 1
@@ -215,106 +103,28 @@
   "narr" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 4
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 14
   } ],
   "narrat" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 7
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
   } ],
   "narrow" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 5
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 12
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 6
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 9
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 2
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 4
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 12
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  } ],
-  "narrowest" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "narrowli" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 2
-  } ],
-  "nasti" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
   } ],
   "nat" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 6
   } ],
@@ -326,50 +136,26 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 3
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 18
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 7
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 2
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 10
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 3
   } ],
   "nativ" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 28
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 2
   } ],
   "natti" : [ {
@@ -380,87 +166,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 79
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 65
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 17
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 59
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 69
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 41
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 29
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 22
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 44
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 18
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 22
   } ],
   "naturedest" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 1
   } ],
-  "naturedli" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "naught" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  } ],
-  "naughti" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  } ],
-  "nausea" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  } ],
-  "nauseou" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  } ],
-  "nautic" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
   "naval" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
     "value" : 1
   } ],
   "navarr" : [ {
@@ -470,56 +196,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 1
   } ],
-  "navi" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  } ],
   "navig" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 3
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 3
-  } ],
-  "naïv" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  } ],
-  "naïveté" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  } ],
-  "neapolitan" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   } ],
   "near" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 19
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 14
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 15
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 35
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 22
   } ],
   "nearbi" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -529,37 +218,10 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 8
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 16
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 3
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 8
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 3
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -567,27 +229,18 @@
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
   } ],
   "nearest" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 10
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 1
   } ],
   "nearli" : [ {
@@ -597,69 +250,30 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 10
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 9
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
   } ],
   "neat" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 2
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 6
   } ],
   "neater" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
@@ -669,66 +283,25 @@
     "value" : 1
   } ],
   "neatli" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 3
   } ],
   "nebokoodneez" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  } ],
-  "nebul" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
     "value" : 1
   } ],
   "necess" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 5
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 5
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "necessari" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 58
   } ],
   "necessarili" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
@@ -737,50 +310,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 2
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
-  } ],
-  "necessit" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 1
   } ],
   "neck" : [ {
@@ -790,40 +332,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 9
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 16
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 6
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 33
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 22
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 6
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 23
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 9
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
   } ],
   "necklac" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   } ],
@@ -834,23 +355,8 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 3
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
-  } ],
-  "necrom" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  } ],
-  "necromanc" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  } ],
-  "nectarin" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
   } ],
   "ned" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
@@ -858,51 +364,24 @@
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
   } ],
   "need" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 2
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 19
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 8
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 87
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 4
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 24
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 22
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 15
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 12
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 23
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 15
   } ],
   "needi" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }, {
@@ -913,52 +392,16 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 3
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 16
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 7
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  } ],
-  "needless" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 6
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  } ],
-  "needlessli" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "needlework" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
   } ],
   "needn" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 6
   }, {
@@ -966,12 +409,6 @@
     "value" : 9
   } ],
   "neednt" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   } ],
@@ -979,25 +416,8 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 1
   } ],
-  "nefari" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  } ],
   "neg" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  } ],
-  "negativ" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   } ],
   "neglect" : [ {
@@ -1007,35 +427,13 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 9
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  } ],
-  "negli" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   } ],
   "neglig" : [ {
@@ -1045,37 +443,10 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 2
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -1083,18 +454,15 @@
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
   } ],
   "negoti" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
   } ],
   "negro" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 4
   }, {
@@ -1102,20 +470,6 @@
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 2
-  } ],
-  "neic" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "neigh" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   } ],
   "neighbor" : [ {
@@ -1136,29 +490,8 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 5
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 11
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 8
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
@@ -1170,82 +503,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 6
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 6
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 30
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 11
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  } ],
-  "neighbourli" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   } ],
   "neither" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 18
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 10
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 14
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 29
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 5
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 23
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 14
-  } ],
-  "nel" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   } ],
   "nell" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 1
   } ],
   "nelli" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  } ],
-  "nello" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   } ],
   "nemmin" : [ {
@@ -1257,28 +539,11 @@
     "value" : 1
   } ],
   "nephew" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 25
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 7
-  } ],
-  "ner" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  } ],
-  "neri" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
   } ],
   "nero" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
@@ -1292,23 +557,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 3
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 20
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 10
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 9
   } ],
   "nerveless" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
@@ -1325,26 +578,8 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 5
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 12
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 6
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 9
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
@@ -1353,20 +588,8 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 5
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
@@ -1376,85 +599,30 @@
     "value" : 1
   } ],
   "nest" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 4
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "nestl" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   } ],
   "net" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 6
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 6
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 5
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 6
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 6
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 6
-  } ],
-  "nether" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  } ],
-  "netherfield" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 73
-  } ],
-  "nethermost" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 6
   } ],
   "nettl" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   } ],
   "network" : [ {
@@ -1464,37 +632,10 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -1502,120 +643,44 @@
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
-  } ],
-  "neuf" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 1
-  } ],
-  "neutral" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 3
   } ],
   "never" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 53
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 194
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 46
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 119
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 122
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 80
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 203
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 126
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 41
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 23
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 55
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 163
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 107
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 55
-  } ],
-  "nevertheless" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 9
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 29
-  } ],
-  "nevil" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 19
   } ],
   "new" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 35
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 42
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 76
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 102
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 58
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 27
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 17
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 81
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 55
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 50
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 17
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 5
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 55
   } ],
   "newbi" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
@@ -1624,37 +689,10 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -1662,57 +700,17 @@
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
-  } ],
-  "newcastl" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
   } ],
   "newcom" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 4
-  } ],
-  "newer" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "newest" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "newgat" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
   } ],
   "newli" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 5
   } ],
   "newr" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
@@ -1729,37 +727,10 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -1767,36 +738,24 @@
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
   } ],
   "newspap" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 3
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 9
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 6
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 2
   } ],
   "newton" : [ {
@@ -1808,50 +767,22 @@
     "value" : 1
   } ],
   "next" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 21
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 25
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 53
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 55
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 40
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 16
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 87
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 8
-  } ],
-  "nez" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 2
   } ],
   "niagara" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   } ],
   "nibbl" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
   } ],
   "nic" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
@@ -1861,41 +792,20 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 13
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 15
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 9
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 15
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 20
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 13
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 7
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 7
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 20
   } ],
   "nicer" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
@@ -1904,75 +814,24 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   } ],
-  "nicest" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "niceti" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
   "nich" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 1
   } ],
   "nichol" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 4
-  } ],
-  "nicht" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  } ],
-  "nick" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  } ],
-  "nickel" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "nicknam" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  } ],
-  "nicolo" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 15
   } ],
   "niec" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 3
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 31
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 4
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 6
   } ],
   "niel" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
-  } ],
-  "nievol" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  } ],
-  "niger" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
   } ],
   "nigger" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
@@ -1982,26 +841,14 @@
     "value" : 214
   } ],
   "nigh" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 8
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 2
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 7
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 7
   } ],
   "night" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
@@ -2010,71 +857,32 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 98
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 231
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 101
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 332
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 109
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 35
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 101
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 12
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 164
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 123
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 10
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 9
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 164
   } ],
   "nightcap" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 2
   } ],
   "nightdress" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   } ],
   "nightfal" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
   } ],
   "nightgown" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -2084,12 +892,6 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 2
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 1
   } ],
@@ -2097,27 +899,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
   } ],
   "nightmar" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 6
   } ],
   "nightshirt" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
@@ -2126,76 +916,32 @@
   "nil" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 11
   } ],
   "nile" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 2
   } ],
   "nimbl" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   } ],
   "nimbli" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 1
   } ],
   "nine" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 18
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 14
-  } ],
-  "ninep" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
   } ],
   "nineteen" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 3
   } ],
   "nineteenth" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 8
   } ],
-  "nineti" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  } ],
   "ninth" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 2
   } ],
@@ -2204,17 +950,6 @@
     "value" : 3
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "nipper" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "nitrat" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   } ],
   "nitric" : [ {
@@ -2228,10 +963,6 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 3
   } ],
-  "nnight" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
   "no" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 20
@@ -2239,65 +970,28 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 172
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 547
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 94
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 278
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 493
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 312
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 489
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 225
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 237
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 106
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 585
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 393
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 78
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 90
-  } ],
-  "noak" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 585
   } ],
   "nobbi" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   } ],
   "nobil" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 1
@@ -2306,61 +1000,24 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 11
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 21
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 4
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 22
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 5
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 30
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 6
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 14
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
   } ],
   "nobleman" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 2
-  } ],
-  "noblemen" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   } ],
   "nobler" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
@@ -2373,102 +1030,50 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 2
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
-  } ],
-  "nobli" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   } ],
   "nobodi" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 5
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 13
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 16
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 5
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 74
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 5
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 74
   } ],
   "nocturn" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 2
   } ],
   "nod" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 15
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 6
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 20
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 4
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 4
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 7
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
   } ],
   "nohow" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
@@ -2478,55 +1083,24 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 19
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 8
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 8
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 18
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 5
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 10
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
-  } ],
-  "noiseless" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 2
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 18
   } ],
   "noiselessli" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 2
   } ],
   "noisi" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
@@ -2534,81 +1108,34 @@
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  } ],
-  "noisiest" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
   } ],
   "noisili" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 1
   } ],
   "noisom" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
   } ],
   "nombril" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  } ],
-  "nomin" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 3
-  } ],
-  "nonconformist" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "nondimanco" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   } ],
   "none" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 17
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 25
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 7
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 41
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 2
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 21
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 33
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
-  } ],
-  "nonent" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 21
   } ],
   "nonesuch" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
@@ -2629,91 +1156,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 1
   } ],
   "nonsens" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 9
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 10
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
   } ],
   "nook" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 5
@@ -2722,20 +1201,8 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 4
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 12
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 17
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 1
@@ -2747,88 +1214,30 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   } ],
-  "noontid" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  } ],
-  "noos" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
   "nor" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 28
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 27
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 7
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 14
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 18
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 65
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 62
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 42
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 18
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
-  } ],
-  "nora" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 709
-  } ],
-  "nordau" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  } ],
-  "norfolk" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 42
   } ],
   "normal" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "norman" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  } ],
-  "normandi" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   } ],
   "north" : [ {
@@ -2838,44 +1247,20 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 13
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 19
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 15
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 6
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 8
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 6
   } ],
   "northard" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
@@ -2896,120 +1281,42 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 1
   } ],
   "northumberland" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "northumbria" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
   } ],
   "northward" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  } ],
-  "norton" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 7
-  } ],
-  "norwai" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
   } ],
   "nose" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 16
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 11
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 18
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 3
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 12
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 9
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  } ],
-  "nosegai" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  } ],
-  "nosferatu" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
   } ],
   "nostril" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 6
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 4
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 4
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 2
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  } ],
-  "nostrum" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
   } ],
   "not" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
@@ -3018,60 +1325,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 458
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 874
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 153
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 308
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1359
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 663
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1424
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 490
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 199
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 432
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 181
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 646
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 10
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 149
-  } ],
-  "nota" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 181
   } ],
   "notabl" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 2
   } ],
   "notch" : [ {
@@ -3085,45 +1355,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 5
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 20
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 10
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 42
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 16
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 50
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
-  } ],
-  "notebook" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
   } ],
   "notepap" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
@@ -3132,66 +1374,28 @@
   "noteworthi" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   } ],
   "noth" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 30
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 147
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 53
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 97
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 115
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 178
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 87
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 38
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 186
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 101
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 15
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 18
-  } ],
-  "nothin" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 186
   } ],
   "nothing" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "nothink" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
     "value" : 1
   } ],
   "notic" : [ {
@@ -3201,44 +1405,20 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 8
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 31
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 17
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 31
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 62
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 33
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 10
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 42
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 20
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 23
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 8
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 42
   } ],
   "notifi" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
@@ -3247,37 +1427,10 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -3285,55 +1438,27 @@
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
   } ],
   "notion" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 4
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 14
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
   } ],
   "notori" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   } ],
   "notorieti" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
-  } ],
-  "notr" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
   } ],
   "nottingham" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
@@ -3347,21 +1472,8 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 6
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  } ],
-  "nou" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
   } ],
   "nough" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
@@ -3373,26 +1485,10 @@
   "nought" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  } ],
-  "noun" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
   } ],
   "nourish" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 4
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
@@ -3401,19 +1497,9 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 1
   } ],
-  "nova" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
   "novel" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 8
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 5
@@ -3422,14 +1508,8 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 3
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 2
@@ -3441,36 +1521,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 14
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
   } ],
   "novic" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  } ],
-  "novita" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   } ],
   "now" : [ {
@@ -3480,50 +1535,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 151
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 256
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 60
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 282
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 406
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 223
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 206
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 132
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 106
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 29
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 266
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 233
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 72
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 37
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 266
   } ],
   "nowadai" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
@@ -3543,14 +1571,6 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 3
   } ],
-  "nowis" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "nowt" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  } ],
   "nt" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
@@ -3566,19 +1586,9 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 1
   } ],
-  "nucleu" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
   "nudg" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 2
@@ -3606,14 +1616,8 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
@@ -3625,14 +1629,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 1
   } ],
-  "numantia" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  } ],
   "numb" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   } ],
@@ -3643,48 +1640,20 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 5
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 30
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 14
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 25
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 4
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 15
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 4
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 17
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 7
-  } ],
-  "numberless" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
   } ],
   "numer" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
@@ -3693,49 +1662,22 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 4
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
   } ],
   "numskul" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }, {
@@ -3753,68 +1695,20 @@
   "nuptial" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  } ],
-  "nuremberg" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
   } ],
   "nurs" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
     "value" : 13
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 8
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 27
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "nursemaid" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
     "value" : 1
   } ],
   "nurseri" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 5
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 2
-  } ],
-  "nurtur" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
   } ],
   "nuss" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
@@ -3831,38 +1725,18 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 22
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
   } ],
   "nuther" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 15
   } ],
-  "nutshel" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
   "nymph" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  } ],
-  "née" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   } ]
 }

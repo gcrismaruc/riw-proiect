@@ -1981,1622 +1981,1028 @@
 }, {
   "word" : "ic",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "icehous",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "ici",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "idea",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 19
-  }
-}, {
-  "word" : "ident",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 18
   }
 }, {
   "word" : "identif",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "identifi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "idiomat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "idiot",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "idl",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
-  "word" : "idlest",
+  "word" : "idler",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "idli",
+  "word" : "idol",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }
-}, {
-  "word" : "ie",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
   }
 }, {
   "word" : "if",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 479
-  }
-}, {
-  "word" : "ignobli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 251
   }
 }, {
   "word" : "ignor",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 9
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "ii",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "iii",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "ill",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 19
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "illinoi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "illumin",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "illusion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "illustr",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "illustri",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "im",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "imag",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "imagin",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 16
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 9
   }
 }, {
   "word" : "imaginari",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 5
   }
 }, {
-  "word" : "imbecil",
+  "word" : "imbitt",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "imbu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "imit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "immacul",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "immatur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "immeasur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }
 }, {
   "word" : "immedi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 26
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 7
   }
 }, {
-  "word" : "immemori",
+  "word" : "immin",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "immens",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "immer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "immol",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }
 }, {
   "word" : "immort",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "immov",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "immun",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "impair",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "impart",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "imparti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }
-}, {
-  "word" : "impass",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
   }
 }, {
   "word" : "impati",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "impeach",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 4
-  }
-}, {
-  "word" : "impedi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "impel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "impend",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "impenit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "imper",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
   }
 }, {
   "word" : "imperfect",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "imperfectli",
+  "word" : "imperish",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "imperi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "imperil",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "impertin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "imperturb",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "impetu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "implac",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "implem",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "impli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "implicitli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "implor",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "imploringli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "import",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "importun",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "impos",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "imposi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
   }
 }, {
   "word" : "imposs",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "impost",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "impostor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "impoverish",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "impractic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "impres",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 9
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "impress",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "imprint",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "imprison",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "improb",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 6
   }
 }, {
   "word" : "improv",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "impud",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "impuls",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "impur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "imput",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 7
   }
 }, {
   "word" : "in",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2658
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1012
   }
 }, {
   "word" : "inaccur",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }
-}, {
-  "word" : "inanim",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inappropri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
   }
 }, {
   "word" : "inarticul",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "inaud",
+  "word" : "incant",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inaugur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "incap",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 5
-  }
-}, {
-  "word" : "incess",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "incessantli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
   }
 }, {
   "word" : "inch",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "incid",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
   }
 }, {
   "word" : "incident",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "inclem",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "inclin",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "includ",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "incoher",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 14
   }
 }, {
   "word" : "incom",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }
-}, {
-  "word" : "incommod",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "incommodi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
   }
 }, {
   "word" : "incomplet",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
-  "word" : "incomprehens",
+  "word" : "inconceiv",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "incongru",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "inconsist",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
-  "word" : "inconveni",
+  "word" : "incorrupt",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "incorrig",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "increas",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 6
   }
 }, {
-  "word" : "incredul",
+  "word" : "incred",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "incumb",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }
 }, {
-  "word" : "incumbr",
+  "word" : "incrust",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "incur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "inde",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 43
-  }
-}, {
-  "word" : "indebt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "indeci",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "indefinit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "indemn",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "indemnifi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "independ",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "indescrib",
+  "word" : "indestruct",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "india",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indian",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "indic",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "indict",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "indiffer",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 14
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 8
   }
 }, {
-  "word" : "indign",
+  "word" : "indiges",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "indignantli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "indirect",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "indirectli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "indispens",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "indistinct",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "individu",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "indivis",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 5
   }
 }, {
-  "word" : "indoor",
+  "word" : "indulg",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }
-}, {
-  "word" : "induc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
   }
 }, {
   "word" : "industri",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "inestim",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "inevit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "inexor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inexperienc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "infal",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "infallibli",
+  "word" : "infatu",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "infam",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "infami",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "infanc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "infant",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }
-}, {
-  "word" : "infec",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "infect",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "infer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
   }
 }, {
   "word" : "infern",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
-  "word" : "infinit",
+  "word" : "infest",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "infirm",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "inflat",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }
-}, {
-  "word" : "inflict",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
   }
 }, {
   "word" : "influenc",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 31
-  }
-}, {
-  "word" : "influenti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "inform",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 30
-  }
-}, {
-  "word" : "infrac",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 12
   }
 }, {
   "word" : "infring",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "infus",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "ingeni",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "ingenu",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
-  "word" : "ingress",
+  "word" : "ingredi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "inhabit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "inherit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "inheritor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "inhuman",
+  "word" : "inhal",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "initi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 3
   }
 }, {
-  "word" : "injunc",
+  "word" : "injun",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 75
   }
 }, {
   "word" : "injur",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "injuri",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 3
   }
 }, {
   "word" : "ink",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "inmat",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "inn",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "innat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }
-}, {
-  "word" : "innermost",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
   }
 }, {
   "word" : "innoc",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 17
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
-  "word" : "inoffens",
+  "word" : "innumer",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
+  }
+}, {
+  "word" : "inquest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "inquir",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 15
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "inquiri",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 9
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "inquiringli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "inquisit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "insati",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "inscrib",
+  "word" : "insect",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
   }
 }, {
-  "word" : "inscrip",
+  "word" : "insecur",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
-  "word" : "inscrut",
+  "word" : "insensibli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
-  "word" : "insens",
+  "word" : "insert",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "insepar",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "insid",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 11
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
-  "word" : "insinu",
+  "word" : "insignific",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "insist",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }
 }, {
-  "word" : "insol",
+  "word" : "insincer",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
-  "word" : "insomuch",
+  "word" : "insipid",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "inspec",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "inspect",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }
 }, {
   "word" : "inspir",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 8
-  }
-}, {
-  "word" : "instal",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "instanc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
   }
 }, {
   "word" : "instant",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 16
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 17
   }
 }, {
   "word" : "instantli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 6
   }
 }, {
   "word" : "instinct",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "institu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "instruc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "instruct",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "instrum",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 11
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "insuffer",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "insuffici",
+  "word" : "int",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "insult",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "insupport",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "intang",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "integr",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "intellectu",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "intellig",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "intelligibli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }
-}, {
-  "word" : "inten",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 11
   }
 }, {
   "word" : "intend",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
   }
 }, {
   "word" : "intens",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "intensifi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "intent",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 17
-  }
-}, {
-  "word" : "inter",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "interchang",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "interest",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 38
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 35
   }
 }, {
   "word" : "interf",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "interfer",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }
 }, {
-  "word" : "interior",
+  "word" : "interlard",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "intermedi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "intermis",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "intern",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "interpos",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "interpret",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "interrog",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "interrup",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "interrupt",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "intersect",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "interv",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 13
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "interven",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "interview",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "intim",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "intimaci",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "into",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 262
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 140
   }
 }, {
   "word" : "intoler",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 6
   }
 }, {
-  "word" : "intox",
+  "word" : "inton",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "intrepid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "intric",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "intrigu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "introduc",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "intrud",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 3
   }
 }, {
   "word" : "inund",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "invalid",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "invari",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "inven",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "inver",
+  "word" : "investig",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "invest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "inveter",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inveteraci",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "invigor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inviol",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }
 }, {
   "word" : "invis",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "invit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "inwardli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 4
-  }
-}, {
-  "word" : "involuntari",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "involv",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 9
   }
 }, {
   "word" : "ir",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "irksom",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "iron",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 24
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 6
   }
 }, {
-  "word" : "irregular",
+  "word" : "irresist",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }
-}, {
-  "word" : "irreligi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "irrepress",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
   }
 }, {
   "word" : "irresolut",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
-  "word" : "irrup",
+  "word" : "irrespons",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "irrit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 3
   }
 }, {
   "word" : "is",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 850
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 149
   }
 }, {
   "word" : "island",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 18
   }
 }, {
   "word" : "isol",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "ison",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "issu",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "it",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2306
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1409
+  }
+}, {
+  "word" : "itch",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "itself",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 25
   }
 }, {
   "word" : "iv",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "ivi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "ix",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "izaak",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "idea",
@@ -4013,1792 +3419,1804 @@
     "value" : 1
   }
 }, {
-  "word" : "ic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "iceland",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "ici",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "id",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 6
-  }
-}, {
   "word" : "idea",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 45
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 62
   }
 }, {
   "word" : "identif",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
   "word" : "identifi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "idin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "idiot",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   }
 }, {
   "word" : "idl",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "idli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "idolatr",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
   }
 }, {
   "word" : "if",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 654
-  }
-}, {
-  "word" : "igh",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 366
   }
 }, {
   "word" : "ignor",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "ignoratio",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ignotum",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ii",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "iii",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 23
   }
 }, {
   "word" : "ill",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 44
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 77
   }
 }, {
-  "word" : "illsom",
+  "word" : "illiber",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
-  "word" : "illumin",
+  "word" : "illiter",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "illusion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
   "word" : "illustr",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   }
 }, {
-  "word" : "im",
+  "word" : "illustri",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 27
-  }
-}, {
-  "word" : "imag",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   }
 }, {
   "word" : "imagin",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 26
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 39
+  }
+}, {
+  "word" : "imaginari",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
   }
 }, {
   "word" : "imit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "imitatin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "immanuel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "immeasur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   }
 }, {
   "word" : "immedi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 12
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 74
   }
 }, {
-  "word" : "immens",
+  "word" : "immor",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 8
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   }
 }, {
-  "word" : "immort",
+  "word" : "immov",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   }
 }, {
-  "word" : "impalp",
+  "word" : "impart",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
   "word" : "imparti",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   }
 }, {
   "word" : "impass",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
   "word" : "impati",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 23
   }
 }, {
-  "word" : "imper",
+  "word" : "impel",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "impercept",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
-  "word" : "imperfect",
+  "word" : "impenetr",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "imperfec",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
   "word" : "imperfectli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
-  "word" : "imperi",
+  "word" : "impertin",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
   }
 }, {
   "word" : "imperturb",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
-  "word" : "impetuos",
+  "word" : "impetu",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
   "word" : "implac",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "impletata",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   }
 }, {
   "word" : "impli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   }
 }, {
-  "word" : "implic",
+  "word" : "implicit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   }
 }, {
-  "word" : "implicitli",
+  "word" : "impolit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "implor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "imploringli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
   "word" : "import",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 21
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 39
   }
 }, {
   "word" : "importun",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   }
 }, {
   "word" : "impos",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
   }
 }, {
   "word" : "imposs",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "impot",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "impregn",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 44
   }
 }, {
   "word" : "impres",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
   }
 }, {
   "word" : "impress",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   }
 }, {
-  "word" : "imprison",
+  "word" : "improb",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
   }
 }, {
   "word" : "improp",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "improprieti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
   }
 }, {
   "word" : "improv",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 21
+  }
+}, {
+  "word" : "imprud",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 20
+  }
+}, {
+  "word" : "impud",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   }
 }, {
   "word" : "impuls",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 11
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "impun",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "impur",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "imput",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
   }
 }, {
   "word" : "in",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2569
-  }
-}, {
-  "word" : "inaccess",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1930
   }
 }, {
   "word" : "inaccur",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
-  "word" : "incarn",
+  "word" : "inadequ",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  }
+}, {
+  "word" : "inatten",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "inattent",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "incap",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "incauti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "incens",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "incess",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "incessantli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   }
 }, {
   "word" : "inch",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "incid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   }
 }, {
   "word" : "incident",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
-  "word" : "incision",
+  "word" : "incivil",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "incit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   }
 }, {
   "word" : "inclin",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 8
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 33
   }
 }, {
   "word" : "includ",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "incoher",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 18
   }
 }, {
   "word" : "incom",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
   }
 }, {
   "word" : "incomplet",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
-  "word" : "incorpor",
+  "word" : "incomprehens",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
+  }
+}, {
+  "word" : "inconceiv",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "inconsider",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "inconsist",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "inconveni",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
   }
 }, {
   "word" : "increas",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 10
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 29
   }
 }, {
   "word" : "incred",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "incredul",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "incumb",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   }
 }, {
   "word" : "incur",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   }
 }, {
   "word" : "inde",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 50
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 94
+  }
+}, {
+  "word" : "indebt",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "indeci",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indecorum",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   }
 }, {
   "word" : "indefinit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  }
+}, {
+  "word" : "indel",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indelicaci",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   }
 }, {
   "word" : "indemn",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
   "word" : "indemnifi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
-  "word" : "index",
+  "word" : "independ",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "indexi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "india",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "indian",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
   }
 }, {
   "word" : "indic",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   }
 }, {
   "word" : "indiffer",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 33
   }
 }, {
   "word" : "indign",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
   }
 }, {
   "word" : "indirect",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   }
 }, {
   "word" : "indirectli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indiscreet",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indispens",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indispos",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
+  }
+}, {
+  "word" : "indistinctli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   }
 }, {
   "word" : "individu",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 11
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
   }
 }, {
-  "word" : "indomit",
+  "word" : "indol",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "indraw",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "indrawn",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   }
 }, {
   "word" : "induc",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
   }
 }, {
   "word" : "indulg",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  }
+}, {
+  "word" : "industri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
-  "word" : "ineff",
+  "word" : "ineffectu",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
-  "word" : "inequ",
+  "word" : "inevit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   }
 }, {
-  "word" : "inert",
+  "word" : "inexhaust",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
   "word" : "inexpress",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
-  "word" : "infallibli",
+  "word" : "inexpressibli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "infam",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   }
 }, {
   "word" : "infami",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   }
 }, {
-  "word" : "infect",
+  "word" : "infanc",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "infatu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   }
 }, {
   "word" : "infer",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "inferior",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
   }
 }, {
   "word" : "infinit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 8
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
   }
 }, {
-  "word" : "infinitesim",
+  "word" : "inflexibli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "inflic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
   "word" : "inflict",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   }
 }, {
   "word" : "influenc",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 9
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
   }
 }, {
   "word" : "inform",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 23
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 58
   }
 }, {
   "word" : "infring",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
-  "word" : "ingress",
+  "word" : "ingeni",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "ingenu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "ingratitud",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
   "word" : "inhabit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "inherit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "inhuman",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
-  "word" : "inheritor",
+  "word" : "iniquit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
-  }
-}, {
-  "word" : "injec",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
   }
 }, {
   "word" : "injunc",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   }
 }, {
   "word" : "injur",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 9
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
   }
 }, {
   "word" : "injuri",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   }
 }, {
-  "word" : "ink",
+  "word" : "injustic",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "inki",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inland",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   }
 }, {
   "word" : "inmat",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   }
 }, {
   "word" : "inn",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
   }
 }, {
-  "word" : "inquest",
+  "word" : "innoc",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   }
 }, {
-  "word" : "inquietud",
+  "word" : "inoffens",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
   "word" : "inquir",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 23
   }
 }, {
   "word" : "inquiri",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "inquisi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inquisit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inrush",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "insan",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "inscrib",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 33
   }
 }, {
   "word" : "insens",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "insignific",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "insincer",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "insinu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
-  "word" : "insensibli",
+  "word" : "insipid",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "insensit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "insert",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "insid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   }
 }, {
   "word" : "insist",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 11
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
   }
 }, {
   "word" : "insol",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
   }
 }, {
-  "word" : "inspect",
+  "word" : "inspec",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inspector",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   }
 }, {
   "word" : "inspir",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
   }
 }, {
-  "word" : "instal",
+  "word" : "instabl",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
   "word" : "instanc",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
   }
 }, {
   "word" : "instant",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 46
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "instantan",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   }
 }, {
   "word" : "instantli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 31
   }
 }, {
   "word" : "instead",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "instig",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
   }
 }, {
   "word" : "instinct",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 25
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "institut",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   }
 }, {
   "word" : "instruc",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 8
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
   }
 }, {
   "word" : "instruct",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   }
 }, {
   "word" : "instrum",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
   }
 }, {
-  "word" : "insur",
+  "word" : "insuffer",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   }
 }, {
-  "word" : "intact",
+  "word" : "insuffici",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "insult",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "insupport",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   }
 }, {
-  "word" : "intellect",
+  "word" : "integr",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   }
 }, {
   "word" : "intellectu",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   }
 }, {
   "word" : "intellig",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 27
   }
 }, {
   "word" : "inten",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 9
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 21
   }
 }, {
   "word" : "intend",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "intens",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "intensifi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 31
   }
 }, {
   "word" : "intent",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 20
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   }
 }, {
-  "word" : "interced",
+  "word" : "intention",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "intercours",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
   }
 }, {
   "word" : "interest",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 51
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 48
+  }
+}, {
+  "word" : "interf",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   }
 }, {
   "word" : "interfer",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
   }
 }, {
-  "word" : "intermin",
+  "word" : "intermarriag",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  }
+}, {
+  "word" : "intermedi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "intermis",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   }
 }, {
   "word" : "intern",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   }
 }, {
-  "word" : "internet",
+  "word" : "interpos",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   }
 }, {
   "word" : "interpret",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "interrog",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   }
 }, {
   "word" : "interrup",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
   }
 }, {
   "word" : "interrupt",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "interstic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
   }
 }, {
   "word" : "interv",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
   }
 }, {
   "word" : "interven",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
   "word" : "interview",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 9
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   }
 }, {
-  "word" : "intestaci",
+  "word" : "intim",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  }
+}, {
+  "word" : "intimaci",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "intimid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   }
 }, {
   "word" : "into",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 240
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 35
   }
 }, {
   "word" : "intoler",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   }
 }, {
-  "word" : "inton",
+  "word" : "intrepid",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "intric",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   }
 }, {
   "word" : "intrigu",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
   "word" : "introduc",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 35
   }
 }, {
   "word" : "intrud",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
   }
 }, {
-  "word" : "intuition",
+  "word" : "intrusion",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   }
 }, {
   "word" : "inur",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
-  }
-}, {
-  "word" : "invad",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
   }
 }, {
   "word" : "invalid",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "invalu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "invari",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "invect",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "inven",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
   "word" : "invent",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "inventor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "invers",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   }
 }, {
   "word" : "investig",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "invoic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "invok",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  }
+}, {
+  "word" : "invit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 55
   }
 }, {
   "word" : "involuntari",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
   "word" : "involuntarili",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   }
 }, {
   "word" : "involv",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inwardli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
   }
 }, {
   "word" : "ir",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "irish",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   }
 }, {
   "word" : "irksom",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "irregular",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
-  "word" : "iron",
+  "word" : "irreligi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 20
-  }
-}, {
-  "word" : "ironbound",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
-  "word" : "ironi",
+  "word" : "irremedi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "irresist",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
-  "word" : "irresistibli",
+  "word" : "irreproach",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "irretriev",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "irrevoc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
   "word" : "irrit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
   }
 }, {
   "word" : "is",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1443
-  }
-}, {
-  "word" : "island",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "isnt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "isol",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "isself",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "issu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "isten",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 877
   }
 }, {
   "word" : "it",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2316
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1658
   }
 }, {
-  "word" : "item",
+  "word" : "italian",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
 }, {
-  "word" : "ither",
+  "word" : "ibsen",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "itll",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "ittin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "iv",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "ivori",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "ix",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
   }
 }, {
   "word" : "ic",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
-  "word" : "ichabod",
+  "word" : "ici",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "idea",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 14
   }
 }, {
   "word" : "identif",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "identifi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
-  "word" : "idl",
+  "word" : "idli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "if",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 344
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 115
+  }
+}, {
+  "word" : "ignor",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "ii",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "iii",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "ill",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 26
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 13
   }
 }, {
-  "word" : "illumin",
+  "word" : "im",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "illustr",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ilsabil",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "imag",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   }
 }, {
   "word" : "imagin",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "immedi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
-  }
-}, {
-  "word" : "immens",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "imp",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "impati",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 7
   }
 }, {
   "word" : "impetu",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "impli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
   }
 }, {
   "word" : "import",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
   }
 }, {
   "word" : "impos",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "imposs",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 19
+  }
+}, {
+  "word" : "imprud",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
   }
 }, {
   "word" : "in",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1221
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 388
   }
 }, {
   "word" : "inaccur",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "incap",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "incident",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  }
-}, {
-  "word" : "inclin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   }
 }, {
   "word" : "includ",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 13
+  }
+}, {
+  "word" : "incom",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "incomplet",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "increas",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "incred",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "incredul",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "incubu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "inde",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 21
   }
 }, {
   "word" : "indemn",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "indemnifi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "independ",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indescrib",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "indic",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indiffer",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "indirect",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "indirectli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indiscr",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "individu",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   }
 }, {
-  "word" : "indoor",
+  "word" : "indulg",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "inexor",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
-  "word" : "industri",
+  "word" : "inexpressibli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "infam",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "infect",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "influenc",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 8
   }
 }, {
   "word" : "inform",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 8
   }
 }, {
   "word" : "infring",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ingratitud",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ingredi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "inherit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "injuri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "inn",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "innkeep",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   }
 }, {
   "word" : "innoc",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "inquir",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "insect",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
-  "word" : "insid",
+  "word" : "insert",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "insignific",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "insist",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "insol",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
-  "word" : "inspect",
+  "word" : "instal",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "instant",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "instantli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "instead",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  }
+}, {
+  "word" : "instanc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "instruc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   }
 }, {
   "word" : "insult",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   }
 }, {
   "word" : "intellectu",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   }
 }, {
   "word" : "inten",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "intend",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "intent",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "interced",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "interest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "intern",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
   }
 }, {
   "word" : "interpret",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "interrupt",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
-  "word" : "intertwin",
+  "word" : "intim",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "intoler",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  }
+}, {
+  "word" : "introduc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
   }
 }, {
   "word" : "invalid",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  }
+}, {
+  "word" : "investig",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   }
 }, {
   "word" : "invis",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   }
 }, {
   "word" : "invit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "involuntarili",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "ir",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
-  "word" : "iron",
+  "word" : "irresolut",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 26
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "is",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 421
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 467
+  }
+}, {
+  "word" : "isnt",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 9
   }
 }, {
   "word" : "it",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1356
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 607
+  }
+}, {
+  "word" : "itali",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "italian",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "iv",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "ivar",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
   }
 }, {
   "word" : "ibis",
@@ -6869,1494 +6287,6 @@
     "value" : 10
   }
 }, {
-  "word" : "idea",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "identif",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "identifi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "idl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "if",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 183
-  }
-}, {
-  "word" : "ignomini",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ignor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "ii",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "iii",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "il",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "ill",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "illud",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "illustr",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "illustri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "imagin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "imaginari",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "imit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "immedi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "immens",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "imola",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "impart",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "imped",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "imperi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "imperil",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "impetu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "imping",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "impli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "import",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "impos",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "imposs",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "impot",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "impres",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "impress",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "imprison",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "improv",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "imprud",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "impugn",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "impuls",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "imput",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "in",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 982
-  }
-}, {
-  "word" : "inaccur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "incauti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "incens",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "incep",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "incessantli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "incid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "incident",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "incit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inclin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "includ",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "incom",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "incomplet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inconsider",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inconst",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "incontrovert",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "increas",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "incredul",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "incur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "indebt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "indemn",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "indemnifi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "indic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "indiffer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "indign",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "indirect",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "indirectli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "individu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "induc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "induct",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "indulg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "industri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "inevit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inexperi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inexperienc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inextric",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "infam",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "infami",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "infant",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "infantri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 32
-  }
-}, {
-  "word" : "infantrymen",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "infel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "infer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "inferior",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "inferno",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "infidel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "infinit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "inflict",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "influenc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "inform",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "infring",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inganni",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ingratitud",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "inhabit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "inher",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inherit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inhuman",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "iniqu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "initi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "injur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 20
-  }
-}, {
-  "word" : "injuri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "innov",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "inordin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inquir",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "inquiri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "insecur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "insid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "insight",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "insignific",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "insist",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "insol",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "insomuch",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "inspir",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "instanc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "institu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "instruc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "instrument",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "insuffici",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "insult",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "insurg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "insurrec",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "integr",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "intellect",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "intellectu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "intellig",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inten",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "intend",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "intercept",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "interest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "interf",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "interfer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "intern",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "interpret",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "interv",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "interven",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "intim",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "intoler",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "intorno",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "intox",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "intrigu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "introduc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "invad",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "invalid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "invari",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "invasion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "invent",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "invest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "invit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "involv",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inwardli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ionia",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ir",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "irresolut",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "irrevoc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "is",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 217
-  }
-}, {
-  "word" : "israel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "issu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "istori",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "it",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 636
-  }
-}, {
-  "word" : "itali",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 58
-  }
-}, {
-  "word" : "italia",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "italian",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 19
-  }
-}, {
-  "word" : "italici",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "iv",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ix",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "ibsen",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "ic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ici",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "idea",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "identif",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "identifi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "idli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "if",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 115
-  }
-}, {
-  "word" : "ignor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ii",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "iii",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ill",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "im",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "imagin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "impetu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "impli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "import",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "impos",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "imposs",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 19
-  }
-}, {
-  "word" : "imprud",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "in",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 388
-  }
-}, {
-  "word" : "inaccur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "incap",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "incident",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "includ",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "incom",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "incomplet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "increas",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "incred",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "incredul",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "incubu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inde",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 21
-  }
-}, {
-  "word" : "indemn",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "indemnifi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "independ",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "indescrib",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "indic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "indiffer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "indirect",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "indirectli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "indiscr",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "individu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "indulg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "inexor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inexpressibli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "infam",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "infect",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "influenc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "inform",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "infring",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inherit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "innoc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inquir",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "insert",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "insignific",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "insist",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "instal",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "instanc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "instruc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "insult",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "intellectu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "inten",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "intent",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "interced",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "interest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "intern",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "interpret",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "interrupt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "intim",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "intoler",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "introduc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "invalid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "investig",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "invis",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "invit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ir",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "irresolut",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "is",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 467
-  }
-}, {
-  "word" : "isnt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "it",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 607
-  }
-}, {
-  "word" : "itali",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "italian",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "iv",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ivar",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  }
-}, {
   "word" : "id",
   "pair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -8875,616 +6805,601 @@
 }, {
   "word" : "ic",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "id",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 4
   }
 }, {
   "word" : "idea",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 34
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 25
+  }
+}, {
+  "word" : "ideal",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 2
   }
 }, {
   "word" : "ident",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 5
   }
 }, {
   "word" : "identif",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }
 }, {
   "word" : "identifi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 4
   }
 }, {
   "word" : "idiot",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 9
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "idl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "idler",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
   }
 }, {
   "word" : "if",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 422
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 274
   }
 }, {
   "word" : "ignor",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 8
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 6
   }
 }, {
-  "word" : "ignorantest",
+  "word" : "ignotum",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }
 }, {
   "word" : "ii",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 3
   }
 }, {
   "word" : "iii",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 3
   }
 }, {
-  "word" : "ik",
+  "word" : "ill",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 32
+  }
+}, {
+  "word" : "illeg",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 2
   }
 }, {
-  "word" : "illinoi",
+  "word" : "illumin",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 15
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
   }
 }, {
   "word" : "illustr",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }
 }, {
   "word" : "illustri",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }
 }, {
   "word" : "im",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 4
   }
 }, {
   "word" : "imagin",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 32
   }
 }, {
-  "word" : "imaginari",
+  "word" : "imbecil",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "imbed",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }
 }, {
   "word" : "imit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 2
   }
 }, {
-  "word" : "immort",
+  "word" : "immedi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "immens",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 13
+  }
+}, {
+  "word" : "immin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }
 }, {
-  "word" : "impair",
+  "word" : "impass",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }
 }, {
   "word" : "impati",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "impend",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }
 }, {
-  "word" : "imper",
+  "word" : "imperi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "imperil",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "imperson",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "impertin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "imperturb",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "impetu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "implac",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }
 }, {
   "word" : "impli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "implic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "implicit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "implor",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 5
   }
 }, {
   "word" : "import",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 39
   }
 }, {
   "word" : "impos",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 2
   }
 }, {
-  "word" : "impostor",
+  "word" : "imposs",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 15
   }
 }, {
-  "word" : "impud",
+  "word" : "impres",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 19
+  }
+}, {
+  "word" : "impress",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "imprison",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "improb",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "improv",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "imprud",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "impuls",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "impun",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 3
   }
 }, {
   "word" : "in",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1515
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1822
   }
 }, {
   "word" : "inaccur",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "inadequ",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "inarticul",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "incalcul",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "incap",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "incarn",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "incep",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }
 }, {
   "word" : "inch",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 8
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "incid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 14
   }
 }, {
   "word" : "incident",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
+  }
+}, {
+  "word" : "incis",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "incit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "inclin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 6
   }
 }, {
   "word" : "includ",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 16
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 15
+  }
+}, {
+  "word" : "incognito",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "incoher",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "incom",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 6
   }
 }, {
   "word" : "incomplet",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "inconsequenti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "inconveni",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "incorrig",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }
 }, {
   "word" : "increas",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "incred",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "incredul",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "incrimin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }
 }, {
   "word" : "inde",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 62
   }
 }, {
-  "word" : "indeedi",
+  "word" : "indebt",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 3
   }
 }, {
   "word" : "indemn",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }
 }, {
   "word" : "indemnifi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "indent",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }
 }, {
   "word" : "independ",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "index",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "india",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 5
   }
 }, {
   "word" : "indian",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 6
   }
 }, {
   "word" : "indic",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 12
   }
 }, {
   "word" : "indiffer",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }
 }, {
   "word" : "indign",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 2
   }
 }, {
   "word" : "indirect",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 2
   }
 }, {
   "word" : "indirectli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "indiscr",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indiscreetli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indisposi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indistinguish",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }
 }, {
   "word" : "individu",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "infant",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "infern",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "inform",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "infring",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ingeni",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ingot",
-  "pair" : {
-   \\RIW-proiec\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "initi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "injun",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "injur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ink",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "innerd",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "innoc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "innocentest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inquir",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "inscrip",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "inshor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "insid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 17
-  }
-}, {
-  "word" : "instanc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "instinct",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "instruct",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "insurrec",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "int",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "intellectu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "intellectur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "intend",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "interest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "interfer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "interior",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "intern",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "internet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "interpret",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "interrup",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "intox",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "intrust",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "inv",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "invalid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "invect",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "invent",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "invest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "investig",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "invit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "ir",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "irish",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "iron",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "irreligi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "irrig",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "is",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 347
-  }
-}, {
-  "word" : "islan",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "island",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 50
-  }
-}, {
-  "word" : "issu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "it",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2588
-  }
-}, {
-  "word" : "itch",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 8
   }
 }, {
-  "word" : "iv",
+  "word" : "indoor",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 3
   }
 }, {
-  "word" : "ix",
+  "word" : "induc",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 2
   }
-} ]t",
+}, {
+  "word" : "indulg",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 4
   }
 }, {
@@ -10181,6 +8096,1302 @@
   "word" : "ix",
   "pair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "ici",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "id",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "idea",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "ideal",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "identif",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "identifi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "idiot",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "idl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "if",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 100
+  }
+}, {
+  "word" : "ignor",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "ii",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "iii",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "ill",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 14
+  }
+}, {
+  "word" : "im",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 14
+  }
+}, {
+  "word" : "imagin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "immateri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "immedi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "immens",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "immer",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "immoder",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "immor",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "impati",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "impetu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "impli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "import",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 18
+  }
+}, {
+  "word" : "impos",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "imposs",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "impres",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "improb",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "improp",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "improv",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "in",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 365
+  }
+}, {
+  "word" : "inaccur",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "inattent",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "incid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "incident",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "includ",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 14
+  }
+}, {
+  "word" : "incom",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "incompar",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "incomplet",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "incomprehens",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "inconveni",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "increas",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "inde",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 22
+  }
+}, {
+  "word" : "indecor",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indemn",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indemnifi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indian",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indiffer",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "indiges",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indign",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "indignantli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "indirect",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indirectli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indiscr",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "individu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "induc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "inexcus",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "inexperienc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "infant",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "infinit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "influenc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "inform",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 15
+  }
+}, {
+  "word" : "infring",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "initi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "injuri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "innoc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "inquiri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "inquiringli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "inquisit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "inscrip",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "insid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "insist",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "inspec",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "inspect",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "inspir",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "instanc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "instinct",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "insuper",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "intellectu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "inten",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "intend",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "inter",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "interest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "interf",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "interfer",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "intern",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "interpos",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "interpret",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "interrupt",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "intim",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "introduc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "intrud",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "invalid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "invalu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "invari",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "invent",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "invest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "investig",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "invit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "involuntari",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "ir",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "iren",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "irreligi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "irresist",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "irretriev",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "irrevoc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "irrit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "is",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 429
+  }
+}, {
+  "word" : "isnt",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "iso",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "it",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 298
+  }
+}, {
+  "word" : "iv",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "ic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "idea",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 34
+  }
+}, {
+  "word" : "ident",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "identif",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "identifi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "idiot",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "if",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 422
+  }
+}, {
+  "word" : "ignor",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "ignorantest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "ii",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "iii",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "ik",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "illinoi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 15
+  }
+}, {
+  "word" : "illustr",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "illustri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "im",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "imagin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "imaginari",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "imit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "immort",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "impair",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "impati",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "imper",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "impli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "import",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "impos",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "impostor",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "impud",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "in",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1515
+  }
+}, {
+  "word" : "inaccur",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "inch",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "incident",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "includ",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 16
+  }
+}, {
+  "word" : "incomplet",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "increas",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "inde",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indeedi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "indemn",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indemnifi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indent",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "independ",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indian",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "indic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indiffer",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indign",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indirect",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "indirectli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "individu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "infant",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "infern",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "inform",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "infring",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "ingeni",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "ingot",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "initi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "injun",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 12
+  }
+}, {
+  "word" : "injur",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "ink",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "innerd",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "innoc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "innocentest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "inquir",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "inscrip",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "inshor",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "insid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 17
+  }
+}, {
+  "word" : "instanc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "instinct",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "instruct",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "insurrec",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "int",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "intellectu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "intellectur",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "intend",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "interest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "interfer",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "interior",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "intern",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "internet",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "interpret",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "interrup",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "intox",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "intrust",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "inv",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "invalid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "invect",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "invent",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "invest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "investig",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "invit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "ir",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "irish",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "iron",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 12
+  }
+}, {
+  "word" : "irreligi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "irrig",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "is",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 347
+  }
+}, {
+  "word" : "islan",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "island",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 50
+  }
+}, {
+  "word" : "issu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "it",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2588
+  }
+}, {
+  "word" : "itch",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "iv",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "ix",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 2
   }
 } ]

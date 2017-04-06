@@ -641,2214 +641,6 @@
     "value" : 2
   }
 }, {
-  "word" : "cake",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "calcul",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "calico",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "call",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 85
-  }
-}, {
-  "word" : "calm",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "calmli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cambric",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cambridg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "camp",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "can",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 199
-  }
-}, {
-  "word" : "candid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "candour",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "canva",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "canvass",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "capabl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  }
-}, {
-  "word" : "capac",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "caper",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "capit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "capric",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "captain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "captiv",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "card",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  }
-}, {
-  "word" : "care",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 50
-  }
-}, {
-  "word" : "carefulli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "careless",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "carolin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  }
-}, {
-  "word" : "carpet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "carri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  }
-}, {
-  "word" : "carriag",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 50
-  }
-}, {
-  "word" : "carter",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "carv",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "case",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 38
-  }
-}, {
-  "word" : "cassino",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cast",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "casual",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "catch",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "catherin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 126
-  }
-}, {
-  "word" : "caught",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "caus",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "caution",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "cautiou",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "cautious",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ceas",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "ceaseless",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "celebr",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "celer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "censur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "cent",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ceremoni",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "certain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 51
-  }
-}, {
-  "word" : "certainli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 67
-  }
-}, {
-  "word" : "certainti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "cessat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chagrin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chair",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "chais",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "challeng",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chamber",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "chamberlayn",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chambermaid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "chanc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 20
-  }
-}, {
-  "word" : "chang",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 37
-  }
-}, {
-  "word" : "chaperon",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chapter",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 61
-  }
-}, {
-  "word" : "charact",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 68
-  }
-}, {
-  "word" : "character",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "characterist",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "charg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "charit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chariti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "charl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "charlott",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 85
-  }
-}, {
-  "word" : "charm",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 30
-  }
-}, {
-  "word" : "charmingli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "chatsworth",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chatti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cheap",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cheapsid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cheat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "check",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "cheek",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "cheer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "cheerfulli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cherish",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "chestnut",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chicken",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chief",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "chiefli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "child",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "childhood",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "children",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 25
-  }
-}, {
-  "word" : "chimnei",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "china",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "choic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  }
-}, {
-  "word" : "choos",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 29
-  }
-}, {
-  "word" : "chose",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "chosen",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "christen",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "christian",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "christma",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "church",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "circl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "circuit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "circul",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "circumspec",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "circumspect",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "circumst",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 47
-  }
-}, {
-  "word" : "citi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "civil",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 67
-  }
-}, {
-  "word" : "civilli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "claim",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  }
-}, {
-  "word" : "clamor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clapham",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "clark",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "class",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cleans",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clear",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "clearer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clement",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clergi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clergyman",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "cleric",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clerk",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clever",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "clock",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "close",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "closer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "closest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "closet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "closur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cloth",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "cloud",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clue",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clump",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cluster",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "coach",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "coachman",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "coars",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "coat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "coax",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "code",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "coffe",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "cogent",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "coher",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "coincid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "cold",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
-  }
-}, {
-  "word" : "colder",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "coldli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "collec",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "collect",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "collin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 180
-  }
-}, {
-  "word" : "collins",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "colonel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 66
-  }
-}, {
-  "word" : "colour",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
-  }
-}, {
-  "word" : "combat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "come",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 165
-  }
-}, {
-  "word" : "comfort",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 50
-  }
-}, {
-  "word" : "comfortless",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "command",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "commenc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "commend",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "commerc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "commerci",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "commis",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "commiser",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "commit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "common",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
-  }
-}, {
-  "word" : "commonest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "commonli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "commun",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 20
-  }
-}, {
-  "word" : "compani",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 22
-  }
-}, {
-  "word" : "companion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 23
-  }
-}, {
-  "word" : "compar",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "comparison",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "compas",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "compass",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "compassion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "compat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "compens",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "competi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "compil",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "complac",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "complain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "complaint",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "complais",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "complet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  }
-}, {
-  "word" : "completion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "complexion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "compli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
-  }
-}, {
-  "word" : "complianc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "complim",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 41
-  }
-}, {
-  "word" : "compos",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "composedli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "composi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "composur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "comprehen",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "comprehend",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 23
-  }
-}, {
-  "word" : "compress",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "compris",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "compromis",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "comput",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "conceal",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
-  }
-}, {
-  "word" : "conceit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "conceiv",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "concep",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "concept",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "concern",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 59
-  }
-}, {
-  "word" : "concerto",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "concili",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "conciliatori",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "concis",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "conclud",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "conclusion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "concurr",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "condemn",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "condescen",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "condescend",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "condescendingli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "condition",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "condol",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "conduct",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 25
-  }
-}, {
-  "word" : "confederaci",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "confer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "confes",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "confess",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 20
-  }
-}, {
-  "word" : "confid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  }
-}, {
-  "word" : "confidant",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "confidenti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "confin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "confirm",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "confus",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "confusion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "congeni",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "congratul",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 22
-  }
-}, {
-  "word" : "congratulatori",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "conjectur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  }
-}, {
-  "word" : "conjug",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "conjunc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "connec",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 38
-  }
-}, {
-  "word" : "connect",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "conniv",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "connubi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "conquer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "conquest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "conscienc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "conscienti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "consciou",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "conscious",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "consent",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "consequ",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 43
-  }
-}, {
-  "word" : "consequenti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "consid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 70
-  }
-}, {
-  "word" : "consider",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 29
-  }
-}, {
-  "word" : "consign",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "consist",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "consol",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
-  }
-}, {
-  "word" : "consolatori",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "constanc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "constant",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "constantli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "constern",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "constitu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "constitut",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "constrain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "constru",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "construc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "consult",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "contact",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "contain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  }
-}, {
-  "word" : "contempl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "contempt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "contemptu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "content",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  }
-}, {
-  "word" : "continu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 74
-  }
-}, {
-  "word" : "contract",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "contradic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "contradict",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "contrari",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "contrarieti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "contrariw",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "contrast",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "contribu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "contribut",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "contriv",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "controvert",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "convei",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "conveni",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "convers",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 71
-  }
-}, {
-  "word" : "convert",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "convic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "convinc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 44
-  }
-}, {
-  "word" : "cook",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "cool",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "coolli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "copi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 26
-  }
-}, {
-  "word" : "coppic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cops",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "copyright",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "coquetri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cordial",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "corner",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "corp",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "corpor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "correct",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "correspond",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "corrobor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "corrup",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "corrupt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cost",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "cottag",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cough",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "could",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 474
-  }
-}, {
-  "word" : "count",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "counten",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 30
-  }
-}, {
-  "word" : "counteract",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "counterbal",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "counterpart",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "counti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "countri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 44
-  }
-}, {
-  "word" : "coupl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "courag",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "courier",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cours",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 50
-  }
-}, {
-  "word" : "court",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "courteou",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "courtesi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "courtier",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "courtship",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cousin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 60
-  }
-}, {
-  "word" : "cover",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "covi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cow",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cradl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cram",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "crayon",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "creat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "creation",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "creativ",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "creatur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  }
-}, {
-  "word" : "credit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 31
-  }
-}, {
-  "word" : "creditor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 91
-  }
-}, {
-  "word" : "critic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "cross",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "crowd",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "crown",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cruel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "cruelli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "cruelti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "crush",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cry",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "cucumb",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "culprit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cultiv",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cun",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cup",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cure",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "curios",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
-  }
-}, {
-  "word" : "curiou",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "current",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "curricl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "curtail",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "curtain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "curtsei",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "custodi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "custom",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cut",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }
-}, {
   "word" : "cackl",
   "pair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -4043,6039 +1835,2751 @@
     "value" : 6
   }
 }, {
-  "word" : "cabin",
+  "word" : "ca",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "cabinet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "cabriolet",
+  "word" : "cadet",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cadenc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "caesar",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "caitiff",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "cake",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "calam",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "calcul",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 5
   }
 }, {
   "word" : "call",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 41
-  }
-}, {
-  "word" : "callou",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "calm",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 26
-  }
-}, {
-  "word" : "calmer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "calmli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "campagn",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "can",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 50
-  }
-}, {
-  "word" : "candl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "candour",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "canopi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "canst",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "canvass",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "capabl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "capac",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "capaci",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cape",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "capitul",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "capric",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "captain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "captiv",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "card",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "care",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 27
-  }
-}, {
-  "word" : "career",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "carefulli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "careless",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "carelessli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "caress",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "carnag",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "carolin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "carpet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "carri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 15
-  }
-}, {
-  "word" : "carriag",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "case",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "casem",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cast",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "castl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "casualti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "catalogu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cataract",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "catastroph",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "catch",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cathol",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "caught",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "caus",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 44
-  }
-}, {
-  "word" : "causat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "caution",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cave",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "ceas",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 20
-  }
-}, {
-  "word" : "celebr",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "celesti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "cell",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cemeteri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ceni",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "centr",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "centuri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "ceremoni",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "certainli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "certainti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "chain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "chair",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "chais",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chamber",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "chamoi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "chamounix",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "chanc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "chang",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 43
-  }
-}, {
-  "word" : "changeabl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "channel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chapter",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 24
-  }
-}, {
-  "word" : "charact",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "character",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "characterist",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "charg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 19
-  }
-}, {
-  "word" : "charit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chariti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "charl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "charm",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "charnel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "chase",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "chasm",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chasten",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chastis",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chatter",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cheat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "check",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "cheek",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "cheer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 20
-  }
-}, {
-  "word" : "cheerfulli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "chees",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "chemic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "chemist",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "chemistri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "chene",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cherish",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "cherub",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chief",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "chiefli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "child",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 35
-  }
-}, {
-  "word" : "childhood",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "childish",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "childless",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "children",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 19
-  }
-}, {
-  "word" : "chill",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "chilli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chimer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chimera",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "chimnei",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "chink",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "chivalr",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chivalri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "choic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "choicest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "choke",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "choos",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "chord",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "chosen",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "christi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "christian",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "church",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "churchyard",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "circl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "circul",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "circumst",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 24
-  }
-}, {
-  "word" : "circumstanti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "citadel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "citi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "civil",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clad",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clai",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "claim",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "clap",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "clasp",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "class",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "classif",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clean",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "clear",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 15
-  }
-}, {
-  "word" : "clemenc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clerval",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 59
-  }
-}, {
-  "word" : "clever",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cliff",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "climat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "climb",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clime",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cling",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "cloak",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "clock",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "close",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 25
-  }
-}, {
-  "word" : "closer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "closest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cloth",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "cloud",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 26
-  }
-}, {
-  "word" : "cloudi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cloudless",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "clue",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "clump",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clung",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "coach",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "coars",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "coarser",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "coarsest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "coast",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "code",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "coffin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "coincid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cold",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 32
-  }
-}, {
-  "word" : "coleridg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "colleagu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "collec",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "collect",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 19
-  }
-}, {
-  "word" : "colleg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "cologn",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "colon",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "colour",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "combat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "combin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "combust",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "come",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 36
   }
 }, {
-  "word" : "comfort",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "comfortless",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "command",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "commenc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 26
-  }
-}, {
-  "word" : "comment",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "commerc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "commerci",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "commis",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "commiser",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "commit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 17
-  }
-}, {
-  "word" : "common",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "commun",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "communion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "como",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "compact",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "compani",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "companion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 42
-  }
-}, {
-  "word" : "companionship",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "compar",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "compas",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "compass",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "compassion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "compens",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "compet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "compil",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "complac",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "complain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "complaint",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "complet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "completion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "complex",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "complexion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "compli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 18
-  }
-}, {
-  "word" : "complianc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "compos",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "composur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "comprehend",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "comprehens",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "compress",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "compris",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "comput",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "comrad",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "conceal",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "conced",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "conceit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "conceiv",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 23
-  }
-}, {
-  "word" : "concentr",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "concep",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "concept",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "concern",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "concert",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "concili",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "conclud",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "conclusion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "concus",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "condemn",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 15
-  }
-}, {
-  "word" : "condescen",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "condition",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "conduc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "conduct",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "conductor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "confer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "confes",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "confess",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 15
-  }
-}, {
-  "word" : "confessor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "confid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "confidenti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "confin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "confirm",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "confisc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "conflagr",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "conflict",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "conform",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "confus",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "confusedli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "confusion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "congeal",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "congeni",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "congratulatori",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "congreg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "conjectur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "conjur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "connec",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "connect",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "conquer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "conscienc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "consciou",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "conscious",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "consecr",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "consent",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 17
-  }
-}, {
-  "word" : "consequ",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "consequenti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "consid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 20
-  }
-}, {
-  "word" : "consider",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 21
-  }
-}, {
-  "word" : "consist",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "consol",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 28
-  }
-}, {
-  "word" : "constant",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "constantinopl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "constantli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "constern",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "constrain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "constru",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "construct",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "consult",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "consum",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "consumm",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "consump",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "contact",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "contain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "contempl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "contempt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "conten",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "content",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 15
-  }
-}, {
-  "word" : "contest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "continu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 68
-  }
-}, {
-  "word" : "contor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "contract",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "contradictori",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "contrari",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "contrast",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "contribu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "contribut",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "contriv",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "control",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "contum",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "convalesc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "convei",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "conveni",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "convent",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "convers",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 29
-  }
-}, {
-  "word" : "convert",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "convic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "convict",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "convinc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "convul",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "convuls",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cook",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cool",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "coop",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cope",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "copet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "copi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 26
-  }
-}, {
-  "word" : "copyright",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "cord",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cordial",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "core",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "corneliu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "corner",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "corpor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "corps",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "correct",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "correspond",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "corrup",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "corrupt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cost",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "cot",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cottag",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 80
-  }
-}, {
-  "word" : "could",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 164
-  }
-}, {
-  "word" : "counsel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "counsellor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "counten",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 48
-  }
-}, {
-  "word" : "countless",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "countri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 60
-  }
-}, {
-  "word" : "countryman",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "countrymen",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "coupar",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "courag",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 19
-  }
-}, {
-  "word" : "cours",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "court",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "courtyard",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cousin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 26
-  }
-}, {
-  "word" : "cover",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 20
-  }
-}, {
-  "word" : "covet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cow",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "coward",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cowardic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "crack",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "crag",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cramp",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "crash",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "crave",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "crawl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "creak",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "creat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 30
-  }
-}, {
-  "word" : "creation",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 22
-  }
-}, {
-  "word" : "creator",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 21
-  }
-}, {
-  "word" : "creatur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 69
-  }
-}, {
-  "word" : "credit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "creek",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "crept",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "crevic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "crew",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 17
-  }
-}, {
-  "word" : "crime",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 29
-  }
-}, {
-  "word" : "crimin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "critic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "croak",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cross",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "crowd",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "crown",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "crucibl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cruel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "cruellest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cruelli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cruelti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "crush",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "cry",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cull",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cultiv",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "cumberland",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "cup",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "curb",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "curdl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cure",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "curios",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 15
-  }
-}, {
-  "word" : "curiou",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "curious",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "curl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "current",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "curs",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 20
-  }
-}, {
-  "word" : "cursori",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "curtain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "custom",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "cut",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "cypress",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cabin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cabinet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cachet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cadaver",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cadenc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cage",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "calai",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "calam",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "calcul",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "caldron",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "calendar",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "call",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 98
-  }
-}, {
   "word" : "calm",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 14
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "calmli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
-  "word" : "cambridg",
+  "word" : "came",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 44
+  }
+}, {
+  "word" : "camel",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
+  }
+}, {
+  "word" : "camp",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 15
+  }
+}, {
+  "word" : "campfir",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "can",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 136
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 127
   }
 }, {
-  "word" : "canada",
+  "word" : "cancer",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "candl",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 12
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 32
   }
 }, {
   "word" : "cane",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cannib",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "cannon",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "cannoni",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }
 }, {
-  "word" : "canonis",
+  "word" : "canvass",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "canter",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "canva",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "cap",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 35
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "capabl",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "capac",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "capit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "capitul",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }
-}, {
-  "word" : "caprici",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
   }
 }, {
   "word" : "captain",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }
 }, {
   "word" : "captiv",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 11
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 7
   }
 }, {
   "word" : "captur",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 10
   }
 }, {
   "word" : "car",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "carcas",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "card",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 21
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cardiff",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 9
   }
 }, {
   "word" : "care",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 53
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 29
   }
 }, {
   "word" : "career",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "carefulli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 9
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
   }
 }, {
   "word" : "careless",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 9
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "carelessli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "caress",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
-  "word" : "caressingli",
+  "word" : "cargo",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "caricatur",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "carmagnol",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "carnag",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "carol",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "carous",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "carpent",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "carpet",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "carri",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 63
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 23
   }
 }, {
   "word" : "carriag",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 59
-  }
-}, {
-  "word" : "carrion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cart",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "carton",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 157
-  }
-}, {
-  "word" : "cartridg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "carv",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "carver",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "case",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 52
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 6
   }
 }, {
-  "word" : "casem",
+  "word" : "cash",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "cashier",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }
-}, {
-  "word" : "cask",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
   }
 }, {
   "word" : "cast",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 20
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 8
   }
 }, {
   "word" : "casual",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "cat",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 31
   }
 }, {
-  "word" : "catalept",
+  "word" : "catastroph",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "catbird",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "catch",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 11
   }
 }, {
-  "word" : "catechist",
+  "word" : "caterwaul",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "catfish",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "cathedr",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
-  "word" : "cattl",
+  "word" : "catlik",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "caught",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 19
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 9
   }
 }, {
   "word" : "caus",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 30
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "caution",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cautionari",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
   }
 }, {
   "word" : "cautiou",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "cautious",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 10
   }
 }, {
-  "word" : "cavalcad",
+  "word" : "cave",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cavali",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cavalri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 48
   }
 }, {
   "word" : "cavern",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 7
   }
 }, {
   "word" : "ceas",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 15
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 12
+  }
+}, {
+  "word" : "ceaseless",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "ceil",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "celebr",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "celesti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "cell",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 18
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "cellar",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "cemeteri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cent",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "center",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "centr",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "central",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "centuri",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "ceremoni",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
-  "word" : "certain",
+  "word" : "cert",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 31
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "certainli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "certainti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "certif",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "cessat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 3
   }
 }, {
-  "word" : "cesspool",
+  "word" : "certifi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
+  }
+}, {
+  "word" : "ch",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "chafe",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "chaff",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "chain",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 14
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "chair",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 43
-  }
-}, {
-  "word" : "chais",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chaldean",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 7
   }
 }, {
   "word" : "chalk",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "challeng",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "chamber",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 21
-  }
-}, {
-  "word" : "champ",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "chanc",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 19
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 22
   }
 }, {
   "word" : "chang",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 63
-  }
-}, {
-  "word" : "changeless",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "changingli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 11
   }
 }, {
   "word" : "channel",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "chao",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "chap",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 6
   }
 }, {
   "word" : "chapter",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 45
-  }
-}, {
-  "word" : "char",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 72
   }
 }, {
   "word" : "charact",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 22
-  }
-}, {
-  "word" : "character",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "characteris",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 6
   }
 }, {
   "word" : "characterist",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "charcoal",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "charg",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 27
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 10
   }
 }, {
-  "word" : "charger",
+  "word" : "charili",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chari",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chariot",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "charit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "chariti",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
-  }
-}, {
-  "word" : "charl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 103
   }
 }, {
   "word" : "charm",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 12
   }
 }, {
-  "word" : "charmingli",
+  "word" : "charter",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "chase",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 8
   }
 }, {
-  "word" : "chast",
+  "word" : "chasm",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "chat",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "chateau",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 28
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
   }
 }, {
   "word" : "chatter",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "chaw",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "cheapest",
+  "word" : "cheapen",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }
-}, {
-  "word" : "cheat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
   }
 }, {
   "word" : "check",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 16
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 6
   }
 }, {
   "word" : "cheek",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "cheekbon",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
   }
 }, {
   "word" : "cheer",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "cheerfulli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 9
   }
 }, {
   "word" : "cheeri",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "chees",
+  "word" : "cheerili",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "chemist",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "chequ",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cherish",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "chest",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "chestnut",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "chew",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "chicken",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "chief",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 13
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "chiefest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "child",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 94
-  }
-}, {
-  "word" : "childhood",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 17
   }
 }, {
   "word" : "children",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 23
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 28
   }
 }, {
   "word" : "chill",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 3
+  }
+}, {
+  "word" : "chilli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "chillier",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chime",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "chimnei",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 10
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "chin",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "chink",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "chip",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chisel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }
 }, {
-  "word" : "chivalr",
+  "word" : "chirp",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chocol",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 11
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "choic",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "choir",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
   }
 }, {
   "word" : "choke",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "choos",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "chop",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chopper",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chord",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "choru",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
+  }
+}, {
+  "word" : "chose",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "chosen",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "chous",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "christian",
+  "word" : "chow",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 7
   }
 }, {
-  "word" : "christma",
+  "word" : "christ",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "chronic",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "chronicl",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "chubbi",
+  "word" : "chuckl",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "chum",
+  "word" : "chunk",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
   }
 }, {
   "word" : "church",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 20
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 32
   }
 }, {
-  "word" : "churchyard",
+  "word" : "cigar",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 3
   }
 }, {
-  "word" : "cinder",
+  "word" : "cipher",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cinderella",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "circl",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
-  "word" : "circuit",
+  "word" : "circu",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 11
   }
 }, {
   "word" : "circul",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "circumfer",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "circumst",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 31
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 10
   }
 }, {
   "word" : "circumstanti",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
-  "word" : "circumw",
+  "word" : "circus",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "citi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 45
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
-  "word" : "citiz",
+  "word" : "citifi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 13
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "citizen",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 66
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 9
   }
 }, {
   "word" : "civil",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "clad",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "clai",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 10
   }
 }, {
   "word" : "claim",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 10
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
   }
 }, {
   "word" : "clammi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "clamor",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "clamp",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clandestin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "clang",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }
 }, {
   "word" : "clap",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "claptrap",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "claret",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clash",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "clasp",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 17
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
   }
 }, {
   "word" : "class",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 8
   }
 }, {
   "word" : "clatter",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "claw",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "clean",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 9
   }
 }, {
-  "word" : "cleaner",
+  "word" : "cleancut",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cleanli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "clear",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 22
-  }
-}, {
-  "word" : "clearanc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 9
   }
 }, {
   "word" : "clearer",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "clearli",
+  "word" : "clemen",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "clemenc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clench",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 4
   }
 }, {
-  "word" : "clergi",
+  "word" : "clergyman",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "clerk",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 14
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
-  "word" : "clerkenwel",
+  "word" : "clew",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 3
   }
 }, {
   "word" : "client",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "cliff",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
-  }
-}, {
-  "word" : "climat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
   }
 }, {
   "word" : "climax",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "climb",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 14
   }
 }, {
   "word" : "cling",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "clink",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "cloak",
+  "word" : "clip",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "clock",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 31
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 12
+  }
+}, {
+  "word" : "clod",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "close",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 100
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 42
   }
 }, {
   "word" : "closer",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 11
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "closest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "closet",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 6
   }
 }, {
   "word" : "cloth",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 23
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 25
   }
 }, {
   "word" : "cloud",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 19
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 6
   }
 }, {
   "word" : "cloudi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cloudrack",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "clumsi",
+  "word" : "clown",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 3
   }
 }, {
-  "word" : "clumsili",
+  "word" : "clump",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "clung",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cluster",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "clutch",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "cly",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "co",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "coach",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 58
-  }
-}, {
-  "word" : "coachman",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 9
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "coal",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "coars",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "coarsest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "coast",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "coat",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 18
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "coax",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cob",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cobweb",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "cock",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "cockad",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "code",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "codger",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "coercion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "coffe",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 10
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "coffin",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
   }
 }, {
   "word" : "cogit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }
 }, {
-  "word" : "cognac",
+  "word" : "coil",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "coher",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "coin",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 4
-  }
-}, {
-  "word" : "coinag",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "coincid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "coiner",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
   }
 }, {
   "word" : "cold",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 30
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 14
   }
 }, {
   "word" : "coldli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "colicki",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "collar",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 6
   }
 }, {
   "word" : "collec",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
   }
 }, {
   "word" : "collect",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
-  "word" : "collectedli",
+  "word" : "color",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "coloss",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "colt",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }
 }, {
-  "word" : "colleg",
+  "word" : "columbu",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "colonnad",
+  "word" : "column",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }
-}, {
-  "word" : "colour",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 22
   }
 }, {
   "word" : "comb",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "combat",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "combin",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "come",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 221
-  }
-}, {
-  "word" : "comedi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 166
   }
 }, {
   "word" : "comer",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "comet",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "comfort",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 15
-  }
-}, {
-  "word" : "comic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 23
   }
 }, {
   "word" : "command",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "commenc",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "commend",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "comment",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }
 }, {
   "word" : "commerci",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "commis",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "commiser",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "commit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "committ",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "committe",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "common",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 24
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
   }
 }, {
-  "word" : "commonli",
+  "word" : "commonplac",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "commun",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 20
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "compact",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "compani",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 23
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 21
   }
 }, {
   "word" : "companion",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 16
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "companionless",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "companionship",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "compar",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "comparison",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "compas",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 10
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "compass",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "compassion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "compatriot",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "compeer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "compel",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "compens",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "competitor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "compil",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }
-}, {
-  "word" : "complac",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
   }
 }, {
   "word" : "complain",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "complaint",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 3
   }
 }, {
   "word" : "complet",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "completion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 13
   }
 }, {
   "word" : "complexion",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "compli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 16
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 9
   }
 }, {
   "word" : "complianc",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 5
-  }
-}, {
-  "word" : "complic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
   }
 }, {
   "word" : "complim",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "complimentari",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }
-}, {
-  "word" : "comport",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "compos",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "composedli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
   }
 }, {
   "word" : "composi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 8
   }
 }, {
-  "word" : "composur",
+  "word" : "composit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "compound",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "comprehend",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "compres",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }
 }, {
   "word" : "compress",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "comprom",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "compromis",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
-  }
-}, {
-  "word" : "compunc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
   }
 }, {
   "word" : "comput",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 4
   }
 }, {
   "word" : "comrad",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 14
+  }
+}, {
+  "word" : "con",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "conceal",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 10
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "conced",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "conceit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "conceiv",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "concentr",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "concep",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }
 }, {
   "word" : "concept",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
+  }
+}, {
+  "word" : "concern",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 11
   }
 }, {
   "word" : "concert",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }
-}, {
-  "word" : "conces",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "conciergeri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 10
   }
 }, {
   "word" : "conclud",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 3
   }
 }, {
   "word" : "conclusion",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
-  "word" : "concoct",
+  "word" : "condescend",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "concord",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "concours",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "concus",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "condemn",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "condescen",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "condition",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 23
-  }
-}, {
-  "word" : "condol",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "conduc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 6
   }
 }, {
   "word" : "conduct",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "conductor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 6
   }
 }, {
   "word" : "confer",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 17
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "confes",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "confess",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "confid",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 49
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 10
   }
 }, {
   "word" : "confidenti",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "confidingli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }
-}, {
-  "word" : "confin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
   }
 }, {
   "word" : "confirm",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "confisc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "conflagr",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "conflict",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "confound",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "confront",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "confus",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 10
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "confusedli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "confusion",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "congeni",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "congratul",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
-  "word" : "congratulatori",
+  "word" : "congreg",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 7
   }
 }, {
   "word" : "congress",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "conjunc",
+  "word" : "conjectur",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }
-}, {
-  "word" : "conjur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "connec",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
   }
 }, {
   "word" : "connect",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
-  "word" : "conquer",
+  "word" : "conqueror",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "conscienc",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 17
   }
 }, {
   "word" : "consciou",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
   }
 }, {
   "word" : "conscious",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "consecr",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "consent",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 4
   }
 }, {
   "word" : "consequ",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 14
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "consequenti",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "consid",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 23
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 13
   }
 }, {
   "word" : "consider",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 23
-  }
-}, {
-  "word" : "consign",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 11
   }
 }, {
   "word" : "consist",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "consol",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "consolatori",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "consolid",
+  "word" : "consound",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "conspicu",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 8
   }
 }, {
   "word" : "conspir",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "constanc",
+  "word" : "constabl",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "constant",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "constantinopl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "constantli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "constern",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "constitut",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "constrain",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "constraint",
+  "word" : "constru",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "construct",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
-  }
-}, {
-  "word" : "construc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "consult",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
   }
 }, {
   "word" : "consum",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "consump",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "contact",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "contagi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "contagion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "contain",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 5
-  }
-}, {
-  "word" : "contamin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
   }
 }, {
   "word" : "contempl",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "contemporari",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "contempt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 9
   }
 }, {
   "word" : "contemptu",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "conten",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "contend",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "content",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 9
   }
 }, {
-  "word" : "contenti",
+  "word" : "contin",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
-  }
-}, {
-  "word" : "contest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
   }
 }, {
   "word" : "continu",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "contraband",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 14
   }
 }, {
   "word" : "contract",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "contradic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "contradict",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "contradictori",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "contrari",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "contrast",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "contribu",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "contribut",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }
 }, {
   "word" : "contriv",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }
 }, {
   "word" : "control",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "convalesc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "convei",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 9
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "conveni",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "convent",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "convention",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "conver",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "convers",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 24
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "convert",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }
-}, {
-  "word" : "convey",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
   }
 }, {
   "word" : "convic",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "convivi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "convuls",
+  "word" : "convinc",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "convulsionist",
+  "word" : "convul",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "conwei",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "conweni",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "conwic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "cook",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "cool",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
-  "word" : "coolest",
+  "word" : "cooler",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "coolli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
-  "word" : "cope",
+  "word" : "coonvil",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "coosa",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "copi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 25
   }
 }, {
-  "word" : "coppic",
+  "word" : "copper",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "copyright",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 14
-  }
-}, {
-  "word" : "coquetri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "coquett",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cord",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
   }
 }, {
   "word" : "cordial",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "core",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "corkscrew",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "corn",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "corner",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 66
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 16
+  }
+}, {
+  "word" : "coron",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "corpor",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "correc",
+  "word" : "corps",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "correct",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 6
-  }
-}, {
-  "word" : "correctli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "correspond",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "correspondingli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
   }
 }, {
   "word" : "corridor",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "corrobor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "corrup",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 7
   }
 }, {
   "word" : "corrupt",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cosili",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "cost",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 8
   }
 }, {
   "word" : "cottag",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "couch",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }
-}, {
-  "word" : "cough",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 9
   }
 }, {
   "word" : "could",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 234
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 132
   }
 }, {
   "word" : "couldn",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "council",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 22
   }
 }, {
   "word" : "counsel",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 12
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 6
   }
 }, {
   "word" : "counsellor",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "count",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 22
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 7
   }
 }, {
   "word" : "counten",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "counter",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 23
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "counterfeit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "countermin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "counterpan",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "counterpart",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "countersign",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "counterweight",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "counti",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "countless",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "countri",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 42
-  }
-}, {
-  "word" : "countryman",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "countrymen",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 16
   }
 }, {
   "word" : "coupl",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 13
   }
 }, {
   "word" : "courag",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 17
-  }
-}, {
-  "word" : "courier",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "cours",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 21
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 36
   }
 }, {
   "word" : "court",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 55
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 12
   }
 }, {
-  "word" : "courtesi",
+  "word" : "courthous",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "courtli",
+  "word" : "courtroom",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
-  "word" : "courtyard",
+  "word" : "courtship",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 36
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "cousin",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "cover",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 15
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 9
   }
 }, {
-  "word" : "coverlet",
+  "word" : "covet",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }
 }, {
   "word" : "cow",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
-  "word" : "cowardic",
+  "word" : "coward",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cowardli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cowhid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "crack",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 13
   }
 }, {
-  "word" : "cradl",
+  "word" : "cracker",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cracki",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "craft",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
-  "word" : "craftili",
+  "word" : "craggi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }
-}, {
-  "word" : "crag",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
   }
 }, {
   "word" : "cramp",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
-  }
-}, {
-  "word" : "crane",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
   }
 }, {
   "word" : "crash",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "cravat",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "crave",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "craven",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "crawl",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "craze",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "crazi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
-  "word" : "creas",
+  "word" : "creak",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "cream",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
   }
 }, {
   "word" : "creat",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 8
   }
 }, {
   "word" : "creation",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "creator",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }
 }, {
   "word" : "creatur",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 34
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 12
   }
 }, {
-  "word" : "credenti",
+  "word" : "credibl",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "credit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
-  "word" : "creditor",
+  "word" : "credul",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "creep",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "creetur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
   }
 }, {
   "word" : "crept",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "crescent",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "crestfallen",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cretur",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "crevic",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "crew",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "cri",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 61
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "cricket",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "crime",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "crimin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "crimson",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
-  }
-}, {
-  "word" : "cring",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
   }
 }, {
   "word" : "crippl",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "crisi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }
 }, {
   "word" : "crisp",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "crispli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "critic",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
-  "word" : "croak",
+  "word" : "criticis",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "crockeri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "crone",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "crook",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "crookedli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "crop",
+  "word" : "crooked",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "cross",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 27
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 20
   }
 }, {
-  "word" : "crouch",
+  "word" : "crossbon",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "crow",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "crowbar",
+  "word" : "crossroad",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "crossstreet",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "crowd",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 51
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 13
   }
 }, {
   "word" : "crown",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
   }
 }, {
-  "word" : "cruel",
+  "word" : "crucifi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "cruelest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "cruelli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "cruelti",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "crumb",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "crumbl",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "crumpl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "crunch",
+  "word" : "crusad",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cruncher",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 122
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "crush",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "crust",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "cry",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 32
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 30
+  }
+}, {
+  "word" : "crybabi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "crystal",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }
 }, {
-  "word" : "cud",
+  "word" : "cuf",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
   }
 }, {
   "word" : "cuff",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "culinari",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "culmin",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "culpabl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "cultiv",
+  "word" : "culprit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cultur",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "cun",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cunningli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "cup",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
   }
 }, {
   "word" : "cupboard",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
-  "word" : "cupid",
+  "word" : "curdl",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "curat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "cure",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "curios",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 11
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 6
   }
 }, {
   "word" : "curiou",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 16
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 4
   }
 }, {
   "word" : "curious",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 3
   }
 }, {
   "word" : "curl",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 6
   }
 }, {
   "word" : "current",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 8
   }
 }, {
   "word" : "curs",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "curtain",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "curtli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "curtsei",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 3
+  }
+}, {
+  "word" : "curtsi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "curv",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 6
   }
 }, {
-  "word" : "cushion",
+  "word" : "cuss",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "custodi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "custodian",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
   }
 }, {
   "word" : "custom",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 32
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 5
   }
 }, {
   "word" : "customari",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "customarili",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 1
   }
 }, {
   "word" : "cut",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 12
   }
 }, {
   "word" : "cutlass",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
-  "word" : "cutler",
+  "word" : "cuz",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cutter",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
   "word" : "cylind",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 1
   }
 }, {
@@ -13415,6 +7919,4674 @@
     "value" : 17
   }
 }, {
+  "word" : "cake",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "calcul",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "calico",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "call",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 85
+  }
+}, {
+  "word" : "calm",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "calmli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cambric",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cambridg",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "camp",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "can",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 199
+  }
+}, {
+  "word" : "candid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "candour",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "canva",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "canvass",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "capabl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 18
+  }
+}, {
+  "word" : "capac",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "caper",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "capit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "capric",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "captain",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "captiv",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "card",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  }
+}, {
+  "word" : "care",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 50
+  }
+}, {
+  "word" : "carefulli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "careless",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "carolin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  }
+}, {
+  "word" : "carpet",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "carri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 18
+  }
+}, {
+  "word" : "carriag",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 50
+  }
+}, {
+  "word" : "carter",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "carv",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "case",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 38
+  }
+}, {
+  "word" : "cassino",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cast",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "casual",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "catch",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "catherin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 126
+  }
+}, {
+  "word" : "caught",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "caus",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "caution",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "cautiou",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "cautious",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "ceas",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "ceaseless",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "celebr",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "celer",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "censur",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "cent",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "ceremoni",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "certain",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 51
+  }
+}, {
+  "word" : "certainli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 67
+  }
+}, {
+  "word" : "certainti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "cessat",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chagrin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chair",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "chais",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "challeng",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chamber",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "chamberlayn",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chambermaid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "chanc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 20
+  }
+}, {
+  "word" : "chang",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 37
+  }
+}, {
+  "word" : "chaperon",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chapter",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 61
+  }
+}, {
+  "word" : "charact",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 68
+  }
+}, {
+  "word" : "character",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "characterist",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "charg",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  }
+}, {
+  "word" : "charit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chariti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "charl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "charlott",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 85
+  }
+}, {
+  "word" : "charm",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 30
+  }
+}, {
+  "word" : "charmingli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "chatsworth",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chatti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cheap",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cheapsid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cheat",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "check",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
+  }
+}, {
+  "word" : "cheek",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "cheer",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  }
+}, {
+  "word" : "cheerfulli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cherish",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "chestnut",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chicken",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chief",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  }
+}, {
+  "word" : "chiefli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "child",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
+  }
+}, {
+  "word" : "childhood",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "children",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 25
+  }
+}, {
+  "word" : "chimnei",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "china",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "choic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  }
+}, {
+  "word" : "choos",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 29
+  }
+}, {
+  "word" : "chose",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  }
+}, {
+  "word" : "chosen",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "christen",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "christian",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "christma",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "church",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "circl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "circuit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "circul",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "circumspec",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "circumspect",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "circumst",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 47
+  }
+}, {
+  "word" : "citi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "civil",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 67
+  }
+}, {
+  "word" : "civilli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "claim",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  }
+}, {
+  "word" : "clamor",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clapham",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "clark",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "class",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cleans",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clear",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  }
+}, {
+  "word" : "clearer",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clement",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clergi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clergyman",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "cleric",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clerk",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clever",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "clock",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "close",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  }
+}, {
+  "word" : "closer",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "closest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "closet",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "closur",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cloth",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
+  }
+}, {
+  "word" : "cloud",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clue",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clump",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cluster",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "coach",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "coachman",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "coars",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "coat",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "coax",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "code",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "coffe",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "cogent",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "coher",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "coincid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "cold",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 19
+  }
+}, {
+  "word" : "colder",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "coldli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "collec",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "collect",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "collin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 180
+  }
+}, {
+  "word" : "collins",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "colonel",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 66
+  }
+}, {
+  "word" : "colour",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 21
+  }
+}, {
+  "word" : "combat",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "come",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 165
+  }
+}, {
+  "word" : "comfort",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 50
+  }
+}, {
+  "word" : "comfortless",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "command",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "commenc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "commend",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  }
+}, {
+  "word" : "commerc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "commerci",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "commis",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "commiser",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "commit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "common",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 19
+  }
+}, {
+  "word" : "commonest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "commonli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "commun",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 20
+  }
+}, {
+  "word" : "compani",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 22
+  }
+}, {
+  "word" : "companion",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 23
+  }
+}, {
+  "word" : "compar",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
+  }
+}, {
+  "word" : "comparison",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
+  }
+}, {
+  "word" : "compas",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
+  }
+}, {
+  "word" : "compass",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "compassion",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "compat",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "compens",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "competi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "compil",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "complac",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "complain",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "complaint",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "complais",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "complet",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  }
+}, {
+  "word" : "completion",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "complexion",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "compli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 19
+  }
+}, {
+  "word" : "complianc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "complim",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 41
+  }
+}, {
+  "word" : "compos",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "composedli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "composi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "composur",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  }
+}, {
+  "word" : "comprehen",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "comprehend",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 23
+  }
+}, {
+  "word" : "compress",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "compris",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "compromis",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "comput",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "conceal",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 24
+  }
+}, {
+  "word" : "conceit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "conceiv",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "concep",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "concept",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "concern",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 59
+  }
+}, {
+  "word" : "concerto",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "concili",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "conciliatori",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "concis",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "conclud",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  }
+}, {
+  "word" : "conclusion",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "concurr",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "condemn",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "condescen",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "condescend",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "condescendingli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "condition",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "condol",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "conduct",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 25
+  }
+}, {
+  "word" : "confederaci",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "confer",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "confes",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "confess",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 20
+  }
+}, {
+  "word" : "confid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 18
+  }
+}, {
+  "word" : "confidant",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "confidenti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "confin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "confirm",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
+  }
+}, {
+  "word" : "confus",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "confusion",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "congeni",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "congratul",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 22
+  }
+}, {
+  "word" : "congratulatori",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "conjectur",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  }
+}, {
+  "word" : "conjug",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "conjunc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "connec",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 38
+  }
+}, {
+  "word" : "connect",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  }
+}, {
+  "word" : "conniv",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "connubi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "conquer",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "conquest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "conscienc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "conscienti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "consciou",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "conscious",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "consent",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  }
+}, {
+  "word" : "consequ",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 43
+  }
+}, {
+  "word" : "consequenti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "consid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 70
+  }
+}, {
+  "word" : "consider",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 29
+  }
+}, {
+  "word" : "consign",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "consist",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "consol",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 24
+  }
+}, {
+  "word" : "consolatori",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "constanc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "constant",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
+  }
+}, {
+  "word" : "constantli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "constern",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "constitu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "constitut",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "constrain",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "constru",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "construc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "consult",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "contact",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "contain",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 18
+  }
+}, {
+  "word" : "contempl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "contempt",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  }
+}, {
+  "word" : "contemptu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "content",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  }
+}, {
+  "word" : "continu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 74
+  }
+}, {
+  "word" : "contract",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "contradic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "contradict",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "contrari",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "contrarieti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "contrariw",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "contrast",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "contribu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "contribut",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "contriv",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "controvert",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "convei",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "conveni",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "convers",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 71
+  }
+}, {
+  "word" : "convert",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "convic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  }
+}, {
+  "word" : "convinc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 44
+  }
+}, {
+  "word" : "cook",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "cool",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "coolli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "copi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 26
+  }
+}, {
+  "word" : "coppic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cops",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "copyright",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
+  }
+}, {
+  "word" : "coquetri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cordial",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "corner",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "corp",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "corpor",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "correct",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "correspond",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "corrobor",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "corrup",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "corrupt",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cost",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "cottag",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cough",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "could",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 474
+  }
+}, {
+  "word" : "count",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "counten",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 30
+  }
+}, {
+  "word" : "counteract",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "counterbal",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "counterpart",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "counti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "countri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 44
+  }
+}, {
+  "word" : "coupl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "courag",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  }
+}, {
+  "word" : "courier",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cours",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 50
+  }
+}, {
+  "word" : "court",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "courteou",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "courtesi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "courtier",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "courtship",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cousin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 60
+  }
+}, {
+  "word" : "cover",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "covi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cow",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cradl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cram",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "crayon",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "creat",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "creation",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "creativ",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "creatur",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  }
+}, {
+  "word" : "credit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 31
+  }
+}, {
+  "word" : "creditor",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 91
+  }
+}, {
+  "word" : "critic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "cross",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "crowd",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "crown",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cruel",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "cruelli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "cruelti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "crush",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cry",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "cucumb",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "culprit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cultiv",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cun",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cup",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cure",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "curios",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 24
+  }
+}, {
+  "word" : "curiou",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "current",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "curricl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "curtail",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "curtain",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "curtsei",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "custodi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "custom",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cut",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cabin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "cabinet",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cabriolet",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cadenc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "caesar",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cake",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "calam",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "calcul",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "call",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 41
+  }
+}, {
+  "word" : "callou",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "calm",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 26
+  }
+}, {
+  "word" : "calmer",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "calmli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "campagn",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "can",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 50
+  }
+}, {
+  "word" : "candl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "candour",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "canopi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "canst",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "canvass",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "capabl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 14
+  }
+}, {
+  "word" : "capac",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "capaci",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cape",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "capitul",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "capric",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "captain",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "captiv",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "card",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "care",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 27
+  }
+}, {
+  "word" : "career",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "carefulli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "careless",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "carelessli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "caress",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "carnag",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "carolin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "carpet",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "carri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 15
+  }
+}, {
+  "word" : "carriag",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "case",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "casem",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cast",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 13
+  }
+}, {
+  "word" : "castl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "casualti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "catalogu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cataract",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "catastroph",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "catch",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cathol",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "caught",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "caus",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 44
+  }
+}, {
+  "word" : "causat",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "caution",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cave",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "ceas",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 20
+  }
+}, {
+  "word" : "celebr",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "celesti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "cell",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cemeteri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "ceni",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "centr",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "centuri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "ceremoni",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "certainli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "certainti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "chain",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "chair",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "chais",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chamber",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "chamoi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "chamounix",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "chanc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "chang",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 43
+  }
+}, {
+  "word" : "changeabl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "channel",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chapter",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 24
+  }
+}, {
+  "word" : "charact",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "character",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "characterist",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "charg",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 19
+  }
+}, {
+  "word" : "charit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chariti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "charl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "charm",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "charnel",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "chase",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "chasm",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chasten",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chastis",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chatter",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cheat",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "check",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "cheek",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 13
+  }
+}, {
+  "word" : "cheer",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 20
+  }
+}, {
+  "word" : "cheerfulli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "chees",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "chemic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "chemist",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "chemistri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "chene",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cherish",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "cherub",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chief",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "chiefli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "child",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 35
+  }
+}, {
+  "word" : "childhood",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "childish",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "childless",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "children",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 19
+  }
+}, {
+  "word" : "chill",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "chilli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chimer",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chimera",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "chimnei",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "chink",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "chivalr",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chivalri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "choic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "choicest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "choke",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "choos",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "chord",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "chosen",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "christi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "christian",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "church",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "churchyard",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "circl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "circul",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "circumst",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 24
+  }
+}, {
+  "word" : "circumstanti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "citadel",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "citi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 13
+  }
+}, {
+  "word" : "civil",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clad",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clai",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "claim",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "clap",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "clasp",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "class",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "classif",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clean",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "clear",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 15
+  }
+}, {
+  "word" : "clemenc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clerval",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 59
+  }
+}, {
+  "word" : "clever",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cliff",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "climat",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "climb",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clime",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cling",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "cloak",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "clock",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "close",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 25
+  }
+}, {
+  "word" : "closer",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "closest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cloth",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "cloud",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 26
+  }
+}, {
+  "word" : "cloudi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cloudless",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "clue",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "clump",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clung",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "coach",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "coars",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "coarser",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "coarsest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "coast",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "code",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "coffin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "coincid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cold",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 32
+  }
+}, {
+  "word" : "coleridg",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "colleagu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "collec",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "collect",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 19
+  }
+}, {
+  "word" : "colleg",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "cologn",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "colon",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "colour",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "combat",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "combin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "combust",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "come",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 36
+  }
+}, {
+  "word" : "comfort",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "comfortless",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "command",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "commenc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 26
+  }
+}, {
+  "word" : "comment",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "commerc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "commerci",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "commis",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "commiser",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "commit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 17
+  }
+}, {
+  "word" : "common",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "commun",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 14
+  }
+}, {
+  "word" : "communion",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "como",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "compact",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "compani",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "companion",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 42
+  }
+}, {
+  "word" : "companionship",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "compar",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "compas",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "compass",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "compassion",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "compens",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "compet",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "compil",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "complac",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "complain",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "complaint",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "complet",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 13
+  }
+}, {
+  "word" : "completion",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "complex",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "complexion",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "compli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 18
+  }
+}, {
+  "word" : "complianc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "compos",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "composur",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "comprehend",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "comprehens",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "compress",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "compris",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "comput",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "comrad",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "conceal",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 14
+  }
+}, {
+  "word" : "conced",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "conceit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "conceiv",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 23
+  }
+}, {
+  "word" : "concentr",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "concep",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "concept",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "concern",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 13
+  }
+}, {
+  "word" : "concert",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "concili",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "conclud",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "conclusion",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "concus",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "condemn",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 15
+  }
+}, {
+  "word" : "condescen",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "condition",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "conduc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "conduct",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 16
+  }
+}, {
+  "word" : "conductor",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "confer",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "confes",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "confess",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 15
+  }
+}, {
+  "word" : "confessor",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "confid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "confidenti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "confin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 12
+  }
+}, {
+  "word" : "confirm",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 13
+  }
+}, {
+  "word" : "confisc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "conflagr",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "conflict",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "conform",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "confus",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "confusedli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "confusion",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "congeal",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "congeni",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "congratulatori",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "congreg",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "conjectur",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 12
+  }
+}, {
+  "word" : "conjur",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "connec",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "connect",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "conquer",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "conscienc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "consciou",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "conscious",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "consecr",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "consent",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 17
+  }
+}, {
+  "word" : "consequ",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "consequenti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "consid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 20
+  }
+}, {
+  "word" : "consider",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 21
+  }
+}, {
+  "word" : "consist",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "consol",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 28
+  }
+}, {
+  "word" : "constant",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "constantinopl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "constantli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "constern",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "constrain",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "constru",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "construct",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "consult",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "consum",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "consumm",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "consump",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "contact",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "contain",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "contempl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 14
+  }
+}, {
+  "word" : "contempt",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "conten",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "content",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 15
+  }
+}, {
+  "word" : "contest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "continu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 68
+  }
+}, {
+  "word" : "contor",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "contract",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "contradictori",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "contrari",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "contrast",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "contribu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "contribut",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "contriv",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "control",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "contum",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "convalesc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "convei",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 13
+  }
+}, {
+  "word" : "conveni",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "convent",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "convers",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 29
+  }
+}, {
+  "word" : "convert",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "convic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "convict",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "convinc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "convul",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "convuls",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cook",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cool",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "coop",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cope",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "copet",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "copi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 26
+  }
+}, {
+  "word" : "copyright",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 14
+  }
+}, {
+  "word" : "cord",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cordial",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "core",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "corneliu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "corner",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "corpor",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "corps",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "correct",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "correspond",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "corrup",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "corrupt",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cost",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "cot",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cottag",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 80
+  }
+}, {
+  "word" : "could",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 164
+  }
+}, {
+  "word" : "counsel",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "counsellor",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "counten",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 48
+  }
+}, {
+  "word" : "countless",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "countri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 60
+  }
+}, {
+  "word" : "countryman",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "countrymen",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "coupar",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "courag",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 19
+  }
+}, {
+  "word" : "cours",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "court",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "courtyard",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cousin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 26
+  }
+}, {
+  "word" : "cover",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 20
+  }
+}, {
+  "word" : "covet",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cow",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "coward",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cowardic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "crack",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "crag",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cramp",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "crash",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "crave",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "crawl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "creak",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "creat",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 30
+  }
+}, {
+  "word" : "creation",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 22
+  }
+}, {
+  "word" : "creator",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 21
+  }
+}, {
+  "word" : "creatur",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 69
+  }
+}, {
+  "word" : "credit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "creek",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "crept",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "crevic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "crew",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 17
+  }
+}, {
+  "word" : "crime",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 29
+  }
+}, {
+  "word" : "crimin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "critic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "croak",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cross",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "crowd",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "crown",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "crucibl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cruel",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "cruellest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cruelli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cruelti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "crush",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "cry",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cull",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cultiv",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "cumberland",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "cup",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "curb",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "curdl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cure",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "curios",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 15
+  }
+}, {
+  "word" : "curiou",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "curious",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "curl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "current",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "curs",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 20
+  }
+}, {
+  "word" : "cursori",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "curtain",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "custom",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "cut",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "cypress",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.txt",
+    "value" : 1
+  }
+}, {
   "word" : "cabbag",
   "pair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -15353,2752 +14525,1102 @@
     "value" : 1
   }
 }, {
-  "word" : "ca",
+  "word" : "cabinet",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  }
-}, {
-  "word" : "cadet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "caesar",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "caitiff",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cake",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
   }
 }, {
   "word" : "calcul",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   }
 }, {
   "word" : "call",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 36
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 18
+  }
+}, {
+  "word" : "caller",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "calm",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "calmli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "came",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 44
-  }
-}, {
-  "word" : "camel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  }
-}, {
-  "word" : "camp",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 15
-  }
-}, {
-  "word" : "campfir",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
   }
 }, {
   "word" : "can",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 127
-  }
-}, {
-  "word" : "cancer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 75
   }
 }, {
   "word" : "candl",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 32
-  }
-}, {
-  "word" : "cane",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cannon",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "canvass",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   }
 }, {
   "word" : "cap",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "capabl",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  }
-}, {
-  "word" : "capac",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
   }
 }, {
   "word" : "capit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
-  "word" : "captain",
+  "word" : "capri",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "capric",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "caprici",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "captiv",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "captur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "car",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "carcas",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "card",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 8
   }
 }, {
-  "word" : "cardiff",
+  "word" : "cardboard",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 9
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "care",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 29
-  }
-}, {
-  "word" : "career",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 17
   }
 }, {
   "word" : "carefulli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "careless",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "carelessli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
   }
 }, {
   "word" : "caress",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cargo",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "caricatur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "carpet",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "carri",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 23
-  }
-}, {
-  "word" : "carriag",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 6
   }
 }, {
   "word" : "case",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 9
   }
 }, {
   "word" : "cash",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
-  "word" : "cast",
+  "word" : "cashier",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "casual",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "cat",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 31
-  }
-}, {
-  "word" : "catastroph",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "catbird",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "catch",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "caterwaul",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "catfish",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cathedr",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "catlik",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "caught",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 9
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   }
 }, {
   "word" : "caus",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 5
-  }
-}, {
-  "word" : "caution",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "cautiou",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
   }
 }, {
   "word" : "cautious",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "cave",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 48
-  }
-}, {
-  "word" : "cavern",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "ceas",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "ceaseless",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "ceil",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cell",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cellar",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "cemeteri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cent",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "center",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "centr",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "centuri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ceremoni",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cert",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "certainli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 11
   }
 }, {
-  "word" : "certifi",
+  "word" : "certainti",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ch",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "chafe",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
   }
 }, {
   "word" : "chair",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 12
   }
 }, {
-  "word" : "chalk",
+  "word" : "champagn",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "challeng",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chamber",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 6
   }
 }, {
   "word" : "chanc",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 22
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 6
   }
 }, {
   "word" : "chang",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "channel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "chao",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "chap",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "chapter",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 72
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 10
   }
 }, {
   "word" : "charact",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "characterist",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
   }
 }, {
   "word" : "charg",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "charili",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 7
   }
 }, {
   "word" : "charit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "chariti",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "charm",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "charter",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chase",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "chasm",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "chat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
   }
 }, {
   "word" : "chatter",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "chaw",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
-  "word" : "cheapen",
+  "word" : "cheap",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cheapest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "check",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
   }
 }, {
   "word" : "cheek",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "cheer",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "cheeri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
-  "word" : "cheerili",
+  "word" : "cherish",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "chest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "chew",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "chicken",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "chief",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "chiefest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
   }
 }, {
   "word" : "child",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 17
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "childhood",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "childish",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "children",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 28
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 50
   }
 }, {
-  "word" : "chill",
+  "word" : "china",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "chilli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "chillier",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
-  "word" : "chime",
+  "word" : "chines",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  }
-}, {
-  "word" : "chimnei",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "chin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "chink",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chip",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
   }
 }, {
   "word" : "chirp",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   }
 }, {
   "word" : "choic",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
-  }
-}, {
-  "word" : "choir",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "choke",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
   }
 }, {
   "word" : "choos",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "chop",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "choru",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "chose",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "chosen",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
-  "word" : "chow",
+  "word" : "christin",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 51
   }
 }, {
-  "word" : "christ",
+  "word" : "christma",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 22
+  }
+}, {
+  "word" : "churchyard",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  }
-}, {
-  "word" : "chronic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chronicl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chuckl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chunk",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "church",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 32
   }
 }, {
   "word" : "cigar",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
-  }
-}, {
-  "word" : "cipher",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "circl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "circu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "circul",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "circumfer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
   }
 }, {
   "word" : "circumst",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "circumstanti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  }
-}, {
-  "word" : "circus",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
   }
 }, {
   "word" : "citi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "citifi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  }
-}, {
-  "word" : "citizen",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "civil",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "clad",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "clai",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 10
   }
 }, {
   "word" : "claim",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "clammi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  }
-}, {
-  "word" : "clamor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "clamp",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clandestin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clang",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
   }
 }, {
   "word" : "clap",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "clasp",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "class",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "clatter",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
   }
 }, {
   "word" : "claw",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "clean",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "cleancut",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cleanli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   }
 }, {
   "word" : "clear",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 9
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
   }
 }, {
   "word" : "clearer",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  }
-}, {
-  "word" : "clemen",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 4
   }
 }, {
   "word" : "clergyman",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   }
 }, {
   "word" : "clerk",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   }
 }, {
-  "word" : "clew",
+  "word" : "clever",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
   }
 }, {
-  "word" : "client",
+  "word" : "cleverli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "climax",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "climb",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 14
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "cling",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clip",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clock",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "clod",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
+  }
+}, {
+  "word" : "cloak",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 9
   }
 }, {
   "word" : "close",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 42
-  }
-}, {
-  "word" : "closer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "closest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "closet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   }
 }, {
   "word" : "cloth",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 25
-  }
-}, {
-  "word" : "cloud",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   }
 }, {
   "word" : "cloudi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cloudrack",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
-  "word" : "clown",
+  "word" : "clumsi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "clump",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
-  }
-}, {
-  "word" : "clung",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
   }
 }, {
   "word" : "coach",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   }
 }, {
   "word" : "coal",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "coast",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "coat",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "coax",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cob",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cobweb",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cock",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 7
   }
 }, {
   "word" : "code",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "coffe",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "coffin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "cogit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "coil",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  }
-}, {
-  "word" : "coin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 4
   }
 }, {
   "word" : "cold",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 14
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 8
   }
 }, {
   "word" : "coldli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  }
-}, {
-  "word" : "colicki",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "collar",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 6
   }
 }, {
   "word" : "collec",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   }
 }, {
   "word" : "collect",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "color",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "coloss",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
-  "word" : "colt",
+  "word" : "colour",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "columbu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  }
-}, {
-  "word" : "column",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "comb",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "combat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "combin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
   }
 }, {
   "word" : "come",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 166
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 108
   }
 }, {
   "word" : "comer",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "comet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "comfort",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 23
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   }
 }, {
   "word" : "command",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "commenc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "commerci",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "commis",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "commit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "committ",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "committe",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "common",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   }
 }, {
-  "word" : "commonplac",
+  "word" : "commonli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "commun",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "compact",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "compani",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 21
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   }
 }, {
   "word" : "companion",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "companionless",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
-  "word" : "companionship",
+  "word" : "compat",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "compar",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "compas",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "compass",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "compel",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  }
-}, {
-  "word" : "compens",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
   }
 }, {
   "word" : "compil",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  }
-}, {
-  "word" : "complain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
   }
 }, {
   "word" : "complet",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "complexion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
   }
 }, {
   "word" : "compli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 9
   }
 }, {
   "word" : "complianc",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 5
   }
 }, {
-  "word" : "complim",
+  "word" : "compos",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "complimentari",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
-  "word" : "composi",
+  "word" : "composur",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "composit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  }
-}, {
-  "word" : "comprehend",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
   }
 }, {
   "word" : "compress",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "comput",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
-  }
-}, {
-  "word" : "comrad",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "con",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
   }
 }, {
   "word" : "conceal",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "conced",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "conceit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
   }
 }, {
   "word" : "conceiv",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "concept",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   }
 }, {
   "word" : "concern",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 11
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 9
   }
 }, {
-  "word" : "concert",
+  "word" : "condemn",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "conclud",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "conclusion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "condescend",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "condition",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 7
   }
 }, {
-  "word" : "conduct",
+  "word" : "confection",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "confer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "confes",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "confess",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "confid",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "confidenti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "confirm",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "conflagr",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "conflict",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "confound",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "confus",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "confusedli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "confusion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
   }
 }, {
   "word" : "congratul",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "congreg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "congress",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "conjectur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "connect",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "conqueror",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "conscienc",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 17
-  }
-}, {
-  "word" : "consciou",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "conscious",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   }
 }, {
   "word" : "consent",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   }
 }, {
   "word" : "consequ",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "consequenti",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  }
-}, {
-  "word" : "consid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 13
   }
 }, {
   "word" : "consider",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 11
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   }
 }, {
   "word" : "consist",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "consol",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "consound",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "conspicu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "conspir",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "constabl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "constant",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "constantinopl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "constantli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "constern",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "constitut",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
-  "word" : "constrain",
+  "word" : "construc",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
-  "word" : "constru",
+  "word" : "consump",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  }
-}, {
-  "word" : "construct",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "consum",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
   }
 }, {
   "word" : "contact",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
   }
 }, {
   "word" : "contain",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "contempl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 9
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
   }
 }, {
   "word" : "contemptu",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  }
-}, {
-  "word" : "contend",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
   }
 }, {
   "word" : "content",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "contin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
   }
 }, {
   "word" : "continu",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 14
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   }
 }, {
   "word" : "contract",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
-  "word" : "contrast",
+  "word" : "contradict",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  }
+}, {
+  "word" : "contrari",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   }
 }, {
   "word" : "contribu",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "contribut",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   }
 }, {
   "word" : "contriv",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "control",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  }
-}, {
-  "word" : "convalesc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "convei",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "conveni",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
   }
 }, {
   "word" : "convers",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "convert",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "convic",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "convinc",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "convul",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cook",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cool",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cooler",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "coolli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "coonvil",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "coosa",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "copi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 25
-  }
-}, {
-  "word" : "copper",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 26
   }
 }, {
   "word" : "copyright",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 14
-  }
-}, {
-  "word" : "cordial",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "core",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "corkscrew",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "corn",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
   }
 }, {
   "word" : "corner",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "coron",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   }
 }, {
   "word" : "corpor",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
-  "word" : "corps",
+  "word" : "correct",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
   }
 }, {
-  "word" : "corridor",
+  "word" : "corrup",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "corrupt",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
-  "word" : "cosili",
+  "word" : "cosi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
   }
 }, {
   "word" : "cost",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 8
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 9
   }
 }, {
-  "word" : "cottag",
+  "word" : "costum",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
   }
 }, {
   "word" : "could",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 132
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 10
   }
 }, {
-  "word" : "couldn",
+  "word" : "couldnt",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 22
-  }
-}, {
-  "word" : "counsel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "counsellor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 14
   }
 }, {
   "word" : "count",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "counten",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  }
-}, {
-  "word" : "counter",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "counterfeit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "countersign",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "counti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
   }
 }, {
   "word" : "countri",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "coupl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 13
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
   }
 }, {
   "word" : "courag",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cours",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 36
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 9
   }
 }, {
   "word" : "court",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "courthous",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "courtroom",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "courtship",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cousin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cover",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "covet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
-  }
-}, {
-  "word" : "cow",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "coward",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cowardli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cowhid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "crack",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "cracker",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cracki",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "craft",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "craggi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cramp",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "crash",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "cravat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "crave",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
   }
 }, {
   "word" : "crawl",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "craze",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  }
-}, {
-  "word" : "crazi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "creak",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "cream",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 4
   }
 }, {
   "word" : "creat",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 8
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 6
   }
 }, {
   "word" : "creation",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "creatur",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "credibl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
   }
 }, {
   "word" : "credit",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "credul",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "creep",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "crept",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "crescent",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "crestfallen",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cretur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "crevic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   }
 }, {
   "word" : "cri",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "cricket",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
-  "word" : "crime",
+  "word" : "crimin",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "crimson",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
-  }
-}, {
-  "word" : "crippl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "crisp",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
   }
 }, {
   "word" : "critic",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
-  }
-}, {
-  "word" : "criticis",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "crook",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "crooked",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
   }
 }, {
   "word" : "cross",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 20
-  }
-}, {
-  "word" : "crossbon",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "crossroad",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "crossstreet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "crowd",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "crown",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   }
 }, {
-  "word" : "crucifi",
+  "word" : "crotchet",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cruelli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cruelti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "crumbl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "crusad",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "crush",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "crust",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "cry",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 30
-  }
-}, {
-  "word" : "crybabi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "crystal",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cuf",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cuff",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "culmin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "culprit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cultur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
   }
 }, {
   "word" : "cun",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cup",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "cupboard",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "curdl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "cure",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "curios",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "curiou",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "curious",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "curl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "current",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "curs",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "curtain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "curtsi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
-  "word" : "curv",
+  "word" : "cursedli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
-  "word" : "cuss",
+  "word" : "curtsei",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "custom",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "customari",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "customarili",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
   "word" : "cut",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "cutlass",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cuz",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cylind",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   }
 }, {
   "word" : "cab",
@@ -23123,1104 +20645,6 @@
     "value" : 9
   }
 }, {
-  "word" : "cabinet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "calcul",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "call",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 18
-  }
-}, {
-  "word" : "caller",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "calm",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "can",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 75
-  }
-}, {
-  "word" : "candl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "cap",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "capabl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "capit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "capri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "capric",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "caprici",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "captiv",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "card",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "cardboard",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "care",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 17
-  }
-}, {
-  "word" : "carefulli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "caress",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "carpet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "carri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "case",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "cash",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cashier",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "catch",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "caus",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "cautious",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ceas",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "certainli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "certainti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "chair",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "champagn",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "chanc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "chang",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "charact",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "charg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "charit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chariti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "charm",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "chatter",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cheap",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cheapest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "check",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "cheek",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cheer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cherish",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chief",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "child",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "childhood",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "childish",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "children",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 50
-  }
-}, {
-  "word" : "china",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chines",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chirp",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "choic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "choos",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chose",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "christin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 51
-  }
-}, {
-  "word" : "christma",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 22
-  }
-}, {
-  "word" : "churchyard",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cigar",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "circumst",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "citi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "claim",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clap",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "claw",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clean",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "clear",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "clearer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clergyman",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "clerk",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "clever",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "cleverli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cling",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "cloak",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "close",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cloth",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cloudi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clumsi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "coach",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "coal",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "coat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "code",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "coffe",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cold",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "coldli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "collec",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "collect",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "colour",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "come",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 108
-  }
-}, {
-  "word" : "comer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "comfort",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "command",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "commerci",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "commis",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "commit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "commonli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "compani",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "companion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "compat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "compel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "compil",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "complet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "compli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "complianc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "compos",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "composur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "compress",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "comput",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "conceal",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "conceiv",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "concept",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "concern",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "condemn",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "condition",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "confection",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "confes",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "confess",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "confid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "confirm",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "congratul",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "conscienc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "consent",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "consequ",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "consequenti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "consider",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "consist",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "constant",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "constern",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "constitut",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "construc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "consump",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "contact",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "contain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "contemptu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "content",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "continu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "contract",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "contradict",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "contrari",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "contribu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "contriv",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "control",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "convers",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "convert",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "convic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "convinc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "copi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 26
-  }
-}, {
-  "word" : "copyright",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "corner",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "corpor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "correct",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "corrup",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "corrupt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cosi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "cost",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "costum",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "could",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "couldnt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "count",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "countri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "courag",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "court",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "crawl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "creat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "creation",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "creatur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "credit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "cri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "crimin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "critic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "cross",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "crotchet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cry",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "cun",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cure",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "curios",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "curiou",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "current",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cursedli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "curtsei",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cut",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
   "word" : "calcul",
   "pair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -25359,1212 +21783,6 @@
   "pair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 5
-  }
-}, {
-  "word" : "cake",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "calam",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "calcul",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "call",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 32
-  }
-}, {
-  "word" : "calm",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "calmli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "can",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 20
-  }
-}, {
-  "word" : "candid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "candidli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "candour",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "canning",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cannot",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "canon",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "cant",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "capaci",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "capit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "captain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "card",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "cardew",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 30
-  }
-}, {
-  "word" : "care",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "carefulli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "careless",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "carri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "carriag",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "cart",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "carter",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "case",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 22
-  }
-}, {
-  "word" : "cast",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "catch",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "cathedr",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "caught",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "caus",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "ccx",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ceas",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "cecili",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 256
-  }
-}, {
-  "word" : "celebr",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "celib",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "celibaci",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "ceremoni",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "certainli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 21
-  }
-}, {
-  "word" : "certif",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chafe",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chair",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "champagn",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "chanc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "chang",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "changeabl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chap",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "chapter",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "charact",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "charg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "charit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "chariti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "charm",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "chasubl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 63
-  }
-}, {
-  "word" : "check",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "cheek",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cheerili",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "chief",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "chiefli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "child",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "childish",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "children",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "chill",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "chin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "choic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "choos",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "christen",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 26
-  }
-}, {
-  "word" : "christian",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "chronicl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "church",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "cigarett",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "circl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "circumst",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "citi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "civilis",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "claim",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "clasp",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "class",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "classic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clean",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "clear",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "clever",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "climat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cloak",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "close",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cloth",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "cloud",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "club",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "co",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "code",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "coin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "coincid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cold",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "coldli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "collec",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "colonel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "colour",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "come",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 35
-  }
-}, {
-  "word" : "comedi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "comfort",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "commend",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "comment",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "commerc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "commerci",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "commit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "common",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "commun",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "compani",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "companion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "compar",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "competi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "compil",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "complain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "complet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "compli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "complianc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "compress",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "comput",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "conceal",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "conceit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "concept",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "concern",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "conclusion",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "condol",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "conduc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "conduct",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "confess",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "confid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "confidingli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "confirm",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "connect",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "consciou",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "consent",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "consequ",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "consequenti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "consid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "consider",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "consol",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "constant",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "constantli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "constern",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "constitu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "constitut",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "consum",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "contact",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "contain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "contempt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "content",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "continu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "contract",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "contrari",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "contribu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "convers",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "convert",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "convinc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "convuls",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "copi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 27
-  }
-}, {
-  "word" : "copyright",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "corner",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "corpor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "corrupt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cost",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "cottag",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cough",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "could",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "couldnt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "count",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "counti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "countri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 21
-  }
-}, {
-  "word" : "coupl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "courag",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "court",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "cousin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "cover",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cowardli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "crape",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "creat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "creation",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "credit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "creditor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "credul",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "critic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cross",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "crowd",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "crumpet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "crush",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cry",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cucumb",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "cuff",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "cultiv",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cultur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "cup",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "curiou",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "curious",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "curl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "current",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "custom",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "customari",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "cut",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "cynic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
   }
 }, {
   "word" : "cab",
@@ -29691,5 +24909,3485 @@
   "pair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
+  }
+}, {
+  "word" : "cake",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "calam",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "calcul",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "call",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 32
+  }
+}, {
+  "word" : "calm",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "calmli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "can",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 20
+  }
+}, {
+  "word" : "candid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "candidli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "candour",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "canning",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cannot",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "canon",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "cant",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "capaci",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "capit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "captain",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "card",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "cardew",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 30
+  }
+}, {
+  "word" : "care",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 12
+  }
+}, {
+  "word" : "carefulli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "careless",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "carri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "carriag",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "cart",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "carter",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "case",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 22
+  }
+}, {
+  "word" : "cast",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "catch",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "cathedr",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "caught",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "caus",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "ccx",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "ceas",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "cecili",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 256
+  }
+}, {
+  "word" : "celebr",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "celib",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "celibaci",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "ceremoni",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "certainli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 21
+  }
+}, {
+  "word" : "certif",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chafe",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chair",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "champagn",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "chanc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "chang",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "changeabl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chap",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chapter",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "charact",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "charg",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "charit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "chariti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "charm",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "chasubl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 63
+  }
+}, {
+  "word" : "check",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "cheek",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cheerili",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "chief",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "chiefli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "child",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "childish",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "children",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "chill",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "chin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "choic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "choos",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "christen",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 26
+  }
+}, {
+  "word" : "christian",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "chronicl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "church",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "cigarett",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 12
+  }
+}, {
+  "word" : "circl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "circumst",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "citi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "civilis",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "claim",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "clasp",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "class",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "classic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clean",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clear",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "clever",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "climat",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cloak",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "close",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cloth",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "cloud",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "club",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "co",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "code",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "coin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "coincid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cold",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "coldli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "collec",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "colonel",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "colour",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "come",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 35
+  }
+}, {
+  "word" : "comedi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "comfort",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "commend",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "comment",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "commerc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "commerci",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "commit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "common",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "commun",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "compani",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "companion",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "compar",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "competi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "compil",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "complain",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "complet",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "compli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "complianc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "compress",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "comput",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "conceal",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "conceit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "concept",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "concern",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "conclusion",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "condol",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "conduc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "conduct",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "confess",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "confid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "confidingli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "confirm",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "connect",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "consciou",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "consent",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "consequ",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "consequenti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "consid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "consider",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "consol",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "constant",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "constantli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "constern",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "constitu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "constitut",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "consum",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "contact",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "contain",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "contempt",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "content",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "continu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "contract",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "contrari",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "contribu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "convers",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "convert",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "convinc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "convuls",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "copi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 27
+  }
+}, {
+  "word" : "copyright",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 14
+  }
+}, {
+  "word" : "corner",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "corpor",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "corrupt",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cost",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "cottag",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cough",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "could",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "couldnt",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "count",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "counti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "countri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 21
+  }
+}, {
+  "word" : "coupl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "courag",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "court",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "cousin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "cover",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cowardli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "crape",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "creat",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "creation",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "credit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "creditor",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "credul",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "critic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cross",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "crowd",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "crumpet",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "crush",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cry",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cucumb",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "cuff",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "cultiv",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cultur",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cup",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "curiou",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "curious",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "curl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "current",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "custom",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "customari",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cut",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "cynic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "ca",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "cabbag",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "cabin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 38
+  }
+}, {
+  "word" : "cain",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "cairo",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 13
+  }
+}, {
+  "word" : "calam",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "calcul",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "calf",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "calico",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "call",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 70
+  }
+}, {
+  "word" : "callin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "camel",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "camp",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 31
+  }
+}, {
+  "word" : "campaign",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "can",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 178
+  }
+}, {
+  "word" : "cancer",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "candid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "candl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 40
+  }
+}, {
+  "word" : "candlestick",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "cane",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "cannelstick",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cannib",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cannon",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "cano",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 67
+  }
+}, {
+  "word" : "cantelop",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cap",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "caper",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "capet",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "capit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "captain",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "captiv",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "captur",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "carcass",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "card",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "care",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 29
+  }
+}, {
+  "word" : "careen",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "carelessest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "carpent",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "carpet",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 12
+  }
+}, {
+  "word" : "carri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 21
+  }
+}, {
+  "word" : "carriag",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "carryin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cart",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "carv",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "casanova",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "case",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 17
+  }
+}, {
+  "word" : "cash",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "cast",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "castl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "cat",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 24
+  }
+}, {
+  "word" : "catch",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 40
+  }
+}, {
+  "word" : "caterpillar",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "catfish",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "cattl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "caught",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cautiou",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cave",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 18
+  }
+}, {
+  "word" : "cavern",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "cavort",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "ceas",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "celebr",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "cellar",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 12
+  }
+}, {
+  "word" : "cent",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 29
+  }
+}, {
+  "word" : "center",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "centuri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cert",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "certain",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "chain",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 24
+  }
+}, {
+  "word" : "chair",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 18
+  }
+}, {
+  "word" : "chalk",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "chanc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 42
+  }
+}, {
+  "word" : "chang",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 23
+  }
+}, {
+  "word" : "channel",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "chanst",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "chap",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "chapter",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 86
+  }
+}, {
+  "word" : "charact",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "charcoal",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "charg",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 15
+  }
+}, {
+  "word" : "charit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chariti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "charl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "charlemagn",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "charlott",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "charm",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chart",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chase",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "chaw",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 23
+  }
+}, {
+  "word" : "cheap",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cheat",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "check",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "cheek",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "cheeki",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cheer",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "chelleeni",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "chevron",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chew",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chicken",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "chief",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "child",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 12
+  }
+}, {
+  "word" : "children",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 20
+  }
+}, {
+  "word" : "chile",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 19
+  }
+}, {
+  "word" : "chill",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "chillen",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "chilli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chimblei",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chimbli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "chin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "china",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "chink",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "chip",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "chipper",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chirrup",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chisel",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "choic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "choke",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "choos",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "chop",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 12
+  }
+}, {
+  "word" : "christma",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "christoph",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chuckl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "chucklehead",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "chunk",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "church",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 21
+  }
+}, {
+  "word" : "churchyard",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "churn",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "chute",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cincinnati",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "cipher",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "circl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "circu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "circumst",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "circus",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "citi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "civil",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clack",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clah",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clai",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "claim",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "clan",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clap",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "clapboard",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clasp",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "class",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "clatter",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "claw",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "clayei",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cle",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clean",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 22
+  }
+}, {
+  "word" : "cleanest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cleans",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clear",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 26
+  }
+}, {
+  "word" : "clemen",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "cler",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "clergi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clerk",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "clever",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clew",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "climb",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "clip",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "clo",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "clock",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 18
+  }
+}, {
+  "word" : "clog",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "close",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 27
+  }
+}, {
+  "word" : "closest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "closet",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "clost",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cloth",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 38
+  }
+}, {
+  "word" : "clotheslin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cloud",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "cloudbank",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clown",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "club",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clumb",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 16
+  }
+}, {
+  "word" : "clumbu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "clump",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "clutter",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "coal",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "coars",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "coas",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "coat",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 23
+  }
+}, {
+  "word" : "coax",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cob",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "cock",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "code",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "coffe",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "coffin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 20
+  }
+}, {
+  "word" : "col",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "cold",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 26
+  }
+}, {
+  "word" : "colicki",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "collar",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "collec",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "collect",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "colleg",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "collin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "colonel",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "color",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "comb",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "come",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 527
+  }
+}, {
+  "word" : "comedi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "comer",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "comfort",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 35
+  }
+}, {
+  "word" : "comin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "commenc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "commerci",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "commit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "committe",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "common",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "compani",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "companionship",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "comparison",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "compil",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "complain",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "complaint",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "complet",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "complexion",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "compli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "complianc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "complic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "complim",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "compress",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "comput",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "comrad",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "concept",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "concern",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "conclud",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "condition",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "confess",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "confid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "confidenti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "confirm",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "conflict",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "confound",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "congreg",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "congress",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "connec",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "conqueror",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "conscienc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "consecut",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "conseken",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "consequ",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "consequenti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "consid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "consider",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 37
+  }
+}, {
+  "word" : "considerbl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "considerin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "constant",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "consult",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "consumm",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "consump",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "contact",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "contagion",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "content",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "contest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "continent",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "contract",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "contrari",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "contribu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "contrit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "contriv",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "contum",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "conven",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "conveni",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "convert",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "convinc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cook",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 15
+  }
+}, {
+  "word" : "cool",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 13
+  }
+}, {
+  "word" : "cooper",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "copi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 26
+  }
+}, {
+  "word" : "copyright",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 14
+  }
+}, {
+  "word" : "cordwood",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cork",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "corn",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 17
+  }
+}, {
+  "word" : "corner",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 24
+  }
+}, {
+  "word" : "cornfield",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "corpor",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "corps",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "correct",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "corrupt",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "coss",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cost",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 13
+  }
+}, {
+  "word" : "costum",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "cot",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cotton",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "cottonwood",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "couchant",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cough",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "could",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 37
+  }
+}, {
+  "word" : "couldn",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 225
+  }
+}, {
+  "word" : "couldst",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "count",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 30
+  }
+}, {
+  "word" : "counter",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "counterfeit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "counti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "countri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 41
+  }
+}, {
+  "word" : "coupl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 38
+  }
+}, {
+  "word" : "courag",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cours",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 37
+  }
+}, {
+  "word" : "court",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "cousin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "cove",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cover",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "cow",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 13
+  }
+}, {
+  "word" : "coward",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "cowhid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "cowpath",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "crabappl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "crack",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 12
+  }
+}, {
+  "word" : "craft",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cram",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cramp",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "crash",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cravat",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "craw",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "crawfish",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "crawl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 19
+  }
+}, {
+  "word" : "crawli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "crayon",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "crazi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "creas",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "creat",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "creation",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "credit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "creek",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "creep",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "creepi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "creetur",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "crep",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "crept",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "crest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cretur",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "crew",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 19
+  }
+}, {
+  "word" : "crib",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "crick",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "crime",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "crippl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "critic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "crockeri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "crook",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "crope",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cross",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 20
+  }
+}, {
+  "word" : "crossbon",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "crowd",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 32
+  }
+}, {
+  "word" : "cruel",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cruis",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "crush",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "crust",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cry",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 32
+  }
+}, {
+  "word" : "cryin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cub",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cubbi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "cuff",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cup",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "cupboard",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cur",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "curdl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cure",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "curios",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "curiou",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "curl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "curli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "currant",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "currenc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "current",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 23
+  }
+}, {
+  "word" : "curri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "currrent",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "curs",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "curtain",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 12
+  }
+}, {
+  "word" : "cuss",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 28
+  }
+}, {
+  "word" : "cussedest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "custom",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "customari",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cut",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 21
+  }
+}, {
+  "word" : "cutthroat",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "cuz",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "cylind",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "cypress",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
   }
 } ]

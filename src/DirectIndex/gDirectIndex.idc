@@ -1055,1308 +1055,6 @@
     "value" : 93
   }
 }, {
-  "word" : "gabel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 29
-  }
-}, {
-  "word" : "gag",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gai",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gaili",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "gainsai",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gaiter",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gall",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gallant",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gallantli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gallantri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "gallei",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "galleri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gallon",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gallop",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "gallow",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "game",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "gamut",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gander",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gaol",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "gaoler",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 23
-  }
-}, {
-  "word" : "garb",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "garden",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "garment",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "garner",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "garnish",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "garret",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 15
-  }
-}, {
-  "word" : "garrison",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gaspard",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "gate",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 37
-  }
-}, {
-  "word" : "gatewai",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gather",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "gaul",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gaunt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gauz",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gave",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 28
-  }
-}, {
-  "word" : "gayest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gaze",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "gazett",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gbnewbi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gender",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gener",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 70
-  }
-}, {
-  "word" : "generos",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "genial",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "geniu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "genteel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gentil",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gentl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "gentleman",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 76
-  }
-}, {
-  "word" : "gentlemen",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 29
-  }
-}, {
-  "word" : "gentlest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gentli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 15
-  }
-}, {
-  "word" : "genuin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "georg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "germain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "german",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gesticul",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gestur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "get",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 80
-  }
-}, {
-  "word" : "ghastli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "ghost",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 21
-  }
-}, {
-  "word" : "ghostli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "giant",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "giddi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "giddili",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gift",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gigant",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gile",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gird",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "girdl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "girl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "girlhood",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "girlish",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "give",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 68
-  }
-}, {
-  "word" : "glad",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "gladden",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "glanc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 42
-  }
-}, {
-  "word" : "glare",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "glass",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 37
-  }
-}, {
-  "word" : "gleam",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "glean",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "glib",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "glide",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "glimmer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "glimps",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "glint",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "glitter",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gloom",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "gloomi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "gloomili",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "glori",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gloriou",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gloss",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "glove",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "glow",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "gloweringli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "glutin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gnash",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gnat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gnaw",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "go",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 193
-  }
-}, {
-  "word" : "goal",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "goblet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "goblin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "god",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 32
-  }
-}, {
-  "word" : "goddess",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "godmoth",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "goer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "goin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gold",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "golden",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 33
-  }
-}, {
-  "word" : "gone",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "good",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 224
-  }
-}, {
-  "word" : "goodli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "goodwil",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "goos",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gore",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gorg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gorgeou",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gorgon",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gori",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gossam",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gossip",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "got",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 76
-  }
-}, {
-  "word" : "govern",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "governor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gown",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "grace",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "graciou",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "gracious",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gradat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gradual",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 18
-  }
-}, {
-  "word" : "grain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "grand",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "grandchildren",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grandeur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grandfath",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grandmamma",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grant",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "grape",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grasp",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "grass",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 19
-  }
-}, {
-  "word" : "grate",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "gratefulli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "gratifi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gratitud",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grave",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 23
-  }
-}, {
-  "word" : "gravel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "graveston",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "graviti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "great",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 163
-  }
-}, {
-  "word" : "greater",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "greatest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "greatli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "greec",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "greedi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "greedili",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "greek",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "green",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "greet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gregari",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gregori",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grei",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "grenadi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grew",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "gridiron",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grief",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "griev",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "grim",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "grimac",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grimi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grimli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grimmer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grind",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "grindston",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "grip",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grisli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grist",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grizzl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "groan",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "grocer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "groceri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grope",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gross",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grossli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ground",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 41
-  }
-}, {
-  "word" : "group",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 21
-  }
-}, {
-  "word" : "grove",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "grovel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grow",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 19
-  }
-}, {
-  "word" : "growl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "growlingli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grown",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "grudg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grudgingli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gruff",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "grumbl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "grunt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "guard",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 51
-  }
-}, {
-  "word" : "guardhous",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "guess",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "guest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "guid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "guidanc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "guillotin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 27
-  }
-}, {
-  "word" : "guilt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "guilti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "guinea",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "gulf",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gun",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "gunmak",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gunpowd",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gust",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gutenberg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 93
-  }
-}, {
-  "word" : "gutter",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
   "word" : "gain",
   "pair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -2715,1302 +1413,6 @@
   "pair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 93
-  }
-}, {
-  "word" : "ga",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gabl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gabriel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gai",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gaieti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "gaili",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "gal",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gala",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "galatz",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 18
-  }
-}, {
-  "word" : "gale",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gallant",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "gallei",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "galleri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gallop",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gallopin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gambol",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "game",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "gang",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gangren",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gaol",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gap",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "garb",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gard",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "garden",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "gardner",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "garland",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "garlic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 21
-  }
-}, {
-  "word" : "garment",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "garth",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gase",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gash",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gaslight",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gasp",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "gate",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "gatekeep",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gatewai",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "gather",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 24
-  }
-}, {
-  "word" : "gaunt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gave",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 67
-  }
-}, {
-  "word" : "gawm",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gaze",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gazett",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "gbnewbi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gear",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gener",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 32
-  }
-}, {
-  "word" : "genial",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gent",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "gentl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "gentleman",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "gentlemen",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gentli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 17
-  }
-}, {
-  "word" : "genuin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "geographi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "geolog",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "geologi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "geordi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "georg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "german",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "germani",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gestur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "get",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 202
-  }
-}, {
-  "word" : "gettin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ghastli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "ghoorka",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ghost",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "ghostli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "giant",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "gibralt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gibraltar",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gift",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gipsi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "girl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 42
-  }
-}, {
-  "word" : "git",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "give",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 95
-  }
-}, {
-  "word" : "giveth",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "glad",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 44
-  }
-}, {
-  "word" : "gladden",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gladder",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gladli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gladsom",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "glanc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "glare",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "glass",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 33
-  }
-}, {
-  "word" : "glassi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "gleam",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "glean",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "glee",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "glimmer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "glimps",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "glint",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "glisten",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "glitter",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "gloat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "globe",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gloom",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "gloomi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "glori",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gloriou",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "glove",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "glow",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "gnarl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gnaw",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "go",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 337
-  }
-}, {
-  "word" : "goal",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "god",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 177
-  }
-}, {
-  "word" : "godalm",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 89
-  }
-}, {
-  "word" : "gog",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "goin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "goitr",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gold",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "goldam",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "golden",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "gone",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 44
-  }
-}, {
-  "word" : "good",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 274
-  }
-}, {
-  "word" : "goodli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gorg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gossip",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gott",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gotza",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gout",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "govern",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gown",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "grab",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grace",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "gradual",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "grain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grammar",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grand",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grandeur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grandfath",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grandli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "granit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grano",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grant",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "grappl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grasp",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "grass",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "grassi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grate",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "gratefulli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "gratitud",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grave",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 61
-  }
-}, {
-  "word" : "gravedigg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gravel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "graveyard",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "graviti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "great",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 183
-  }
-}, {
-  "word" : "greater",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 15
-  }
-}, {
-  "word" : "greatest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "greatli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "gree",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "greec",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "greek",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "green",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 21
-  }
-}, {
-  "word" : "greenish",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "greenland",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "greet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "gregori",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grei",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 22
-  }
-}, {
-  "word" : "greif",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grew",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 49
-  }
-}, {
-  "word" : "grey",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grief",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "griev",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "grievous",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grim",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 25
-  }
-}, {
-  "word" : "grimac",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grimli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grimmer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grind",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "grip",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "grisli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "groan",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "grog",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "groom",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "groov",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grope",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gross",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grosset",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "grotesqu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "ground",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 42
-  }
-}, {
-  "word" : "groundless",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "group",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "grow",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 47
-  }
-}, {
-  "word" : "growl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "grown",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "growth",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "grubbi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gruesom",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "grumbl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grumpi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grup",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "guarante",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "guard",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 23
-  }
-}, {
-  "word" : "guardian",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "guess",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 23
-  }
-}, {
-  "word" : "guest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "guid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "guidanc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "guiliano",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "guilt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "gulf",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gulp",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gum",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "gun",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "gunwal",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gurgl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gush",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gusto",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gutenberg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 93
-  }
-}, {
-  "word" : "guvnor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "gypsi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 10
   }
 }, {
   "word" : "gag",
@@ -5147,786 +2549,6 @@
     "value" : 1
   }
 }, {
-  "word" : "gaili",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gale",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "galleri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gallop",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "gallow",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "game",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "gang",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gangest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "gape",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "garden",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 66
-  }
-}, {
-  "word" : "garland",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "garret",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gasp",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gate",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 25
-  }
-}, {
-  "word" : "gatewai",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gather",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
-  }
-}, {
-  "word" : "gave",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 109
-  }
-}, {
-  "word" : "gaze",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "gazer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "gbnewbi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gees",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "gener",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "gentl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gentleman",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gentli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "german",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "get",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 118
-  }
-}, {
-  "word" : "ghost",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "giant",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 47
-  }
-}, {
-  "word" : "gift",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "gild",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "girdl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "girl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 82
-  }
-}, {
-  "word" : "give",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 157
-  }
-}, {
-  "word" : "glad",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 22
-  }
-}, {
-  "word" : "glare",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "glass",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 41
-  }
-}, {
-  "word" : "glee",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "glimmer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "glitter",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "gloom",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gloomi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "glove",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gnat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gnaw",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "go",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 351
-  }
-}, {
-  "word" : "goal",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "goat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "goblet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "god",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "godchildren",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "godless",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "godmoth",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "gold",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 89
-  }
-}, {
-  "word" : "golden",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 95
-  }
-}, {
-  "word" : "goldsmith",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "good",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 220
-  }
-}, {
-  "word" : "goodby",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 28
-  }
-}, {
-  "word" : "goos",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 29
-  }
-}, {
-  "word" : "gore",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gorg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gossip",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gothel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "govern",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gown",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grace",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "graciou",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "gracious",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gradual",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "grand",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "grandfath",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "grandmoth",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 26
-  }
-}, {
-  "word" : "grandson",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "granit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grant",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "grasp",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grass",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "grasshopp",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grate",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gratefulli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grave",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "graze",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "greas",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "great",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 153
-  }
-}, {
-  "word" : "greater",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "greatest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "greatli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "greedi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "greedili",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "green",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
-  }
-}, {
-  "word" : "greenwood",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "greet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gregori",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grei",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "grete",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "gretel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 98
-  }
-}, {
-  "word" : "grew",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 34
-  }
-}, {
-  "word" : "grief",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "griev",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 20
-  }
-}, {
-  "word" : "griffin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "grim",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grimm",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "grin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grinder",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "grindston",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grisli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "groan",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "groom",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "grope",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gross",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ground",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 39
-  }
-}, {
-  "word" : "group",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grove",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "grow",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
-  }
-}, {
-  "word" : "growl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "growler",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grown",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "grumbl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "grunt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "guard",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "gudgeon",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "guess",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "guest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 24
-  }
-}, {
-  "word" : "guid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "guilti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "guiltless",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gulp",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gutenberg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 93
-  }
-}, {
   "word" : "gaieti",
   "pair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -6626,6 +3248,330 @@
   "word" : "gutenberg",
   "pair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 93
+  }
+}, {
+  "word" : "gate",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "gather",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gave",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "gbnewbi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gener",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "generos",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gentl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "gentleman",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "gentli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "genuin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "germ",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "get",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 46
+  }
+}, {
+  "word" : "gilt",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "girl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "give",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 36
+  }
+}, {
+  "word" : "glad",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "gladli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "glanc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "glass",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gloriou",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "glove",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "go",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 112
+  }
+}, {
+  "word" : "goal",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "goe",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 41
+  }
+}, {
+  "word" : "gold",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gone",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "good",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 43
+  }
+}, {
+  "word" : "goodby",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "goodnight",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "govern",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gra",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "graciou",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grant",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grasp",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gratefulli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gratitud",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "great",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 18
+  }
+}, {
+  "word" : "greater",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "greatest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "greatli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "gregori",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grief",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grip",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grope",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gross",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "ground",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "group",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grow",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "grown",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "guess",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "guest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "guid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "guilti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "gutenberg",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 93
   }
 }, {
@@ -7649,930 +4595,6 @@
     "value" : 2
   }
 }, {
-  "word" : "gaddo",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gaeta",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gain",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 30
-  }
-}, {
-  "word" : "galeazzo",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gallantli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "game",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "garden",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "garrison",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gasconi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gate",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "gather",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "gave",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 20
-  }
-}, {
-  "word" : "gazett",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gbnewbi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gener",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 21
-  }
-}, {
-  "word" : "genera",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "geniu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "genoa",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gentil",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gentleman",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gentlemen",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "gentli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "georg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "germ",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "german",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "germani",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gerozzo",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gesso",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gherardesca",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "ghibellin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "gia",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gianpagolo",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gibe",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gift",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "giorgio",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "giovanni",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 19
-  }
-}, {
-  "word" : "girl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "girolamo",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "giuliano",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "give",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 42
-  }
-}, {
-  "word" : "giver",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gladiat",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "glass",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "glori",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 15
-  }
-}, {
-  "word" : "gloriou",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "glorious",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "glutton",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "go",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "goal",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "god",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 20
-  }
-}, {
-  "word" : "goest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gold",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "goliath",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "good",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 73
-  }
-}, {
-  "word" : "goodwil",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
-  }
-}, {
-  "word" : "goth",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "govern",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 46
-  }
-}, {
-  "word" : "governor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "governorship",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gracchi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grace",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "graciou",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gracious",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "granada",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grandfath",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grandson",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grant",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gratefulli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gratifi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gratitud",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grave",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gravina",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "graviti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "great",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 107
-  }
-}, {
-  "word" : "greater",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 17
-  }
-}, {
-  "word" : "greatest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "greatli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "greec",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "greed",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "greek",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "green",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gregori",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grew",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gross",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ground",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "group",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grow",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "guard",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "guelph",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "guerdon",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "guerra",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "guid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "guidanc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "guidi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "guido",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "guild",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "guinigi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "gusciana",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gutenberg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 93
-  }
-}, {
-  "word" : "gate",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gather",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gave",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "gbnewbi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gener",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "generos",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gentl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gentleman",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gentli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "genuin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "germ",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "get",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 46
-  }
-}, {
-  "word" : "gilt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "girl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "give",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 36
-  }
-}, {
-  "word" : "glad",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "gladli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "glanc",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "glass",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gloriou",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "glove",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "go",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 112
-  }
-}, {
-  "word" : "goal",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "goe",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 41
-  }
-}, {
-  "word" : "gold",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gone",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "good",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 43
-  }
-}, {
-  "word" : "goodby",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "goodnight",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "govern",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gra",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "graciou",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grant",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grasp",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gratefulli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gratitud",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "great",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 18
-  }
-}, {
-  "word" : "greater",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "greatest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "greatli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "gregori",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grief",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grip",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grope",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "gross",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "ground",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "group",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grow",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "grown",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "guess",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "guest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "guid",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "guilti",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "gutenberg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 93
-  }
-}, {
   "word" : "gain",
   "pair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -9397,308 +5419,307 @@
 }, {
   "word" : "gloss",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adve\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 90
-  }
-}, {
-  "word" : "goner",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }
 }, {
-  "word" : "goo",
+  "word" : "glossi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 9
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "glove",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "glow",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "goad",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "goal",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "god",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 29
+  }
+}, {
+  "word" : "godfrei",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "gold",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 18
+  }
+}, {
+  "word" : "golden",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "gone",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 31
+  }
+}, {
+  "word" : "gong",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
   }
 }, {
   "word" : "good",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 310
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 146
   }
 }, {
-  "word" : "goodi",
+  "word" : "goodg",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 2
   }
 }, {
-  "word" : "goodnessgracioussak",
+  "word" : "goodwil",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }
 }, {
-  "word" : "googl",
+  "word" : "goodwin",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }
 }, {
   "word" : "goos",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 27
   }
 }, {
-  "word" : "gooseberri",
+  "word" : "gordon",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "gospel",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }
 }, {
-  "word" : "goshen",
+  "word" : "gossip",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 9
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 4
   }
 }, {
-  "word" : "got",
+  "word" : "gottsreich",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 213
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
   }
 }, {
-  "word" : "gourd",
+  "word" : "gover",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 5
   }
 }, {
   "word" : "govern",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "governor",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "govment",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 12
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 3
   }
 }, {
   "word" : "gown",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 10
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "gra",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
   }
 }, {
   "word" : "grab",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 22
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
   }
 }, {
   "word" : "grace",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 11
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 4
   }
 }, {
   "word" : "graciou",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 11
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 2
   }
 }, {
   "word" : "gradual",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 2
-  }
-}, {
-  "word" : "grai",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 14
   }
 }, {
   "word" : "grain",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }
 }, {
   "word" : "grand",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 9
-  }
-}, {
-  "word" : "grandeur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 2
   }
 }, {
   "word" : "grandfath",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 2
-  }
-}, {
-  "word" : "grandmoth",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grangerford",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "granni",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 3
   }
 }, {
   "word" : "grant",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 3
   }
 }, {
-  "word" : "grape",
+  "word" : "grasp",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 12
   }
 }, {
   "word" : "grass",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 9
-  }
-}, {
-  "word" : "grassi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
   }
 }, {
   "word" : "grate",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 5
   }
 }, {
   "word" : "gratefulli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gratitud",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }
 }, {
   "word" : "grave",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 10
   }
 }, {
-  "word" : "graveyard",
+  "word" : "gravel",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "greas",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 4
+  }
+}, {
+  "word" : "graver",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gravesend",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "graviti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 3
   }
 }, {
   "word" : "greasi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 5
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 2
   }
 }, {
   "word" : "great",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 12
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 60
+  }
+}, {
+  "word" : "greatcoat",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "greater",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 6
   }
 }, {
   "word" : "greatest",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "greek",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 6
   }
 }, {
   "word" : "green",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 7
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 6
   }
 }, {
-  "word" : "greenhorn",
+  "word" : "greenwich",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 1
   }
 }, {
-  "word" : "gregori",
+  "word" : "greet",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grei",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "grief",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "griev",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grind",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grindston",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "grip",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "grit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : \\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 5
   }
 }, {
@@ -9999,6 +6020,1422 @@
   "word" : "gutter",
   "pair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "garb",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "garden",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 13
+  }
+}, {
+  "word" : "gave",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gbnewbi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gener",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 13
+  }
+}, {
+  "word" : "gentl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gentleman",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "gentlemen",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "geographi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "geologi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "georg",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "gerald",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "german",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "gervas",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "ghastli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "girl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 24
+  }
+}, {
+  "word" : "girlish",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "give",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 19
+  }
+}, {
+  "word" : "glad",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "gladli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "glanc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "glare",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "glass",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "glibli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "glove",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "go",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 30
+  }
+}, {
+  "word" : "goal",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "goe",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 27
+  }
+}, {
+  "word" : "gold",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "good",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 43
+  }
+}, {
+  "word" : "goodby",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gorgon",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "got",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 16
+  }
+}, {
+  "word" : "gover",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "govern",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gower",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grammar",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grand",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "grandfath",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grant",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gratefulli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grave",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "gravest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "graviti",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "great",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 14
+  }
+}, {
+  "word" : "greatli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "greedi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "green",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gregori",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grei",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grief",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "griev",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grimac",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grimli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "groan",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "gross",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "grosvenor",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "grotesqu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "ground",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "group",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grow",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "guarante",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "guardian",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 14
+  }
+}, {
+  "word" : "guest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "guid",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "guidanc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gutenberg",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 96
+  }
+}, {
+  "word" : "gwendolen",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 178
+  }
+}, {
+  "word" : "gabbl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "gai",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gain",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "gal",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "gallei",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gallon",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "gallop",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "gallus",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "galoot",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "game",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "gang",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 26
+  }
+}, {
+  "word" : "gap",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "gape",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "gar",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "garden",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "garret",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "garrick",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "garter",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "gashli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gasp",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "gate",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gather",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "gaudi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "gaudier",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gaudiest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gave",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "gaze",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "gbnewbi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gees",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "geewhillikin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gener",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 18
+  }
+}, {
+  "word" : "generl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "generli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "geni",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "genlman",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "genlmen",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "gent",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gentl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "gentleman",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 32
+  }
+}, {
+  "word" : "gentlemen",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 16
+  }
+}, {
+  "word" : "geographi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "georg",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 18
+  }
+}, {
+  "word" : "get",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 397
+  }
+}, {
+  "word" : "gether",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "getherin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gho",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "ghost",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "gift",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "gilford",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gill",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "gimm",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "gin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gingerbread",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gingham",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "girafft",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "girl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 45
+  }
+}, {
+  "word" : "git",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 53
+  }
+}, {
+  "word" : "gitt",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gittn",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "give",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 152
+  }
+}, {
+  "word" : "givin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "glad",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 46
+  }
+}, {
+  "word" : "gladdest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "glanc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "glare",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "glass",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "glide",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "glidingest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "glimps",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "gloomi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "glori",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "gloriou",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "glove",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "glow",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "gnaw",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "go",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 490
+  }
+}, {
+  "word" : "goal",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gobbl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "god",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "goggl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "goin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "gold",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 14
+  }
+}, {
+  "word" : "goliar",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gone",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 90
+  }
+}, {
+  "word" : "goner",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "goo",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "good",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 310
+  }
+}, {
+  "word" : "goodi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "goodnessgracioussak",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "googl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "goos",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "gooseberri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "goshen",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "got",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 213
+  }
+}, {
+  "word" : "gourd",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "govern",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "governor",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "govment",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 12
+  }
+}, {
+  "word" : "gown",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "grab",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 22
+  }
+}, {
+  "word" : "grace",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "graciou",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "gradual",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "grai",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 14
+  }
+}, {
+  "word" : "grain",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grand",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "grandeur",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grandfath",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "grandmoth",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "grangerford",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 12
+  }
+}, {
+  "word" : "granni",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "grant",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grape",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "grass",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "grassi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grate",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "gratefulli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grave",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "graveyard",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "greas",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "greasi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "great",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 12
+  }
+}, {
+  "word" : "greatest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "greek",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "green",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "greenhorn",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gregori",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grei",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grief",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "griev",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "grind",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "grindston",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 13
+  }
+}, {
+  "word" : "grip",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "grit",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "groan",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "grope",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gross",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "groun",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "ground",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 24
+  }
+}, {
+  "word" : "group",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grow",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "growin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "growl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grub",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "grumbl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "grunt",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "guard",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "guardian",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "guess",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "guesswork",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gui",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "guidanc",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "guitar",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gule",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gulli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gum",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gumption",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gun",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 50
+  }
+}, {
+  "word" : "gunn",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gunnel",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gurgl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gust",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gutenberg",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 93
+  }
+}, {
+  "word" : "gutter",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gwinet",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "gwyne",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 46
+  }
+}, {
+  "word" : "gwynn",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "gywn",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 1
   }
 } ]

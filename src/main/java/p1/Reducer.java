@@ -1,9 +1,15 @@
 package p1;
 
+import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
+import com.google.gson.stream.JsonReader;
 
 import java.io.File;
+import java.io.FileReader;
 import java.io.IOException;
 import java.nio.file.Path;
 import java.util.ArrayList;
@@ -17,7 +23,10 @@ import java.util.TreeMap;
 public class Reducer implements  Runnable{
 
     private final Object writeLock = new Object();
-    private static ObjectMapper objectMapper = new ObjectMapper();
+    private static final ObjectMapper objectMapper = new ObjectMapper();
+
+    private static final Gson gson = new Gson();
+
 
     public static String PHASE_ONE = "PHASE_ONE";
     public static String PHASE_TWO = "PHASE_TWO";
@@ -35,29 +44,33 @@ public class Reducer implements  Runnable{
     }
 
     public void method1(Path path) throws IOException {
-        List<DirectIndex> directIndex = objectMapper.readValue(new File(String.valueOf(path)), new TypeReference<ArrayList<DirectIndex>>() {});
-        System.out.println(PHASE_TWO + "_REDUCER  " + Thread.currentThread().getId() + "   " + path.toString());
 
-        String fileName = path.toString().replace("DirectIndex","InverseIndex").replace(".idc", ".ii");
+           List<DirectIndex> directIndex = objectMapper.readValue(new File(String.valueOf(path)), new TypeReference<ArrayList<DirectIndex>>() {
+           });
+//        JsonReader jsonReader = new JsonReader(new FileReader(new File(path.toString())));
+//        List<DirectIndex> directIndex =  gson.fromJson(jsonReader,  new TypeToken<ArrayList<DirectIndex>>() {}.getType());
+           System.out.println(PHASE_TWO + "_REDUCER  " + Thread.currentThread().getId() + "   " + path.toString());
 
-        Map<String, List<MyPair>> map = new TreeMap<>();
+           String fileName = path.toString().replace("DirectIndex", "InverseIndex").replace(".idc", ".ii");
 
-        for(DirectIndex d : directIndex){
-            String word = d.getKey();
-            MyPair pair=  d.getValue();
+           Map<String, List<MyPair>> map = new TreeMap<>();
 
-            if(map.containsKey(word)){
-                List<MyPair> pairs = map.get(word);
-                pairs.add(pair);
-                map.put(word, pairs);
-            } else {
-                List<MyPair> pairs = new ArrayList<>();
-                pairs.add(pair);
-                map.put(word, pairs);
-            }
-        }
-        File file = new File(fileName);
-        objectMapper.writerWithDefaultPrettyPrinter().writeValue(file, map);
+           for (DirectIndex d : directIndex) {
+               String word = d.getKey();
+               MyPair pair = d.getValue();
+
+               if (map.containsKey(word)) {
+                   List<MyPair> pairs = map.get(word);
+                   pairs.add(pair);
+                   map.put(word, pairs);
+               } else {
+                   List<MyPair> pairs = new ArrayList<>();
+                   pairs.add(pair);
+                   map.put(word, pairs);
+               }
+           }
+           File file = new File(fileName);
+           objectMapper.writerWithDefaultPrettyPrinter().writeValue(file, map);
     }
 
     @Override

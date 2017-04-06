@@ -215,450 +215,6 @@
     "value" : 1
   }
 }, {
-  "word" : "jack",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "jackal",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "jacobin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "jacqu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 73
-  }
-}, {
-  "word" : "jacqueri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jaggedli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jalousi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jangl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "januari",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jar",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "jargon",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jarvi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 19
-  }
-}, {
-  "word" : "jaw",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "jealou",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jealous",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jeffri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jeremiah",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jerk",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "jerri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 108
-  }
-}, {
-  "word" : "jest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "jewel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "jezebel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jingl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "jint",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "job",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "jocos",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "joe",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "john",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "joi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "join",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 13
-  }
-}, {
-  "word" : "joint",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "joke",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "joker",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "jolt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "jostl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jostlem",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "journal",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "journei",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 25
-  }
-}, {
-  "word" : "joyfulli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "juda",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "judg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 23
-  }
-}, {
-  "word" : "judgment",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "judici",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "judith",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "jug",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "juli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "jumbl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "junctur",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "june",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "junior",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jupit",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "juri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 32
-  }
-}, {
-  "word" : "juryman",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "jurymen",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "just",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 32
-  }
-}, {
-  "word" : "justic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "justifi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "justli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jar",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "jaw",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "jelli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jog",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "joi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "join",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "journei",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "judg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "jug",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jump",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "june",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "juri",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 22
-  }
-}, {
-  "word" : "juror",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "jurymen",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "just",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 49
-  }
-}, {
-  "word" : "justic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }
-}, {
   "word" : "jacket",
   "pair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
@@ -1007,508 +563,100 @@
     "value" : 5
   }
 }, {
-  "word" : "jack",
+  "word" : "jar",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "jackal",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
-  }
-}, {
-  "word" : "jacket",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jag",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "jamaica",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jamb",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "jamrach",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "japanes",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
   }
 }, {
   "word" : "jaw",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "jealou",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   }
 }, {
-  "word" : "jealousi",
+  "word" : "jelli",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
-  }
-}, {
-  "word" : "jerusalem",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "jet",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jewel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "job",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
   }
 }, {
   "word" : "jog",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "john",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 76
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   }
 }, {
   "word" : "joi",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 16
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   }
 }, {
   "word" : "join",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 17
-  }
-}, {
-  "word" : "joint",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "joke",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "jolli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "jommlin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jonathan",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 208
-  }
-}, {
-  "word" : "joost",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "joseph",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "jostlin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jot",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "joup",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "journal",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 64
-  }
-}, {
-  "word" : "journalist",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 12
   }
 }, {
   "word" : "journei",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 22
-  }
-}, {
-  "word" : "joyous",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jubil",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "juda",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   }
 }, {
   "word" : "judg",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "judgment",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 6
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
   }
 }, {
   "word" : "jug",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
-  }
-}, {
-  "word" : "juggl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jugular",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "juli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 21
   }
 }, {
   "word" : "jump",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 23
-  }
-}, {
-  "word" : "junction",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 10
   }
 }, {
   "word" : "june",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "junior",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "junip",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "jurist",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   }
 }, {
-  "word" : "just",
+  "word" : "juri",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 167
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 22
   }
 }, {
-  "word" : "justic",
+  "word" : "juror",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "justifi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "jut",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jacket",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jacob",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "jailer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jam",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "jeer",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "jemmi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jeremiah",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jewel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "jib",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "jingl",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "jip",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "job",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "jog",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 5
   }
 }, {
-  "word" : "john",
+  "word" : "jurymen",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "joi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 29
-  }
-}, {
-  "word" : "join",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "joint",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "joke",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  }
-}, {
-  "word" : "jollili",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "jorinda",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "jorindel",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  }
-}, {
-  "word" : "journei",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 28
-  }
-}, {
-  "word" : "joy",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "joyfulli",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
-  }
-}, {
-  "word" : "joyous",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "judg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
-  }
-}, {
-  "word" : "jug",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  }
-}, {
-  "word" : "juiciest",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jump",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 30
-  }
-}, {
-  "word" : "junip",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
   }
 }, {
   "word" : "just",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 87
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 49
   }
 }, {
   "word" : "justic",
   "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   }
 }, {
   "word" : "jane",
@@ -1695,6 +843,66 @@
   "pair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
+  }
+}, {
+  "word" : "jilt",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "joi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "join",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "joke",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "journei",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
+  }
+}, {
+  "word" : "judg",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "jump",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "just",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 60
+  }
+}, {
+  "word" : "justic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "justifi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   }
 }, {
   "word" : "jack",
@@ -2018,174 +1226,6 @@
   "word" : "justifi",
   "pair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "januari",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "javelin",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "jealousi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "jeann",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "joann",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "johanna",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "john",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "join",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  }
-}, {
-  "word" : "joust",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jove",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "judg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "judgment",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  }
-}, {
-  "word" : "julian",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "juliu",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 16
-  }
-}, {
-  "word" : "june",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "justic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "justif",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "justifi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "jilt",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "joi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  }
-}, {
-  "word" : "join",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "joke",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "journei",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  }
-}, {
-  "word" : "judg",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }
-}, {
-  "word" : "jump",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }
-}, {
-  "word" : "just",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 60
-  }
-}, {
-  "word" : "justic",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }
-}, {
-  "word" : "justifi",
-  "pair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   }
 }, {
@@ -2649,5 +1689,455 @@
   "pair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 21
+  }
+}, {
+  "word" : "jab",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "jabber",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "jack",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "jackass",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "jacket",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "jackson",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "jackstaff",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "jacqu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "jail",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 8
+  }
+}, {
+  "word" : "jake",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "jam",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "jamboreehoo",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "jame",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "jander",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "jane",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 49
+  }
+}, {
+  "word" : "janeero",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "jaw",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 9
+  }
+}, {
+  "word" : "jawg",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "jawin",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "je",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "jean",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "jedg",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "jeesum",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "jefferson",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "jericho",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "jerk",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "jeruslem",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "jest",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 12
+  }
+}, {
+  "word" : "jew",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "jewelri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "ji",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 22
+  }
+}, {
+  "word" : "jim",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 392
+  }
+}, {
+  "word" : "jimcrack",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "jimmi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "jimmini",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "jimpson",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "jing",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "jingl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "jingo",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "jint",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "jist",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 11
+  }
+}, {
+  "word" : "jo",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "joanna",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  }
+}, {
+  "word" : "joanner",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "job",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 19
+  }
+}, {
+  "word" : "joe",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "joggl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "john",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "johnni",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "joi",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "join",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 7
+  }
+}, {
+  "word" : "joint",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "joke",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "joker",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "jolli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "jolt",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "jour",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "journal",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "journei",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "joy",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 6
+  }
+}, {
+  "word" : "judg",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 85
+  }
+}, {
+  "word" : "judgment",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 4
+  }
+}, {
+  "word" : "judith",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "judu",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "jug",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "juic",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 3
+  }
+}, {
+  "word" : "juleri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "juli",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "juliet",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 10
+  }
+}, {
+  "word" : "jumbl",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "jump",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 50
+  }
+}, {
+  "word" : "june",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "junket",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "juri",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 1
+  }
+}, {
+  "word" : "just",
+  "pair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 271
   }
 } ]

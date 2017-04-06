@@ -2,28 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a36a995f-f284-427b-9982-309062ca55a4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/p1/Porter.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/InverseIndex/'InverseIndex.ii" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/InverseIndex/eInverseIndex.ii" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/InverseIndex/gInverseIndex.ii" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/InverseIndex/hInverseIndex.ii" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/InverseIndex/iInverseIndex.ii" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/InverseIndex/wInverseIndex.ii" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/DirectIndex/àDirectIndex.idc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/InverseIndex/àInverseIndex.ii" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/RunMain.class" afterPath="$PROJECT_DIR$/target/classes/RunMain.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/p1/Mapper$1.class" afterPath="$PROJECT_DIR$/target/classes/p1/Mapper$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/p1/Mapper$2.class" afterPath="$PROJECT_DIR$/target/classes/p1/Mapper$2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/p1/Mapper$3.class" afterPath="$PROJECT_DIR$/target/classes/p1/Mapper$3.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/p1/Mapper.class" afterPath="$PROJECT_DIR$/target/classes/p1/Mapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/p1/Reducer$1.class" afterPath="$PROJECT_DIR$/target/classes/p1/Reducer$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/p1/Reducer.class" afterPath="$PROJECT_DIR$/target/classes/p1/Reducer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/p1/TextParser.class" afterPath="$PROJECT_DIR$/target/classes/p1/TextParser.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/search/QuerryParser.class" afterPath="$PROJECT_DIR$/target/classes/search/QuerryParser.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/search/TFIDF$1.class" afterPath="$PROJECT_DIR$/target/classes/search/TFIDF$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/search/TFIDF.class" afterPath="$PROJECT_DIR$/target/classes/search/TFIDF.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RIW-proiect.iml" afterPath="$PROJECT_DIR$/RIW-proiect.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/aDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/aDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/bDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/bDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/cDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/cDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/dDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/dDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/eDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/eDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/fDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/fDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/gDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/gDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/hDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/hDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/iDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/iDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/jDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/jDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/kDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/kDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/lDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/lDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/mDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/mDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/nDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/nDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/oDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/oDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/pDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/pDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/qDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/qDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/rDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/rDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/sDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/sDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/tDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/tDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/uDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/uDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/vDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/vDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/wDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/wDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/xDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/xDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/yDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/yDirectIndex.idc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DirectIndex/zDirectIndex.idc" afterPath="$PROJECT_DIR$/src/DirectIndex/zDirectIndex.idc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/InverseIndex/aInverseIndex.ii" afterPath="$PROJECT_DIR$/src/InverseIndex/aInverseIndex.ii" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/InverseIndex/bInverseIndex.ii" afterPath="$PROJECT_DIR$/src/InverseIndex/bInverseIndex.ii" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/InverseIndex/cInverseIndex.ii" afterPath="$PROJECT_DIR$/src/InverseIndex/cInverseIndex.ii" />
@@ -45,32 +59,10 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/InverseIndex/xInverseIndex.ii" afterPath="$PROJECT_DIR$/src/InverseIndex/xInverseIndex.ii" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/InverseIndex/yInverseIndex.ii" afterPath="$PROJECT_DIR$/src/InverseIndex/yInverseIndex.ii" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/InverseIndex/zInverseIndex.ii" afterPath="$PROJECT_DIR$/src/InverseIndex/zInverseIndex.ii" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/books/0-5/A Tale of Two Cities.idc" afterPath="$PROJECT_DIR$/src/books/0-5/A Tale of Two Cities.idc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/books/0-5/AliceAdventuresInWornderland.idc" afterPath="$PROJECT_DIR$/src/books/0-5/AliceAdventuresInWornderland.idc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/books/0-5/Frankenstein.idc" afterPath="$PROJECT_DIR$/src/books/0-5/Frankenstein.idc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/books/0-5/PrideAndJustice.idc" afterPath="$PROJECT_DIR$/src/books/0-5/PrideAndJustice.idc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/books/0-5/The Yellow Wallpaper.idc" afterPath="$PROJECT_DIR$/src/books/0-5/The Yellow Wallpaper.idc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/books/10-15/Dracula.idc" afterPath="$PROJECT_DIR$/src/books/10-15/Dracula.idc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/books/10-15/Grimms' Fairy Tales.idc" afterPath="$PROJECT_DIR$/src/books/10-15/Grimms' Fairy Tales.idc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/books/10-15/The Adventures of Tom Sawyer.idc" afterPath="$PROJECT_DIR$/src/books/10-15/The Adventures of Tom Sawyer.idc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/books/10-15/The Picture of Dorian Gray.idc" afterPath="$PROJECT_DIR$/src/books/10-15/The Picture of Dorian Gray.idc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/books/10-15/The Prince.idc" afterPath="$PROJECT_DIR$/src/books/10-15/The Prince.idc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/books/5-10/A Doll's House.idc" afterPath="$PROJECT_DIR$/src/books/5-10/A Doll's House.idc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/books/5-10/Adventures of Huckleberry Finn.idc" afterPath="$PROJECT_DIR$/src/books/5-10/Adventures of Huckleberry Finn.idc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/books/5-10/Metamorphosis.idc" afterPath="$PROJECT_DIR$/src/books/5-10/Metamorphosis.idc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/books/5-10/The Adventures of Sherlock Holmes.idc" afterPath="$PROJECT_DIR$/src/books/5-10/The Adventures of Sherlock Holmes.idc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/books/5-10/The Importance of Being Earnest_ A Trivial Comedy for Serious People.idc" afterPath="$PROJECT_DIR$/src/books/5-10/The Importance of Being Earnest_ A Trivial Comedy for Serious People.idc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/RunMain.java" afterPath="$PROJECT_DIR$/src/main/java/RunMain.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/p1/Mapper.java" afterPath="$PROJECT_DIR$/src/main/java/p1/Mapper.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/p1/Reducer.java" afterPath="$PROJECT_DIR$/src/main/java/p1/Reducer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/p1/TextParser.java" afterPath="$PROJECT_DIR$/src/main/java/p1/TextParser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/search/QuerryParser.java" afterPath="$PROJECT_DIR$/src/main/java/search/QuerryParser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/search/TFIDF.java" afterPath="$PROJECT_DIR$/src/main/java/search/TFIDF.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/CountWords.txt" afterPath="$PROJECT_DIR$/src/main/resources/CountWords.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/CountWords.txt" afterPath="$PROJECT_DIR$/target/classes/CountWords.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_7_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_7.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_7_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_7.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_7_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_7.xml" />
     </list>
     <ignored path="RIW-proiect.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -99,8 +91,8 @@
       <file leaf-file-name="RunMain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/RunMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="45" selection-end-column="9" />
+            <state relative-caret-position="132">
+              <caret line="79" column="31" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,21 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="xInverseIndex.ii" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/InverseIndex/xInverseIndex.ii">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Porter.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Porter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/p1/Porter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="386" column="27" selection-start-line="386" selection-start-column="27" selection-end-line="386" selection-end-column="27" />
+            <state relative-caret-position="-34">
+              <caret line="364" column="24" selection-start-line="364" selection-start-column="21" selection-end-line="364" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -131,7 +113,7 @@
       <file leaf-file-name="TFIDF.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/search/TFIDF.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-113">
+            <state relative-caret-position="-623">
               <caret line="155" column="25" selection-start-line="155" selection-start-column="25" selection-end-line="155" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -141,23 +123,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Reducer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/p1/Reducer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mapper.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Mapper.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/p1/Mapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="113" column="139" selection-start-line="113" selection-start-column="139" selection-end-line="113" selection-end-column="139" />
+            <state relative-caret-position="1139">
+              <caret line="116" column="0" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
               <folding>
-                <element signature="e#3033#3046#0" expanded="true" />
+                <element signature="e#3105#3118#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -194,11 +166,11 @@
         <option value="$PROJECT_DIR$/src/main/java/p1/TextParser.java" />
         <option value="$PROJECT_DIR$/src/books/5-10/A Doll's House.idc" />
         <option value="$PROJECT_DIR$/src/main/resources/CountWords.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/p1/Reducer.java" />
         <option value="$PROJECT_DIR$/src/main/java/search/QuerryParser.java" />
         <option value="$PROJECT_DIR$/src/main/java/search/TFIDF.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/DirectIndex/zDirectIndex.idc" />
+        <option value="$PROJECT_DIR$/src/main/java/p1/Reducer.java" />
         <option value="$PROJECT_DIR$/src/main/java/p1/Mapper.java" />
         <option value="$PROJECT_DIR$/src/main/java/RunMain.java" />
       </list>
@@ -929,16 +901,16 @@
       <workItem from="1491225483906" duration="468000" />
       <workItem from="1491246926549" duration="12060000" />
       <workItem from="1491321164165" duration="14391000" />
-      <workItem from="1491411108389" duration="22322000" />
+      <workItem from="1491411108389" duration="27597000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79580000" />
+    <option name="totallyTimeSpent" value="84855000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -948,7 +920,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38969404" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34453782" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -984,13 +956,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/p1/Reducer.java</url>
-          <line>58</line>
+          <line>71</line>
           <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/p1/Reducer.java</url>
-          <line>37</line>
+          <line>47</line>
           <properties />
           <option name="timeStamp" value="34" />
         </line-breakpoint>
@@ -1034,38 +1006,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/p1/TextParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="44" column="29" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/books/10-15/The Adventures of Tom Sawyer.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="6708" column="19" selection-start-line="6708" selection-start-column="15" selection-end-line="6708" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DirectIndex/nDirectIndex.idc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="421" column="17" selection-start-line="421" selection-start-column="12" selection-end-line="421" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="88" column="37" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/nio/file/Paths.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -1078,14 +1018,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="155" column="9" selection-start-line="155" selection-start-column="9" selection-end-line="155" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DirectIndex/bDirectIndex.idc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="2497" column="19" selection-start-line="2497" selection-start-column="12" selection-end-line="2497" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -1226,14 +1158,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/InverseIndex/bInverseIndex.ii">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/io/FileInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -1274,26 +1198,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/InverseIndex/aInverseIndex.ii">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-187">
-          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/books/5-10/A Doll's House.idc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="4653" column="8" selection-start-line="4653" selection-start-column="5" selection-end-line="4653" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/CountWords.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1333,17 +1241,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/search/TFIDF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-113">
-          <caret line="155" column="25" selection-start-line="155" selection-start-column="25" selection-end-line="155" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3107#3179#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1376,58 +1273,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DirectIndex/aDirectIndex.idc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-43644">
-          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DirectIndex/zDirectIndex.idc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/p1/Mapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="113" column="139" selection-start-line="113" selection-start-column="139" selection-end-line="113" selection-end-column="139" />
-          <folding>
-            <element signature="e#3033#3046#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/p1/Reducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RunMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="45" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/InverseIndex/zInverseIndex.ii">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="48" column="15" selection-start-line="47" selection-start-column="22" selection-end-line="48" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/InverseIndex/xInverseIndex.ii">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -1444,11 +1289,138 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/InverseIndex/eInverseIndex.ii">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1071">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InverseIndex/aInverseIndex.ii">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DirectIndex/fDirectIndex.idc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InverseIndex/bInverseIndex.ii">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DirectIndex/bDirectIndex.idc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3710">
+          <caret line="1868" column="12" selection-start-line="1868" selection-start-column="12" selection-end-line="1868" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DirectIndex/rDirectIndex.idc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="372" column="1" selection-start-line="372" selection-start-column="1" selection-end-line="372" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DirectIndex/zDirectIndex.idc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DirectIndex/cDirectIndex.idc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3298">
+          <caret line="91" column="17" selection-start-line="91" selection-start-column="12" selection-end-line="91" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DirectIndex/aDirectIndex.idc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-765">
+          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InverseIndex/zInverseIndex.ii">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="71" column="29" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/p1/Reducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="72" column="79" selection-start-line="72" selection-start-column="79" selection-end-line="72" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/search/TFIDF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-623">
+          <caret line="155" column="25" selection-start-line="155" selection-start-column="25" selection-end-line="155" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3107#3179#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RunMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="79" column="31" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/CountWords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/p1/Porter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="386" column="27" selection-start-line="386" selection-start-column="27" selection-end-line="386" selection-end-column="27" />
+        <state relative-caret-position="-34">
+          <caret line="364" column="24" selection-start-line="364" selection-start-column="21" selection-end-line="364" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/p1/Mapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="116" column="0" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+          <folding>
+            <element signature="e#3105#3118#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

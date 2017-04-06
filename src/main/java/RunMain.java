@@ -70,14 +70,16 @@ public class RunMain {
     public static void main(String[] args) throws IOException {
 
 
-        DoIndexing();
+//        DoIndexing();
 
-//        TFIDF tfidf = new TFIDF("text JEPHRO zip");
-//
-//        Set<String> set = tfidf.calculateDistance();
-//
-//        for(String value : set){
-//            System.out.println(value);
-//        }
+        TFIDF tfidf = new TFIDF("text JEPHRO at night zip");
+
+        Set<String> set = tfidf.calculateDistance();
+
+        System.out.println("-----------------Result set-------------------");
+        System.out.println("");
+        for(String value : set){
+            System.out.println(value);
+        }
     }
 }

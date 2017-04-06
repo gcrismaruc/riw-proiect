@@ -1,1 +1,17 @@
-{ }
+{
+  "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.idc" : 111953,
+  "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.idc" : 99051,
+  "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.idc" : 26015,
+  "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.idc" : 132335,
+  "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.idc" : 152105,
+  "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.idc" : 112709,
+  "E:\\RIW-proiect\\src\\books\\0-5\\Frankenstein.idc" : 69591,
+  "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.idc" : 44435,
+  "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.idc" : 25849,
+  "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.idc" : 92718,
+  "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.idc" : 19908,
+  "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.idc" : 6933,
+  "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.idc" : 71490,
+  "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.idc" : 74673,
+  "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.idc" : 20885
+}
