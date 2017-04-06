@@ -1,59 +1,63 @@
 {
-  "prepare" : {
+  "" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 6
   },
-  "Twenty" : {
+  "german" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 11
   },
   "half" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
+    "value" : 11
   },
   "spoke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "fifty" : {
+  "govern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 1
   },
-  "Memory" : {
+  "changeabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 1
   },
-  "nowadays" : {
+  "your" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
+    "value" : 149
   },
   "pretend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 5
+  },
+  "quixot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "pretenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "these" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
   },
   "tea" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 18
   },
-  "Jacks" : {
+  "would" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 30
   },
-  "Michael" : {
+  "pick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 7
   },
   "reproach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
-  },
-  "Jouet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "electronically" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
   },
   "ccx" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
@@ -67,7 +71,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 5
   },
-  "Retreating" : {
+  "sister" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "mudi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "effronteri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "involuntari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -75,17 +91,41 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
+  "sometim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "serv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
   "solid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "'" : {
+  "intellectu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
+    "value" : 5
   },
-  "require" : {
+  "possess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
+    "value" : 1
+  },
+  "unspoil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "thoughtfulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "unbear" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "befor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
   },
   "size" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
@@ -95,97 +135,57 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 9
   },
-  "Moncrieff" : {
+  "temper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 10
+    "value" : 1
   },
   "frantic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
+  "wine" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "much" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "champagn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "besid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 9
+  },
   "object" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "newspaper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "A" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 32
-  },
-  "telling" : {
+  "flight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "accessible" : {
+  "chapter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
-  },
-  "B" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
   },
   "hang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "basinette" : {
+  "engag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "C" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "D" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "Inspects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "E" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 22
-  },
-  "F" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 12
-  },
-  "H" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "I" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 794
-  },
-  "J" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 32
   },
   "turn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "M" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "N" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 9
   },
   "elect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
-  },
-  "P" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
   },
   "gold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
@@ -195,227 +195,335 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "S" : {
+  "folli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
+    "value" : 1
   },
-  "U" : {
+  "canning" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "redoubl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "after" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 26
+  },
+  "surfac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "connect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
-  },
-  "W" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "apoplexy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "irritably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Leclercq" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "poachers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
   },
   "hand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 33
-  },
-  "resigned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 44
   },
   "a" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 442
+    "value" : 474
   },
-  "ordered" : {
+  "cigarett" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 12
   },
   "b" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 6
   },
   "address" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
+    "value" : 8
+  },
+  "enorm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "c" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 4
+  },
+  "salt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "d" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
   },
   "e" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 23
   },
-  "posture" : {
+  "f" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 12
+  },
+  "h" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "i" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 794
+  },
+  "j" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "m" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Nobody" : {
+  "n" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "eating" : {
+  "the" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
+    "value" : 795
   },
-  "effrontery" : {
+  "p" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
   "straight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Seizes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "police" : {
+  "wipe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "s" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  },
+  "thi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 118
+  },
+  "blue" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "throw" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "u" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "fifti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "w" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "thank" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 19
+  },
+  "goe" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 27
+  },
+  "demonstr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "exciting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "obvious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "information" : {
+  "novel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 5
   },
-  "Earnest" : {
+  "discuss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
+    "value" : 1
   },
-  "Rev" : {
+  "thu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 1
   },
-  "Its" : {
+  "incid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "chill" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "undoubtedli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "ladi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 140
+  },
+  "advic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "good" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 27
+    "value" : 43
   },
-  "empty" : {
+  "got" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 16
+  },
+  "violenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "PGLAF" : {
+  "leclercq" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "suffered" : {
+  "pai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 5
   },
-  "copying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "laugh" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "STRICT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "making" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Personally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "check" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "relatives" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "owed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Redistributing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "supposed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "displeased" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "provided" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Surely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Frowning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "disclaimers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "society" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Redistribution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "romantic" : {
+  "advis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 6
   },
-  "Present" : {
+  "export" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "laugh" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "practic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
+  },
+  "gower" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "apoplexi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "womanthrop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "intim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "reduc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "check" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "tediou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "list" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "practis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "success" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "distast" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "hundr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "child" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 11
+  },
+  "fortun" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "ensur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "presumptu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "chasubl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 63
+  },
+  "young" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 25
+  },
+  "contribu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "medium" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "hart" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "primari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "determin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
   },
   "hard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 6
   },
-  "ensuring" : {
+  "ridicul" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "apprehen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Young" : {
+  "live" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 16
+  },
+  "cowardli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Sinks" : {
+  "societi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "peac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -427,43 +535,95 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "quarters" : {
+  "perform" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "expose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 8
   },
   "room" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 24
+    "value" : 25
+  },
+  "with" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 106
   },
   "explosion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "permit" : {
+  "argu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "certif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "taking" : {
+  "surrend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "there" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 61
+  },
+  "judici" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "permit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "well" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 68
+  },
+  "permis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  },
+  "wilder" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "pocket" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "empti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "unhappi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "romance" : {
+  "strongli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "sexes" : {
+  "expos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "desir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  },
+  "satir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "approach" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "capaci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "myth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "loved" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -475,61 +635,105 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 6
   },
+  "write" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 10
+  },
+  "propos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 15
+  },
   "order" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
-  },
-  "reminds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 13
   },
   "poorer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "lorgnettte" : {
+  "conceit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "propose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "reform" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "schools" : {
+  "oscar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "presses" : {
+  "period" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "inten" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "pew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "binary" : {
+  "inter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "orders" : {
+  "oxonian" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "revenu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "understand" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 9
+  },
+  "mustnt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "birth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "heaven" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 12
+  },
+  "reform" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "utilitarian" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "draught" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "even" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 21
+  },
+  "aris" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "women" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
+    "value" : 9
   },
-  "vaccination" : {
+  "larger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Bishop" : {
+  "frankli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 5
   },
-  "Gower" : {
+  "wait" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 13
   },
   "pink" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
@@ -539,15 +743,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 9
   },
+  "intrud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "ceremoni" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "increas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
   "save" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Ignorance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "protection" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -557,25 +765,25 @@
   },
   "matter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 16
+    "value" : 19
   },
-  "trusty" : {
+  "entiti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 3
   },
-  "Prevention" : {
+  "mondai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "frankly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
+    "value" : 7
   },
   "hypertext" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "nephew's" : {
+  "particularli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "exquisit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -583,123 +791,143 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "noise" : {
+  "have" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 204
   },
-  "recumbent" : {
+  "presum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Fairbanks" : {
+  "slowli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 5
+  },
+  "laid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
   },
   "question" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 12
+    "value" : 14
   },
-  "Leamington" : {
+  "bought" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "additions" : {
+  "lover" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Perrier" : {
+  "excus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "intellectual" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
+    "value" : 2
   },
   "reclaim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "produce" : {
+  "charact" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "picture" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "walks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 9
   },
   "regard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "undoubtedly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Languidly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 4
   },
   "rose" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 6
   },
-  "Very" : {
+  "instanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
+    "value" : 4
   },
   "thousand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "extravagance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "All" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "capital" : {
+  "trusti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "tide" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "fundrais" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
   },
   "minor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "employee" : {
+  "chariti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 4
   },
-  "pray" : {
+  "pleas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 11
   },
-  "Mallam" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "governess" : {
+  "remot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "Copyright" : {
+  "motiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "manner" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 11
+  },
+  "upon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 10
+  },
+  "quietli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Merely" : {
+  "whenev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "sceptic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "defective" : {
+  "earlier" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "judgment" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "lai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "owns" : {
+  "west" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "stock" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "prai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 11
+  },
+  "objec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "armi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
@@ -707,123 +935,167 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "circumstances" : {
+  "evid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
   "law" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 11
   },
-  "including" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "lay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "initials" : {
+  "void" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "pardon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "AGREEMENT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "And" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 39
-  },
-  "improve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "ceremony" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "desirous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "constituted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "unenforceability" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Mudie" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Darling" : {
+  "voic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 5
   },
-  "Any" : {
+  "pardon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  },
+  "tri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "times" : {
+  "reconcili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "vacillating" : {
+  "absolut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 12
+  },
+  "convuls" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "generous" : {
+  "carter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "temptat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "were" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 16
+  },
+  "lake" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "headach" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "wagnerian" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "fruit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "Egeria" : {
+  "busi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 11
+  },
+  "entrap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "direction" : {
+  "respons" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "undeceiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "That" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 42
-  },
-  "wounded" : {
+  "wound" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "comments" : {
+  "vulgar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "suspens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "celibate" : {
+  "lanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Their" : {
+  "identif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "lengthy" : {
+  "land" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "theyr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "victim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "chooses" : {
+  "unpack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "lengths" : {
+  "lane" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 48
+  },
+  "encourag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "buri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "lining" : {
+  "bachelor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "chief" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "accord" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "cry" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "peil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "doctor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "groan" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "conduct" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "melodramat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -831,155 +1103,187 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
+  "lengthi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
   "incident" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 1
+  },
+  "walk" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
   },
   "caught" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "pity" : {
+  "cathedr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "cultur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
+  },
+  "unmarri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
   },
   "led" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "unoccupied" : {
+  "concern" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "conduc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "beautiful" : {
+  "thirti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 9
+  },
+  "piti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "Then" : {
+  "let" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 13
+    "value" : 4
+  },
+  "decai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "state" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 11
+    "value" : 28
+  },
+  "press" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "onlin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "yesterdai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "gener" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 13
   },
   "night" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 9
   },
-  "restrains" : {
+  "want" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 6
   },
-  "picks" : {
+  "statu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "probable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 4
   },
   "pack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Offering" : {
+  "restraint" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "tutelage" : {
+  "baptiz" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Bunburying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "Shropshire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "Are" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "'From" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "offering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "creating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Influence" : {
+  "migsbi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Trivial" : {
+  "marri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 41
+  },
+  "creditor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "offend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "resign" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "suppli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "cup" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "liabil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
-  },
-  "thirty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "Funds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "polite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Orders" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
   },
   "cut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 3
   },
-  "perfectly" : {
+  "distribu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 29
+    "value" : 6
   },
-  "Vanilla" : {
+  "ward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 8
   },
-  "moment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 20
-  },
-  "Defects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "calmly" : {
+  "dread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "Ask" : {
+  "crumpet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "reported" : {
+  "moment" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 24
+  },
+  "perfectli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 31
+  },
+  "found" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 10
+  },
+  "tear" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "larg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
+  },
+  "curiou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "distribute" : {
+  "attach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
+    "value" : 2
   },
-  "situation" : {
+  "advantag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -987,63 +1291,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "legislation" : {
+  "latest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Motions" : {
+  "think" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 40
+  },
+  "tragedi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Nature" : {
+  "calmli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 4
   },
-  "SUCH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "BUT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "neckties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "refused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "occurred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "desires" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "authenticity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "anxiously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "waists" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Replaces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "They" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 30
-  },
-  "OTHER" : {
+  "refresh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -1051,121 +1315,109 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "PUNITIVE" : {
+  "charg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 9
   },
-  "admitting" : {
+  "charm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 7
   },
   "watch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
   },
-  "purple" : {
+  "jouet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "quit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 39
   },
   "thing" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 25
+    "value" : 42
   },
   "fashion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 4
   },
-  "surely" : {
+  "definit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
   },
-  "medical" : {
+  "till" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 11
+  },
+  "friendship" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "principle" : {
+  "attend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Creating" : {
+  "graviti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Morning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Sees" : {
+  "nicer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "tedious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Bunburyist" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
-  },
-  "Court" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "domestic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "glare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Vanbrugh" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "lip" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "There" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 20
-  },
-  "dying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "deception" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "paying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "separation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "This" : {
+  "had" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 24
   },
-  "donation" : {
+  "prepar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "redistribut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "manor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "glare" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "lip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "late" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "school" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "immor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Exchanges" : {
+  "entir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 6
   },
   "shoot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "starts" : {
+  "hat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
+    "value" : 3
+  },
+  "wast" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "manna" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
@@ -1173,83 +1425,127 @@
   },
   "actual" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "doubl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "glass" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
-  "judgments" : {
+  "last" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 18
+  },
+  "surrei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "widely" : {
+  "adapt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "wash" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "doubt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
+    "value" : 12
   },
   "jacket" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "develop" : {
+  "solicitor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "These" : {
+  "develop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "fixed" : {
+  "misunderstand" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "courag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "hallo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "warn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "attent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "receipt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
   },
   "page" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "perambul" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
+  },
+  "poacher" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "full" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 12
+    "value" : 15
   },
-  "destiny" : {
+  "becaus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "cards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "memory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 3
   },
   "concept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "house" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 18
-  },
-  "cared" : {
+  "mallam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Moulton's" : {
+  "awar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 5
   },
-  "gentleness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "painful" : {
+  "effort" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 6
+  },
+  "trespass" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "destini" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "vanbrugh" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "gervas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "marech" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "harvest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
@@ -1257,27 +1553,47 @@
   },
   "pain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "hours" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 8
   },
   "start" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 8
   },
-  "manage" : {
+  "yew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "cucumbers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "gravity" : {
+  "ungentlemanli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "equal" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "colour" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "chanc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "dictat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "marvel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "fund" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "chang" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
   },
   "paid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
@@ -1287,151 +1603,159 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 5
   },
-  "Bunbury's" : {
+  "financi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "exacted" : {
+  "time" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 39
+  },
+  "credul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Can't" : {
+  "youll" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Come" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "PARAGRAPH" : {
+  "recoil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "trains" : {
+  "infant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "three" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 11
+  },
+  "put" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 20
+  },
+  "glanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "required" : {
+  "trai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
-  },
-  "CONSEQUENTIAL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Importance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
   },
   "ordeal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "PLAY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "remembered" : {
+  "inspec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "her" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 62
+  },
+  "deletion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "furiou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
   },
   "season" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "enter" : {
+  "payment" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
+  },
+  "enter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 40
+  },
+  "dumbleton" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "pale" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "flowers" : {
+  "applic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "lesson" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 5
   },
-  "convincing" : {
+  "wretch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "INCIDENTAL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Cathedral" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "destroy" : {
+  "baptism" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
   "muffin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 18
+  },
+  "memori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
   },
-  "metallic" : {
+  "sententi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "light" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "GIVE" : {
+  "authent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "judicial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "provide" : {
+  "happi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 7
   },
-  "Life" : {
+  "merrim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "destroi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "Smiling" : {
+  "condol" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "meals" : {
+  "tabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 14
   },
-  "primary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "requires" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Thirty" : {
+  "artist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Puts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "NOTICE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Taking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "redistribute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Could" : {
+  "anabaptist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "paperwork" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "smart" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "alien" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -1441,31 +1765,11 @@
   },
   "lot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 5
   },
-  "glasses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "computer" : {
+  "theatr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
-  },
-  "fundraising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Aynesworth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "manners" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Butler" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
   },
   "wealth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
@@ -1475,31 +1779,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "means" : {
+  "chair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "survive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 3
   },
   "profitless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "disliking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Found" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "performed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "eternal" : {
+  "struggl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -1507,15 +1795,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 12
   },
-  "Rupee" : {
+  "garden" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 13
+  },
+  "chap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "advancing" : {
+  "travel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "None" : {
+  "small" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
+  },
+  "daresai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
@@ -1523,39 +1819,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "invaluable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "alliance" : {
+  "fiction" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "possession" : {
+  "tell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 23
   },
-  "improper" : {
+  "unmix" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "husband" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
+    "value" : 6
   },
-  "Bunbury" : {
+  "dai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 38
+    "value" : 20
   },
-  "experience" : {
+  "listen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "daresay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 5
   },
   "bloom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "nuisanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -1563,205 +1855,309 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "inscription" : {
+  "bookcas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "pointing" : {
+  "magazin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "day" : {
+  "misanthrop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 12
+    "value" : 1
   },
-  "accustomed" : {
+  "beat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "interrupt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "bear" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "titl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "inspir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "consider" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "proofread" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "shilli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "gravest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "hertfordshir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "group" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "obtain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "iren" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "suppos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 22
+  },
+  "gross" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "employe" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "minutes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "created" : {
+  "tree" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
   "format" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "sacrifice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "EXCEPT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 6
   },
   "water" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "pause" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "August" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 4
   },
   "savour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "INDEMNITY" : {
+  "careless" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "distrust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "critical" : {
+  "cultiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "histori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "exchang" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "dont" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 66
+  },
+  "scienc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "request" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "part" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 12
+  },
+  "incom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "their" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "immer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "allusion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "wildli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "measl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "point" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 11
   },
-  "Pointing" : {
+  "unenforc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "principal" : {
+  "synonym" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "restraints" : {
+  "frighten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "exotic" : {
+  "pari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "ltd" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Will" : {
+  "easi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "park" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "wildly" : {
+  "facil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "process" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "seasid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "Noises" : {
+  "bottl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "attribut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Oscar" : {
+  "clear" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "aristocrat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "clean" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "meal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "subscribe" : {
+  "third" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "noticing" : {
+  "fairbank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "tongs" : {
+  "mean" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 28
+  },
+  "glad" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 10
+  },
+  "majest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Date" : {
+  "chafe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Colonel" : {
+  "hopelessli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 3
   },
-  "behaved" : {
+  "account" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 5
   },
   "dearest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
-  "smiles" : {
+  "lieuten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "Much" : {
+  "railwai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "divorc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "dote" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "preached" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "That's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "viewing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Kneels" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "finds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Thus" : {
+  "gregori" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "record" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
-  "DISTRIBUTOR" : {
+  "irreligi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "grotesque" : {
+  "nervou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "strict" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "examining" : {
+  "you" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 613
   },
-  "railway" : {
+  "happen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
+    "value" : 6
   },
-  "Albany" : {
+  "sofa" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "announcement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "accepting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "disrespectfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "carefully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
+    "value" : 6
   },
   "pass" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
@@ -1771,43 +2167,63 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "mourning" : {
+  "shock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
+    "value" : 1
   },
-  "profile" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "easy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Here" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "See" : {
+  "scoundrel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "eats" : {
+  "bill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "enthusiast" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "especi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "dork" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "court" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "disrespectfulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "impres" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "carefulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
   },
   "domain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
+    "value" : 8
   },
-  "attitude" : {
+  "juli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "relative" : {
+  "adult" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "average" : {
+  "preserv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "organ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -1815,19 +2231,71 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "touched" : {
+  "troubl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 5
   },
-  "investments" : {
+  "hon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "THE" : {
+  "shiver" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 12
+    "value" : 1
   },
-  "annoyed" : {
+  "sentenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "wednesdai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "corpor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "perrier" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "how" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 36
+  },
+  "sweetli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "releas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "inde" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 22
+  },
+  "direc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "hotel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "term" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 24
+  },
+  "celebr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "regul" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "spare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -1839,63 +2307,159 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 10
   },
-  "business" : {
+  "gover" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 11
+    "value" : 3
   },
-  "adjoining" : {
+  "chin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
   "staff" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "phrased" : {
+  "right" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "undec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "incomparable" : {
+  "march" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "Your" : {
+  "possibli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 21
+    "value" : 7
+  },
+  "nowadai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "insid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "repel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "solitud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "answer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "meet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "thursdai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "cynic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
   },
   "maximum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Terminus" : {
+  "disgrac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "paus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  },
+  "irresist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "fibr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "under" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "vaniti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "did" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 23
+  },
+  "deserv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "quarter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "proposing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
+  },
+  "represent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "die" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 6
   },
-  "Stammering" : {
+  "london" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 14
+  },
+  "reserv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "She" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 13
-  },
-  "wretched" : {
+  "gratefulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "brings" : {
+  "competi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "dir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "scotland" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "hold" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "convinc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "elabor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "absurd" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 11
+  },
+  "prior" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "club" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -1905,145 +2469,193 @@
   },
   "legal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 4
+  },
+  "talk" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 22
+  },
+  "tall" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
   },
   "cuff" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 3
   },
-  "LICENSE" : {
+  "train" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 5
   },
-  "seated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "interferes" : {
+  "accompani" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
-  },
-  "possibly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
   },
   "parcel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "journey" : {
+  "whoop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "finally" : {
+  "bangl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "remained" : {
+  "count" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "interfered" : {
+  "absurdli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "prematur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "scholar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "repli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "indiscr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "sermon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 3
   },
-  "Because" : {
+  "take" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 30
   },
-  "University" : {
+  "month" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 6
   },
-  "puzzled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "occasions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "acres" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "gratefully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "twopence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Sit" : {
+  "final" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "impossibility" : {
+  "perhap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "affec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "humbl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "appris" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "occasion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 5
+  },
+  "some" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 42
   },
   "bred" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "importance" : {
+  "bunburi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
+    "value" : 46
+  },
+  "divin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "rather" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
   },
   "back" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 29
   },
-  "papers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Radical" : {
+  "compani" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Lady" : {
+  "univers" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 128
-  },
-  "With" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
+    "value" : 2
   },
   "miss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 136
   },
-  "states" : {
+  "abid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
+    "value" : 1
+  },
+  "pound" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "undivid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "journei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "load" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "company" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "engagements" : {
+  "trot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "SCENE" : {
+  "bite" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 1
   },
-  "lorgnette" : {
+  "just" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 21
+  },
+  "sole" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "asid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "coincid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "owner" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "coupl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "midnight" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "idiot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -2051,145 +2663,245 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "permission" : {
+  "babi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
+    "value" : 8
+  },
+  "length" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "grand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 3
   },
-  "arduous" : {
+  "lorgnettt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "baby" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "pays" : {
+  "moulton" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "newsletter" : {
+  "home" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 3
   },
-  "brothers" : {
+  "michael" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "helping" : {
+  "prettiest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "print" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "adjoin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "interpret" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "relat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "grant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "strictli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "basket" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "unionist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "devot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "convers" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "visibl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "grandfath" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "ignor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
   },
   "convert" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "hope" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 18
   },
   "attempt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "TRADEMARK" : {
+  "influenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "bend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "supplies" : {
+  "action" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Despite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
   "lock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Even" : {
+  "prism" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 86
   },
-  "fools" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "proudly" : {
+  "rapidli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
-  },
-  "letters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
   },
   "fear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
+    "value" : 6
   },
-  "inspection" : {
+  "song" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "victoria" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "creat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "heartless" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
   },
   "made" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 8
   },
-  "Director" : {
+  "portmanteau" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "sense" : {
+  "forgav" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
+    "value" : 1
   },
-  "printed" : {
+  "manag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 4
   },
-  "served" : {
+  "bell" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "unfashion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "purchas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "invalid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
+    "value" : 8
   },
-  "wilderness" : {
+  "singl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "opens" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 4
   },
   "dog" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
   },
-  "status" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "glances" : {
+  "notifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "shield" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "upset" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "irrevoc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "inexcus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "natur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 18
   },
   "stamp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "scattered" : {
+  "unfortun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 9
+  },
+  "deriv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
   },
   "mention" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 15
+  },
+  "twenti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 6
   },
-  "legally" : {
+  "file" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 4
+  },
+  "mai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 57
+  },
+  "member" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "bracknel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 128
   },
   "man" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
@@ -2197,37 +2909,69 @@
   },
   "stand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 7
   },
-  "twenty" : {
+  "sherri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "cigarette" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 12
+    "value" : 2
   },
   "forward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
   },
+  "could" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 9
+  },
+  "strike" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "health" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  },
+  "bless" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "incompar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "ebook" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 17
+  },
   "widest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "marvellous" : {
+  "explan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 7
   },
-  "THAT" : {
+  "grotesqu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "fees" : {
+  "probabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
+    "value" : 1
   },
-  "condolence" : {
+  "royalti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "return" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 10
+  },
+  "nonsens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 10
+  },
+  "opera" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -2237,27 +2981,55 @@
   },
   "subject" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 10
+    "value" : 11
+  },
+  "disposi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
   },
   "feel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 10
+    "value" : 13
+  },
+  "thrill" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "british" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "main" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Lake" : {
+  "cough" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 7
   },
-  "Algernon's" : {
+  "astound" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "esteemed" : {
+  "smile" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "fine" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "find" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  },
+  "commun" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "radic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
   },
   "credit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
@@ -2267,6137 +3039,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "terrible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
   "alter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 6
   },
-  "likes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Army" : {
+  "occup" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
   "ideal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "equipment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "establishment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "ideas" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
-  },
-  "includes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "apprehensions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "directions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Price" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Kindly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Gervase" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "constitution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Information" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "commended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "nonsense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 10
-  },
-  "stain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "reckless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "coincidences" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "men" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 10
-  },
-  "smoking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "repeat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "cups" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "physical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "included" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "make" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 20
-  },
-  "met" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 11
-  },
-  "mania" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "wicked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "Brighton" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "rapidly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "stake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Reading" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Amazed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "sweeps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "inform" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "depend" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "enters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "sorrow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "danger" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "History" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "observed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "granted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "happier" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "character" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "meaning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "brow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "scornful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "drawing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "hesitatingly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Methuen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "shallying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "goals" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "boxes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "refuted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Lane" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 47
-  },
-  "LIABILITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "wonderful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "received" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "PROVIDED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "quality" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Rector's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "certificates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "highest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Discontent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "sincere" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "male" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "shared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Thoughtfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "March" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "examines" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "long" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 14
-  },
-  "remember" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "fell" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "attentively" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "But" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 63
-  },
-  "expression" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "idiotic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "bother" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "middle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "swamp" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "stay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "diary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 14
-  },
-  "inspire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "increasing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "perambulator" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "holds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Australia" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "open" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "mamma" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "treat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "agent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "forced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "suffering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "expressing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "greedy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "tampers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Manservant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "displaying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "Detestable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "surprise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Markby's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "invited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "felt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "crushed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "modification" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "grounds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "THIS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "eccentric" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "proper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Time" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "resides" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "peculiarly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "bitter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "DROP" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Primitive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "admit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "appealingly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "common" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Breaking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "performances" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "mask" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Eating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "apply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "recently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "overlook" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "beats" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "ostentatiously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "crape" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Till" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "money" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "Every" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "Nervously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "gutenberg" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 10
-  },
-  "temperance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "demoralising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "irretrievably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "tradesmen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "fingers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "nonproprietary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "loss" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "lost" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "preliminary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Child" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "profits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "worn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "beastly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "work" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 51
-  },
-  "lose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "THOSE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "lumps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "books" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "aunts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "knowing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "registration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "undeceived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "word" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "theory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "perfection'" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "love" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 23
-  },
-  "alluring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Mobbs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "secret" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "throwing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "naturally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "Lieutenant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "writing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "federal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "eat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
-  },
-  "verify" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "solitude" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Interposing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "reward" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "include" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "aged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "households" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Doctor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "converts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Everybody" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "opinion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "sends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "lots" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "altogether" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "devotion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "exists" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "upsetting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "voice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "Shaking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "prepared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "existence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "pretence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "whooping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "It's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 12
-  },
-  "EXPRESS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "state's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "buttonhole" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "spell" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "discover" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Woolton" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "rushes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "SEND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Can" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "provision" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "demeanour" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Prism" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 84
-  },
-  "Chief" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Science" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "elder" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "platform" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Points" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "spend" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "notifies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "February" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "sweetest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "entrapped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "grave" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "advantage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "gbnewby" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "telegram" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Service" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Cardew's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "Contact" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "grimace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "BEFORE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "watering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "unlink" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "deductible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "detach" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "WILL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "perfection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "exception" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "temporary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "hands" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "year" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "desperate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "allowed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "leading" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "staying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "anguish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Everything" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "music" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
-  },
-  "Street" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "July" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "silence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "agreement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 17
-  },
-  "behaving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "AK" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "ailment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Horrid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "impetuous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "version" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "stop" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "flirt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Rushes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "LONDON" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "science" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "inspires" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "detain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "guest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "returns" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Where" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "Follows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "BE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Ah" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
-  },
-  "immediately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Am" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "An" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "subsequently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "The" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 89
-  },
-  "hungry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "As" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "At" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "refuse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "festal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "prohibition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "agreed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "computers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Takes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "cultivated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "unfriendly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "learn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Handing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "invalids" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "ridiculous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "By" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "severe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "sweet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "Draws" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "evidence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "official" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "repellent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Co" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "suspense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "leave" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "Rings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "disown" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "female" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "vibrations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "surrender" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "wrote" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "originally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "bores" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Do" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 15
-  },
-  "newspapers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "encoding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "insist" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Dr" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 20
-  },
-  "obtaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "DAMAGE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Irritably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "kindly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "volume" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "vestry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "loose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Dearest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "http" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "indignant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "bored" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "rises" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "cynical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "private" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Railway" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Eh" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "metaphysical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "candidly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "companion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Sitting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "calamity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Looking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "responsible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Merriman" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 36
-  },
-  "linen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "end" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "Sussex" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "forty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "mistake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "chiefly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Replacement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "WITH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "scissors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "contempt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "cheerily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "GUTENBERG" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "Markby" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "royalties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Indian" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "START" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Meditatively" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "family" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "Cheerily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "copyright" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 13
-  },
-  "occupation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "education" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "called" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 12
-  },
-  "told" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 13
-  },
-  "Go" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "crosses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "moral" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "turns" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "deepest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "He" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 28
-  },
-  "IF" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "II" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "similar" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Whatever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "IN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "propounding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "cottages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "forte" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "crossing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Just" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Some" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "charming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "driven" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "EVEN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "If" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 33
-  },
-  "authors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "tone" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "In" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 34
-  },
-  "Is" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "Gutenberg" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 82
-  },
-  "It" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 89
-  },
-  "aback" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "representations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "remind" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "asked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "encourage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "lover's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "melodramatic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Style" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "share" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "punished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "USE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "bangle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Illness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "stored" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "FITNESS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "shake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "THIRD" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "True" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Rather" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "equanimity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "pages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "links" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Glibly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Catching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "intimately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "estate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "unfashionable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Drama" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Sunday" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "secular" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Me" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "inconvenience" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "amusement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "shame" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "NO" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Gravely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "unexpectedly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Mr" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 86
-  },
-  "elderly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "financial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Clasps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "reaching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "My" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 44
-  },
-  "Algernon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 269
-  },
-  "OF" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 13
-  },
-  "No" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 19
-  },
-  "OR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "abstraction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "politeness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "pencil" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "specific" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "complying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Of" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 15
-  },
-  "PG" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Oh" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 59
-  },
-  "appetite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "SECOND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Perhaps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Let" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "On" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "NEGLIGENCE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "developments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Or" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "ring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Millard" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "angrily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "decided" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "pounds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "butler" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "fully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "joyful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "immersion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "dining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "remain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "expected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "countries" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "wanted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "immoral" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "toothache" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "deposit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "feels" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "amuses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "guarantee" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Canon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "Royalty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "amused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "permitted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "beverage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Reproachfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "indemnify" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "attribute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "affliction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "ST" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "horror" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "silly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "black" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "fortunate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "boring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "stayed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "absolute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "Writes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "TO" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "So" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "remains" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "research" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "incomplete" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "openly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Farquhar" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "houses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "To" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 31
-  },
-  "US" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "UT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "imagine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "attractive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "town" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 22
-  },
-  "unmarried" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "girl" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 18
-  },
-  "sharing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "servants" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "ignorance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "leads" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Worthing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 61
-  },
-  "classes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "indigestion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "intrude" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Irene" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "simplicity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "originator" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "conclusion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "hurriedly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "trademark" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 10
-  },
-  "derived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "news" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "thoughts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Pulling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "green" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "TIME" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "fluently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "We" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 15
-  },
-  "grey" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Five" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "refer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "window" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "rise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "play" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "attentive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "taxes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "decide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "synonymous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Bread" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "crush" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "catch" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "give" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 17
-  },
-  "Uncle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 20
-  },
-  "lives" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "depends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "double" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "bewildered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "horrid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "stations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Fairfax" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 23
-  },
-  "Station" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "comfortable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "determined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "pulpits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "ladies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "PLEASE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "completely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "suit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "study" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "brokers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "enormously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "EBOOK" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "housekeeper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Runs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Particularly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "receiving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "modern" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "web" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "memories" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "tragic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "occasionally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "older" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "BEING" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "immaterial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Harbury" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "climate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "great" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 14
-  },
-  "happened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "wrong" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "shirt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Astounded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "songs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "pleased" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "statistics" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "christenings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "Laetitia" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "fee" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "spelled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "constantly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "They're" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "mislaid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "marked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "visible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "nearer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Advancing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "produced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "market" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "baptized" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "opener" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "indifferent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "effect" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "produces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "topic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Fall" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Ltd" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "sugar" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "politics" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "drinks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "remark" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "died" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "necessarily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Receding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "hospitality" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Until" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "butter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
-  },
-  "electric" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Niel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "From" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "approaches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "contained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "'absolute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "matters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "attention" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "headache" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "visit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "user" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "oneself" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "extent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "parent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "pleasanter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Fortunately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "bring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "decencies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "fond" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "fix" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "neglect" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "addition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "doubts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "promoting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "locality" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "EIN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Dorking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "turning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "peace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "consideration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "formed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "brother" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 50
-  },
-  "hurt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "prove" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "fibres" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "admire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "remotest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "virus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Makes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "search" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "metaphor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "furnished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Divorces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "sudden" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Defect" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Did" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "foot" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "disclaimer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Upper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "charge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "Poor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "keeping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "alternate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "lasted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "food" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Thursday" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "freely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "betoken" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "language" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "girls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "woe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "excessively" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "painfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "snare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "chairs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "criticism" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "utmost" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "quails" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "ribbon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Gwendolen's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "temptation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "garb" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "END" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "carry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "christening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "tears" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "origin" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Raising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Outside" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "content" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "dine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "Number" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "rate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "trouble" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "class" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "contrary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Garden" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Magley" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Post" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "form" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "surmised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "presents" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Hopelessly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "promotion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Professor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "practice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "transcription" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "girl's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "divine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "transcribe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "capacious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "easily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Exit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "encouraging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "lower" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "talked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Plain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "acted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "gave" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "alteration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "remotely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "May" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "turned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "majestic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "matrimony" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "literature" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "library" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "footman" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "sphere" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Unionist" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "customary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "sending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "RIGHT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "moment's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "delight" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "sadly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "James" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Use" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "knew" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "Considering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "scholar's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "disposition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "complete" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "conscious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "fun" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "www" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 10
-  },
-  "claim" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "communication" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Alas" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "months" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "Updated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "possessed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "dirs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "feeling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "charms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "City" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "entry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "license" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "disk" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "eldest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "dream" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "dish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Perfectly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Men" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "noble" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "hourly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Wells" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Except" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "draughts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "favourable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Shakes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "passionate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "brightly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "careful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "kissed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "CONTRACT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "irreligious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "head" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "considerable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "misunderstanding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "dreamed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "sympathy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "artistically" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "hear" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 12
-  },
-  "rescue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "pretty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "determine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "problematic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "considerably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "families" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "cousin" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 10
-  },
-  "drew" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "manuscript" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "kisses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "Christian" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "luxury" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Paris" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "remarks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "sitting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "infringement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "consternation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "inexperienced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "heaven's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Archive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 13
-  },
-  "wholesome" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Examines" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "registered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "You're" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "promised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "evidently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "States" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 10
-  },
-  "speaking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "extremely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 11
-  },
-  "exercises" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "clever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "Comedy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "bookcase" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "hundreds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "brand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "proposal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "relapse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "settled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "seat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Pulls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "adopt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "London" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 13
-  },
-  "donors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "obtained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "discovered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Cake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "variety" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "disturb" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "adore" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "insuperable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "lecture" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "liar" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "email" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Thomas" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "Algy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 21
-  },
-  "decision" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "shudder" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "neighbours" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "UNDER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Section" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "monster" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "flower" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "single" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "trivet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "connected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "tm" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 56
-  },
-  "Literary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 14
-  },
-  "compressed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "country" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 20
-  },
-  "commercial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "exporting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "separate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "remarkably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "blessings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "reasonable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "generations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "thoughtless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "sighted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "rules" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "devotedly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "sincerity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "trivial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "embracing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "satisfactory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "details" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "military" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Volunteers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "sentimentality" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "treated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "PROJECT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "ensure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "usual" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "dentists" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "exploded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "epidemic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "DAMAGES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "suppose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 20
-  },
-  "upright" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Please" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "NOT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "purchased" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "sees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "knot" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "frightened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "support" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "changed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "coin" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Guide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "cold" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "yesterday's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "pure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "misconception" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "life" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 31
-  },
-  "Whenever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Guides" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "gay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "I'll" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 11
-  },
-  "lieu" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "slight" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "cases" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "previous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "wide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "org" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 13
-  },
-  "Health" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "effeminate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Fifeshire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "reading" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "argue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Extension" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "superior" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "premature" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "deeper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "retort" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Moon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "daughter's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Internal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "competition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Bowing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "pupil" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "seizes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "BREACH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "problem" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "terms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 22
-  },
-  "arranging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "proof" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "abandoned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "presence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "method" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "wife" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "Apprised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Sweetly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "misfortune" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "leather" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "susceptible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "exist" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "provisions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "examples" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "revolutionary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "periodic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Tunbridge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Hesitation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "German" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 11
-  },
-  "nervously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "distribution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "ACTUAL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Mrs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "husband's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "More" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "confess" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Economy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Mother" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "continues" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "copy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 14
-  },
-  "semi" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "dare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "suspect" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "abide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "mentioning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "puts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "Yard" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "seaside" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "ended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "located" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "roses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Goodbye" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "date" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "dress" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "addresses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "reveal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "data" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "sound" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "obliged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Most" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "indignation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Calmly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "barrier" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "distributing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "blow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "proud" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "curious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "uplifted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Character" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "depended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "nuisance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "efforts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "proposed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "hills" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "send" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Both" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "expenses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "note" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "purpose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "regret" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "line" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "omnibus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "station" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Admirably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "costs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "cost" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "refreshment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "confidence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "smoke" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "allowing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "follow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "washing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "compliance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "assured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "locations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "harmless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "intend" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "celibacy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "govern" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "numerous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "England" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "explanation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "I've" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "remote" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "involuntary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "begins" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "twins" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "introduced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "contributions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "wasted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "calculate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "sister" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "whatsoever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "he'll" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "entanglement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "volunteers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "fashionable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Shows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "wine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Surrey" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "arrives" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "humble" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "flight" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "chapter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "folly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "carriage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "defence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "talking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "alienating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "arrived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "FOUNDATION" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Contributions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "deceitful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "lights" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "committed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Glares" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "licensed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "wipe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "lips" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "blue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "speaks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "days" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "returned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "disguise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "adopted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "discuss" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "reports" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "chill" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "Marechal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Brother" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "conversation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "inquisitive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Unless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Migsby" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Dead" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "FOR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "pay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "list" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "strange" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "About" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Dear" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "success" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "cleared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "child" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 10
-  },
-  "formats" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "young" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 24
-  },
-  "Picking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "obsolete" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Picks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "medium" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "remove" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Maxbohm" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Won't" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "live" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
-  },
-  "JAMES'S" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "People" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "perform" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "sprinkling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "cowardly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Enthusiastically" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "service" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Manor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "lady" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 11
-  },
-  "immoderately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "pocket" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "named" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Aunt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 24
-  },
-  "considered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "License" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 10
-  },
-  "John" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 10
-  },
-  "delivered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "untruthful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "entire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "approach" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "doting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "write" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "ceased" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "IMPLIED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "period" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "pew" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "corporation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "understand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
-  },
-  "birth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Offers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "confirmation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Square" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "slowly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "loving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "utilitarian" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "unhappy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "strongly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "appearing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "assumed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Finally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "eBook" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "engaged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 20
-  },
-  "larger" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "hundred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "wait" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "doubted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "indicating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "violence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "convulsively" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "consequence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "laid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "bought" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "redoubled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "impressions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "opportunities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "names" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "curiously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "sermons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "entity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "chronicle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "possibilities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "imposed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "conduce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "equally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "prevents" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "manner" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 10
-  },
-  "suits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "earlier" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "charity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "stock" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "void" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "accumulation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "liability" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "However" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
-  },
-  "Public" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "basis" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Three" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "pleasures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Jenkins" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "READ" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "carter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Rectory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "You'll" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "arms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "rarely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "interment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "rising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "fruit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "agitated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "vulgar" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "intended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "attending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "land" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "working" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "explanations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "victim" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "allude" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "tied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Bunburyists" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "chief" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "performing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "English" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "groan" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "conduct" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "changeable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "interested" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "renamed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "walk" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "vessels" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "quietly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "refusing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "marry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 10
-  },
-  "decay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "crowds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Married" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Thank" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 15
-  },
-  "arrangements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "meeting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "displayed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "disgraceful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Presenting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Allen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "repentance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Project" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 82
-  },
-  "induce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Belgrave" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "offend" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "chaps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "circle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Kinsey" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "reside" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "ward" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "Would" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "facts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "found" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
-  },
-  "distasteful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "excuse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "escape" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "latest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Really" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "receive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "ideals" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "implied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "standing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "ceremonies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "realise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "tragedy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Sententiously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Standing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "feelings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "till" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 10
-  },
-  "friendship" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Scheme" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "nicer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Immersion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Manager" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "secure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Sternly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "disappointed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "late" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "preserved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "things" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 17
-  },
-  "inexcusable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "hat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Bankruptcy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "offers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Heaven" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Grimly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "definite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "secrets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Thought" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Nor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "warn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Not" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "checks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Now" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "Enter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 32
-  },
-  "playing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "receipt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "employees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "sinks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Was" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "impossible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "effort" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "retires" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "complaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "yesterday" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "heavens" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
-  },
-  "loathe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "yew" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "reserving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Foundation's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "colour" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Grosvenor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "delightful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "time" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 35
-  },
-  "Cannot" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "ungentlemanly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "civilised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "tray" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "grandfather's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "notorious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "John's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Disloyalty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "happy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "infant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "continually" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "put" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 11
-  },
-  "Hallo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Special" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "struggle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Women" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "grows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "laws" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "lesson" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "baptism" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "House" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "Relations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "bedrooms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Web" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "valuable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "entrancing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "unpleasing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "methods" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Calling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "mustn't" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "confirmed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Being" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "smart" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Sits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "ways" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "absurdly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "profligate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Bracknell's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "desire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "chair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "permanent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "organized" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Few" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "garden" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 11
-  },
-  "Quite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "travel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "choice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "lays" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "facility" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "small" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "fiction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "cucumber" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "replace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "appointment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "listen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Goes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 11
-  },
-  "bear" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "proofread" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "gravest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Who" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "group" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "gross" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Especially" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "tree" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Why" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 15
-  },
-  "instinctively" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "careless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "absolutely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "KIND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Flat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "novels" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "request" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "hopelessly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Basket" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "allusion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "point" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "grieved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "sounds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Idle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "deserve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "requirements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "clear" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "Only" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "crowded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "clean" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "shilly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "debts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "approve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "valued" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "glad" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 10
-  },
-  "chafe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "account" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "innocent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "mothers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "strict" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "knowledge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "bees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "happen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "sofa" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "scoundrel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "delighted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "opportunity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "active" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "venture" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "LIMITED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Mississippi" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "triviality" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Political" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "sweetly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Somewhat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "shiver" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "trusting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "bottle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "vanity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Worthing's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Salt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "hearing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "one's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
-  },
-  "spare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "chin" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "subjects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "emotional" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "tells" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Half" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "ANYTHING" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "answer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "meet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "regarded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "calls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Prism's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Untruthful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "restored" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Revolution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "abused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Monday" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "questions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "promise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "ASCII" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Rising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "hold" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "absurd" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 11
-  },
-  "outdated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "prior" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "talk" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 18
-  },
-  "tall" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "reply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "train" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "Slowly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "For" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
-  },
-  "count" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Willis's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Hand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "revolting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "accompany" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "waiting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "beginning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Well" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 46
-  },
-  "additional" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "astounded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Catches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "tidings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Language" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "deceived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "trot" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "conceited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "reception" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Room" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "shameful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "notice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "International" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "sole" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "owner" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "midnight" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "darling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
-  },
-  "restraining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Mamma" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Satirically" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "killed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "strictly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "home" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "prettiest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Grand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "print" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Good" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 12
-  },
-  "rites" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "basket" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "womanthrope" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "reaches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "answers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "lavished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "royalty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "hope" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 18
-  },
-  "paragraphs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "action" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "husbands" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "usen't" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "heartless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "suspected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "MERCHANTIBILITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "distinctly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "unpublished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "bell" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "altered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "reached" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "impression" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Hart" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Maturity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Bayswater" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "speculations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "shield" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "DISTRIBUTE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "unpleasant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "Right" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Rose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Still" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "trunks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "file" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Ancient" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "member" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "PURPOSE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Augusta" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 23
-  },
-  "health" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "o'clock" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "presumptuous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "trusted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "machine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "evening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "return" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "codes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "charities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "instance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "concerned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "LIABLE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "practically" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Were" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "thrill" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "serve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "cough" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "Dumbleton" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "annoys" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "smile" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "fine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "downloading" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "find" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "calculated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "accepts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
   },
   "sooner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
@@ -8405,67 +3057,67 @@
   },
   "pleasant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
+    "value" : 9
   },
   "occur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Between" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Have" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 4
   },
   "sort" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
   },
-  "canonical" : {
+  "fill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "steps" : {
+  "presenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
-  "experiences" : {
+  "seriou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 19
   },
   "dentist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "friends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
   },
-  "sherry" : {
+  "guarante" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "omnibu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "forget" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
+  "servic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "professor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
   "task" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "true" : {
+  "comedi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "principles" : {
+  "true" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 4
   },
-  "Bolton" : {
+  "tast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
   "position" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
@@ -8473,17 +3125,13 @@
   },
   "present" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 16
-  },
-  "Hotel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "problems" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 20
   },
   "sentiment" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "jamess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -8491,31 +3139,47 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "dangerous" : {
+  "lectur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "appears" : {
+  "stain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 1
   },
-  "troubles" : {
+  "certainli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 21
+  },
+  "execut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "hour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
+    "value" : 10
   },
-  "advise" : {
+  "hous" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
+    "value" : 24
   },
-  "magazines" : {
+  "reckless" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "men" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 11
+  },
+  "repeat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "regulating" : {
+  "insuper" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "calam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -8523,83 +3187,103 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
+  "distinctli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "make" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 35
+  },
+  "met" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 11
+  },
+  "capit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
   "heard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 6
   },
-  "experienced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "West" : {
+  "mania" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Sprinkling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "pretended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Embracing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "shocked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "extraordinary" : {
+  "extraordinari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
   },
-  "Upon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "hypocrisy" : {
+  "hypocrisi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "online" : {
+  "proudli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "stake" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "domest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
   },
-  "Pray" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "writes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "measles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "coming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "REMEDIES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Old" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "United" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 10
-  },
-  "sows" : {
+  "mere" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "theatre" : {
+  "princip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "tamper" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "diari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 14
+  },
+  "curl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "inform" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 15
+  },
+  "depend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 9
+  },
+  "about" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 35
+  },
+  "commit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "sorrow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "danger" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "hesitatingli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "envelop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "cover" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -8607,75 +3291,135 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
+  "happier" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
   "outfit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "fashioned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "based" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "intention" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "enthusiastic" : {
+  "brow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Starting" : {
+  "ostentati" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "guardian's" : {
+  "immedi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "suscept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "processing" : {
+  "august" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "expurgations" : {
+  "uplift" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "invent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "immoder" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "impati" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "empir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "forgiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  },
+  "highest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "except" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "programm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "male" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "qualiti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "acquir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "shoreman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "fact" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 29
+    "value" : 31
   },
-  "dictating" : {
+  "monthli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "One" : {
+  "long" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 14
+  },
+  "redistribu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "announc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "fell" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "saturdai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "abus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "unless" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "excess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 5
   },
-  "respectable" : {
+  "christian" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Surprised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 8
   },
   "thrift" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "wonderfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Under" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "patronising" : {
+  "depres" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -8683,55 +3427,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 7
   },
-  "equality" : {
+  "harburi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "metaphorically" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "TABLEAU" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "dictation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Don't" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
   "honour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "accordance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Cousin" : {
+  "bother" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Hertfordshire" : {
+  "polit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 7
   },
-  "people" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 31
-  },
-  "Speaking" : {
+  "wonderfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
+  },
+  "swamp" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "commerc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "appear" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 9
   },
   "face" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "celebrations" : {
+  "abandon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -8739,59 +3471,151 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 15
   },
-  "After" : {
+  "allur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
+    "value" : 1
   },
-  "Laughing" : {
+  "household" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "household" : {
+  "allud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "polic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "unoccupi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "mani" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "open" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "stai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "mamma" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 12
+  },
+  "rector" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "treat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "agent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "monei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  },
+  "bishop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "instinct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 3
   },
-  "inside" : {
+  "invest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "Full" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "melancholy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "leaves" : {
+  "atten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "provincial" : {
+  "project" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 86
+  },
+  "whatev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "ici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "icy" : {
+  "sever" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 13
+  },
+  "loos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "impatient" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "admirable" : {
+  "restrain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "collection" : {
+  "five" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
+    "value" : 9
   },
-  "finding" : {
+  "melancholi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "vanilla" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "relaps" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "appealingli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "felt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "wont" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 12
+  },
+  "greedi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "entranc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "look" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 45
+  },
+  "idl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "inspect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "guid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "investig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -8799,95 +3623,267 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "loudly" : {
+  "romant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "allow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 16
+  },
+  "squar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "brut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "arriv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "transcrip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "wholesom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "lord" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
   },
   "father" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
+    "value" : 7
+  },
+  "binari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "commerci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "rule" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 4
   },
-  "derivative" : {
+  "proper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "commerce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "assistance" : {
+  "transcrib" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "recognised" : {
+  "bitter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Aside" : {
+  "everi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "recal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "surfaces" : {
+  "peopl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 35
   },
-  "glares" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Title" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "calculating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "scrapes" : {
+  "romanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "Heaven's" : {
+  "outsid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "loudli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "admis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "admit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
+  },
+  "common" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "interest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 9
+  },
+  "admir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  },
+  "appli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "wonder" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  },
+  "twin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "mask" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "middl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "accustom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "overlook" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "commend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "bedroom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "crape" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "annoi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "mari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "revolu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "comment" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Rushing" : {
+  "step" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "comparatively" : {
+  "basi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "revolt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "excit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "gutenberg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 96
+  },
+  "peculiarli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "mark" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
+  },
+  "tunbridg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "base" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "registr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "twopenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "tradesmen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "fair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "unwell" : {
+  "preliminari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "charitable" : {
+  "theori" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 2
+  },
+  "agricultur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "loss" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "critic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
   },
   "grammar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Lists" : {
+  "beastli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "price" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "kinsei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "lost" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "improb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "profession" : {
+  "outli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "nonproprietari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -8895,99 +3891,119 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Exploded" : {
+  "terminu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "passionately" : {
+  "still" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 9
+  },
+  "worn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "compress" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "work" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 85
+  },
+  "lose" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "hesit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "arise" : {
+  "propound" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "I'd" : {
+  "declin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "wors" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "statem" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "grimli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "impetu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "word" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
   },
-  "reduced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "dressed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "agree" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "Captain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Our" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "I'm" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 14
-  },
-  "EARNEST" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "fascination" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "enjoyment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "DISCLAIMER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Society" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Opera" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
   "refund" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
+    "value" : 10
+  },
+  "love" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 25
   },
   "distress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "inquiringli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "donations" : {
+  "celib" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 12
-  },
-  "damages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 1
   },
   "church" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 4
   },
-  "classical" : {
+  "iii" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "affectionate" : {
+  "enjoy" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "discontinue" : {
+  "verifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "impos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "secret" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "requir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 11
+  },
+  "rupe" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "exten" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "recep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -8997,33 +4013,49 @@
   },
   "fall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "dined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "outlying" : {
+  "scatter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "eat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 18
+  },
+  "reced" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "reward" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
   },
   "finger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
-  "caused" : {
+  "repent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "sweetness" : {
+  "buttonhol" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "basinett" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Generals" : {
+  "subscrib" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Pencil" : {
+  "puzzl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "unalter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -9031,27 +4063,59 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 7
   },
-  "appearance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "culture" : {
+  "opinion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "Gwendolen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 177
-  },
-  "damaged" : {
+  "excel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "runs" : {
+  "cucumb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
+  },
+  "literari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 14
+  },
+  "devotion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Geography" : {
+  "cannot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "excep" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "stir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "averag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "devour" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "first" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 23
+  },
+  "indian" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "allen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "infinit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -9067,7 +4131,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "vegetarians" : {
+  "vicin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "disguis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "whistl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -9075,7 +4147,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "reference" : {
+  "niel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -9083,71 +4155,67 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "arrange" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "aristocratic" : {
+  "punit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "punctuality" : {
+  "simpl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 5
   },
   "nephew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
+    "value" : 7
   },
-  "Bitterly" : {
+  "from" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 61
+  },
+  "spell" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
   },
   "ill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 14
   },
-  "cuffs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "finished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "published" : {
+  "purpl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "solicit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 3
   },
-  "Transcribed" : {
+  "fals" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 3
   },
   "spade" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "covered" : {
+  "impli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "provision" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "indign" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "enjoi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "dignified" : {
+  "demeanour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 1
   },
-  "replacement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "invariably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Opens" : {
+  "sporran" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -9155,19 +4223,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 6
   },
-  "advice" : {
+  "arrai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "statements" : {
+  "goodby" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "error" : {
+  "frequent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "vincent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "elder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "bends" : {
+  "error" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "lesse" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "platform" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -9175,231 +4259,299 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "holding" : {
+  "liber" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
-  },
-  "moments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "public" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 13
   },
   "paper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 3
   },
-  "array" : {
+  "public" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 16
+  },
+  "essenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "unalterable" : {
+  "spend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Thanks" : {
+  "protec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "sweetest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "grave" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "improp" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "telegram" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "DIRECT" : {
+  "improv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 4
   },
-  "listening" : {
+  "rush" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "fortune" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Cecily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 256
-  },
-  "expensive" : {
+  "inconveni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "jack" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 290
   },
   "nigh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Serious" : {
+  "frederick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 1
   },
   "round" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 14
   },
-  "Additional" : {
+  "unlink" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Tell" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "YOU" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "Cardew" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 25
-  },
-  "references" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "redistribution" : {
+  "gbnewbi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "fifeshir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "detach" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "retir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "agit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "perman" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "sternli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "refus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "year" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 19
+  },
+  "refut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "absenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "unsatisfactori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "sensat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "anguish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "temporari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "unfriendli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "music" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 9
   },
   "poor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 15
+    "value" : 17
   },
-  "Might" : {
+  "scorn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "unsatisfactory" : {
+  "volum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 4
   },
-  "improbable" : {
+  "algernon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Bloxham" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "invented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 271
   },
   "grief" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
+  "hungri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "newslett" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
   "younger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 5
   },
-  "excellent" : {
+  "fireplac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "redistributing" : {
+  "agreem" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 18
+  },
+  "merchant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "adapted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "shaking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Park" : {
+  "satisfac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "persons" : {
+  "ailment" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "charges" : {
+  "version" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Author" : {
+  "stop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "flirt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "detain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "endure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "providing" : {
+  "ceas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
   },
-  "weeks" : {
+  "handl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "guest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "economi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "detail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "essence" : {
+  "isnt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
   "unkind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "uncertainty" : {
+  "ein" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "posted" : {
+  "unpublish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "French" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "retire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 1
   },
   "aspect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
+  "festal" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "vegetarian" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "maglei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "machin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
   "close" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "linked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Got" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "reconciliation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "practised" : {
+  "unromant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "profes" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "sweep" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "learn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "aynesworth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "distributor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "fast" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "trials" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Kisses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "calling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "qualities" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
@@ -9407,35 +4559,67 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "frankness" : {
+  "uncertainti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "communicate" : {
+  "sweet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 9
+  },
+  "kindli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "cheerili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "iso" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "astonishment" : {
+  "movem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Email" : {
+  "specif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Lives" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Melan" : {
+  "acr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "act" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 11
+  },
+  "post" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "vacil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "agricultural" : {
+  "rel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "ghastli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "finish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "disown" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "remedi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -9443,59 +4627,83 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "Ernest" : {
+  "merriman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 80
+    "value" : 36
   },
-  "ceremonials" : {
+  "georg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "equanim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "educational" : {
+  "incomplet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Gorgon" : {
+  "rev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "Isn't" : {
+  "initi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "vestri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "wrote" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "often" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
   },
   "consent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 8
   },
-  "luxuriously" : {
+  "insist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "respect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
+    "value" : 7
   },
-  "There's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "groans" : {
+  "retreat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "income" : {
+  "indecor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "altern" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "civilis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "http" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  },
+  "woolton" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
   "trust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 5
   },
-  "united" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "production" : {
+  "companion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -9503,63 +4711,67 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
   },
-  "choose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "Gregory" : {
+  "interfer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "directory" : {
+  "famili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 8
+  },
+  "consequ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
   },
   "prevent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 3
   },
-  "behave" : {
+  "candidli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "happiness" : {
+  "linen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 1
   },
-  "Donations" : {
+  "attitud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "end" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
+  },
+  "strang" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  },
+  "colonel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "strikes" : {
+  "modifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "bills" : {
+  "volunt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  },
+  "anyth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "humiliation" : {
+  "howev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 13
   },
-  "Governess" : {
+  "special" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 5
   },
-  "embrace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "identify" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "ghastly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "improvement" : {
+  "contempt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -9567,11 +4779,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 10
   },
-  "Club" : {
+  "uncl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 26
+  },
+  "untruth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "agre" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 10
+  },
+  "pulpit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "scandalous" : {
+  "belgrav" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "numer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "detest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "chiefli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -9579,89 +4815,101 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "age" : {
+  "directori" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 15
+    "value" : 1
+  },
+  "analogi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "copyright" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 14
+  },
+  "donat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 21
+  },
+  "expurg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "specul" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "told" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 13
   },
   "ago" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 5
   },
+  "properti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
   "rid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
   },
-  "chronicles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "accessed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "faults" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "years" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 15
-  },
-  "number" : {
+  "moral" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 6
   },
-  "disappointment" : {
+  "number" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
+    "value" : 7
   },
   "defect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 7
   },
-  "George" : {
+  "pagan" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "identifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "deepest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "punish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "proflig" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "happili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "decline" : {
+  "similar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "property" : {
+  "invit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "strangely" : {
+  "evelyn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "incomprehensible" : {
+  "forti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 3
   },
-  "months'" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Evensong" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "carelessness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "whistle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "distributed" : {
+  "exit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
-  },
-  "happily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
   },
   "system" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
@@ -9671,47 +4919,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Chasuble" : {
+  "driven" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 63
+    "value" : 1
   },
-  "Miss" : {
+  "jame" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 132
+    "value" : 1
   },
-  "AGREE" : {
+  "tong" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "other" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 22
+  },
+  "tone" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
-  },
-  "Bracknell" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 125
-  },
-  "Fiction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "blessing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
   },
   "aim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "uncle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "father's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
   "retain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "HAVE" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -9723,167 +4955,203 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "courage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "tm's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "extravagant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "electronic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 27
-  },
-  "speak" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 19
-  },
-  "unsolicited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Believe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "filled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "eBooks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "Indeed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 10
-  },
-  "FIRST" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "satisfaction" : {
+  "aback" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "undeceive" : {
+  "local" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "remind" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "mobb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "assur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "pictur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "assum" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "afflic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "locat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "speak" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 27
+  },
+  "share" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "consciou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "invalu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "notic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
   },
   "recollect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Wedding" : {
+  "surpris" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "citi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "removed" : {
+  "sprinkl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "future" : {
+  "exampl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
+    "value" : 1
+  },
+  "pleasur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 17
   },
   "blurt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "DONATIONS" : {
+  "endur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "movement" : {
+  "mississippi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "copied" : {
+  "indiges" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "shake" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 10
+  },
+  "scissor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "glove" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "points" : {
+  "anxiou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 6
   },
-  "Passionately" : {
+  "grimac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "copies" : {
+  "trial" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
+    "value" : 1
   },
   "reap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "modified" : {
+  "ala" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "presume" : {
+  "oblig" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "unsolicit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "airili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "Impossible" : {
+  "all" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 88
+  },
+  "manserv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Canninge" : {
+  "new" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "escap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
-  },
-  "respectability" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
   },
   "read" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 10
+    "value" : 15
+  },
+  "simplic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "touch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 3
   },
-  "applicable" : {
+  "shall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
+  },
+  "choos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "rememb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
   },
   "real" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "admission" : {
+  "chronicl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "Crossing" : {
+  "unit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 11
   },
-  "couples" : {
+  "invari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
-  "expense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Newby" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "maintaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "monthly" : {
+  "secular" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -9891,43 +5159,71 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "personification" : {
+  "dignifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "evensong" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Charming" : {
+  "shame" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 4
   },
-  "badly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "PERSONS" : {
+  "tori" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "brother's" : {
+  "medic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 1
   },
   "favour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 4
   },
-  "cleverness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "weakness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Sugar" : {
+  "badli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "Hands" : {
+  "disappoint" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "unexpectedli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "patronis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "calcul" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "and" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 352
+  },
+  "elderli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "medit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "obsolet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "ani" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 20
+  },
+  "immens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
@@ -9939,67 +5235,107 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "looked" : {
+  "pencil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "portmanteaus" : {
+  "indemn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "unnecessary" : {
+  "misfortun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "irresistible" : {
+  "neologist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "previou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "femal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "compilation" : {
+  "exot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Looks" : {
+  "shant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 1
+  },
+  "unnecessari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "until" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "bunburyist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 10
+  },
+  "estat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "reason" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
+    "value" : 6
   },
   "thought" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
+    "value" : 9
   },
-  "accurate" : {
+  "ring" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "lifetim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "meditative" : {
+  "maintain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "taste" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "acts" : {
+  "reproachfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "identification" : {
+  "rectori" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "shropshir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
   },
   "cake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
+    "value" : 10
   },
-  "Foundation" : {
+  "english" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 21
+    "value" : 3
   },
-  "unspoiled" : {
+  "butler" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "mistak" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "outrag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "languidli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -10007,23 +5343,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "unmixed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Rises" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "goodness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Evelyn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "devoted" : {
+  "angrili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -10035,81 +5355,81 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "inattentive" : {
+  "circumst" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "remain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
   },
   "demand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "spheres" : {
+  "duchess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "warranties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Refund" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "pathetic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Charity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "succeeded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "frequently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Bunburyed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "aristocracy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "acquire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Certainly" : {
+  "letter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 7
   },
-  "branded" : {
+  "deposit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "necessarili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "fruits" : {
+  "astrai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Many" : {
+  "recommend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "takes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "stirred" : {
+  "indemnifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "experienc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "postur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "worth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 64
+  },
+  "ernest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 82
+  },
+  "silli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "ripe" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "where" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 16
+  },
+  "aristocraci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
   },
   "arm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 3
   },
   "popular" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
@@ -10117,319 +5437,387 @@
   },
   "pglaf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
+    "value" : 5
+  },
+  "algi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 22
   },
   "broken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "thoughtful" : {
+  "horror" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "esteem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Had" : {
+  "neckti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "infring" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "black" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
   },
   "holder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
   },
-  "curls" : {
+  "broker" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Pretty" : {
+  "fulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
   "call" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 15
-  },
-  "bowed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 32
   },
   "calm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Pleasantly" : {
+  "such" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "demoralis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Wagnerian" : {
+  "classic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "astray" : {
+  "essenti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "relations" : {
+  "ask" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
+    "value" : 19
   },
-  "solicitors" : {
+  "principl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "recumb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "engagement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 10
-  },
-  "Compliance" : {
+  "openli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "lifetime" : {
+  "innoc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
   "run" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 4
   },
-  "crumpets" : {
+  "cant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "refin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "research" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
   },
   "mother" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
+    "value" : 8
+  },
+  "sussex" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "view" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 7
   },
-  "'AS" : {
+  "preach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "donate" : {
+  "discov" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
+    "value" : 4
   },
-  "machinations" : {
+  "those" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Airily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Bring" : {
+  "difficulti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "motives" : {
+  "imposs" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 3
   },
-  "lifted" : {
+  "town" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 22
+  },
+  "methuen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "worse" : {
+  "examin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 4
   },
-  "Continuing" : {
+  "might" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 11
+  },
+  "gladli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "FULL" : {
+  "irrit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 3
   },
-  "difficulty" : {
+  "girl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Cuts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 24
   },
   "longer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "volunteer" : {
+  "introduc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "privat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "consum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "gladly" : {
+  "name" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "parties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "marrying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 44
   },
   "worst" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "leaving" : {
+  "mourn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 4
   },
-  "Domain" : {
+  "bolton" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "mercenary" : {
+  "humili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "physic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "import" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 18
   },
   "mood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "Yes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 61
-  },
-  "absence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "book" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "approaching" : {
+  "reli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
+  "book" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 9
+  },
+  "attract" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  },
   "show" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 4
   },
   "edition" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 6
   },
   "disappear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "coughs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "emigrating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
   "hatband" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "forgave" : {
+  "nor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "immateri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "gloves" : {
+  "conclusion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "comput" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "not" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 149
+  },
+  "horticultur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "mercenari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "farquhar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "crying" : {
+  "street" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "defenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "arrive" : {
+  "now" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 37
+  },
+  "nearli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Mary" : {
+  "trademark" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 11
+  },
+  "fluentli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "ascii" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "rite" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "wai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "green" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "hurriedli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "lavish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "frown" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "duti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 12
+  },
+  "what" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 97
+  },
+  "knowledg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "indiscretion" : {
+  "refer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Vincent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "sympathies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "learned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "introduce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Sporran" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "suddenly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "radically" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "christened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 17
-  },
-  "Her" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "guidance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 4
   },
   "nervous" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 3
   },
-  "duty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "delicate" : {
+  "window" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "horticulturally" : {
+  "rise" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 18
+  },
+  "suddenli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "incomprehens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "fancy" : {
+  "grei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "WARRANTIES" : {
+  "yard" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "when" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 31
+  },
+  "appetit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
-  },
-  "Gerald" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
   },
   "cart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
   },
-  "Brut" : {
+  "plai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 9
   },
   "cast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
@@ -10441,9 +5829,9 @@
   },
   "anxious" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
+    "value" : 1
   },
-  "dressing" : {
+  "crush" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
@@ -10451,131 +5839,171 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "largely" : {
+  "displai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 8
   },
-  "Examine" : {
+  "electron" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 29
   },
-  "Worn" : {
+  "catch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 4
   },
   "case" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 21
+    "value" : 22
   },
-  "flirts" : {
+  "give" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 19
+  },
+  "sundai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "admired" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Ernest's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "III" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "eighteen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "affections" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "He's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Eighteen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Lord" : {
+  "ahem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 7
   },
-  "rely" : {
+  "eighteen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "obviou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "horrid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "usent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "refined" : {
+  "trunk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Dyall" : {
+  "explod" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "destin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "melan" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "moon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "studi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "stiffli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "consid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "futur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  },
+  "didnt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "everyth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "waist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
   "style" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "suit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
   },
   "card" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
+    "value" : 6
   },
   "care" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
+    "value" : 12
   },
-  "damage" : {
+  "direct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "trespassing" : {
+  "terribl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
+  },
+  "compil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Lots" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "bottles" : {
+  "laetitia" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
-  },
-  "babies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Rector" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "fireplace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Anabaptists" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
   },
   "scrape" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "couldnt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
   },
   "madam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "invitations" : {
+  "caus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "modern" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
+  },
+  "violat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "web" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "wed" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "tragic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "dared" : {
+  "older" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "physician" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -10587,247 +6015,283 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "consolation" : {
+  "rescu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "more" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 31
   },
   "born" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "display" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
   "kill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 3
   },
-  "distressing" : {
+  "morn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 10
+  },
+  "great" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 14
+  },
+  "heret" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "bore" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 6
   },
-  "inaccurate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "His" : {
+  "wrong" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
   },
-  "Messrs" : {
+  "fanci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "General's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "accounts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
-  "speculating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "persistently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "simple" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "philanthropic" : {
+  "shirt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "influence" : {
+  "advanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
+    "value" : 6
   },
-  "devoured" : {
+  "sacrific" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "fee" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 12
+  },
+  "preven" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "section" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
+  },
+  "simpli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
   },
   "cloud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "other's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "unromantic" : {
+  "abstrac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "INCLUDING" : {
+  "few" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "constantli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Mission" : {
+  "mislaid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "kneeling" : {
+  "grosvenor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "speculation" : {
+  "england" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Turns" : {
+  "desper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "interrupting" : {
+  "profil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 4
   },
   "kind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 21
+    "value" : 22
   },
-  "exquisitely" : {
+  "daili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "nearer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "domesticity" : {
+  "rais" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "both" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 14
+  },
+  "market" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Tries" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "important" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "parting" : {
+  "most" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "phrase" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
+    "value" : 6
   },
-  "Produces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "daily" : {
+  "imagin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "Pagan" : {
+  "alexand" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "affection" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "forgiving" : {
+  "effect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "keep" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 10
+  },
+  "topic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "valuabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "morbid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
   "daughter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
+    "value" : 5
   },
   "omit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
+  "sugar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "who" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 54
+  },
   "cloth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 6
   },
-  "limitation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "pretending" : {
+  "primit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "solicitation" : {
+  "why" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 31
   },
-  "bows" : {
+  "continu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "remark" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
-  },
-  "investigations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
   },
   "forbid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Shall" : {
+  "captain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "moncrieff" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 11
+  },
+  "resid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "donor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "joy" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
   },
   "sad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "consoles" : {
+  "arrang" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "newbi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Jack" : {
+  "david" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 287
-  },
-  "mentioned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
+    "value" : 1
   },
   "profit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 4
   },
-  "Release" : {
+  "breach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "butter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 9
+  },
+  "move" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
   },
   "amount" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "move" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "comply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "original" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Tories" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "sandwich" : {
+  "dislik" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "increase" : {
+  "sandwich" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  },
+  "liabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "griev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -10839,31 +6303,55 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 16
   },
-  "REPLACEMENT" : {
+  "oclock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "educated" : {
+  "consol" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "situat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "guests" : {
+  "compli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 9
   },
-  "depression" : {
+  "archiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 13
   },
-  "You" : {
+  "visit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 101
+    "value" : 4
   },
-  "simply" : {
+  "approv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 5
   },
-  "momentary" : {
+  "user" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "oneself" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "confid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "extent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "parent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
+  },
+  "viru" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -10873,9 +6361,13 @@
   },
   "christen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 26
   },
-  "sensational" : {
+  "bring" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "luxuri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
@@ -10887,55 +6379,151 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "kiss" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Embraces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "offer" : {
+  "complet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
   },
-  "suffer" : {
+  "kiss" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 10
+  },
+  "canon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "fond" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "offer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 11
+  },
+  "fit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "SCENES" : {
+  "suffer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "egeria" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "gentl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "fix" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
   },
   "neighbourhood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "scepticism" : {
+  "leamington" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Hon" : {
+  "loath" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "rank" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "neglect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "addition" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "despit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "posit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "sure" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 20
+  },
+  "grow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "ag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 16
+  },
+  "ah" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 9
+  },
+  "indignantli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "entangl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
   "disclaim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "elig" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "ak" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "accurately" : {
+  "am" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 100
   },
-  "'Mr" : {
+  "greatli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 1
   },
-  "How" : {
+  "an" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 18
+    "value" : 52
   },
-  "violates" : {
+  "secur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "ar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 131
+  },
+  "as" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 113
+  },
+  "momentari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "at" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 92
+  },
+  "constitut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "bayswat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -10943,19 +6531,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "IS'" : {
+  "brother" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 56
+  },
+  "hurt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "greatly" : {
+  "frank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
-  "hesitation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "bachelors" : {
+  "gerald" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -10967,115 +6555,203 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
+  "be" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 200
+  },
+  "prove" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "allianc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "scheme" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
   "affect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
+  "remotest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
   "dead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 5
   },
-  "IRS" : {
+  "constitu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "eyes" : {
+  "vaccin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "coldly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Couldn't" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "amuse" : {
+  "servant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "proved" : {
+  "see" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 30
+  },
+  "search" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "responsibility" : {
+  "metaphor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 3
+  },
+  "fool" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "sudden" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "by" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 53
+  },
+  "markbi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
   },
   "dear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 59
+    "value" : 64
+  },
+  "foot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "coldli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "set" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 11
   },
-  "ISO" : {
+  "contain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Liberal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 6
   },
   "sex" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 3
   },
-  "entered" : {
+  "co" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "confirmations" : {
+  "freeli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "food" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "ACT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "WARRANTY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "vicinity" : {
+  "renam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "somewhat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
   },
   "earnest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 7
   },
   "bed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "beauty" : {
+  "unwel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 1
+  },
+  "bee" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "betoken" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "beg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 9
   },
-  "deposited" : {
+  "di" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "offic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
+  },
+  "forc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "do" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 92
   },
   "stroll" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
+  "eccentr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "woe" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "dr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 20
+  },
+  "parti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "furnish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
   "bet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "marriages" : {
+  "discontinu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "slightingly" : {
+  "snare" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "guidanc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "beauti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "dy" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -11083,105 +6759,153 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
+  "rare" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
   "contact" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
+    "value" : 5
   },
-  "North" : {
+  "shalli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "REFUND" : {
+  "epidem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "anxiety" : {
+  "utmost" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Moncrieff's" : {
+  "painfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "vaguely" : {
+  "which" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 21
+  },
+  "deduct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "party" : {
+  "eh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "duties" : {
+  "metropolitan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
+    "value" : 1
   },
-  "Alexander" : {
+  "ribbon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "carri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "complain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "emigr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
+  },
+  "never" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 55
+  },
+  "she" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 48
+  },
+  "ey" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "garb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "activ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "prohibi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "sentim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "debt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "compar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "matrimoni" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "deep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "distrusted" : {
+  "indic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "bloxham" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
   },
   "shy" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "deletions" : {
+  "origin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 5
   },
-  "forgive" : {
+  "for" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "Scotland" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 155
   },
   "depress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Inquiringly" : {
+  "content" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "unhappily" : {
+  "clasp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "wronged" : {
+  "dine" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 14
   },
-  "signs" : {
+  "rate" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "related" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 7
   },
   "candid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Severely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
-  },
   "aunt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 12
-  },
-  "indignantly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 38
   },
   "await" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
@@ -11191,187 +6915,331 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
+  "promot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
   "sir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 30
   },
-  "views" : {
+  "class" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
+    "value" : 5
   },
-  "INDIRECT" : {
+  "settl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "lump" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
   },
   "sit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
+    "value" : 15
+  },
+  "unhappili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "inquisit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "brilliant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "living" : {
+  "luggag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 4
   },
-  "practical" : {
+  "surmis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "slightingli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "someth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
   },
   "bound" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 6
   },
-  "false" : {
+  "go" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "wearing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 30
   },
   "dinner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 7
   },
-  "goodness'" : {
+  "contrari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "vagu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "marriag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
+  },
+  "displeas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "form" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 9
   },
   "candour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "envelopes" : {
+  "publish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "elaborate" : {
+  "restor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "amazement" : {
+  "fort" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 2
   },
-  "'To" : {
+  "foundat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 25
+  },
+  "he" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 90
+  },
+  "posses" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "astonish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Nearly" : {
+  "promotion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "hi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 30
   },
   "parasol" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "advanced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "Which" : {
+  "crowd" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
+  },
+  "easili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "degre" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "altogeth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "warranti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
   },
   "sick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
+  "ventur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "veri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 93
+  },
+  "promis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
   "corner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "Unmarried" : {
+  "vessel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "ordinari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "id" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
   },
   "join" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "sentence" : {
+  "promin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "deceiving" : {
+  "if" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 100
   },
-  "realised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "large" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
-  },
-  "Victoria" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "satisfied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "ordinary" : {
+  "french" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
   },
-  "unpacked" : {
+  "ii" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "im" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 14
+  },
+  "extravag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "in" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 365
+  },
+  "inquiri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "director" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "lower" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "metal" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "ir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "is" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 429
+  },
+  "fascin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "it" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 298
   },
   "foolish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "drink" : {
+  "sympathi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "Girls" : {
+  "tutelag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "reconsider" : {
+  "decid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "iv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
+  },
+  "drink" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "surviv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "notori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "experi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "gave" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "constern" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "john" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 11
   },
   "begin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 8
   },
-  "Wilde" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "recommending" : {
+  "anxieti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "paragraph" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 10
-  },
-  "Besides" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
+    "value" : 14
   },
   "brought" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "works" : {
+  "librari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 32
+    "value" : 2
   },
-  "Empire" : {
+  "valu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "payments" : {
+  "amaz" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "customari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "neighbour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
@@ -11379,41 +7247,45 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "thinking" : {
+  "believ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 4
   },
-  "POSSIBILITY" : {
+  "sadli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
   "world" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 8
   },
-  "inquiry" : {
+  "footman" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "dyall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "viewed" : {
+  "sphere" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "personif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "guardian" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 12
-  },
-  "unbearable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "programme" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "table" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 14
+  },
+  "bankruptci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "delight" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
   },
   "unsound" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
@@ -11421,71 +7293,71 @@
   },
   "bread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
+    "value" : 8
   },
   "side" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 5
   },
-  "creditors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "analogies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Algy's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
   "break" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "knew" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  },
+  "toothach" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "cecili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 256
+  },
+  "draw" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "ador" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "deceit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "comfort" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "knee" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "deceiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "confidingly" : {
+  "confidingli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "missed" : {
+  "report" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "expressli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "change" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "expressly" : {
+  "indirectli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "indirectly" : {
+  "fun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
-  },
-  "demonstrative" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "irrevocable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Frank" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "married" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 28
-  },
-  "improvements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Church" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
   },
   "sigh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
@@ -11495,207 +7367,283 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
   },
-  "Lancing" : {
+  "receiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "knees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "invalidity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 12
   },
   "sign" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "outrage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "marries" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 3
   },
   "angel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "office" : {
+  "while" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "Nothing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "Oxonian" : {
+  "directli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "second" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "that" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 336
   },
   "high" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 5
   },
+  "download" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
   "son" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "publication" : {
+  "www" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 10
+  },
+  "me" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 96
+  },
+  "limit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
+  },
+  "claim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "champagne" : {
+  "outdat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 1
   },
   "pessimist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "expressed" : {
+  "sow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "Something" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "directly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Executive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Terms" : {
+  "brighton" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "restrictions" : {
+  "decep" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "kneel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "entri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "perfec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "preserve" : {
+  "mr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 90
+  },
+  "author" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "throws" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Wednesday" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "AND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "David" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "attached" : {
+  "gorgon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "errors" : {
+  "hourli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "my" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 185
+  },
+  "modif" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "establish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "disk" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "eldest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "dream" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "dish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "parents" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "consumed" : {
+  "updat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "infinitely" : {
+  "produc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 16
+  },
+  "boi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 13
+  },
+  "cardew" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 30
+  },
+  "legisl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "no" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 90
+  },
+  "code" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "hereditari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
   },
   "box" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 4
   },
   "mental" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "sentiments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
   "decent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "ANY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "boy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 13
-  },
-  "enjoys" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "upstairs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Moving" : {
+  "bow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 5
   },
-  "politely" : {
+  "head" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 7
   },
-  "highly" : {
+  "matur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "unfortunate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
-  },
-  "plays" : {
+  "restric" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "chance" : {
+  "deni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 5
   },
-  "nature" : {
+  "charit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
+    "value" : 3
+  },
+  "of" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 509
+  },
+  "oh" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 59
+  },
+  "possibl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "thoma" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "hear" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 14
+  },
+  "on" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 217
+  },
+  "purpos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "or" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 93
   },
   "social" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 6
   },
-  "interesting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "IMPORTANCE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
   "cross" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "complianc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "ow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "editions" : {
+  "encod" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "cousin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 11
+  },
+  "drew" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "highli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "pretti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  },
+  "extrem" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 11
+  },
+  "equip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "manuscript" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
   },
@@ -11703,35 +7651,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 12
   },
-  "hereditary" : {
+  "offici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "essentially" : {
+  "pg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Peile" : {
+  "nobl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "muffins" : {
+  "jenkin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 14
+    "value" : 1
   },
-  "handles" : {
+  "decenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "exerc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "hospit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "geographi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "upper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 3
   },
-  "county" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "buried" : {
+  "interpos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -11739,7 +7695,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "pains" : {
+  "injuri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -11747,155 +7703,227 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "supposing" : {
+  "scene" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "provinci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Saturday" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "OWNER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "encouraged" : {
+  "arduou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "scandal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Sections" : {
+  "clever" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Never" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
-  },
-  "horrible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 7
   },
   "friend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
+    "value" : 12
   },
-  "injury" : {
+  "damag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 7
   },
   "drawn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
   },
-  "Metropolitan" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "deny" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  },
-  "closely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "pleasure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 14
-  },
-  "remaining" : {
+  "brand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "morning" : {
+  "recent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
+    "value" : 1
+  },
+  "varieti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "old" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 18
+  },
+  "australia" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "then" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 20
+  },
+  "ancient" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "thei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 50
   },
   "accept" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
+  },
+  "seat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "indiffer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
   "mission" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
+    "value" : 5
+  },
+  "includ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 14
   },
   "noblest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "doctors" : {
+  "brightli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "stops" : {
+  "adopt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 3
   },
-  "interpreted" : {
+  "minut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 5
   },
-  "lessons" : {
+  "sincer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
   "access" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 10
+    "value" : 12
   },
-  "Coming" : {
+  "unread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "advisable" : {
+  "fairfax" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 23
+  },
+  "languag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "expres" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "cottag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "current" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "heretical" : {
+  "lorgnett" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "surprised" : {
+  "disturb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "stopped" : {
+  "persist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "manager" : {
+  "so" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 67
+  },
+  "liar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "oftener" : {
+  "email" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "st" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "manages" : {
+  "inscrip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "makes" : {
+  "intern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 11
+    "value" : 2
   },
-  "merriment" : {
+  "decision" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "inattent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Divorce" : {
+  "shudder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "misanthrope" : {
+  "store" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "monster" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "stori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "flower" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "confirm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "trivet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "pull" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "hill" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "supercili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "silenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "problemat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -11903,67 +7931,115 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 5
   },
-  "venturing" : {
+  "ti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "indecorous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "story" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "laughing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Shoreman" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "neologistic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "dislike" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "buy" : {
+  "bui" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 3
   },
-  "Modern" : {
+  "remov" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 3
   },
-  "excesses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "luggage" : {
+  "counti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
+  },
+  "appoint" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "assist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "tm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 57
+  },
+  "augusta" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 23
+  },
+  "to" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 606
+  },
+  "interf" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "but" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 117
+  },
+  "expens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "stammer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "thoughtless" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "satisfactori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "express" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "wick" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  },
+  "countri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 21
+  },
+  "trivial" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "nois" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "subsequ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "written" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 7
   },
-  "Duchess" : {
+  "passion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "us" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 54
+  },
+  "ut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Jack's" : {
+  "usual" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 14
+  },
+  "sink" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "degree" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "inquiries" : {
+  "upright" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -11971,79 +8047,143 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "General" : {
+  "know" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
+    "value" : 53
   },
-  "counties" : {
+  "electr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "knot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "devotedli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
+  },
+  "support" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
   },
   "higher" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "Drawing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  },
-  "unreadable" : {
+  "coin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "drop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
   },
   "salver" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 5
   },
-  "records" : {
+  "proprietari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "gwendolen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 178
   },
   "idea" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 8
+    "value" : 10
   },
-  "adults" : {
+  "cold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 3
   },
-  "What" : {
+  "wa" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 44
+    "value" : 73
   },
-  "Rise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "coldness" : {
+  "pure" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "proprietary" : {
+  "life" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 33
+  },
+  "literatur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Stiffly" : {
+  "we" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 56
+  },
+  "gai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "morbidity" : {
+  "quail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "British" : {
+  "lieu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "choic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "types" : {
+  "horribl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "argum" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "slight" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
   },
   "corrupt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "reforming" : {
+  "stoni" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "wide" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "licens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 17
+  },
+  "org" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 13
+  },
+  "newspap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "accumul" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "vibrat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "recognis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "departur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -12051,21 +8191,29 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
+  "distribut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 17
+  },
+  "behav" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
   "stone" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "credulity" : {
+  "superior" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "stony" : {
+  "succeed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "specially" : {
+  "deeper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
+    "value" : 1
   },
   "gentleman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
@@ -12073,35 +8221,59 @@
   },
   "punctual" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Lane's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "immensely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
+  },
+  "retort" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "housekeep" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "individu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "reach" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
   },
   "childish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "positively" : {
+  "none" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "ye" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 66
+  },
+  "type" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "physicians" : {
+  "realis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "hell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "pupil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "problem" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
   },
   "children" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
-  },
-  "dreadful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
   },
   "weather" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
@@ -12109,23 +8281,39 @@
   },
   "sight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 4
   },
-  "Finished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "Frederick" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "THEATRE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "natural" : {
+  "proof" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
+  },
+  "between" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "maxbohm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "williss" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "goal" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "method" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "wife" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "revolutionari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
   },
   "drank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
@@ -12135,59 +8323,139 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Pardon" : {
+  "contract" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Ahem" : {
+  "come" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
+    "value" : 35
   },
-  "WORK" : {
+  "nobodi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "leather" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "philanthrop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "exist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "seiz" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "opportun" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 8
+  },
+  "exact" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Revenue" : {
+  "lift" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "geologi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "regist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "feder" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "pathet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "educ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "albani" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "north" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "wear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
-  "derive" : {
+  "copi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 27
+  },
+  "our" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 17
   },
   "weak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "confess" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "distressed" : {
+  "climat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Begins" : {
+  "bitterli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "messr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "flat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 2
   },
-  "recall" : {
+  "induc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "darl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 14
+  },
+  "statist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "mamma's" : {
+  "accur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 3
   },
   "place" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 19
+    "value" : 23
   },
-  "Didn't" : {
+  "semi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "leav" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 10
+  },
+  "glibli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -12195,43 +8463,55 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "objection" : {
+  "dare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 3
   },
-  "sits" : {
+  "discont" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "informed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "observation" : {
+  "militari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "prominently" : {
+  "suspect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 4
   },
   "suggest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Lessee" : {
+  "upstair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "observ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
   },
   "lead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
+    "value" : 8
   },
-  "Recoiling" : {
+  "readabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "help" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
+  },
+  "expect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  },
+  "inaccur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "expect" : {
+  "pleasantli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -12239,15 +8519,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
   },
-  "When" : {
+  "emotion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 11
+    "value" : 1
   },
-  "cease" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "Sometimes" : {
+  "consequenti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
@@ -12255,196 +8531,304 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "bachelor's" : {
+  "carriag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "date" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "dress" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 9
+  },
+  "effemin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "argument" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "undivided" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "sandwiches" : {
+  "whatsoev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 5
   },
-  "natured" : {
+  "reveal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "growing" : {
+  "data" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "utterly" : {
+  "sound" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "own" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "Ripeness" : {
+  "misconcep" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "separ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "bewild" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "beverag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "neglig" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "circl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "barrier" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
   "plain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
+    "value" : 7
   },
-  "confessed" : {
+  "etern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "furious" : {
+  "blow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "replac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  },
+  "embrac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  },
+  "sens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
+  },
+  "utterli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "readable" : {
+  "disloyalti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "curious" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "individual" : {
+  "proud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
+    "value" : 1
   },
-  "accepted" : {
+  "metaphys" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 4
+    "value" : 2
+  },
+  "reconsid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "indirect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "like" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 34
+  },
+  "inexperienc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "onli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 28
+  },
+  "unpleas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
   },
   "tax" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
+    "value" : 7
   },
-  "excitement" : {
+  "collec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "ranks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 4
   },
   "person" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
+    "value" : 13
   },
   "safe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "files" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "destined" : {
+  "ground" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "departure" : {
+  "send" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 7
+  },
+  "here" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 33
+  },
+  "note" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
   },
   "week" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 12
+    "value" : 13
   },
-  "secretive" : {
+  "regret" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "noth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 18
+  },
+  "line" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 4
+  },
+  "deliv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Quixotic" : {
+  "link" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 4
   },
   "distinct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
   },
-  "shan't" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "geology" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
   "tune" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "aware" : {
+  "irretriev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
+    "value" : 1
+  },
+  "drama" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 1
+  },
+  "can" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 20
   },
   "hair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 5
   },
-  "marriage" : {
+  "everybodi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 7
+    "value" : 1
   },
-  "ready" : {
+  "delic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 6
+    "value" : 1
   },
-  "eligible" : {
+  "satisfi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 2
+  },
+  "februari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 3
+  },
+  "station" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 7
   },
   "alarm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "privately" : {
+  "provid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 15
+  },
+  "realli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 32
+  },
+  "cost" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 5
+  },
+  "motion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "carried" : {
+  "will" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
+    "value" : 43
   },
-  "idle" : {
+  "readi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 6
   },
-  "satisfy" : {
+  "amus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "value" : 6
   },
-  "limited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "reads" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "While" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "fearful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  },
-  "bites" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  },
-  "clothes" : {
+  "smoke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 4
   },
-  "carries" : {
+  "fault" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "follow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 12
+  },
+  "celibaci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "millard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "Superciliously" : {
+  "tableau" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
   },
-  "arguments" : {
+  "harmless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
     "value" : 1
+  },
+  "wild" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 2
+  },
+  "intend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "value" : 6
   }
 }

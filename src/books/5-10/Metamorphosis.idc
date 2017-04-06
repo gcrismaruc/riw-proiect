@@ -1,21 +1,13 @@
 {
-  "prepare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "half" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
-  },
-  "functions" : {
+  "" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "spoke" : {
+  "half" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 9
   },
-  "numerous" : {
+  "spoke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
@@ -27,69 +19,49 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 7
   },
-  "nowadays" : {
+  "your" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 15
   },
-  "I've" : {
+  "hurri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "explanation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 13
   },
   "pretend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "shrugged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "approved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "contributions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "legs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 20
-  },
-  "wasted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Michael" : {
+  "youv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "Eventually" : {
+  "shortcom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "these" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 7
+  },
+  "would" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 133
+  },
+  "pick" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "stumbl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "reproach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "electronically" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "calculate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "ten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
-  },
-  "daring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
   },
   "sake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -97,39 +69,55 @@
   },
   "sister" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 96
+    "value" : 101
   },
-  "whatsoever" : {
+  "conceal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 1
   },
-  "he'll" : {
+  "sometim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 4
   },
   "solid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "'" : {
+  "serv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "require" : {
+  "intellectu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "wallpap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "volunteers" : {
+  "possess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 1
+  },
+  "scratch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "thoughtfulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "hearer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "backwards" : {
+  "unbear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 2
+  },
+  "befor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 37
   },
   "size" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -143,19 +131,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "rounded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "sideways" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "thoughtfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "tickle" : {
+  "dawn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -163,95 +139,51 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
+  "besid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 4
+  },
   "object" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "newspaper" : {
+  "derang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "A" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 1
   },
   "flight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "entitled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "telling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "accessible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "hang" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "B" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "C" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "things'" : {
+  "humbli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "D" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "E" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 22
   },
   "ahead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "nodding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "F" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 11
-  },
   "roll" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "blossoming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "I" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 58
-  },
-  "concede" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "talking" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
   "turn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 10
+    "value" : 36
+  },
+  "suffici" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
   },
   "elect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "constru" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -263,35 +195,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "arrived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "FOUNDATION" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Contributions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "S" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
   "selfish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "U" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "feeding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "irritably" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -299,73 +203,77 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
+  "after" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 35
+  },
   "quiet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 10
   },
-  "staircase" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "combed" : {
+  "pervers" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "hand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 22
-  },
-  "resolved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "barricade" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 41
   },
   "a" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 341
+    "value" : 344
+  },
+  "cigarett" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "b" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "committed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "flecks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "salt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "address" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 3
   },
   "c" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 6
+  },
+  "enorm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 5
+  },
+  "piec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "licensed" : {
+  "salt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "address" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "d" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "docum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "e" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 23
   },
-  "posture" : {
+  "f" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 11
   },
-  "eating" : {
+  "i" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
+    "value" : 58
+  },
+  "the" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1332
   },
   "straight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -373,15 +281,7 @@
   },
   "wipe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "entering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
-  },
-  "consisting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
   },
   "halt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -391,21 +291,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "lips" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "destroyed" : {
+  "sale" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "s" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 6
   },
-  "humbly" : {
+  "thi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 145
   },
   "blue" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -413,161 +309,125 @@
   },
   "throw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 6
   },
-  "days" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 10
-  },
-  "obvious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "information" : {
+  "u" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "everyone's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "accumulated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "reports" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "inaccessible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "resolve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "sharply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Its" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "good" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 18
-  },
-  "faithful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "empty" : {
+  "thank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "belonging" : {
+  "regain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Anyway" : {
+  "arch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "PGLAF" : {
+  "god" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 7
+  },
+  "wrap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "discuss" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "thu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "mingl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "ladi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 4
+  },
+  "advic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "good" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 20
+  },
+  "violenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "wish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
   },
   "wise" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "suffered" : {
+  "sharpli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 1
   },
-  "copying" : {
+  "pai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 9
   },
   "tip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 5
   },
-  "conversation" : {
+  "advis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
+    "value" : 1
+  },
+  "obstin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "export" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "laugh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Unless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "area" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "STRICT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "making" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 11
-  },
-  "Dead" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "FOR" : {
+  "practic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "pay" : {
+  "textil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
+    "value" : 1
+  },
+  "reduc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
   },
   "clearer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "enormous" : {
+  "check" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 5
   },
-  "check" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
   "lack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 5
   },
-  "About" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "neglected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "walked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "owed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "importune" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Redistributing" : {
+  "practis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -575,27 +435,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "soles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "authority" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "End" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "cleared" : {
+  "sank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "shocking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "sank" : {
+  "hundr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
@@ -603,59 +447,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "unnerving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "pitifully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "formats" : {
+  "fortun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
   "harm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
-  "disturbed" : {
+  "ensur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 1
   },
   "young" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "divided" : {
+  "contribu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "provided" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "obsolete" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "instrument" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "medium" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 5
   },
-  "remove" : {
+  "hart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 2
   },
   "wisdom" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "steaming" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -667,111 +487,99 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "disclaimers" : {
+  "pitifulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "arranged" : {
+  "determin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Redistribution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "shivering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "swishing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "anticipation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "hard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 12
   },
-  "ensuring" : {
+  "ridicul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "live" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 28
   },
-  "responded" : {
+  "facad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "enquiringly" : {
+  "peac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 10
   },
   "cheek" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "flapped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "perform" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 8
+  },
+  "chees" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
   },
   "room" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 131
+    "value" : 133
   },
   "cheer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
+  "enquiringli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "with" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 153
+  },
   "complaint" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "hissed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "service" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "coffee" : {
+  "there" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 99
   },
-  "lady" : {
+  "permit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "well" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 33
+  },
+  "permis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 10
+  },
+  "mumbl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "splash" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "empti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 6
+  },
+  "pocket" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "suitable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "magazine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "taking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 9
-  },
-  "suffocating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "named" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "bleeding" : {
+  "unhappi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -779,59 +587,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "copious" : {
+  "pile" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "considered" : {
+  "strongli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "License" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 10
-  },
-  "resentful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "hats" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "invisible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "entire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "changing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "COPYRIGHTED" : {
+  "wrack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "approach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "chilly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "peg" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "decisive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "gained" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -843,17 +615,21 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 6
   },
+  "tortur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
   "block" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "write" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 9
   },
   "flow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 4
   },
   "order" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -863,91 +639,67 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "IMPLIED" : {
+  "chilli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "proceed" : {
+  "bulg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "pressed" : {
+  "harshli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 14
+    "value" : 1
   },
-  "corporation" : {
+  "period" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "inten" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 8
+  },
+  "revenu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "understand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 13
+    "value" : 16
   },
-  "banister" : {
+  "dismiss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "confirmation" : {
+  "heaven" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "slowly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 22
+    "value" : 1
   },
   "alright" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "vigorously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "harshly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "uniting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "unhappy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "illustrated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "bringing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 5
   },
   "draught" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "sister's" : {
+  "even" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 95
   },
-  "strongly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "binary" : {
+  "aris" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "spots" : {
+  "kafka" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 4
+  },
+  "dishevel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "bulk" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "appearing" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -957,23 +709,11 @@
   },
   "women" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 15
-  },
-  "eBook" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  },
-  "hundred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 16
   },
   "wait" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "folds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 12
   },
   "woman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -981,9 +721,9 @@
   },
   "save" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 6
   },
-  "lifelessly" : {
+  "increas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -991,67 +731,55 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
+  "institut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
   "toe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "What's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "matter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "footsteps" : {
+  "entitl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "injured" : {
+  "stagger" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "matter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "indicating" : {
+  "entiti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
+  },
+  "peev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "hypertext" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "walls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  },
   "top" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 4
+  },
+  "peer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "have" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "noise" : {
+  "slowli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
+    "value" : 22
   },
-  "wrenching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "smelling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "tempted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "violence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Quick" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Fairbanks" : {
+  "implor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -1059,43 +787,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Nonetheless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "contented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "question" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 7
-  },
-  "reminder" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "additions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "occupational" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
   },
   "wept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "attributed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "lover" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "discussed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -1107,27 +807,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "intellectual" : {
+  "excus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "sauc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "wishing" : {
+  "glimps" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "opportunities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "produce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "picture" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
-  },
-  "walks" : {
+  "incap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -1135,77 +827,81 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "Very" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "She's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "entity" : {
+  "meanwhil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "imagining" : {
+  "lifelessli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "All" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "possibilities" : {
+  "quak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "imposed" : {
+  "instanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
+  },
+  "tonight" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "fundrais" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "jewelleri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "minor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "hostile" : {
+  "chariti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "tortured" : {
+  "clumsili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "supernatural" : {
+  "pleas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 14
   },
   "infirm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "plaintively" : {
+  "tidi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "employee" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "lad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "harmful" : {
+  "quietli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 5
   },
   "crawl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
+    "value" : 17
   },
-  "Copyright" : {
+  "proce" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "whenev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 5
+  },
+  "barricad" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "wake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -1215,123 +911,79 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 7
   },
-  "members" : {
+  "lai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 21
   },
-  "defective" : {
+  "unabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 6
   },
-  "raise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "glowering" : {
+  "function" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "employer" : {
+  "west" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 1
   },
-  "owns" : {
+  "plenti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 1
   },
   "lap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "representative" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "tower" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "circumstances" : {
+  "armi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "including" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
+    "value" : 1
   },
   "law" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 10
   },
   "void" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "enquiries" : {
+  "voic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "lay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 19
-  },
-  "liability" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "snapped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "However" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "plenty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 17
   },
   "splinter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "AGREEMENT" : {
+  "tick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Public" : {
+  "absolut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
-  "basis" : {
+  "translat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 4
   },
-  "army" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "pleasures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "READ" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Travelling" : {
+  "convuls" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "condition" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
+    "value" : 9
   },
   "anew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Hearing" : {
+  "tempt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -1339,35 +991,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "And" : {
+  "were" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 30
+    "value" : 65
   },
-  "clumsily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "You'll" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "arms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 13
-  },
-  "Something's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "piercing" : {
+  "swai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "replied" : {
+  "twist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "unenforceability" : {
+  "lake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -1375,135 +1011,95 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
+  "busi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 18
+  },
   "unclear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "weve" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
   },
   "shorthand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Any" : {
+  "respons" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "timet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "sacrificed" : {
+  "distanc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "identif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "times" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 15
-  },
-  "agitated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "beetle" : {
+  "theyr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "pursue" : {
+  "land" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "intended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "working" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "explanations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 9
   },
   "victim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Through" : {
+  "cri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "floor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 22
   },
-  "direction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "That" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 9
-  },
-  "sucking" : {
+  "encourag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "buttons" : {
+  "burn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 1
   },
   "chief" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 37
+    "value" : 38
   },
-  "performing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "Getting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "kicked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Their" : {
+  "accord" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
   "lamp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "necklace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "cry" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 5
   },
   "vigour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "rows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "opening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
   "doctor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
+    "value" : 7
   },
-  "burning" : {
+  "groan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "English" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "jewellery" : {
+  "pillow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -1511,31 +1107,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "METAMORPHOSIS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "tidy" : {
+  "respond" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "wall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 12
   },
-  "renamed" : {
+  "incident" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "walk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "quietly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 5
   },
-  "accumulating" : {
+  "angl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -1543,17 +1131,9 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "refusing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "lieutenant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "tug" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 3
   },
   "led" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -1561,57 +1141,69 @@
   },
   "leg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 21
   },
   "concern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 7
   },
-  "beautiful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "nonsensical" : {
+  "thirti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "worked" : {
+  "mobil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "repugn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "refrain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "trembl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "Then" : {
+  "piti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 14
+    "value" : 1
+  },
+  "let" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 17
+  },
+  "decai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "state" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 15
+    "value" : 30
   },
-  "thinks" : {
+  "courtesi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "eventu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
   },
   "press" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 15
   },
-  "subordinates" : {
+  "onlin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 4
   },
-  "events" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "landed" : {
+  "coffe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "displayed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "chaos" : {
+  "yesterdai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -1619,149 +1211,101 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 18
   },
+  "gener" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 5
+  },
+  "want" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 43
+  },
   "night" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 10
+  },
+  "almond" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "exclaim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "opposite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "courtesy" : {
+  "instrum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "statu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 4
   },
   "pack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Project" : {
+  "anim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 84
-  },
-  "bravely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "parents'" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "creating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "items" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 4
   },
   "salesmen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "thirty" : {
+  "liabil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "wasting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "cut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 5
   },
-  "Should" : {
+  "distribu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 6
   },
-  "gilded" : {
+  "two" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "collapsed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "Vanilla" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "document" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Would" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "hitting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "giving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "starve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 27
   },
   "chase" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 4
   },
   "moment" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 10
-  },
-  "Defects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 11
   },
   "found" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 16
   },
-  "worries" : {
+  "tear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "excuse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 9
   },
   "pot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "calmly" : {
+  "attack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "attack" : {
+  "larg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 4
   },
-  "reported" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "helplessness" : {
+  "curios" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "worried" : {
+  "curiou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "distribute" : {
+  "attach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 1
   },
   "kitchen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -1769,23 +1313,15 @@
   },
   "shout" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 8
   },
-  "clenched" : {
+  "anoth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "advantag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "prevented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "funny" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "situation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
   },
   "creation" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -1795,77 +1331,37 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "SUCH" : {
+  "think" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "BUT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "receive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 20
   },
   "pointless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "implied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "occurred" : {
+  "calmli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
-  },
-  "surplus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "refused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "anxiously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "accused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
   },
   "shove" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 4
   },
-  "They" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 22
-  },
-  "OTHER" : {
+  "entrust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "standing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
   },
   "txt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "PUNITIVE" : {
+  "charg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 7
   },
-  "emphatically" : {
+  "watch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "realise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 8
   },
   "speech" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -1875,43 +1371,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "watch" : {
+  "clap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "unthink" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "polish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "startling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "thing" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 11
-  },
-  "feelings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 38
   },
   "fashion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "insurance" : {
+  "supernatur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "surely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "medical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "inedible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Creating" : {
+  "definit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -1919,69 +1403,53 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Once" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
   "lid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Smears" : {
+  "startl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 6
   },
   "lie" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "source" : {
+  "had" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 350
   },
-  "secure" : {
+  "prepar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 5
   },
   "smell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 4
+  },
+  "anna" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "redistribut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "unable" : {
+  "lip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
-  },
-  "disappointed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "shook" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "There" : {
+  "structur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 9
+    "value" : 1
   },
   "late" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 5
-  },
-  "paying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "God's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "dying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "uncontrolled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
   },
   "school" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -1991,47 +1459,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "continue" : {
+  "entir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "things" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 26
-  },
-  "This" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 20
-  },
-  "homes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "donation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 7
   },
   "hat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 5
   },
-  "Unlike" : {
+  "incred" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "acquired" : {
+  "wast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 5
   },
   "budget" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "offers" : {
+  "doubl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
-  "Heaven" : {
+  "actual" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -2043,17 +1495,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "trapped" : {
+  "unlock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "definite" : {
+  "last" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 13
+  },
+  "carelessli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "caustic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "wash" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
   },
   "doubt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -2067,67 +1527,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "uncomfortable" : {
+  "courag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "surprising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "shoved" : {
+  "funni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Nor" : {
+  "warn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "warm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "These" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "exaggerated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "checks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "involved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "dominated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "converted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "aching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "carelessly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Now" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 13
-  },
-  "imploring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "fixed" : {
+  "attent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -2135,93 +1551,53 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "playing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 13
-  },
   "page" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "employees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
-  },
-  "updated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 4
   },
   "full" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 17
+    "value" : 20
   },
-  "memory" : {
+  "anywai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 5
+  },
+  "becaus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 15
   },
   "concept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "Was" : {
+  "effort" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 18
   },
-  "impossible" : {
+  "awar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 6
   },
-  "effort" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 12
-  },
-  "intercede" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "stubbornness" : {
+  "steadi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "dried" : {
+  "awak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "house" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "vegetables" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "yesterday" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "bedding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "construed" : {
+  "wave" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "stare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 4
   },
-  "painful" : {
+  "banist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
-  },
-  "steady" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "early" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
   },
   "quieter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -2233,31 +1609,39 @@
   },
   "pain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 11
-  },
-  "hours" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
+    "value" : 14
   },
   "start" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 13
+  },
+  "yet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "earli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 6
   },
-  "Foundation's" : {
+  "starv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "windows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 1
   },
   "pair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
+  "chanc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 7
+  },
   "fallen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
+  },
+  "chang" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 10
   },
   "paid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -2267,83 +1651,75 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 5
   },
+  "unusu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "financi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
   "time" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 59
+    "value" : 74
   },
-  "Can't" : {
+  "youll" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "tray" : {
+  "hed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Come" : {
+  "outstretch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "happy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "facade" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "PARAGRAPH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "imagined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "infant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "continually" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "put" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 14
+    "value" : 16
   },
-  "tips" : {
+  "glanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "required" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "CONSEQUENTIAL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 5
   },
   "climb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 3
   },
   "ordeal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "remembered" : {
+  "trai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "her" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 123
+  },
+  "deletion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "payment" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "coats" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Special" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "enter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 6
+  },
+  "trap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "heavili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
@@ -2353,139 +1729,91 @@
   },
   "pale" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
-  "groaning" : {
+  "tenant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
-  "flowers" : {
+  "applic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "threw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 5
   },
-  "laws" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
-  },
   "warmth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "INCIDENTAL" : {
+  "pressur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "conclusions" : {
+  "persuad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "piled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "destroy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 4
   },
   "junior" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "bedrooms" : {
+  "memori" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "GIVE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "provide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 10
   },
   "light" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 7
   },
-  "Web" : {
+  "happi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "destroi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "eyebrows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Charlottenstrasse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "sorrows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "meals" : {
+  "traine" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "Grete's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "fists" : {
+  "judg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "NOTICE" : {
+  "recogn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "tabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 19
   },
   "stubborn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "Help" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "redistribute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "lazy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "methods" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Kafka" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "she'd" : {
+  "excitedli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
+  },
+  "pant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "congratul" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "paperwork" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "planned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "dome" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "confirmed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "smart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -2495,39 +1823,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "paleness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "lot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 5
   },
-  "computer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "ways" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "fundraising" : {
+  "repeatedli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "endearments" : {
+  "blous" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "assure" : {
+  "lazi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "she's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "coughed" : {
+  "prop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -2539,9 +1851,13 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "propped" : {
+  "pang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "tire" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 7
   },
   "wealth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -2551,35 +1867,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 6
   },
-  "means" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "survive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "chair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 16
-  },
-  "centre" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 19
   },
   "blown" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "immobile" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "strides" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "performed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -2595,43 +1887,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "excitedly" : {
+  "struggl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "permanent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "louts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "abandoning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 3
   },
   "fetch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "organized" : {
+  "travel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 11
   },
-  "hanging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "choice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "facility" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Hell" : {
+  "chao" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -2639,91 +1907,71 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 6
   },
-  "sliding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "door" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 87
+    "value" : 97
   },
   "quick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "friendly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 2
   },
   "fretsaw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "possession" : {
+  "tell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "replace" : {
+  "dai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "experience" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 38
   },
   "listen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "squarely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "We've" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 14
   },
   "hit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 6
   },
   "shown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "answering" : {
+  "nuisanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "companions" : {
+  "magazin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "interrupt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "disappeared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "checked" : {
+  "medicin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "bear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 5
   },
-  "pointing" : {
+  "affair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "titl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "consider" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 10
   },
   "proofread" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "day" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 28
-  },
-  "protrusions" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -2731,35 +1979,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Who" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "group" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "raising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "protruded" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "obtain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 5
   },
   "shabbier" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "repeatedly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "curiosity" : {
+  "suppos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -2767,43 +1999,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "minutes" : {
+  "employe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 7
   },
-  "created" : {
+  "resist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 1
   },
   "format" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "sacrifice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "Why" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "shouting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "EXCEPT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 6
   },
   "water" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "corps" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "August" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "square" : {
+  "unnatur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -2811,15 +2027,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "absolutely" : {
+  "friendli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 5
   },
-  "KIND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "whistled" : {
+  "inaccess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -2827,93 +2039,73 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "raisins" : {
+  "exchang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
-  "apples" : {
+  "achiev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "entertain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "INDEMNITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 4
   },
   "request" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "ease" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "critical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "part" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 11
   },
-  "conversations" : {
+  "their" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 60
   },
-  "notches" : {
+  "unexpect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "point" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 3
   },
-  "banking" : {
+  "sunshin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "polished" : {
+  "unenforc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 1
   },
-  "principal" : {
+  "synonym" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "resound" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "sixteen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Will" : {
+  "frighten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "hospital" : {
+  "easi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 8
   },
-  "Metamorphosis" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "introduction" : {
+  "facil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "heaving" : {
+  "process" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "ceiling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  },
-  "requirements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
   },
   "hungrier" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -2923,65 +2115,49 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "subscribe" : {
+  "bottl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "attribut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "clear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 11
+    "value" : 13
   },
-  "persuaded" : {
+  "reliev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "noticing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Only" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "threads" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "concentration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "heavily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
   },
   "clean" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 5
   },
-  "Date" : {
+  "uneasi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "meal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
+    "value" : 8
   },
-  "ears" : {
+  "build" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "gratitude" : {
+  "fairbank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "mean" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
   },
   "earn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
-  },
-  "reproaches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 9
   },
   "glad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -2995,57 +2171,33 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "behaved" : {
+  "chew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "hurry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "demands" : {
+  "recov" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "uneasy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "tolerate" : {
+  "lieuten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "ticking" : {
+  "lurch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "innocent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "mixing" : {
+  "resent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "fiery" : {
+  "stride" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "That's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "viewing" : {
+  "startlem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "diligence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "shouted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
   },
   "crack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -3053,31 +2205,23 @@
   },
   "trip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
-  "mothers" : {
+  "gregori" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "startled" : {
+  "partli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "Thus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "noticeably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "DISTRIBUTOR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "strict" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "you" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 121
   },
   "beer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -3087,33 +2231,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "announcement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "jump" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "accepting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "happen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 24
   },
   "sofa" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "conservatory" : {
+  "necklac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 1
   },
-  "carefully" : {
+  "pass" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 9
+    "value" : 2
   },
   "past" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -3125,41 +2261,21 @@
   },
   "shock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 10
   },
   "milk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 6
   },
-  "delighted" : {
+  "enthusiast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "opportunity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "active" : {
+  "protrud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "easy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
-  },
-  "LIMITED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "smiled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "See" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "Mississippi" : {
+  "bucket" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -3167,31 +2283,39 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "resounding" : {
+  "carefulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 9
+  },
+  "impres" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "dissuad" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "preoccupi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "domain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
+    "value" : 8
   },
-  "everything's" : {
+  "smear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "timorous" : {
+  "adult" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "beds" : {
+  "preserv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 1
   },
-  "corpse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "sweetly" : {
+  "organ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -3199,31 +2323,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "touched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "bottle" : {
+  "troubl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "shiver" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "sentenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
   },
   "hot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "waited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "awkwardly" : {
+  "corpor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "THE" : {
+  "pursu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 1
   },
-  "Salt" : {
+  "how" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 33
+  },
+  "sweetli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -3231,21 +2359,37 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "unlike" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "hearing" : {
+  "releas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "annoyed" : {
+  "conservatori" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 3
+  },
+  "direc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 7
   },
   "hotel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
+  },
+  "term" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 22
+  },
+  "celebr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "regul" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "awkwardli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "spare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -3255,87 +2399,47 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "business" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 17
-  },
   "chin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
-  },
-  "adjoining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
   },
   "staff" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "sleepiness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "partly" : {
+  "right" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "Cheerio" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "noticeable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "dragged" : {
+  "opposit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "lethargic" : {
+  "march" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "appeals" : {
+  "nowadai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "insid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "lurched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Half" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "ANYTHING" : {
+  "repel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "answer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 9
   },
   "meet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "calls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "denuded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "saints" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "complicated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Your" : {
+  "fieri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -3347,31 +2451,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
+  "paus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
   "inch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "repelled" : {
+  "under" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 7
   },
-  "arches" : {
+  "did" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 60
   },
   "quarter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 6
   },
-  "putting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "rubbed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "added" : {
+  "represent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -3379,49 +2479,33 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "promise" : {
+  "dip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "ASCII" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "believing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "leaned" : {
+  "gratefulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "hold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
+    "value" : 12
   },
-  "She" : {
+  "imped" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 24
+    "value" : 1
+  },
+  "convinc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
   },
   "habit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 6
   },
-  "maid's" : {
+  "later" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "outdated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "considerate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "chambermaids" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 6
   },
   "forgotten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -3429,7 +2513,7 @@
   },
   "legal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 3
   },
   "underwear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -3437,51 +2521,31 @@
   },
   "talk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "listened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 8
   },
   "tall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "reply" : {
+  "unimped" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 1
   },
   "businessman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "LICENSE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
   "train" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 9
-  },
-  "untidiness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
   },
   "test" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "finally" : {
+  "exhaust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 10
-  },
-  "For" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 10
-  },
-  "remained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 11
+    "value" : 2
   },
   "count" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -3491,51 +2555,39 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "sallied" : {
+  "repli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
-  "upwards" : {
+  "take" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "revolting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Because" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 23
   },
   "month" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 6
   },
-  "acceptance" : {
+  "ined" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "Grete" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 22
   },
   "final" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 11
   },
-  "gratefully" : {
+  "injur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 4
+  },
+  "perhap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 14
+  },
+  "affec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "whispering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
   },
   "chuck" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Sir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -3543,77 +2595,45 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "carrying" : {
+  "awok" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 1
   },
   "distract" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "needn't" : {
+  "occasion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "deepness" : {
+  "some" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "trainees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "waiting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "beginning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "Well" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "additional" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 31
   },
   "back" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 82
+    "value" : 83
+  },
+  "compani" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
   },
   "endless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "subtleties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "miss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "With" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "states" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "transferring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Language" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "boss's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
+  },
+  "abid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "subtleti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "load" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -3623,43 +2643,51 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Translated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "company" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "tearfully" : {
+  "doze" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "passed" : {
+  "soften" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 1
   },
   "human" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 5
   },
-  "notice" : {
+  "just" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 10
+    "value" : 41
   },
-  "International" : {
+  "divid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "charlottenstrass" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "sole" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "owner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 6
   },
   "sold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "emptying" : {
+  "coupl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "relax" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "custom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -3667,9 +2695,9 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "permission" : {
+  "tearfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 10
+    "value" : 1
   },
   "gaslight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -3679,27 +2707,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "whirred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "home" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 19
+    "value" : 20
   },
-  "considerations" : {
+  "hole" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "michael" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
   },
   "print" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
-  "deterioration" : {
+  "adjoin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "arduous" : {
+  "although" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 12
+  },
+  "inherit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "interpret" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -3707,171 +2743,111 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
+  "relat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
   "blanket" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Good" : {
+  "hug" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "grant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 3
   },
-  "showing" : {
+  "tickl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 1
   },
   "explain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 6
   },
-  "newsletter" : {
+  "dulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "helping" : {
+  "convers" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 8
   },
-  "exhausted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "dropped" : {
+  "devot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "visibl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "ignor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
   },
   "convert" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "royalty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "hope" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 8
   },
-  "paragraphs" : {
+  "attempt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 1
+  },
+  "soon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 11
   },
   "thick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "TRADEMARK" : {
+  "influenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "balance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Despite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
   },
   "bend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "guidelines" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "lock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
+    "value" : 14
   },
   "action" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "Even" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "slamming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "fools" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "letters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "lying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
-  },
-  "bucketfuls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "fear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
-  "immaculate" : {
+  "creat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 6
   },
   "made" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 40
   },
-  "Mother's" : {
+  "abil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Director" : {
+  "grete" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 25
   },
-  "appreciation" : {
+  "manag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
-  "sense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "MERCHANTIBILITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "sensitive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "distinctly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "removing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "heavy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "hoping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "printed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "scraping" : {
+  "auster" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -3879,87 +2855,51 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "contents" : {
+  "dustbin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "reached" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  },
-  "curse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
   },
   "invalid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "hardest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "opens" : {
+  "notifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "impression" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "Hart" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "status" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
   },
   "upset" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
+  "natur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
   "ostrich" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "DISTRIBUTE" : {
+  "stamp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
-  "diligently" : {
+  "unfortun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
-  "unpleasant" : {
+  "deriv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "calmed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "glanced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "glances" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Right" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "stamped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "scattered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 5
   },
   "mention" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "touchi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -3967,33 +2907,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "pained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "file" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 5
   },
-  "legally" : {
+  "mai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 16
   },
   "member" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "periods" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "PURPOSE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "'ave" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "man" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -4001,43 +2925,43 @@
   },
   "stand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
+    "value" : 11
   },
-  "illness" : {
+  "nourish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "touchy" : {
+  "heavi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 4
   },
   "forward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 12
+    "value" : 16
+  },
+  "strike" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
   },
   "bent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 6
   },
-  "strike" : {
+  "subordin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "attackers" : {
+  "urg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 6
   },
-  "favourite" : {
+  "prospect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
-  "o'clock" : {
+  "ebook" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  },
-  "dully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 19
   },
   "widest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -4047,35 +2971,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "trusted" : {
+  "lodg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
-  "machine" : {
+  "explan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 7
   },
-  "butcher's" : {
+  "royalti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "crouched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "evening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 18
+    "value" : 5
   },
   "return" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 5
   },
-  "labouring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "THAT" : {
+  "nonsens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
@@ -4087,26 +2999,6 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "codes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "fees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "charities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "instance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "concerned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "sprung" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
@@ -4115,117 +3007,73 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "LIABLE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "conscience" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "subject" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "practically" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Were" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "feel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 19
+    "value" : 23
+  },
+  "miracl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
   },
   "main" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "nostrils" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "terribly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "serve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Lake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "cough" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "seats" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "smile" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "confused" : {
+  "smile" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "arrangement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "copyrighted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "downloading" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 7
   },
   "find" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 6
   },
-  "concentrated" : {
+  "adhes" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "backward" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 4
+  },
+  "commun" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "dri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "peering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "lungs" : {
+  "terribli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "maid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
+    "value" : 8
   },
   "credit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "calculated" : {
+  "upward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "terrible" : {
+  "alter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "likes" : {
+  "occup" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "waste" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
   },
   "clutter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -4235,17 +3083,13 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "bearing" : {
+  "occur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 5
   },
   "drove" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "occur" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
   },
   "pleasant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -4255,59 +3099,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 5
   },
-  "Arms" : {
+  "metamorphosi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 6
   },
   "difficult" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 7
   },
-  "equipment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
   "dry" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "establishment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "ideas" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "includes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "sort" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
+    "value" : 7
   },
-  "interrupted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "pressure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "steps" : {
+  "fill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 5
   },
+  "failur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
   "heart" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "friends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "mindlessly" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -4315,113 +3131,125 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "feed" : {
+  "plaintiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
+  "feed" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
   "forget" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
+    "value" : 8
+  },
+  "servic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "professor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "task" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "directions" : {
+  "true" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "true" : {
+  "tast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "leaning" : {
+  "exagger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "nonetheless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 4
   },
   "position" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
+    "value" : 9
   },
   "present" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 9
   },
-  "quivering" : {
+  "curtain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "movements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "appears" : {
+  "mindlessli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Information" : {
+  "disconcert" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
+    "value" : 1
   },
-  "nonsense" : {
+  "stair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "belong" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "helplessli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "stain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "breath" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
+    "value" : 13
+  },
+  "ball" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "transform" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "rented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
+  },
+  "execut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "hour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 10
   },
-  "advise" : {
+  "hous" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
-  "smoking" : {
+  "repeat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "men" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "troubled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "transformed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "regulating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "physical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "included" : {
+  "spindli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 1
+  },
+  "distinctli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "make" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 26
+    "value" : 40
   },
   "met" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -4431,23 +3259,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 19
   },
-  "experienced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "falling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
   "spokesman" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "West" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "spindly" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -4455,33 +3267,9 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "thumped" : {
+  "thread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "shocked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "structure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "timetables" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "helplessly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "pulling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "online" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
   },
   "threat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -4491,39 +3279,47 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "coming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "splashed" : {
+  "princip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "REMEDIES" : {
+  "wylli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 5
+  },
+  "scurri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "apprentic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "feared" : {
+  "inform" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 9
+  },
+  "depend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
   },
   "woke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "Aren't" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "United" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 10
-  },
-  "scream" : {
+  "commit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "visitor's" : {
+  "about" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "scream" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 7
+  },
+  "sorrow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -4531,21 +3327,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
+  "envelop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
   "crash" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "observed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "granted" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "cover" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 13
   },
   "patch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -4555,83 +3347,51 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
+  "staircas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
   "bank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 3
   },
-  "convulsive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "scurry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "coughing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Translator" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "oppressed" : {
+  "bang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "stick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 7
   },
-  "sticking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "released" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "goals" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "based" : {
+  "uncontrol" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
+  },
+  "curs" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "immedi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 21
+  },
+  "mealtim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "august" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "distinguish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "scratching" : {
+  "impati" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
-  "engrossed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "LIABILITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "greedily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "received" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  },
-  "PROVIDED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "shortcoming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "laboriously" : {
+  "sleepi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -4639,75 +3399,55 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "intention" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "Later" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "decayed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "enthusiastic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "symptom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "regained" : {
+  "forgiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "impatiently" : {
+  "untidi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "animal" : {
+  "declar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 2
   },
-  "processing" : {
+  "greedili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "unfastened" : {
+  "except" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
-  "shared" : {
+  "acquir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "fact" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 5
   },
-  "One" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  },
-  "knocked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "March" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "fist" : {
+  "vigor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
+  "fist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 4
+  },
   "long" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 22
+    "value" : 24
   },
-  "That'll" : {
+  "redistribu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "announc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -4715,31 +3455,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 9
   },
-  "remember" : {
+  "unless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "pieces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "glance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "boots" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "frightening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "thrift" : {
+  "excess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Under" : {
+  "thrift" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -4747,15 +3471,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 11
   },
-  "holes" : {
+  "mix" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 4
   },
-  "But" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 32
-  },
-  "dirty" : {
+  "emphat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -4767,25 +3487,21 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
+  "sidewai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
   "bother" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "middle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 12
-  },
-  "expression" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "unnatural" : {
+  "polit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "accordance" : {
+  "appeal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 3
   },
   "crate" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -4795,53 +3511,33 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "people" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 9
-  },
-  "stay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 11
-  },
-  "controlled" : {
+  "commerc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "dirti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "appear" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 13
   },
   "face" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 14
   },
-  "monotonous" : {
+  "abandon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "celebrations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "trips" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "showed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 4
   },
   "afraid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "increasing" : {
+  "reliabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "After" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "insistent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
   },
   "household" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -4855,55 +3551,59 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
+  "overwork" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "mani" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
   "open" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 35
+    "value" : 55
+  },
+  "stai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 18
+  },
+  "treat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "agent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "forced" : {
+  "monei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 16
+  },
+  "atten" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 14
+  },
+  "project" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 88
+  },
+  "seven" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 5
   },
-  "suffering" : {
+  "shrug" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "inside" : {
+  "whatev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 2
   },
-  "Gregor's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 99
-  },
-  "Full" : {
+  "loos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "melancholy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Last" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "leaves" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "provincial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "First" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "adhesive" : {
+  "arent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
@@ -4911,59 +3611,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "displaying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "surprise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "impatient" : {
+  "melancholi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "hefty" : {
+  "vanilla" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
-  "dampness" : {
+  "beard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "cooked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "felt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 15
   },
-  "complaints" : {
+  "look" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 61
   },
-  "collection" : {
+  "entranc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
-  },
-  "modification" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "sections" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 4
   },
   "hunger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "injuring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "grounds" : {
+  "repres" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -4975,63 +3651,51 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "flying" : {
+  "concentr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "investig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "guessed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "THIS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "staring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
   },
   "woken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "sighing" : {
+  "thatll" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "loudly" : {
+  "allow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 6
+  },
+  "squar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "arriv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 5
   },
   "knock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 7
   },
-  "reasons" : {
+  "transcrip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "potatoes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "displacing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "needed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
   },
   "father" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 93
+    "value" : 102
   },
-  "begging" : {
+  "binari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "jumped" : {
+  "commerci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
@@ -5043,19 +3707,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "derivative" : {
+  "rule" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 2
   },
-  "commerce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "motors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "assistance" : {
+  "condemn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -5063,11 +3719,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "recognised" : {
+  "transcrib" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "apple" : {
+  "peopl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 9
+  },
+  "loudli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 5
   },
@@ -5079,43 +3739,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "performances" : {
+  "appli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Anna" : {
+  "hefti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "certainti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "scraped" : {
+  "wonder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "answered" : {
+  "middl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 12
   },
-  "apply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "recently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "incredible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Title" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "certainty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "separated" : {
+  "healthi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -5123,41 +3767,41 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "he'd" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Someone" : {
+  "denud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "bedroom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 5
   },
-  "landing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
-  },
-  "lodged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "money" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 16
-  },
-  "healthy" : {
+  "insur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "annoi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 4
+  },
+  "step" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 10
   },
   "comment" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "step" : {
+  "basi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "revolt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "excit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
   },
   "disgust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -5165,33 +3809,25 @@
   },
   "gutenberg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
+    "value" : 94
   },
-  "sunshine" : {
+  "mark" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "base" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "employ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 4
   },
   "rung" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "unwell" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "stamping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "fingers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "nonproprietary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "preparation" : {
+  "consist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -5203,15 +3839,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "reliable" : {
+  "glower" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "charitable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "windowpanes" : {
+  "critic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -5223,11 +3855,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 6
   },
-  "enable" : {
+  "immacul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "premises" : {
+  "nonproprietari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -5235,95 +3867,47 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "profits" : {
+  "still" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "EBook" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 39
   },
   "worn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "briefly" : {
+  "compress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 1
   },
   "work" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 74
-  },
-  "arise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "I'd" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 114
   },
   "lose" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "reduced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "dressed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 9
-  },
-  "risked" : {
+  "rattl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "agree" : {
+  "suitabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
-  },
-  "imagination" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "THOSE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "I'm" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 15
-  },
-  "resistance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "underneath" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Out" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "doors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 10
-  },
   "fail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 4
   },
-  "forefinger" : {
+  "statem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "knowing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  },
-  "DISCLAIMER" : {
+  "dizzi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -5333,23 +3917,19 @@
   },
   "breakfast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  },
-  "apprentices" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 9
   },
   "word" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 9
+    "value" : 21
   },
-  "danced" : {
+  "bosss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "refund" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
+    "value" : 10
   },
   "distress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -5357,37 +3937,41 @@
   },
   "love" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 3
   },
   "contractor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "donations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 12
-  },
-  "hoped" : {
+  "uncertainli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "damages" : {
+  "iii" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 1
   },
   "forehead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "enjoy" : {
+  "impos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "secret" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "throwing" : {
+  "copiou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "requir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 7
+  },
+  "lout" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -5395,59 +3979,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 9
   },
-  "naturally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "discontinue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "fall" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
-  },
-  "nobody's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "uncertainly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "writing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
-  },
-  "ear" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "decisively" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "rushed" : {
+  "across" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 6
   },
-  "federal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "eat" : {
+  "fall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 11
   },
-  "hopes" : {
+  "eas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "believed" : {
+  "ear" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "scatter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "persecuting" : {
+  "eat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 19
+  },
+  "event" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "unyield" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -5457,17 +4017,9 @@
   },
   "finger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "include" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 5
   },
   "swallow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "droplets" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -5475,19 +4027,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "caused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
-  },
-  "exhaustion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "aged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "rattling" : {
+  "subscrib" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -5499,55 +4039,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "lots" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "altogether" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "appearance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "sleeve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "thump" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
-  "damaged" : {
+  "literari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "exists" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 13
   },
   "forgot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "voice" : {
+  "first" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 17
+    "value" : 45
   },
   "perfect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "injuries" : {
+  "whistl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 1
   },
-  "prepared" : {
+  "butcher" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 1
   },
-  "struggled" : {
+  "float" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -5555,55 +4075,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "expressive" : {
+  "punit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "It's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "arrange" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "EXPRESS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "state's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "subdued" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "harmed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "charwoman" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 9
-  },
-  "perversity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "expecting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "discover" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "midday" : {
+  "simpl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "drawers" : {
+  "from" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 121
+  },
+  "charwoman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 9
   },
@@ -5617,53 +4101,53 @@
   },
   "ill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
+    "value" : 16
   },
-  "finished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
-  },
-  "failed" : {
+  "edg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
-  },
-  "sounding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
   },
   "solicit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "poke" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "SEND" : {
+  "anticip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Can" : {
+  "mayb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 6
   },
-  "healed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "provision" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "covered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 9
-  },
-  "replacement" : {
+  "middai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "invariably" : {
+  "impli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "provision" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "enjoi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "uncomfort" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "tossed" : {
+  "guidelin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "untouch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -5671,19 +4155,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "Chief" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "advice" : {
+  "arrai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "frequent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 4
   },
-  "statements" : {
+  "conscienc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -5691,19 +4171,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
+  "error" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
   "network" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "captivate" : {
+  "trace" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "holding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "moments" : {
+  "humil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -5713,67 +4193,27 @@
   },
   "public" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 9
+    "value" : 10
   },
-  "array" : {
+  "briefli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "walking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 4
   },
   "spend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "notifies" : {
+  "steam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "concealed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "DIRECT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "listening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
-  },
-  "tenants" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
   },
   "martyr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "advantage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "gbnewby" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "assistant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
   "spent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
-  },
-  "unchanged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Service" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
   },
   "unheard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -5783,47 +4223,39 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
+  "improv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "instead" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
   "rush" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 12
   },
-  "whispered" : {
+  "beetl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "Contact" : {
+  "unlik" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "BEFORE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "gush" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "performance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "round" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 25
-  },
-  "watering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 26
   },
   "unlink" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Additional" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "deductible" : {
+  "gbnewbi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -5831,7 +4263,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "WILL" : {
+  "agit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -5839,115 +4271,51 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 6
   },
-  "wracked" : {
+  "perman" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "properli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "exception" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "YOU" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
-  },
-  "vague" : {
+  "teaboi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "hands" : {
+  "refus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 19
-  },
-  "references" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "desperate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 4
   },
   "year" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
+    "value" : 14
   },
-  "saved" : {
+  "unsatisfactori" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "sufficiently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "allowed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "leading" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "staying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "nailed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "awful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "redistribution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "ignoring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
   },
   "shaken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "urge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "building" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "properly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
   "locksmith" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "emergencies" : {
+  "describ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "music" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 7
   },
-  "teaboy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "hugged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "poor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "understanding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "unsatisfactory" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -5955,39 +4323,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "silence" : {
+  "volum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "moving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 11
+    "value" : 1
   },
   "ran" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 11
   },
-  "Milk" : {
+  "hungri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "newslett" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Maybe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "agreement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 17
-  },
-  "snuffling" : {
+  "illustr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "AK" : {
+  "agreem" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 18
+  },
+  "merchant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "redistributing" : {
+  "satisfac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -5999,39 +4363,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "shaking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "glimpsed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "hurried" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
-  },
-  "sorted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "charges" : {
+  "firmli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "stop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 14
   },
-  "selection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Author" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Let's" : {
+  "guess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -6039,261 +4379,101 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "happening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "institute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "unused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "cigarettes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "returns" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "endure" : {
+  "handl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
+  },
+  "notch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "ceas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "detail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Where" : {
+  "ein" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "firmly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "providing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "weeks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "BE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Ah" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "immediately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 16
-  },
-  "Am" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "overs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "An" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "posted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
-  },
-  "The" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 63
   },
   "sleep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 14
+    "value" : 20
   },
-  "gazing" : {
+  "sleev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "hungry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "As" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 9
-  },
-  "At" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 11
-  },
-  "stretched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "French" : {
+  "machin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "refuse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "peeved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "prohibition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "God" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
   },
   "close" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 12
-  },
-  "agreed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "computers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "linked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 25
   },
   "sweep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Be" : {
+  "saint" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "evenings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
   },
   "learn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "pulled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "intending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 9
   },
   "neck" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "pushing" : {
+  "distributor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 1
+  },
+  "slam" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 7
   },
   "swing" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "mumbled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "fast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "mealtime" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "floundering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "By" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "Meanwhile" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "calling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "spin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "Drawn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "bolted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
   },
   "spit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "couple" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "notes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Email" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "senses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "moved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 11
-  },
   "errand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "ach" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "movem" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 7
   },
   "lethal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "official" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "Melan" : {
+  "specif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "fortunately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
   },
   "red" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -6307,27 +4487,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "leave" : {
+  "post" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 11
+    "value" : 6
   },
-  "helped" : {
+  "sampl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 3
+  },
+  "finish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 8
+  },
+  "remedi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "incomplet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "faint" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "add" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "educational" : {
+  "peacefulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
-  "Doing" : {
+  "need" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 15
+  },
+  "steadili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -6339,75 +4535,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "originally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "intentions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "Do" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
   "gather" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "newspapers" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
   "insist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 5
   },
-  "staggered" : {
+  "hardli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 13
   },
   "helpless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "respect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "obtaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "DAMAGE" : {
+  "retreat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Dr" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "volume" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "peacefully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "serviettes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "There's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "begged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "loose" : {
+  "altern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -6415,57 +4567,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 8
   },
-  "exchange" : {
+  "conced" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "trust" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "companion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "crawling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
-  },
-  "unthinking" : {
+  "fleck" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "nourishment" : {
+  "famili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "joining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "private" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "production" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "dripped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "choose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "Gregory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "sleeping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
-  },
-  "During" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "peaceful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 32
   },
   "overnight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -6473,101 +4593,77 @@
   },
   "prevent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 3
   },
   "stretch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 8
   },
-  "disturbing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Donations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "strikes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "responsible" : {
+  "sacrif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "end" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 10
+  },
+  "strang" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "frenzi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "modifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "volunt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 7
   },
-  "packed" : {
+  "flounder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "lines" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "entombed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "incapable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "mistake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "identify" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Replacement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "improvement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "irritation" : {
+  "pour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "WITH" : {
+  "undisturb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "veget" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "anyth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "howev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 11
+  },
+  "samsa" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 34
   },
   "vermin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "frenzy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "special" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "GUTENBERG" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "royalties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "calmness" : {
+  "agre" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 12
   },
-  "achieved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "START" : {
+  "numer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
@@ -6575,51 +4671,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "pushed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 12
-  },
-  "family" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 31
-  },
-  "enjoyed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "age" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
   "albeit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "shoulders" : {
+  "gift" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "slightly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
+    "value" : 1
   },
   "slid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "untouched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "copyright" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 17
+    "value" : 21
   },
   "career" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "wanting" : {
+  "sensit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
@@ -6627,9 +4699,9 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "called" : {
+  "donat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 14
+    "value" : 20
   },
   "told" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -6639,19 +4711,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "rolled" : {
+  "properti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 2
+  },
+  "yearn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "rid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "accessed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "years" : {
+  "slightli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 8
   },
@@ -6659,59 +4731,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "gradually" : {
+  "defect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 7
+  },
+  "identifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "disappointment" : {
+  "swish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 1
   },
-  "defect" : {
+  "punish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "burdensome" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "property" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 1
   },
   "narrow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "incomprehensible" : {
+  "brave" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "judge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "darkness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
   },
   "nap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "He" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 82
-  },
-  "businesses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "IF" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "II" : {
+  "invis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -6719,77 +4767,29 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Whatever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "IN" : {
+  "whereabout" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "distributed" : {
+  "ceil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "handle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "IS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Just" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "urged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Some" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "hairs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 7
   },
   "spot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 4
   },
   "driven" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "AGREE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "EVEN" : {
+  "premis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "crossed" : {
+  "other" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "If" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 30
-  },
-  "carved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "misfortunes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "preoccupied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 68
   },
   "tone" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -6799,27 +4799,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "In" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 10
-  },
-  "city" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "confident" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "father's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
-  },
-  "accusations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "HAVE" : {
+  "aggriev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -6827,69 +4807,37 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Is" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Gutenberg" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 84
-  },
-  "It" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 38
-  },
   "air" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 6
   },
-  "pouring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "representations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "holiday" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "courage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "remind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "protruding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "withstand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "tm's" : {
+  "pictur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 6
+  },
+  "assur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "asked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 16
-  },
-  "steadily" : {
+  "assum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "imaginable" : {
+  "potato" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "electronic" : {
+  "locat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 27
+    "value" : 7
   },
   "spineless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -6897,167 +4845,119 @@
   },
   "speak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
-  },
-  "decisions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 13
   },
   "share" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
-  "punished" : {
+  "holidai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "peered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "unsolicited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "tender" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "obstinate" : {
+  "notic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 23
+  },
+  "snuffl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "congratulated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "USE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "filled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "eBooks" : {
+  "surpris" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 7
   },
-  "satisfaction" : {
+  "citi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "slip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "meantime" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "powerful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "removed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "future" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
   },
   "nightdress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "stored" : {
+  "pleasur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 8
   },
-  "dawning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Soon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "DONATIONS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "movement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "family's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "FITNESS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "copied" : {
+  "endur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "tops" : {
+  "mississippi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "True" : {
+  "shed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
-  "body" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 24
-  },
-  "unlocked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "copies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  },
-  "pages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "modified" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "links" : {
+  "shake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
+  },
+  "letharg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "anxiou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "net" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 6
   },
-  "entrance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "catching" : {
+  "unsolicit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "favourit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "all" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 66
+  },
+  "new" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 17
   },
   "read" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 10
   },
-  "applicable" : {
+  "below" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 6
   },
-  "emptied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "positions" : {
+  "incarcer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "todai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 4
+  },
+  "touch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 4
+  },
+  "rememb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 6
+  },
+  "choos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
   },
   "clock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -7067,95 +4967,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "expense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "strangers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "rumination" : {
+  "tool" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Newby" : {
+  "neednt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "maintaining" : {
+  "unit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 11
+  },
+  "sadden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "driving" : {
+  "invari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Sunday" : {
+  "bodi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 24
+  },
+  "unnerv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "strenuous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "pillows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "badly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
   },
   "shame" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "NO" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "doctor's" : {
+  "medic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "entertaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "Mr" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 23
-  },
-  "elderly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "rearranging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "financial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "dreams" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "reaching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "gushed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "contracts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "My" : {
+  "quiver" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -7163,23 +5011,47 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "meters" : {
+  "clumsi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "running" : {
+  "badli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
+    "value" : 2
   },
-  "OF" : {
+  "disappoint" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 10
+    "value" : 3
   },
-  "today" : {
+  "resolv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 2
+  },
+  "calcul" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "and" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 695
+  },
+  "elderli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "persecut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "chose" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "row" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "obsolet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -7187,43 +5059,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 5
   },
-  "declared" : {
+  "ani" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 20
   },
   "fifteen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "No" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  },
-  "stepped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "imaginings" : {
+  "financ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "OR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
-  },
-  "wallpaper" : {
+  "blossom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "looked" : {
+  "drawer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 29
+    "value" : 9
   },
-  "warnings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "unnecessary" : {
+  "gild" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -7231,123 +5087,63 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "politeness" : {
+  "indemn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "specific" : {
+  "misfortun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "complying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "Leant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "suggested" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 4
   },
   "filth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "compilation" : {
+  "previou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "captiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "inherited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Of" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "PG" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "communicated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "bulging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Oh" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
   },
   "whisper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 5
   },
-  "Perhaps" : {
+  "unnecessari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 2
   },
-  "Let" : {
+  "until" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "needle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 13
   },
   "dull" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "On" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "clumsy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "NEGLIGENCE" : {
+  "prejudic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "reason" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 12
-  },
-  "achievements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Or" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 14
   },
   "thought" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 32
+    "value" : 36
   },
-  "foods" : {
+  "droplet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 1
   },
   "ring" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "maintain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "spying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "taste" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
@@ -7359,73 +5155,37 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Gregor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 199
-  },
-  "cheese" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "decided" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "identification" : {
+  "simultan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "differently" : {
+  "english" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "soughing" : {
+  "mistak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Foundation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 21
-  },
-  "gentle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "shoulder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "disconcerted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "fully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  },
-  "dissuade" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "goodness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 4
   },
   "jaw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "devoted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 4
   },
   "broke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "slammed" : {
+  "circumst" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 2
+  },
+  "nail" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "dung" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -7433,139 +5193,71 @@
   },
   "remain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 17
+  },
+  "gentli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "expected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  },
-  "relaxation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "countries" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Two" : {
+  "patienc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "demand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
-  "waved" : {
+  "toss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "warranties" : {
+  "importun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "Details" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "wanted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 28
   },
   "slow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 5
   },
-  "Refund" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "gently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
   "letter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "limped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 4
   },
   "rotten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "succeeded" : {
+  "necessarili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "accuse" : {
+  "appl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "unimpeded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "mobility" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "frequently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 6
   },
   "recommend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "enemy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "cried" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
+  },
+  "indemnifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "experienc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "postur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "arc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Royalty" : {
+  "where" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "pockets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "permitted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "patience" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "stillness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "indemnify" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "expectations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Many" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "takes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 6
   },
   "froze" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -7573,39 +5265,23 @@
   },
   "arm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 18
   },
   "pglaf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  },
-  "jaws" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "enviable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 8
   },
   "slumber" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "noticed" : {
+  "infring" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 9
+    "value" : 1
   },
   "black" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "lacking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Had" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
   },
   "holder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -7615,215 +5291,183 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "fitted" : {
+  "balanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 1
   },
-  "persuade" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "call" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "bowed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "calm" : {
+  "fulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 7
   },
-  "stayed" : {
+  "call" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 20
+  },
+  "calm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 10
+  },
+  "such" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "kick" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "enunci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "ask" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 18
   },
   "gossip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "TO" : {
+  "suck" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "So" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 14
+    "value" : 1
   },
   "understood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "Other" : {
+  "rub" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 3
   },
-  "supported" : {
+  "through" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 10
+  },
+  "knive" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "forwards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
   },
   "strength" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 7
   },
-  "Compliance" : {
+  "openli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "assailed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "run" : {
+  "innoc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "remains" : {
+  "run" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 8
   },
-  "repeated" : {
+  "cant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 7
   },
   "research" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "housed" : {
+  "worri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 8
   },
   "mother" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 79
+    "value" : 90
   },
   "view" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "forgetting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "incomplete" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "ate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 6
   },
   "white" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 7
   },
-  "sounded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "openly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "furniture" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 15
-  },
   "flank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "'AS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "To" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "donate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
   },
   "dust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "palely" : {
+  "discov" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "those" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "UT" : {
+  "unsuccessfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "travelling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  },
-  "worry" : {
+  "difficulti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "aggrieved" : {
+  "imposs" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "imagine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 6
   },
   "town" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "knives" : {
+  "examin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "lifted" : {
+  "irrit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
+    "value" : 3
+  },
+  "dure" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 4
   },
   "girl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
-  "sharing" : {
+  "bleed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "FULL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "screaming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "difficulty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
   },
   "longer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 18
   },
-  "watched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "volunteer" : {
+  "flutter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Long" : {
+  "introduc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "privat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "occupi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "consum" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "name" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "enemi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -7831,97 +5475,77 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "leaving" : {
+  "bolt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
+    "value" : 2
   },
-  "swinging" : {
+  "physic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "unus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Domain" : {
+  "nod" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Christmas" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 4
   },
   "shop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
+  "import" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 5
+  },
   "mood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
-  },
-  "distance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
   },
   "hidden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Yes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "prospects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
   "attract" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "show" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "Yet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Leave" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 10
   },
   "edition" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "cautious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "coughs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 5
   },
   "disappear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "originator" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 7
   },
   "conclusion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
-  "drops" : {
+  "crouch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "hurriedly" : {
+  "nor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
+    "value" : 2
   },
-  "impose" : {
+  "button" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "comput" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 4
+  },
+  "not" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 10
   },
   "defend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -7929,121 +5553,109 @@
   },
   "street" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
+    "value" : 7
   },
-  "crying" : {
+  "now" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 72
   },
-  "arrive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "He'd" : {
+  "nearli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "overcom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 5
   },
   "trademark" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 10
+    "value" : 11
   },
-  "lived" : {
+  "boot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "derived" : {
+  "ascii" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "wai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 40
+  },
+  "enabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "news" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
   },
   "itch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "thoughts" : {
+  "hurriedli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 7
   },
-  "learned" : {
+  "pierc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 2
   },
-  "locking" : {
+  "greet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "duti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
   },
   "bone" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "suddenly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 9
-  },
-  "We" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
-  },
-  "grey" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "unsuccessfully" : {
+  "workshi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Samsa" : {
+  "what" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 34
+    "value" : 77
   },
   "mouth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 8
   },
-  "Her" : {
+  "refer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 2
   },
-  "assuming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "pity's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "duty" : {
+  "risk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "stranger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 4
+  },
+  "comprehen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "window" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 19
+    "value" : 21
   },
-  "workshy" : {
+  "suddenli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "stairway" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "attempted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 9
   },
   "yank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "play" : {
+  "incomprehens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "grei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
@@ -8055,85 +5667,77 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "fancy" : {
+  "abruptli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Behind" : {
+  "displac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "quickly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 11
-  },
-  "WARRANTIES" : {
+  "stairwai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "attentive" : {
+  "carv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "taxes" : {
+  "rent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 4
   },
-  "decide" : {
+  "when" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "poured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "nearby" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "glancing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "synonymous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 57
   },
   "modest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
+  "plai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 19
+  },
+  "nostril" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
   "anxious" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 4
   },
-  "tugged" : {
+  "quickli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "largely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 12
   },
   "stuck" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "abruptly" : {
+  "displai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 6
   },
   "broad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "struggling" : {
+  "electron" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 29
   },
   "catch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 5
+  },
+  "limpli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "nearbi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "cash" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -8141,7 +5745,7 @@
   },
   "plan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 4
   },
   "case" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -8149,107 +5753,75 @@
   },
   "give" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 14
+    "value" : 18
   },
-  "dizziness" : {
+  "sundai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "item" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "toler" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "travellers" : {
+  "obviou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "lives" : {
+  "wearili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "depends" : {
+  "destin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "double" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "III" : {
+  "melan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "comfortably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "He's" : {
+  "collaps" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "limply" : {
+  "muffl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Seven" : {
+  "studi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "longing" : {
+  "consid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "saving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "sticks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "slide" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
-  "comfortable" : {
+  "futur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 7
   },
-  "determined" : {
+  "didnt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 9
   },
-  "uncontrollable" : {
+  "everyth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 21
   },
   "prevail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "PLEASE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "excessive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "completely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 9
-  },
   "flesh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "wearily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "rested" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
   },
   "card" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -8257,41 +5829,53 @@
   },
   "care" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "damage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 5
   },
   "boss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 9
   },
-  "EBOOK" : {
+  "pantri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 1
   },
   "direct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 3
   },
-  "bottles" : {
+  "terribl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 1
   },
-  "housekeeper" : {
+  "surplu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "compil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "labour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "gain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "engross" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "receiving" : {
+  "scrape" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "caus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 13
+  },
+  "rumin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -8299,27 +5883,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
+  "mechan" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "violat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
   "web" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 6
+  },
+  "temporarili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "seldom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "pantry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "occasionally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "dared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "realisation" : {
+  "superflu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -8327,91 +5911,47 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "cooking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "protect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
-  },
-  "relieved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
   },
   "grin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "display" : {
+  "furnitur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 15
   },
-  "superfluous" : {
+  "morn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "dishes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "continuously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "entrusted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 22
   },
   "great" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 10
   },
-  "happened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 15
-  },
-  "inaccurate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "wrong" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 6
   },
-  "beautifully" : {
+  "fanci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "beings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "His" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 26
-  },
-  "enunciating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "pleased" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
   },
   "rage" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "sides" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "heads" : {
+  "inflam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "wondered" : {
+  "sacrific" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "beautifulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -8423,75 +5963,51 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 9
   },
+  "whim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
   "widow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "serviett" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "fee" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
+    "value" : 12
   },
-  "simple" : {
+  "section" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 9
   },
-  "influence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "earned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "other's" : {
+  "whir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "They're" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "letting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "INCLUDING" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Mission" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "totally" : {
+  "simpli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 7
   },
-  "wrapped" : {
+  "threaten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
-  "awoke" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "connections" : {
+  "feebl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "strain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "marked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 4
   },
   "rain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "startlement" : {
+  "desper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -8503,39 +6019,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "visible" : {
+  "sweeten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "kind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  },
-  "temporarily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "repugnant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 8
   },
   "nearer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "laughed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "traces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "stumbling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "exceptionally" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -8543,31 +6035,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "opened" : {
+  "rais" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 16
+    "value" : 12
   },
-  "men's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "produced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "important" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "Hardly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "effects" : {
+  "most" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "personally" : {
+  "unsur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "transfer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "footstep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -8575,41 +6059,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "indifferent" : {
+  "imagin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "bones" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 7
   },
   "hung" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "affection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "effect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
-  "explaining" : {
+  "keep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "boned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "screamed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 12
   },
   "job" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
+    "value" : 9
   },
   "eaten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -8623,7 +6091,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "limitation" : {
+  "cloth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "who" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 15
+  },
+  "appreci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
@@ -8631,15 +6107,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "unsure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "unexpected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "solicitation" : {
+  "joi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -8647,27 +6115,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
+  "continu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 8
+  },
+  "why" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 9
+  },
+  "faith" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "remark" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
   "bowl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "fainted" : {
+  "everyon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 7
   },
-  "necessarily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "relaxed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "causing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "joy" : {
+  "donor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -8683,49 +6155,37 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "muffled" : {
+  "arrang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "miracle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 5
   },
   "sheet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 6
   },
-  "delaying" : {
+  "newbi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "mentioned" : {
+  "david" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "inseparably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 5
   },
   "profit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Release" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Until" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "rest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
+    "value" : 9
+  },
+  "breach" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
   },
   "move" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 16
+    "value" : 38
   },
   "butter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -8735,11 +6195,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "comply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
-  },
-  "original" : {
+  "entomb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -8747,17 +6203,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 14
   },
-  "electric" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "From" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "thanking" : {
+  "tremend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "labori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "shini" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "liabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "differ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
   },
   "spread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -8765,27 +6229,23 @@
   },
   "leant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 8
+  },
+  "oclock" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 7
   },
-  "REPLACEMENT" : {
+  "situat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 4
   },
-  "matters" : {
+  "compli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 9
   },
-  "attention" : {
+  "archiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 14
-  },
-  "approached" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "shiny" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 13
   },
   "front" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -8795,17 +6255,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
+  "confus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "approv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
   "user" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "You" : {
+  "unfold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 16
+    "value" : 2
   },
-  "simply" : {
+  "confid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
+    "value" : 5
   },
   "extent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -8815,59 +6283,63 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
+  "parent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 26
+  },
+  "viru" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
   "bad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "dipped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "greeting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "bring" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
+    "value" : 11
   },
-  "awake" : {
+  "luxuri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "sauce" : {
+  "complet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 10
   },
-  "Across" : {
+  "revul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "kiss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "losing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "fond" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "offer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "pangs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "suffer" : {
+  "fit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
+  "offer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "suffer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 6
+  },
+  "gentl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
   "fix" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "interced" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -8875,101 +6347,93 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "excusal" : {
+  "angri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Unnecessary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "addition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "employers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "promoting" : {
+  "neglect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "excited" : {
+  "addition" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 6
+  },
+  "despit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 10
+  },
+  "sure" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 6
+  },
+  "ad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "humanly" : {
+  "ag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
-  "textile" : {
+  "ah" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "disclaim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 5
   },
-  "angry" : {
+  "ak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "EIN" : {
+  "am" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "secur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "greatli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "accurately" : {
+  "an" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 15
   },
   "panic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "How" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "tidied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "delay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "violates" : {
+  "fold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "turning" : {
+  "as" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
+    "value" : 245
   },
-  "plans" : {
+  "at" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 173
+  },
+  "av" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "peace" : {
+  "aw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
+    "value" : 1
   },
-  "consideration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "simultaneously" : {
+  "humanli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "drive" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "greatly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 5
   },
   "brother" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -8987,39 +6451,39 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
+  "be" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 132
+  },
   "prove" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "dead" : {
+  "chambermaid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "enquiri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "IRS" : {
+  "dead" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "domin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "eyes" : {
+  "see" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 19
-  },
-  "virus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "search" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "responsibility" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "offered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "deranged" : {
+  "fool" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -9027,11 +6491,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "Defect" : {
+  "by" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 66
   },
-  "customers" : {
+  "subdu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -9039,29 +6503,9 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Did" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
   "foot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 6
-  },
-  "disclaimer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "compared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "salts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "nodded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
   },
   "tremor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -9071,39 +6515,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 20
   },
-  "charge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
-  },
   "sew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "keeping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "joined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "quicker" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "jobs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "words" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 12
-  },
-  "alternate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "medicine" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -9111,73 +6527,61 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "entered" : {
+  "suspici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
-  "breathe" : {
+  "freeli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "lasted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 5
   },
   "food" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 14
+    "value" : 16
+  },
+  "renam" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "fly" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "franz" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 4
   },
   "withdrew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "gifted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "WARRANTY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
   "earnest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "astonished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "eyed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Father" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "freely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
   "bed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 29
+    "value" : 32
   },
-  "rooms" : {
+  "unwel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
+  },
+  "offic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 8
   },
   "beg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 4
   },
-  "stairs" : {
+  "forc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 13
   },
-  "girls" : {
+  "do" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 74
   },
   "thunder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -9187,25 +6591,41 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "painfully" : {
+  "parti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
+    "value" : 1
+  },
+  "dr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
   },
   "armour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "strangeness" : {
+  "furnish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "shouts" : {
+  "discontinu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "unselfconsci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "beauti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "dy" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "contact" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 5
   },
   "won" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -9215,87 +6635,59 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "warning" : {
+  "painfulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 6
+  },
+  "deduct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "chairs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "North" : {
+  "ei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "REFUND" : {
+  "carri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 16
+  },
+  "needl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "impeding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "softened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "suspicious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
   },
   "fourteen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "anxiety" : {
+  "she" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 198
   },
   "knife" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "piece" : {
+  "ey" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 19
+  },
+  "squeak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "screams" : {
+  "prohibi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
-  "antennae" : {
+  "activ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Drops" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "dishevelled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "END" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "carry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
-  },
-  "stared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "finances" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "debt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "party" : {
+  "compar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -9307,83 +6699,39 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "duties" : {
+  "shuffl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "deep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 4
   },
-  "tears" : {
+  "indic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 9
+    "value" : 4
   },
-  "Instead" : {
+  "delai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "snapping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 4
   },
   "shy" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "deletions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "forgive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "trembling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "mistakes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "dozing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "enveloped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "trainee" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "explained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "watching" : {
+  "origin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "unselfconsciously" : {
+  "for" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 192
   },
   "content" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "precaution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "domed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "related" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -9391,69 +6739,65 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "outstretched" : {
+  "ga" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 1
+  },
+  "promot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
   },
   "sir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "contrary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
-  },
-  "INDIRECT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "covers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
   },
   "sit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 9
   },
-  "adult's" : {
+  "over" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 19
+  },
+  "someth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 25
+  },
+  "eyebrow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "living" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 18
-  },
-  "practical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "breathing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
   },
   "bound" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "wearing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "Although" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "chewing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "dinner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
+  "contrari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "vagu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "fork" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "marriag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
   "form" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 5
+  },
+  "enviabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "avoid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -9463,7 +6807,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 6
   },
-  "observant" : {
+  "selec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "foundat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 25
+  },
+  "he" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 587
+  },
+  "astonish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 4
+  },
+  "posses" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -9471,17 +6831,13 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "rubbing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "promotion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Professor" : {
+  "hi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 546
   },
   "big" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -9491,45 +6847,21 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "practice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "amazement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "Nearly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "quaking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "transcription" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "bin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "recommendation" : {
+  "easili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 6
+  },
+  "altogeth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "provoking" : {
+  "warranti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "mechanical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Throughout" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 5
   },
   "sick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -9539,47 +6871,47 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "unfolded" : {
+  "veri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 12
   },
-  "transcribe" : {
+  "promis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "appeared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "striking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "convinced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
   },
   "corner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "recognise" : {
+  "id" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "easily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
+    "value" : 5
   },
   "join" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "drag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "decis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "promin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "if" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 121
+  },
+  "french" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "reduce" : {
+  "ii" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -9587,35 +6919,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "sentence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
   "fro" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "realised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 9
-  },
-  "plates" : {
+  "liveli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "large" : {
+  "im" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 15
   },
-  "hallway" : {
+  "in" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 360
   },
-  "satisfied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "chasing" : {
+  "director" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -9627,19 +6947,39 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "dismissed" : {
+  "ir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "doorway" : {
+  "is" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
+    "value" : 37
+  },
+  "it" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 403
+  },
+  "suffoc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "vertic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "sympathi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "iv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 4
+  },
+  "decid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 5
   },
   "drink" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Girls" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -9647,25 +6987,29 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "lively" : {
+  "lung" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "surviv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "christma" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "Plain" : {
+  "hallwai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "cheeks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "contrast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "attracted" : {
+  "experi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "toothless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -9675,63 +7019,39 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 6
   },
-  "alteration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "continuing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "begin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 5
   },
   "viewer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "paragraph" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 10
-  },
-  "noses" : {
+  "anxieti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "paragraph" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 14
   },
   "brought" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "Besides" : {
+  "librari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "works" : {
+  "amaz" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 33
-  },
-  "May" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "turned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 19
-  },
-  "payments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "eventually" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 6
   },
   "neighbour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "emerged" : {
+  "plate" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -9739,15 +7059,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "thinking" : {
+  "believ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 5
   },
-  "banging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "POSSIBILITY" : {
+  "sadli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -9755,53 +7071,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "library" : {
+  "meantim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "viewed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "prejudice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "angle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "sending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "RIGHT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "ability" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "unbearable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "livelier" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "table" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 19
-  },
-  "sadly" : {
+  "delight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "side" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 22
+    "value" : 27
   },
   "bread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -9811,35 +7091,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "missed" : {
+  "discoveri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "Use" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "change" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
   },
   "knew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 8
   },
-  "Tonight" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "indirectly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "draw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
+  "carefre" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
   "comfort" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 5
+  },
+  "knee" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -9847,27 +7119,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "whereabouts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "places" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "wooden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "discovery" : {
+  "report" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 6
+  },
+  "indirectli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "report" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "complete" : {
+  "conscious" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -9875,119 +7139,87 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
+  "sigh" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
   "constant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "knees" : {
+  "receiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "invalidity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 13
   },
   "sign" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 8
   },
-  "Alright" : {
+  "directli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "while" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "office" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
   },
   "anger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "Franz" : {
+  "ly" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 6
   },
-  "Nothing" : {
+  "that" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "panting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "pauses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "skirts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "edge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 345
   },
   "high" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
+  "download" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
   "son" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "picked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
   "skirt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 5
   },
   "www" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 6
   },
-  "sufficient" : {
+  "limit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 8
   },
   "claim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "locked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "directly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "communication" : {
+  "outdat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "mother's" : {
+  "mr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
+    "value" : 33
   },
-  "months" : {
+  "author" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "Executive" : {
+  "clench" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Updated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "possessed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "shuffled" : {
+  "meter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -9995,61 +7227,49 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "Terms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "restrictions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
   "thrown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "feeling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "preserve" : {
+  "unfasten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "City" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "permanently" : {
+  "my" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "establish" : {
+  "modif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "establish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
   },
   "chosen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
+  "wrench" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "complic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
   "coat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "license" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 5
   },
   "disk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "dismissal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "dream" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 4
   },
   "boa" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -10057,173 +7277,157 @@
   },
   "dish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
+    "value" : 8
   },
-  "poked" : {
+  "gaze" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "updat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "AND" : {
+  "elast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "David" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "rushing" : {
+  "windowpan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "attached" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "fluttered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "errors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Except" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "parents" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 25
-  },
-  "Before" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "consumed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "swayed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "keys" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "careful" : {
+  "produc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "kissed" : {
+  "spy" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "CONTRACT" : {
+  "boi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "mixed" : {
+  "no" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 78
+  },
+  "behind" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 12
+  },
+  "heav" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "code" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "box" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "investigate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "bow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "ANY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
-  },
-  "boy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
   },
   "head" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 38
+    "value" : 39
+  },
+  "restric" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
   },
   "total" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 10
   },
   "trouser" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "considerable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "sympathy" : {
+  "charit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
+  "of" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 549
+  },
+  "heal" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "oh" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 6
+  },
+  "involv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "possibl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 11
+  },
+  "doorwai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 8
+  },
   "hear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 14
-  },
-  "occupied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 17
   },
   "loudest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "highly" : {
+  "on" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 241
   },
-  "unfortunate" : {
+  "purpos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
-  "whims" : {
+  "or" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "recover" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "chance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  },
-  "determine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "raised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 96
   },
   "cross" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "ow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "complianc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 5
   },
   "control" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 5
   },
   "drew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
+  "highli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 4
+  },
   "clerk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 34
+    "value" : 37
   },
-  "editions" : {
+  "extrem" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 4
+  },
+  "equip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
@@ -10235,7 +7439,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "luxury" : {
+  "offici" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "pg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -10243,79 +7451,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "sitting" : {
+  "hospit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "backs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "infringement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "dustbins" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Archive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 13
+    "value" : 2
   },
   "stood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 14
   },
-  "registered" : {
+  "injuri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "You're" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "bushy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "determination" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 4
   },
   "behalf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "stretching" : {
+  "endear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "States" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 10
-  },
-  "revulsion" : {
+  "provinci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "OWNER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "extremely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "speaking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "encouraged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Sections" : {
+  "arduou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -10327,19 +7487,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "horrible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "rocked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "hinder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
+  "damag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 10
+  },
   "friend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 5
+  },
+  "drip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "bushi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -10351,51 +7515,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "injury" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "hundreds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "drawn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "recent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "hissing" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "forks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "closely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "consciousness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "furnishings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "pleasure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  },
-  "crawled" : {
+  "recent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "compellingly" : {
+  "monoton" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "varieti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -10403,101 +7535,89 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
+  "then" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 76
+  },
   "ancient" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "remaining" : {
+  "thei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "morning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 22
+    "value" : 151
   },
   "accept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 6
   },
   "seat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 3
   },
-  "yearning" : {
+  "indiffer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "mission" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 4
   },
-  "appreciated" : {
+  "includ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 15
+  },
+  "weakli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "compellingli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "minut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "donors" : {
+  "motor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "Close" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "conditions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "starting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "interpreted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "checking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "belly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
   },
   "mistrust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "discovered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "wiped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "access" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 10
+    "value" : 12
   },
-  "curtains" : {
+  "cautiou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "tightli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "languag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "overcome" : {
+  "expres" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 2
   },
-  "Listen" : {
+  "kei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 12
+  },
+  "oppress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "undisturbed" : {
+  "belli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "unusually" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "current" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -10507,41 +7627,29 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "variety" : {
+  "dilig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "managed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 2
   },
   "disturb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 6
+  },
+  "so" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 91
   },
   "caution" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "strained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "key" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 11
-  },
   "email" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "gratitud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
-  },
-  "incarcerated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "stopped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 9
   },
   "silent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -10551,21 +7659,21 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "decision" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "laying" : {
+  "intern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "overworked" : {
+  "decision" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 5
+  },
+  "onc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 13
+  },
+  "centr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "makes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
   },
   "shudder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -10575,27 +7683,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "started" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "threatened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "UNDER" : {
+  "store" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Quickly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Section" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  },
-  "condemned" : {
+  "raisin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -10603,81 +7695,57 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
+  "flower" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
   "monster" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
+  "emerg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
   "confirm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 4
   },
   "pull" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 9
   },
-  "tightly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "elastic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "flowed" : {
+  "silenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "closed" : {
+  "remov" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
+    "value" : 11
+  },
+  "assist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
   },
   "tm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 56
+    "value" : 57
   },
-  "Literary" : {
+  "to" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 13
+    "value" : 77
   },
-  "slipped" : {
+  "but" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 175
   },
-  "compressed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "inflamed" : {
+  "strenuou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "country" : {
+  "expens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "commercial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "exporting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "declare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "You've" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "reasonable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "generations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 4
   },
   "thoughtless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -10685,99 +7753,71 @@
   },
   "express" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
-  "rules" : {
+  "deterior" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 1
   },
   "bedpost" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "discourtesy" : {
+  "countri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 4
   },
-  "regularly" : {
+  "nois" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "retreating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "noises" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 10
   },
   "written" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "unusual" : {
+  "provok" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "extreme" : {
+  "us" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 20
+  },
+  "ut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Volunteers" : {
+  "discourtesi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "Another" : {
+  "regularli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "treated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "PROJECT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
   },
   "usual" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 8
   },
   "sink" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "DAMAGES" : {
+  "burdensom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
-  },
-  "suppose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
   },
   "upright" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 9
   },
-  "Please" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
   "thin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "remarkable" : {
+  "sough" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "NOT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "failure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
   },
   "expend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -10791,37 +7831,37 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 6
   },
-  "General" : {
+  "know" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 14
+  },
+  "electr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
   },
   "support" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "changed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 5
   },
   "drop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 4
+  },
+  "proprietari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "idea" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "destination" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 6
   },
   "cold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "vertical" : {
+  "wa" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 360
   },
   "gruff" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -10831,67 +7871,47 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "What" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 10
-  },
-  "austere" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "life" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 14
   },
+  "we" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 35
+  },
+  "unchang" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
   "damp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
-  "expects" : {
+  "rearrang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "clapping" : {
+  "throughout" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "danc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "scurried" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "proprietary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "examination" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "gas" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "turnover" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Whenever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "I'll" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
   },
   "lieu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "lovely" : {
+  "choic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
-  "types" : {
+  "horribl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
+  "gradual" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -10907,19 +7927,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 5
   },
-  "previous" : {
+  "licens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 17
   },
-  "mingled" : {
+  "newspap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 6
   },
   "org" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 7
   },
-  "unpleasantness" : {
+  "accumul" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "recognis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -10927,15 +7951,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "reading" : {
+  "distribut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 17
   },
-  "almonds" : {
+  "behav" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "saddened" : {
+  "timor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -10947,7 +7971,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "squeaking" : {
+  "succeed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -10955,21 +7979,33 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "location" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "gentleman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 5
   },
-  "stains" : {
+  "antenna" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "streets" : {
+  "hostil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "individu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 7
+  },
+  "housekeep" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "sourc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "sack" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
   },
   "held" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -10977,51 +8013,47 @@
   },
   "reach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "humility" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Internal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 10
   },
   "childish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "lightly" : {
+  "deepli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "ridiculously" : {
+  "realiz" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "ye" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 8
+  },
+  "cheerio" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "type" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "hell" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 4
+  },
+  "realis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 12
   },
   "hiss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "practise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "BREACH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "closing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 5
   },
   "problem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "terms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 20
   },
   "hazard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -11035,35 +8067,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 7
   },
-  "sighs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "deeply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
   "teeth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
-  },
-  "connection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
   },
   "asleep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 5
   },
-  "seized" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "abandoned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "traveller" : {
+  "protrusion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -11071,17 +8083,13 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "obsessed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "natural" : {
+  "goal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "method" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 3
   },
   "drank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -11093,23 +8101,19 @@
   },
   "contract" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "misfortune" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "comprehension" : {
+  "come" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 27
   },
-  "samples" : {
+  "nobodi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 5
   },
   "push" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 20
   },
   "coma" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -11119,11 +8123,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "provisions" : {
+  "comb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "women's" : {
+  "exist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "assail" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "seiz" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -11131,49 +8143,53 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
+  "opportun" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 4
+  },
   "exact" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "lift" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 9
+  },
+  "lightli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "WORK" : {
+  "regist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "feder" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
+  },
+  "educ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "force" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
-  },
-  "Revenue" : {
+  "north" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "periodic" : {
+  "wear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
-  "distribution" : {
+  "gregor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
+    "value" : 298
   },
-  "ACTUAL" : {
+  "copi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 26
   },
-  "tools" : {
+  "out" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "derive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Mrs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 10
+    "value" : 58
   },
   "cope" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -11185,129 +8201,109 @@
   },
   "rock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Mother" : {
+  "lean" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 2
   },
   "flat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 20
   },
+  "get" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 50
+  },
   "dark" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 8
+  },
+  "salli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "accus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "clerk's" : {
+  "flap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "sewing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "copy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 13
+    "value" : 1
   },
   "place" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 9
+    "value" : 12
   },
-  "Didn't" : {
+  "power" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "accur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "leav" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 19
+  },
+  "dare" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 6
   },
   "regular" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "dare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "sits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "blouse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "carefree" : {
+  "someon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "cook" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "prominently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 3
   },
   "cool" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "twisted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "tired" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  },
-  "continued" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
   "suggest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "transformation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "abide" : {
+  "observ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "lead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
-  "amazed" : {
+  "readabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
+    "value" : 2
+  },
+  "expect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 10
+  },
+  "help" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 20
+  },
+  "inaccur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
   },
   "site" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "When" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  },
   "emotion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "cease" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "Sometimes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "mingle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "ended" : {
+  "consequenti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -11315,29 +8311,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 24
   },
-  "located" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
   "behaviour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
   "date" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 3
   },
-  "unyielding" : {
+  "dress" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 9
+  },
+  "obsess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "addresses" : {
+  "whatsoev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "lamps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "data" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -11345,61 +8337,45 @@
   },
   "sound" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
+    "value" : 10
   },
-  "Most" : {
+  "own" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "begun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "tremendous" : {
+  "separ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "sales" : {
+  "neglig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
-  },
-  "knocking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
   },
   "armchair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "describing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "distributing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  },
-  "sacked" : {
+  "plain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "refrained" : {
+  "should" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 17
   },
   "blow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "climbing" : {
+  "replac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 6
   },
-  "readable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "curious" : {
+  "sens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
@@ -11407,101 +8383,89 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "individual" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  },
-  "alarmed" : {
+  "indirect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "depended" : {
+  "like" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 32
   },
-  "nuisance" : {
+  "onli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 62
   },
-  "accepted" : {
+  "unpleas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 3
   },
   "tax" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
+    "value" : 7
   },
-  "excitement" : {
+  "forefing" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "efforts" : {
+  "insepar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "exhaus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 1
+  },
+  "collec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 6
   },
   "person" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
+    "value" : 7
   },
   "safe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "files" : {
+  "ground" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 8
+  },
+  "visitor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "ground" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  },
-  "beards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "visitor" : {
+  "turnov" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "send" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
+    "value" : 8
   },
-  "expenses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "Below" : {
+  "note" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "week" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "covering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 3
   },
   "regret" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "purpose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
   "line" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 4
   },
-  "balls" : {
+  "noth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 15
   },
-  "weakly" : {
+  "link" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 4
   },
   "distinct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -11515,19 +8479,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "Wyllie" : {
+  "can" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "aware" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
+    "value" : 23
   },
   "hair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 4
   },
-  "sweetened" : {
+  "limp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -11535,19 +8495,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "ready" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "floating" : {
+  "satisfi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
   "scalp" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "marriage" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
@@ -11557,19 +8509,19 @@
   },
   "alarm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
+    "value" : 7
   },
   "station" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "studies" : {
+  "provid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 18
   },
-  "feeble" : {
+  "immobil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 5
   },
   "smooth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
@@ -11579,108 +8531,64 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 3
   },
-  "affairs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "player" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "carried" : {
+  "nose" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 5
-  },
-  "cleaning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "costs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 1
   },
   "cost" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 6
   },
   "overcoat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
   },
-  "limited" : {
+  "will" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 18
   },
-  "confidence" : {
+  "readi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 4
   },
-  "reads" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "edges" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
   "smoke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "While" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "value" : 2
   },
   "follow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
+    "value" : 13
   },
-  "hurrying" : {
+  "cosi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "played" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
+    "value" : 1
   },
   "intent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
-  "clothes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  },
-  "washing" : {
+  "connec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 2
-  },
-  "breakfasts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "response" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  },
-  "compliance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 4
-  },
-  "locations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  },
-  "cosy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
   },
   "harmless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
   },
+  "intend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 3
+  },
   "wild" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
     "value" : 1
+  },
+  "snap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Metamorphosis.txt",
+    "value" : 2
   }
 }

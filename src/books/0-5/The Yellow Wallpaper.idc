@@ -1,15 +1,11 @@
 {
-  "prepare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
   "half" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "numerous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
+  },
+  "year" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
   },
   "govern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
@@ -17,21 +13,21 @@
   },
   "hall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "I've" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 5
-  },
-  "explanation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "sprouting" : {
+  "your" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 17
+  },
+  "pretend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "contributions" : {
+  "temporari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "score" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -39,51 +35,99 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Michael" : {
+  "poor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 1
   },
-  "electronically" : {
+  "reproach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 1
   },
   "formless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "calculate" : {
+  "rai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
-  },
-  "WALLPAPER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
   },
   "sake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 4
   },
-  "breadths" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
   "sister" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "whatsoever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "require" : {
+  "ran" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "volunteers" : {
+  "ghostli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 5
+    "value" : 1
+  },
+  "everlasting" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "sometim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "newslett" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "intellectu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "wallpap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 6
+  },
+  "agreem" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 18
+  },
+  "possess" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "romanesqu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "merchant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "scratch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "version" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "befor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "stop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "guess" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "left" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "fairli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -91,7 +135,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "sideways" : {
+  "ceas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -101,101 +145,77 @@
   },
   "wind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 2
   },
-  "A" : {
+  "besid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 6
+    "value" : 3
   },
-  "telling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "accessible" : {
+  "unten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "airy" : {
+  "weir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "hang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "B" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "C" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "carriage" : {
+  "fate" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "D" : {
+  "hypothesi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
-  },
-  "E" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 22
-  },
-  "F" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 11
   },
   "yellow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 8
+    "value" : 14
   },
-  "I" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 303
-  },
-  "perseverance" : {
+  "pronounc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
   "turn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
+    "value" : 9
+  },
+  "ein" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "elect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "O" : {
+  "secretli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "opposition" : {
+  "sleep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 11
   },
-  "greenhouses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "FOUNDATION" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Contributions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "S" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 5
-  },
-  "U" : {
+  "strangl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
+  },
+  "greenhous" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "quiet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 7
   },
-  "lights" : {
+  "machin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "profes" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -205,85 +225,129 @@
   },
   "hand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "strangles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 4
   },
   "a" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 194
+    "value" : 200
   },
   "b" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 3
   },
-  "committed" : {
+  "piec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "address" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 2
   },
   "c" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
+    "value" : 5
   },
-  "licensed" : {
+  "address" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "salt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "d" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
   "e" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 23
   },
-  "Nobody" : {
+  "learn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "artistic" : {
+  "f" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 11
+  },
+  "i" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 303
+  },
+  "neck" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
+  },
+  "distributor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "o" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "the" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 420
+  },
+  "perkin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
   },
   "straight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 4
   },
-  "strangled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "s" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "exciting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "days" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 6
-  },
-  "information" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "reports" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "unreasonably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Its" : {
+  "airi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "torturing" : {
+  "fast" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
+  "s" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 6
+  },
+  "thi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 76
+  },
+  "u" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "slap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "god" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "kindli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "thu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "correct" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "undertak" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "undoubtedli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "flamboy" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "advic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -291,19 +355,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 16
   },
-  "empty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "belonging" : {
+  "specif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
+  },
+  "wish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 9
   },
   "tie" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "PGLAF" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -311,89 +371,121 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "copying" : {
+  "act" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
+    "value" : 1
+  },
+  "post" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 6
+  },
+  "rel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "pai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "finish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "remedi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "morrow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "export" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "incomplet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "laugh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 6
+  },
+  "faint" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "Unless" : {
+  "add" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "STRICT" : {
+  "practic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "elm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "making" : {
+  "shade" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "vicious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "Personally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "FOR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "pay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 4
   },
   "check" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
+    "value" : 4
+  },
+  "gather" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "clearer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "relatives" : {
+  "els" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "strange" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 5
   },
   "lack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "About" : {
+  "shadi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "altern" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "isol" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Dear" : {
+  "http" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "owed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Redistributing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "End" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 8
   },
   "child" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
+    "value" : 4
   },
-  "formats" : {
+  "hundr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "trust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
+  },
+  "fortun" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "ensur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "young" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
@@ -403,3115 +495,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "provided" : {
+  "contribu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "obsolete" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 2
   },
   "medium" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 5
   },
-  "remove" : {
+  "hart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "disclaimers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "society" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "arranged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Redistribution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "romantic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "hard" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "ensuring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "live" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "November" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "perform" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "room" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 24
-  },
-  "creeps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "creepy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "named" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "breadth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "License" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 10
-  },
-  "John" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 43
-  },
-  "approach" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "fierce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "hate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "write" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 5
-  },
-  "order" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "IMPLIED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "corporation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "understand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "felicity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "confirmation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "slowly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "loving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "daylight" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 5
-  },
-  "analyze" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "binary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "spots" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "appearing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "women" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "eBook" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 6
-  },
-  "queer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "wait" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "woman" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 8
-  },
-  "gnawed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "save" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "matter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "instant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "indicating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "hypertext" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "walls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "top" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "toy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "laid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Fairbanks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "additions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "loves" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "fatuity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "intellectual" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "opportunities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "produce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "hates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "walks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "undoubtedly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Else" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "cod" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "entity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "All" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "imposed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "lets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "manner" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "employee" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "crawl" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "gouged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Copyright" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "wake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "defective" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "owns" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "hated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "terror" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "law" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "including" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 7
-  },
-  "void" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "lay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "liability" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "However" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "AGREEMENT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Public" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "affected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "READ" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "condition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "And" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 18
-  },
-  "improve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "shining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "arms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "unclean" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "immovable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "unenforceability" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Any" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "times" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "design" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "skulk" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Through" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "floor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "hysterical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "lane" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "direction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "That" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 5
-  },
-  "performing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "cry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "doctor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "burning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "English" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "velvet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "pillow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "wall" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 16
-  },
-  "renamed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "walk" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "lame" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "quietly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "caught" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "playroom" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "joints" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "absorb" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "uncertain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "infuriating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "beautiful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "Then" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 7
-  },
-  "state" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 5
-  },
-  "press" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "thinks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "displayed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "separately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "began" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "peeled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "night" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 13
-  },
-  "Project" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 83
-  },
-  "creating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "restrained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "thirty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "entertainment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Vanilla" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "chase" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "grotesques" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "moment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Defects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "found" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 9
-  },
-  "tear" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "reported" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "distribute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 5
-  },
-  "escape" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "funny" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "creation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "SUCH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "BUT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Really" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "receive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "pointless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "implied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "forbidden" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "They" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "OTHER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "standing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "txt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "PUNITIVE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "watch" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 5
-  },
-  "thing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 14
-  },
-  "principle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Creating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "till" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "lie" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 7
-  },
-  "secure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "smell" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 5
-  },
-  "shook" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "There" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 19
-  },
-  "God's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "paying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "school" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "things" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 14
-  },
-  "alternation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "This" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 10
-  },
-  "donation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "realize" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "offers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "pronounced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "uncomfortable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "ancestral" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "checks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Now" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "Wallpaper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "receipt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "page" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "wars" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "employees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "halls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "full" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 13
-  },
-  "concept" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "effort" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 5
-  },
-  "house" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 9
-  },
-  "tint" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "musn't" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "stare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "hours" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "start" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "Foundation's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "windows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 9
-  },
-  "equal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "curves" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "paid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 6
-  },
-  "short" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "time" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 11
-  },
-  "flourishing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "John's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "shadow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "happy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "PARAGRAPH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "put" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "required" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Bless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "CONSEQUENTIAL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "climb" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "Special" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "ALIVE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "enter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "flowers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "laws" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 9
-  },
-  "INCIDENTAL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "destroy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "impertinence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "GIVE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "provide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 7
-  },
-  "light" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "Web" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "Life" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "NOTICE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "redistribute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "lazy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "methods" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "bright" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "paperwork" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "confirmed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "lot" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "computer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "ways" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "fundraising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "low" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "assure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "barred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "Romanesque" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "meant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "means" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "survive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "chair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "centre" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "performed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "permanent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "organized" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "garden" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "hanging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "interests" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "facility" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "outlines" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "small" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "door" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 7
-  },
-  "possession" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "improper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "replace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "husband" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "galore" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "proofread" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "day" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 8
-  },
-  "group" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "impressionable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "obtain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "gross" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "porch" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "created" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "format" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "Why" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "EXCEPT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "puzzling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "repairs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "absolutely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "KIND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "YELLOW" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "entertain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "INDEMNITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "DRAUGHT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "request" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "misconstrued" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "critical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Volunteer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "part" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "principal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "east" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "frighten" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "relief" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "requirements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "subscribe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "clean" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Date" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "meal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "glad" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "meat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "account" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "innocent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "debased" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "viewing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "path" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "trip" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Thus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "contradictions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "DISTRIBUTOR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "jump" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "accepting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "active" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "opportunity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "whichever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "easy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "LIMITED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "See" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "Mississippi" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "domain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 7
-  },
-  "beds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "treatment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "touched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "sticketh" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "hop" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "bloated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "THE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 8
-  },
-  "Salt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "one's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "mine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "mind" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 6
-  },
-  "business" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "committing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "staff" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "stealing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Half" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "touches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "ANYTHING" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "meet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "Your" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "maximum" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "imaginative" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "rubbed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "questions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "dim" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "ASCII" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "hold" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "She" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 6
-  },
-  "habit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "absurd" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "outdated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "COLOR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Hurrah" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "legal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "talk" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 6
-  },
-  "LICENSE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "possibly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "inharmonious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "finally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "fastened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "exhaust" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "count" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "For" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "creep" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 8
-  },
-  "grape" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "hideous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "revolting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "lolls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "blame" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "gratefully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "confusion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Weir" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "blank" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "beginning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "Well" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "additional" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "back" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 6
-  },
-  "endless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "lurid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "states" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "pound" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Language" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "company" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Henry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "notice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "International" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "owner" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "Perkins" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "ghostliness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "darling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "blessed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "permission" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 7
-  },
-  "home" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "schedule" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "print" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "crosslights" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "blackberry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "baby" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "peculiar" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "hug" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "atrocious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "subtlest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "newsletter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "convert" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "royalty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "hope" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "paragraphs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "TRADEMARK" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Despite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "lock" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "Even" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "proudly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "dearly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "lying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "made" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "Director" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "sense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "MERCHANTIBILITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "sensitive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "heavy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "printed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "asks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Hart" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "status" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "silenced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "DISTRIBUTE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Right" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "summer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "scattered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Still" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "mention" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "file" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "legally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "PURPOSE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "man" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "stand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "forward" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "gathered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "PERHAPS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "rental" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "widest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "KNEW" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "machine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "untenanted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "evening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "return" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "THAT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "codes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "fees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "charities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "mail" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "LIABLE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "subject" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "practically" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "feel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 11
-  },
-  "main" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Lake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "seats" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "strip" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "downloading" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "find" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 8
-  },
-  "SMOOCH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "credit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "tramples" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "calculated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "deepshaded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "pleasant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "occur" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "equipment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "ideas" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "includes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "sort" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "streak" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "steps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "friends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "heart" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "softly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "patent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "soul" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "dangerous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "appears" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "troubles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Information" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 5
-  },
-  "hour" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "diagonally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Round" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "regulating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "physical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "included" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "make" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 7
-  },
-  "met" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "heard" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "West" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "pretended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "stern" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "orange" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "waken" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "due" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "dug" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "mere" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "online" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "REMEDIES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "woke" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "gentlest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "commit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "United" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 10
-  },
-  "danger" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "trees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "granted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "hiding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "verily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "height" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "goals" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "fashioned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "based" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "distinguish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "flourishes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "LIABILITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "PROVIDED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "received" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 5
-  },
-  "intention" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "enthusiastic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "processing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "shared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "worlds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "fact" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "One" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "long" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 12
-  },
-  "remember" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "fade" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Mitchell" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "wonderfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "free" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 5
-  },
-  "But" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 29
-  },
-  "Don't" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "expression" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "middle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "accordance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "Cousin" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "swamp" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "people" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 9
-  },
-  "mastered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "stay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "face" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "afraid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
-  },
-  "showed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "increasing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "open" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "Charlotte" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "agent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "chintz" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Full" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Last" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "bare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "displaying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "commands" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "cheaply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "surprise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "studying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "cautioned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "admirable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "felt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "knobs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "collection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "fits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "modification" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "undulating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "paths" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "slept" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "THIS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 5
-  },
-  "stooping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "knocks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "proper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "derivative" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "assistance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "common" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "performances" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "mansion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "ungrateful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "dwells" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "sulphur" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "apply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Title" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "bars" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "arabesque" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "growths" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "money" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "disagree" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "step" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "gutenberg" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 6
-  },
-  "mark" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "sunshine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "nonproprietary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "charitable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "gnarly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "profession" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "zip" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "profits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "EBook" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "work" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 48
-  },
-  "dizzy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "arise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "lose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "skulking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "agree" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 7
-  },
-  "THOSE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "I'm" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 7
-  },
-  "Out" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "nursery" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 5
-  },
-  "DISCLAIMER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "irritating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "betrayed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "humiliating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "word" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "refund" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 8
-  },
-  "donations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 12
-  },
-  "damages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "isolated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "hovering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "enjoy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "fireworks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "discontinue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "uniform" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "fall" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "mysterious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "writing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 7
-  },
-  "federal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "eat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "hopes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "believed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "include" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "aged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "fascinating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "nice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "smooches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "lots" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "damaged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "exists" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "stir" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "forgot" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "runs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "voice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "perfect" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "spite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 5
-  },
-  "budding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "EXPRESS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "state's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "subdued" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "discover" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "parlor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "bottom" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "finished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "slaps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "solicit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "SEND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Can" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "sequence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "provision" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "covered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "unreliable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "replacement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "Chief" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "advice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "scientific" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "statements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "laughs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "network" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "moments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "paper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 35
-  },
-  "public" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 8
-  },
-  "array" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "walking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "notifies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "DIRECT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "gbnewby" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "spent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Service" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "unheard" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "rush" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Contact" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "BEFORE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "round" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 6
-  },
-  "unlink" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Additional" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "creeping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 7
-  },
-  "deductible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "detach" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "WILL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "YOU" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 6
-  },
-  "temporary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "hands" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "references" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "desperate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "nailed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "awful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "shakes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "redistribution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "cultivates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "score" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "poor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "July" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "sorts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "moving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "ran" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "agreement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 17
-  },
-  "enduring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "fairly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "AK" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "ray" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "redistributing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "version" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "charges" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "AT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "guess" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Author" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "returns" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "providing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "fate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "weeks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "BE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "conscientiously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "An" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "bulbous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "posted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 5
-  },
-  "The" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 32
-  },
-  "sleep" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 10
-  },
-  "As" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "At" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "prohibition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "DID" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "agreed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "computers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "secretly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "linked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "learn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "pulled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "neck" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "fast" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "upside" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "scratched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "By" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "lease" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "irritant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Email" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "flamboyant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "official" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "repellent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "repetition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Melan" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "frieze" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "leave" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "tiresome" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "finish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "morrow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "faint" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "educational" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "shade" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Do" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "obtaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "DAMAGE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Dr" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "kindly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "There's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "loose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "http" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 8
-  },
-  "crawling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "trust" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "private" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "shady" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "Posting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "production" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "choose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Gregory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
   },
   "ride" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "sleeping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "miles" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -3519,109 +515,177 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "gates" : {
+  "determin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "lined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "irritate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "Donations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "strikes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "basely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 3
   },
   "end" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "hard" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "spoil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
+  },
+  "strang" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "tiresom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "live" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
   },
   "delirium" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "identify" : {
+  "modifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Replacement" : {
+  "volunt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 9
+  },
+  "societi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "WITH" : {
+  "unreli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
+  },
+  "musnt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "perform" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 6
+  },
+  "betrai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "hurrah" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "anyth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "howev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "creepi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "room" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 25
   },
   "special" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 2
   },
-  "undertaking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "GUTENBERG" : {
+  "better" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 4
   },
-  "royalties" : {
+  "with" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 12
+  },
+  "agre" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 10
+  },
+  "there" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 46
+  },
+  "numer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "permit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "START" : {
+  "ravag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "well" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 9
+  },
+  "permis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 7
+  },
+  "conspicu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "exempt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "copyright" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 13
-  },
-  "called" : {
+  "goos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "tendency" : {
+  "empti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
+  },
+  "sensit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "copyright" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 14
+  },
+  "donat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 20
+  },
+  "breadth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
   },
   "told" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
   },
-  "nervousness" : {
+  "hatr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "accessed" : {
+  "sickli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "years" : {
+  "properti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "BECAUSE" : {
+  "approach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "turns" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 1
   },
   "number" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
@@ -3629,19 +693,19 @@
   },
   "defect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 7
   },
-  "strangely" : {
+  "identifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "property" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "judge" : {
+  "tortur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
+  },
+  "hate" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 6
   },
   "somersault" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
@@ -3651,71 +715,83 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "He" : {
+  "write" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 17
+    "value" : 12
   },
-  "IF" : {
+  "order" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "jane" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "months'" : {
+  "period" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "inten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
   "shape" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 2
   },
-  "IN" : {
+  "revenu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "unblinking" : {
+  "understand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "distributed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "Just" : {
+  "draught" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Some" : {
+  "even" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 15
+  },
+  "daylight" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
+  "aris" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
   "spot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 4
   },
-  "AGREE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "EVEN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "If" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 20
-  },
-  "ravages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "MAY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "In" : {
+  "women" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
   },
-  "HAVE" : {
+  "queer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "wait" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "other" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "woman" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 8
+  },
+  "save" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "increas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -3723,19 +799,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Gutenberg" : {
+  "goug" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 81
-  },
-  "It" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 45
+    "value" : 1
   },
   "air" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 5
   },
-  "representations" : {
+  "matter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "entiti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "toi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "instant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "remind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -3743,39 +831,51 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
   },
-  "tm's" : {
+  "assur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "hypertext" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "asked" : {
+  "top" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
+    "value" : 2
   },
-  "whitewashed" : {
+  "locat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 6
   },
-  "electronic" : {
+  "have" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 27
+    "value" : 3
   },
   "share" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 3
   },
-  "unsolicited" : {
+  "slowli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "meadow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "USE" : {
+  "laid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "eBooks" : {
+  "question" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 7
+    "value" : 2
   },
-  "Indeed" : {
+  "peel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "excus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -3783,135 +883,175 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Julia" : {
+  "notic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 6
+  },
+  "surpris" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "citi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "fatuiti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "cod" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "rose" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "removed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "future" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "bushes" : {
+  "endur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "temperament" : {
+  "mississippi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "stored" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "sickly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "DONATIONS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "journeys" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "FITNESS" : {
+  "fundrais" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
   "shake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
+  "symmetri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "chariti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "pleas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 6
+  },
+  "manner" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "copied" : {
+  "jenni" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 12
+  },
+  "villag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "crawl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
+  "quietli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "ungrat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "wake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "bordered" : {
+  "lai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "body" : {
+  "west" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
-  },
-  "copies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 7
-  },
-  "pages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "symmetry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "ME" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "modified" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "links" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
   },
   "bureau" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "ale" : {
+  "unsolicit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "REASON" : {
+  "border" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "intense" : {
+  "all" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 20
+  },
+  "escap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "terror" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
   "read" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
+    "value" : 6
   },
-  "estate" : {
+  "law" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 12
+  },
+  "void" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "voic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "applicable" : {
+  "touch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
+  },
+  "rememb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "splinter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "choos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "real" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "expense" : {
+  "absolut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Newby" : {
+  "condition" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 3
   },
-  "maintaining" : {
+  "unit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "stimulating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 10
   },
   "companionship" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "bodi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "lake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -3923,23 +1063,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "NO" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "angles" : {
+  "perplex" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "financial" : {
+  "unclean" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "reaching" : {
+  "riotou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "My" : {
+  "bush" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "busi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
@@ -3947,75 +1087,123 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "weakness" : {
+  "bloat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 1
   },
   "headlong" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "OF" : {
+  "calcul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 10
+    "value" : 2
   },
-  "gardeners" : {
+  "and" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 353
+  },
+  "distanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "declared" : {
+  "design" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "identif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "No" : {
+  "skulk" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "cri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "OR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 6
-  },
-  "looked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 5
-  },
-  "relieve" : {
+  "obsolet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "specific" : {
+  "floor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
+  "ani" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 20
+  },
+  "lane" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "mitchel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
+  },
+  "burn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "chief" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "accord" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "cry" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
+  "horizont" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
   },
   "smooch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "complying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
   },
-  "compilation" : {
+  "indemn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Of" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 7
-  },
-  "PG" : {
+  "doctor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "appetite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "Perhaps" : {
+  "previou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "hypothesis" : {
+  "velvet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "shant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "pillow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "analyz" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "estat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "wall" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 19
+  },
+  "incident" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -4023,31 +1211,51 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "On" : {
+  "walk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 4
   },
-  "NEGLIGENCE" : {
+  "lame" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "angl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
   "reason" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 4
   },
-  "developments" : {
+  "caught" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 4
   },
-  "merrily" : {
+  "charlott" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 4
   },
   "thought" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 4
   },
-  "acts" : {
+  "ring" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "playroom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "maintain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "intermin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "absorb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -4055,27 +1263,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "repaper" : {
+  "uncertain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "professional" : {
+  "thirti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "identification" : {
+  "merrili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "meadows" : {
+  "diagon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Foundation" : {
+  "ancestr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 21
+    "value" : 1
   },
-  "gentle" : {
+  "english" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "let" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 10
+  },
+  "outrag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "state" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 20
+  },
+  "press" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -4083,59 +1307,55 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "shoots" : {
+  "onlin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
+  "mysteri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "nail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "waves" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "perplexing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "dining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "remain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "patches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "countries" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "MUST" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "demand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Nellie" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "eye" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "warranties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "wanted" : {
+  "began" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
   },
-  "rings" : {
+  "gener" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
+  "remain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "patienc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "want" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 14
+  },
+  "night" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 14
+  },
+  "gentli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "radiat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "statu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
+  "demand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -4143,31 +1363,39 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Refund" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Gutenberg's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "gently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
   "letter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "querulous" : {
+  "must" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 16
+  },
+  "convolu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "shines" : {
+  "necessarili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "mattress" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "liabil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
   },
-  "mattress" : {
+  "defianc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "distribu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 6
+  },
+  "indemnifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -4175,53 +1403,49 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "interminable" : {
+  "stimul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "chase" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "worth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Open" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "cried" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Gilman" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "Royalty" : {
+  "moment" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "permitted" : {
+  "found" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 9
   },
-  "patience" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "DOES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "indemnify" : {
+  "tear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Many" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "takes" : {
+  "silli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
+  },
+  "larg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "attach" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "arm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "creation" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "broken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
@@ -4229,17 +1453,29 @@
   },
   "pglaf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 7
+    "value" : 8
+  },
+  "think" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 12
+  },
+  "pointless" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "horror" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "silly" : {
+  "undul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
+    "value" : 1
   },
-  "noticed" : {
+  "forbidden" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "infring" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -4247,23 +1483,67 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 4
   },
-  "fortunate" : {
+  "coheir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 1
   },
   "call" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 3
   },
-  "TO" : {
+  "such" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 16
   },
-  "So" : {
+  "txt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "charg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 7
   },
+  "watch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 9
+  },
+  "arbor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "ask" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 6
+  },
+  "principl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "thing" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 28
+  },
   "derision" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "rub" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "fashion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "through" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 7
+  },
+  "till" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "openli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -4271,155 +1551,171 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
   },
-  "Compliance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "run" : {
+  "innoc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "repeated" : {
+  "lie" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 7
+  },
+  "run" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
+  "dwell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
+  },
+  "immov" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "prepar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "smell" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 6
   },
   "research" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "mother" : {
+  "redistribut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 3
   },
-  "wallowing" : {
+  "mother" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
   "view" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 3
   },
-  "incomplete" : {
+  "shook" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "openly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 2
   },
   "white" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "furniture" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "houses" : {
+  "school" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "'AS" : {
+  "shoot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "discov" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "those" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "To" : {
+  "actual" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "recurr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "last" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 5
-  },
-  "donate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "recurrent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "defiance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "UT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "imagine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
   },
   "town" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
   },
+  "tremen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "irrit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
+  "develop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
   "girl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "sharing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "worse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "FULL" : {
+  "viciou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "yards" : {
+  "funni" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "privat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "occupi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "watched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "servants" : {
+  "aliv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "volunteer" : {
+  "name" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "winding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 2
   },
   "worst" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "Up" : {
+  "receipt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "page" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "humili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Domain" : {
+  "physic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "full" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 16
+  },
+  "gymnast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Jennie" : {
+  "trampl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 12
+    "value" : 1
   },
-  "distance" : {
+  "delici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
   "color" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "occupy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 4
   },
   "string" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "smelled" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -4427,11 +1723,39 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "edition" : {
+  "import" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "originator" : {
+  "becaus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
+  "concept" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "show" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "edition" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
+  "effort" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 8
+  },
+  "tint" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "awak" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "wave" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -4439,23 +1763,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "crying" : {
+  "scientif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "comput" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
+  "not" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 23
+  },
+  "now" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 9
+  },
+  "nearli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "stare" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "trademark" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 10
+    "value" : 11
   },
-  "outrageous" : {
+  "ascii" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 2
   },
-  "derived" : {
+  "wai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 11
   },
-  "Mary" : {
+  "pain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -4463,75 +1807,123 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "phosphites" : {
+  "start" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
+  "duti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "suddenly" : {
+  "war" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
+    "value" : 1
   },
-  "We" : {
+  "equal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
+    "value" : 1
+  },
+  "what" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 9
+  },
+  "refer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "chang" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 7
   },
   "nervous" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 8
+    "value" : 1
   },
-  "duty" : {
+  "upsid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "paid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 6
+  },
+  "short" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "financi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
   "window" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 8
+    "value" : 17
   },
-  "fancy" : {
+  "time" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 6
+    "value" : 13
   },
-  "Behind" : {
+  "suddenli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "yard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "quickly" : {
+  "shadow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "WARRANTIES" : {
+  "hyster" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "distrac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "when" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 23
+  },
+  "put" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
+  "appetit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "climb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "taxes" : {
+  "sequenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "decide" : {
+  "deletion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "pleases" : {
+  "quickli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "CANNOT" : {
+  "displai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 6
   },
-  "synonymous" : {
+  "electron" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 29
   },
-  "axe" : {
+  "payment" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 3
   },
-  "hatred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "tremens" : {
+  "enter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -4541,25 +1933,21 @@
   },
   "case" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
+    "value" : 6
   },
   "give" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 6
+    "value" : 7
   },
-  "canvas" : {
+  "applic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "depends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 3
   },
   "liver" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "suicide" : {
+  "congeni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -4567,33 +1955,41 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "sprawling" : {
+  "melan" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "plung" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "horizontally" : {
+  "studi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 2
   },
   "moon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
   },
-  "sticks" : {
+  "light" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
+  "futur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "happi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "comfortable" : {
+  "destroi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 3
   },
-  "determined" : {
+  "tonic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "PLEASE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 2
   },
   "flesh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
@@ -4605,53 +2001,77 @@
   },
   "care" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
+    "value" : 7
   },
-  "damage" : {
+  "judg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "study" : {
+  "friez" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "EBOOK" : {
+  "januari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "artist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "orang" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "pattern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 24
+    "value" : 25
   },
-  "exercise" : {
+  "bright" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "direct" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "paperwork" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "compil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "gain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "lot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
+  "violat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "low" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
   },
-  "housekeeper" : {
+  "julia" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "splintered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "receiving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "confuse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 2
   },
   "web" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
+    "value" : 6
   },
-  "seldom" : {
+  "lazi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "occasionally" : {
+  "seldom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -4667,47 +2087,87 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "LOOKING" : {
+  "tire" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 7
   },
-  "display" : {
+  "meant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "chair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "furnitur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
   },
   "great" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 11
   },
-  "inaccurate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "pleased" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "heads" : {
+  "morn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
+  },
+  "gnaw" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "persever" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "fanci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 9
+  },
+  "fungu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "garden" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
+  "small" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
   },
   "shut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
+  "door" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 7
+  },
   "whim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
+  "tell" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
   "fee" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 8
+    "value" : 12
   },
-  "constantly" : {
+  "husband" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "influence" : {
+  "section" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 8
+  },
+  "dai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 14
+  },
+  "contradic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -4715,67 +2175,95 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "provoke" : {
+  "conscienti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "letting" : {
+  "arabesqu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "INCLUDING" : {
+  "crosslight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Mission" : {
+  "titl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Looked" : {
+  "consider" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "scoff" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "marked" : {
+  "constantli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
+    "value" : 1
+  },
+  "proofread" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "vine" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "group" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "obtain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
   },
   "rain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Produced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
   "cellar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "heirs" : {
+  "desper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "kind" : {
+  "suppos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 4
   },
-  "laughed" : {
+  "gross" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "employe" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "kind" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
+  "porch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "tree" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "opened" : {
+  "format" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 6
+  },
+  "most" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "solely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "produced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "important" : {
+  "cultiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -4783,15 +2271,39 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 4
   },
+  "imagin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "keep" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
+  "dont" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 17
+  },
+  "cloth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
   "weigh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "limitation" : {
+  "entertain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
+    "value" : 2
   },
-  "solicitation" : {
+  "request" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "part" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
+  "suicid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -4799,55 +2311,87 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "fainted" : {
+  "why" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 10
+  },
+  "novemb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "sunshin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "necessarily" : {
+  "east" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "fungus" : {
+  "unenforc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
+    "value" : 1
+  },
+  "synonym" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "donor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "coloni" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "patient" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "depressing" : {
+  "arrang" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "frighten" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "newbi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "relief" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "easi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
   "profit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Release" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "adds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 2
   },
   "rest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 4
   },
-  "move" : {
+  "breach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
+    "value" : 2
   },
-  "comply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 6
-  },
-  "original" : {
+  "facil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "stimulus" : {
+  "move" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
+  "process" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "sprout" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -4855,17 +2399,57 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
+  "reliev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "clean" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "liabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "shine" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
+  "nelli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
   "spread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "REPLACEMENT" : {
+  "meal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "depression" : {
+  "compli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 9
+  },
+  "fairbank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
+  },
+  "mean" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "glad" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "meat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "archiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 13
   },
   "visit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
@@ -4875,7 +2459,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 6
   },
-  "Fourth" : {
+  "confus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -4883,11 +2467,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
   },
-  "You" : {
+  "account" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 17
+    "value" : 1
+  },
+  "stimulu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "extent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "viru" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -4899,99 +2491,151 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "assures" : {
+  "bai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
-  },
-  "stripped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "hangings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "awake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
   },
   "fond" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
+  "fit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "offer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "path" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
+  "bar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
   "suffer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
+  },
+  "trip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "gentl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "gregori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "fix" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "colonial" : {
+  "nervou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 8
+  },
+  "angri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
+  "buttercup" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "bay" : {
+  "strict" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
+  },
+  "you" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 110
   },
   "neglect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
+  "jump" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
   "addition" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 6
   },
-  "gaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "promoting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "excited" : {
+  "despit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "tonics" : {
+  "posit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "mile" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "ag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "disclaim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "angry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 5
   },
-  "EIN" : {
+  "enthusiast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
+  },
+  "ak" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "al" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "an" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 16
+  },
+  "secur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
   },
   "florid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "How" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "haunted" : {
+  "firework" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "violates" : {
+  "as" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 19
+  },
+  "at" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 43
+  },
+  "aw" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "ax" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "turning" : {
+  "domain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 8
   },
-  "IS'" : {
+  "juli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -5003,35 +2647,75 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
+  "preserv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "organ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "smoothli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "treatment" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
   "deal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 5
+  },
+  "troubl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
   },
   "strong" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "stained" : {
+  "be" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
+  "sticketh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
+  },
+  "affect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "underwai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "hop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "sentenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
   },
   "dead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "IRS" : {
+  "corpor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "eyes" : {
+  "how" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 6
+    "value" : 7
   },
-  "virus" : {
+  "see" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 19
   },
-  "smoothly" : {
+  "servant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -5039,75 +2723,127 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "discouraging" : {
+  "releas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "underway" : {
+  "by" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 45
   },
-  "Defect" : {
+  "inde" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "direc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "term" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 21
+  },
+  "subdu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
   "dear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 10
+    "value" : 11
   },
-  "Did" : {
+  "regul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "disclaimer" : {
+  "mine" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
+  },
+  "mind" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 6
   },
   "set" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 8
   },
-  "charge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 6
-  },
-  "keeping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "alternate" : {
+  "column" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
+  },
+  "staff" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "inharmoni" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "right" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "freeli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
   },
   "food" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "plunge" : {
+  "figur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "possibli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Better" : {
+  "renam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "WARRANTY" : {
+  "repel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "meet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
+  },
+  "maximum" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "earnest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "freely" : {
+  "under" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
+    "value" : 2
+  },
+  "fierc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "did" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 11
+  },
+  "represent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "bed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 6
+    "value" : 8
   },
-  "rooms" : {
+  "infuri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "haunt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -5115,17 +2851,61 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "stairs" : {
+  "offic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "dim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "do" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 9
+  },
+  "gratefulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "supersti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "parti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "dr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "hold" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "discontinu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "outlin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "convinc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "habit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
   },
-  "congenial" : {
+  "beauti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 4
   },
-  "DELICIOUS" : {
+  "absurd" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 2
   },
   "rare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
@@ -5133,13 +2913,21 @@
   },
   "contact" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
+    "value" : 4
   },
-  "excuses" : {
+  "legal" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
+  "talk" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 6
+  },
+  "misconstru" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "North" : {
+  "deduct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -5147,51 +2935,71 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "faded" : {
+  "exhaust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "elms" : {
+  "count" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "REFUND" : {
+  "creep" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 17
+  },
+  "felic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "patterns" : {
+  "grape" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "inexplicable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "downstairs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "renovate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "piece" : {
+  "carri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "vines" : {
+  "take" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 13
+  },
+  "she" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 32
+  },
+  "ey" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 7
+  },
+  "month" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "final" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "END" : {
+  "blame" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "carry" : {
+  "perhap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
+  "activ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "prohibi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "party" : {
+  "confusion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "compar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -5199,15 +3007,47 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "lucky" : {
+  "occasion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "deletions" : {
+  "some" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "goose" : {
+  "indic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "blank" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "origin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "for" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 29
+  },
+  "back" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 6
+  },
+  "depress" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "compani" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "endless" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "lurid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -5215,15 +3055,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "watching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
   "burden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "trouble" : {
+  "hover" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "abid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "pound" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "dine" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "journei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -5231,19 +3083,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "INDIRECT" : {
+  "promot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "just" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 12
   },
   "sit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 2
   },
-  "practical" : {
+  "sole" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "living" : {
+  "owner" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
+  "henri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "blackberri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -5251,27 +3115,79 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "false" : {
+  "babi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 4
+  },
+  "gilman" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
   },
   "dinner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
+  "home" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "lucki" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "michael" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "marriag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "print" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
   "form" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 5
   },
+  "interpret" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "peculiar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
   "gate" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 2
   },
-  "smouldering" : {
+  "hug" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
+  "foundat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 25
+  },
+  "grant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "he" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 61
+  },
   "astonish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "posses" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "subtlest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -5279,47 +3195,47 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Professor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
   "big" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 4
   },
-  "amazement" : {
+  "easili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Nearly" : {
+  "warranti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "transcription" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "arbors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "provoking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 5
   },
   "sick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 4
   },
+  "convert" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
   "bit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 7
   },
-  "foul" : {
+  "hope" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "dearli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "transcribe" : {
+  "influenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "flourish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "foul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -5327,63 +3243,103 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "convinced" : {
+  "lock" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "ordinari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "easily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "sentence" : {
+  "promin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
+  },
+  "if" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 48
+  },
+  "creat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 6
   },
   "gymnasium" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "large" : {
+  "im" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 7
+  },
+  "in" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 81
+  },
+  "made" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "director" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "ordinary" : {
+  "anonym" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "ir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "fretful" : {
+  "fascin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
+  },
+  "is" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 11
+  },
+  "it" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 192
   },
   "foolish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Corrected" : {
+  "decid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "distraction" : {
+  "iv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
+  "surviv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Plain" : {
+  "invalid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 1
   },
-  "Yellow" : {
+  "impression" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "john" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 45
+  },
+  "doe" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 11
+  },
+  "begin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
   },
-  "alteration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "coheirs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "begin" : {
+  "notifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -5393,55 +3349,63 @@
   },
   "paragraph" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 10
+    "value" : 14
   },
-  "Besides" : {
+  "librari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
+    "value" : 1
   },
-  "works" : {
+  "downstair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 32
+    "value" : 4
   },
-  "turned" : {
+  "amaz" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "believ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "summer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "deriv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
+  "mention" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "world" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "file" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
+  "mai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 15
+  },
+  "man" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "payments" : {
+  "stand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "POSSIBILITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "library" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "reproachful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "satisfies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "viewed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "RIGHT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "sending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 8
   },
   "optic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
+  },
+  "heavi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
   },
   "side" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
@@ -5451,73 +3415,125 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Use" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "change" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "indirectly" : {
+  "forward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
+  },
+  "knew" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "strike" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "bless" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
   },
   "deceit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Jane" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
   "comfort" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
+    "value" : 4
   },
-  "places" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "candle" : {
+  "rental" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
+  },
+  "bulbou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "hide" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "ebook" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 16
+  },
+  "widest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "explan" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
   },
   "report" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 3
   },
-  "boys'" : {
+  "grotesqu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "reminding" : {
+  "tendenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "indirectli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
+  },
+  "royalti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
   },
   "toadstool" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 2
   },
   "fun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
+  "return" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
   "constant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "invalidity" : {
+  "receiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 9
+  },
+  "mail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "office" : {
+  "subject" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "feel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 12
+  },
+  "main" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "directli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "stands" : {
+  "while" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
+  },
+  "ly" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "that" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 114
   },
   "faster" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
@@ -5527,6 +3543,14 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 4
   },
+  "download" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "strip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
   "plantain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
@@ -5535,71 +3559,99 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 6
   },
+  "find" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 8
+  },
+  "me" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "limit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 8
+  },
   "claim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "directly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "locked" : {
+  "outdat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "inanimate" : {
+  "credit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "months" : {
+  "fasten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Executive" : {
+  "alter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Updated" : {
+  "deepshad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "possessed" : {
+  "author" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Terms" : {
+  "pleasant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 1
   },
-  "restrictions" : {
+  "occur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "wallow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "thrown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "feeling" : {
+  "sort" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "streak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "preserve" : {
+  "my" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 39
+  },
+  "modif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "City" : {
+  "softli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "license" : {
+  "heart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
+    "value" : 1
   },
   "disk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "everlastingness" : {
+  "servic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "professor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "renov" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -5607,31 +3659,51 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "AND" : {
+  "updat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "attached" : {
+  "produc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
+  "boi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "errors" : {
+  "no" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 20
   },
-  "Except" : {
+  "behind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 9
   },
-  "shades" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "careful" : {
+  "stair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
   },
-  "CONTRACT" : {
+  "belong" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "patent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "code" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "soul" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "hideou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "hereditari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -5639,47 +3711,103 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "ANY" : {
+  "schedul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
+    "value" : 1
+  },
+  "stain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "head" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 5
+    "value" : 8
   },
-  "enjoys" : {
+  "restric" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 2
   },
   "oil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "considerable" : {
+  "execut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "hour" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 7
+  },
+  "hous" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 10
+  },
+  "charit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "of" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 223
+  },
+  "repeat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "possibl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "make" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 18
+  },
+  "met" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
-  },
-  "upstairs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "hedges" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
   },
   "hear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "pretty" : {
+  "smoulder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
+    "value" : 1
   },
-  "determine" : {
+  "inanim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "heard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "interesting" : {
+  "seawe" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "on" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 73
+  },
+  "inexplic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "purpos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "or" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 75
+  },
+  "complianc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
+  "ow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -5687,23 +3815,67 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
   },
-  "PAPER" : {
+  "stern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "shaded" : {
+  "proudli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "galor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "cousin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "editions" : {
+  "master" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
+    "value" : 1
   },
-  "radiation" : {
+  "waken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 1
   },
-  "phosphates" : {
+  "pretti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "extrem" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "equip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "due" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "dug" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "offici" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "pg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "mere" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "candl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "disagre" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -5711,21 +3883,53 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "hereditary" : {
+  "whichev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "sitting" : {
+  "princip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "infringement" : {
+  "verili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Archive" : {
+  "inform" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 13
+    "value" : 8
+  },
+  "exerc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "depend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "stoop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "woke" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "gentlest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "commit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "atroci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "about" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
   },
   "stood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
@@ -5735,31 +3939,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "seaweeds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "plunges" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "registered" : {
+  "danger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "pains" : {
+  "cover" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "patch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "States" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 10
-  },
-  "OWNER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Sections" : {
+  "horribli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -5773,73 +3965,97 @@
   },
   "friend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "hundreds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "January" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "horribly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "spoils" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "remaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "morning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
   },
-  "convolutions" : {
+  "curv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "damag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 7
+  },
+  "stick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
+  "height" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "distinguish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "varieti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "then" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 13
+  },
+  "thei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 10
+  },
   "accept" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
+  "seat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
   "mission" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "donors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "interpreted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "daytime" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 4
   },
-  "Such" : {
+  "includ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
+    "value" : 13
   },
-  "discovered" : {
+  "declar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
+  "except" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "opposi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "debas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "fact" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
   "access" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 10
+    "value" : 12
+  },
+  "knob" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "lamplight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "crawls" : {
+  "languag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "expres" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "fret" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -5847,175 +4063,259 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 6
   },
+  "long" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 12
+  },
+  "kei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "redistribu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
   "current" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "variety" : {
+  "fade" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "unless" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "waddl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
   },
   "disturb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "fancies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "key" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "email" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "stopped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "makes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 9
-  },
-  "started" : {
+  "depres" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "UNDER" : {
+  "so" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 66
+  },
+  "free" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
+  "caution" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "email" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "sidewai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "intern" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "centr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "slant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "wonderfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
   "store" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "swamp" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Section" : {
+  "flower" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 7
+    "value" : 1
+  },
+  "stori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "closer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "tm" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 56
-  },
-  "Literary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 13
-  },
-  "compressed" : {
+  "hedg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "story" : {
+  "bud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "waddling" : {
+  "confirm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "country" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 5
-  },
-  "commercial" : {
+  "loll" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "exporting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "declare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "separate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "reasonable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "generations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "wished" : {
+  "pull" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
   },
-  "rules" : {
+  "appear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "horizontal" : {
+  "face" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "hides" : {
+  "silenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
+  },
+  "afraid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "remov" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "tm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 57
+  },
+  "assist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "fourth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "to" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 91
+  },
+  "mani" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "open" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
+  "stai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "but" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 75
+  },
+  "agent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "joint" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "monei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "expens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "project" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 87
+  },
+  "chintz" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "express" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "countri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 6
+  },
+  "loos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "restrain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "up" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 15
   },
   "written" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
   },
-  "extreme" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "Volunteers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "PROJECT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "dreadfully" : {
+  "provok" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "DAMAGES" : {
+  "bare" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "us" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 19
+  },
+  "vanilla" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "suppose" : {
+  "ut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "felt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 4
   },
-  "toadstools" : {
+  "look" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 15
+  },
+  "cheapli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Please" : {
+  "dreadfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "NOT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "sees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 2
   },
   "expend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "General" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "LOOK" : {
+  "slept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -6023,59 +4323,99 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 4
   },
-  "changed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
   "higher" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "figures" : {
+  "romant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "knock" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "transcrip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "proprietari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
   "idea" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "impertin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
+  },
+  "binari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "commerci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "proper" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "rule" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
   },
   "cold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Anonymous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
   "pure" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "What" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  },
-  "expects" : {
+  "transcrib" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
   "life" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
+    "value" : 4
+  },
+  "we" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 25
   },
   "damp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "scoffs" : {
+  "peopl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 9
+  },
+  "common" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "proprietary" : {
+  "interest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "admir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "shapes" : {
+  "appli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "heir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "mansion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -6083,27 +4423,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "I'll" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
   "lieu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
-  },
-  "lovely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
   },
   "normal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "figure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "types" : {
+  "middl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -6111,15 +4439,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "cases" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
   "corrupt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "previous" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -6127,45 +4447,93 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
+  "licens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 17
+  },
   "org" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 13
   },
-  "reading" : {
+  "sulphur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "nights" : {
+  "unblink" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "reach" : {
+  "distribut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 17
+  },
+  "mari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "step" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "revolt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "excit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "gutenberg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 93
+  },
+  "mark" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
+  "base" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "phosphit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "unreason" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "housekeep" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "individu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
+  "nurseri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 5
   },
-  "comparative" : {
+  "reach" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 6
+  },
+  "realiz" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Internal" : {
+  "type" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
-  },
-  "positively" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "BREACH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
   },
   "problem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "terms" : {
+  "critic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 19
+    "value" : 1
   },
   "road" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
@@ -6187,19 +4555,67 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "method" : {
+  "nonproprietari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "slanting" : {
+  "profession" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
+  },
+  "zip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "still" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
+  "goal" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "method" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "compress" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "work" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 81
+  },
+  "lose" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "contract" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "gnarli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "nobodi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
+  "wors" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
   },
   "push" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "provisions" : {
+  "exist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "statem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -6207,7 +4623,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "child's" : {
+  "dizzi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "opportun" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "whitewash" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -6215,71 +4639,115 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "WORK" : {
+  "discourag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Revenue" : {
+  "word" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 3
+  },
+  "regist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "feder" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "refund" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 10
+  },
+  "love" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 8
+  },
+  "educ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "peculiarity" : {
+  "north" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "columns" : {
+  "daytim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
+  "impos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "periodic" : {
+  "copi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 25
   },
-  "distribution" : {
+  "requir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 6
   },
-  "ACTUAL" : {
+  "out" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 31
   },
-  "derive" : {
+  "weak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 2
   },
   "confess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "copy" : {
+  "uniform" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 12
+    "value" : 1
+  },
+  "fall" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "scatter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "darl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
+  "leas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "eat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "place" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 6
+    "value" : 9
   },
   "power" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "gloomily" : {
+  "querul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
+  },
+  "leav" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
   },
   "thousandth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "prominently" : {
+  "subscrib" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 1
   },
-  "tired" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 7
-  },
-  "gymnastics" : {
+  "puzzl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -6287,11 +4755,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
+  "upstair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
   "leaf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "abide" : {
+  "gloomili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -6299,7 +4771,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
+  "nice" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "readabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
   "expect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "inaccur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -6311,53 +4795,45 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 4
   },
-  "When" : {
+  "literari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 13
   },
-  "cease" : {
+  "consequenti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "riotous" : {
+  "cannot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 8
+  },
+  "carriag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "prescription" : {
+  "stir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Sometimes" : {
+  "forgot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
-  },
-  "superstition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "buttercups" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "located" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  },
-  "roses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
   },
   "date" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 4
   },
   "dress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "addresses" : {
+  "whatsoev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "perfect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
   },
   "data" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
@@ -6367,59 +4843,99 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "Most" : {
+  "own" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "separ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
   },
   "piazza" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "plain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "distributing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 7
-  },
-  "conspicuous" : {
+  "neglig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "readable" : {
+  "repeti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 1
   },
-  "individual" : {
+  "spite" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
+  "punit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "plain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 4
   },
-  "accepted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  },
-  "tax" : {
+  "replac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 6
   },
-  "excitement" : {
+  "sens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "efforts" : {
+  "indirect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "parlor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "bottom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "ill" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "tax" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 7
+  },
+  "solicit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
   },
+  "fals" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "impli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "collec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
   "person" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 5
+    "value" : 7
+  },
+  "provision" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
   },
   "safe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "files" : {
+  "uncomfort" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "enjoi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
@@ -6427,87 +4943,135 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "send" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "expenses" : {
+  "sprawl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 2
   },
-  "week" : {
+  "send" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 3
+  },
+  "repair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "week" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 6
   },
   "moonlight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 6
   },
-  "purpose" : {
+  "steal" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "arrai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
   "line" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "value" : 2
   },
-  "shan't" : {
+  "link" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 4
+  },
+  "error" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
+  },
+  "network" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "can" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 22
   },
   "hair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "marriage" : {
+  "paper" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 36
+  },
+  "public" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 9
+  },
+  "satisfi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "ready" : {
+  "canva" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "securely" : {
+  "provid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 15
+  },
+  "realli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 5
+  },
+  "prescrip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "village" : {
+  "tempera" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
-  },
-  "privately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "carried" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  },
-  "costs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
   },
   "cost" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
+    "value" : 5
   },
-  "limited" : {
+  "will" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 16
+  },
+  "readi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "improp" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "spent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "match" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "While" : {
+  "intens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "unheard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
   "follow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 5
+    "value" : 9
   },
-  "clothes" : {
+  "improv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 2
+  },
+  "rush" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "command" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
@@ -6515,15 +5079,39 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   },
-  "compliance" : {
+  "round" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
+    "value" : 7
   },
-  "locations" : {
+  "unlink" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "gbnewbi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "phosphat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "detach" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "repap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "growth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
   },
   "harmless" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
+    "value" : 1
+  },
+  "perman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\The Yellow Wallpaper.txt",
     "value" : 1
   }

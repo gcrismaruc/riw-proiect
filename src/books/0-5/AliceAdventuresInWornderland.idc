@@ -1,99 +1,107 @@
 {
-  "frowning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "nicely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "prepare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Twenty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
   "half" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 22
+    "value" : 23
   },
   "spoke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 17
   },
+  "govern" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
   "hall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 9
   },
-  "NEAR" : {
+  "your" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 64
+  },
+  "hurri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 23
   },
   "pretend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "youth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "these" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 9
   },
   "tea" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 18
-  },
-  "twinkling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 19
   },
   "drunk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "Sure" : {
+  "would" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 82
   },
-  "rabbit" : {
+  "pick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 5
   },
-  "legs" : {
+  "rabbit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 52
   },
-  "Michael" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "electronically" : {
+  "flapper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
   "ten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
+    "value" : 6
   },
-  "blasts" : {
+  "prison" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 3
+  },
+  "sister" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 11
+  },
+  "riddl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
   },
   "solid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "spreading" : {
+  "intellectu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "possess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "require" : {
+  "scratch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Game" : {
+  "thoughtfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 4
+  },
+  "befor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
   },
   "size" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 13
+    "value" : 14
   },
   "left" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -101,289 +109,357 @@
   },
   "temper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
+    "value" : 7
   },
-  "A" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 18
-  },
-  "telling" : {
+  "wink" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "accessible" : {
+  "seri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "B" : {
+  "wing" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "wine" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "C" : {
+  "much" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 23
+  },
+  "wind" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "besid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "chapter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 12
+  },
+  "hang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "D" : {
+  "humbli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 2
   },
-  "E" : {
+  "engag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 22
+    "value" : 1
   },
-  "F" : {
+  "pronounc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 11
-  },
-  "I" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 545
+    "value" : 1
   },
   "turn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
+    "value" : 42
   },
-  "balanced" : {
+  "miner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
-  },
-  "M" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
   },
   "elect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "O" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
   "result" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "corners" : {
+  "same" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 4
   },
-  "S" : {
+  "mabel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 14
+    "value" : 4
   },
-  "T" : {
+  "after" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "U" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "V" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "bowing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "W" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "stirring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "X" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 39
   },
   "quiet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
+  "stupidest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
   "hand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 20
-  },
-  "Hush" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 36
   },
   "a" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 672
-  },
-  "ordered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 690
   },
   "b" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 3
   },
   "salt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 3
   },
-  "BEE" : {
+  "piec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "address" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 9
   },
   "c" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 6
+  },
+  "address" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "enorm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "d" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 27
+    "value" : 30
   },
   "e" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
+    "value" : 29
   },
-  "BEG" : {
+  "f" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 11
   },
-  "Nobody" : {
+  "i" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 545
   },
-  "eating" : {
+  "majesti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 12
   },
   "m" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 58
+    "value" : 63
   },
   "o" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 6
   },
   "prettier" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
+  "the" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1815
+  },
   "straight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
+  "athel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
   "s" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 205
+    "value" : 219
+  },
+  "thi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 181
   },
   "t" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 216
+    "value" : 218
   },
   "throw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 5
   },
-  "information" : {
+  "u" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "Ada" : {
+  "v" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "w" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "x" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "stingi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "thank" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "arch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "wrap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "thu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
   "violent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 6
   },
-  "Its" : {
+  "ladi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "advic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
   "good" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 26
+    "value" : 27
   },
-  "empty" : {
+  "violenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
-  },
-  "SHE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
   },
   "tie" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "pigs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "PGLAF" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "ferrets" : {
+  "wise" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "copying" : {
+  "ambition" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "sharpli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
   },
-  "laugh" : {
+  "pai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "tip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "tis" : {
+  "advis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "pan" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "export" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "laugh" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "rome" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "STRICT" : {
+  "murder" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "practic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "pat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "porpois" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "paw" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "shakespear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "making" : {
+  "laci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
+    "value" : 1
+  },
+  "reduc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "check" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 6
   },
-  "sand" : {
+  "clearer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "walked" : {
+  "list" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
+    "value" : 3
+  },
+  "toast" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "sand" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
   },
   "sang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "owed" : {
+  "northumbria" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "child" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 11
+  },
+  "hundr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "bristl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Redistributing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "bursting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "SIT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Canterbury" : {
+  "fortun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -391,35 +467,39 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
+  "ensur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "young" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
   "rope" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "provided" : {
+  "contribu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 2
   },
-  "clinging" : {
+  "medium" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 5
+  },
+  "hart" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
   },
   "flown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "disclaimers" : {
+  "determin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "arranged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Redistribution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "patiently" : {
+  "root" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
@@ -427,45 +507,113 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 8
   },
-  "ensuring" : {
+  "ridicul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "hare" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 31
+  },
+  "live" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 17
   },
   "roof" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 6
   },
+  "cheek" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "perform" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "cheer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
   "room" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 13
   },
-  "PROVES" : {
+  "with" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 215
+  },
+  "hjckrrh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "splash" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "taking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "uglifying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Dinn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "experiment" : {
+  "argu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "gained" : {
+  "there" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 101
+  },
+  "permit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "well" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 59
+  },
+  "permis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "hopeless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "goos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "splash" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "pocket" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "empti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "fountain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "unhappi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "approach" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "fluster" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "longitud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "peg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "sneez" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 11
   },
   "struck" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -473,23 +621,35 @@
   },
   "hate" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 3
+  },
+  "write" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 15
+  },
+  "pet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "propos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "order" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 9
   },
-  "peeped" : {
+  "writh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 1
+  },
+  "period" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "hasn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
-  },
-  "pressed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
   },
   "timid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -499,25 +659,65 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "custody" : {
+  "revenu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 1
   },
-  "bringing" : {
+  "understand" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "crazi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "hast" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "ever" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "binary" : {
+  "arrum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "crazy" : {
+  "even" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 21
+  },
+  "aris" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "solemnli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "custodi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "despair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "larger" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "queer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 12
   },
   "pink" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "wait" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 21
   },
   "woman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -527,55 +727,67 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
+  "queen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 76
+  },
   "save" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
-  "protection" : {
+  "increas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "solemnly" : {
+  "toe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 3
   },
   "matter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
+    "value" : 11
   },
-  "shutting" : {
+  "entiti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 3
   },
-  "footsteps" : {
+  "toi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 1
   },
   "caterpillar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 28
   },
   "hypertext" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
+  "peep" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
   "top" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 9
+  },
+  "too" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 9
+  },
+  "peer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "have" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 68
+  },
+  "slowli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 8
   },
-  "irons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "noise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
   "roast" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "energetic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -583,17 +795,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "Fairbanks" : {
+  "laid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
   "question" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 17
+    "value" : 21
   },
-  "additions" : {
+  "raven" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
   "wept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -603,87 +815,131 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
+  "roughli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
   "vinegar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Birds" : {
+  "spirit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "intellectual" : {
+  "littl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 91
   },
   "cheap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "produce" : {
+  "cheat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "picture" : {
+  "charact" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "hippopotamus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "walks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "trusts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
   "rose" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 7
+  },
+  "sluggard" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "thousand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "Very" : {
+  "instanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
+    "value" : 3
   },
-  "All" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "capital" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "employee" : {
+  "imit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "tide" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "fundrais" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "arrow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "chariti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "pleas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 31
+  },
+  "manner" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "tidi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "pie" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
   },
   "lad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Copyright" : {
+  "pig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 17
   },
-  "contemptuous" : {
+  "quietli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 5
   },
-  "defective" : {
+  "crawl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "proce" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "plead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
+  },
+  "wake" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "lai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "unabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "spoon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "owns" : {
+  "west" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "plenti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
@@ -691,83 +947,123 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "pigeon" : {
+  "stock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "circumstances" : {
+  "prai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "pigeon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 12
+  },
+  "terror" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
   "law" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 12
   },
-  "including" : {
+  "evid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
+    "value" : 8
   },
-  "lay" : {
+  "void" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 1
+  },
+  "voic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 51
+  },
+  "swam" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "patriot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "hatch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "pardon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
+    "value" : 7
   },
-  "plenty" : {
+  "less" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "skurri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "AGREEMENT" : {
+  "twist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "lake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "TOOK" : {
+  "busi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 11
+  },
+  "jelli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "And" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 67
-  },
-  "shining" : {
+  "oblong" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "rudeness" : {
+  "comfit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "vulgar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Dinah" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 14
-  },
-  "patriotic" : {
+  "twentieth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Ann" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "hastily" : {
+  "hastili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 16
   },
-  "unenforceability" : {
+  "distanc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
+  "twelv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "extra" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "identif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Any" : {
+  "land" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "times" : {
+  "cri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
+    "value" : 21
   },
-  "jelly" : {
+  "toffe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -775,27 +1071,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "direction" : {
+  "encourag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
+    "value" : 4
   },
-  "That" : {
+  "burn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 27
+    "value" : 3
   },
-  "Their" : {
+  "chief" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "accord" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "lamp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
   "cry" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 5
   },
-  "opening" : {
+  "conduct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 1
   },
-  "hatching" : {
+  "velvet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -803,13 +1107,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
+  "incident" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "walk" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 21
+  },
   "caught" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
-  },
-  "rabbits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
   },
   "concert" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -823,111 +1131,163 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
   },
-  "pity" : {
+  "grumbl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 1
   },
-  "unimportant" : {
+  "leg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 5
   },
-  "beautiful" : {
+  "thirti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
+    "value" : 1
+  },
+  "handwrit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "tut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "lessen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Then" : {
+  "trembl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 21
+    "value" : 9
+  },
+  "let" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 22
+  },
+  "piti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
   },
   "state" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
+    "value" : 21
   },
-  "scolded" : {
+  "press" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 4
   },
-  "cares" : {
+  "onlin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 4
+  },
+  "yesterdai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
   },
   "queerest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
+  "began" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 58
+  },
+  "gener" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 15
+  },
   "night" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 5
+  },
+  "want" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 14
   },
   "pace" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "opposite" : {
+  "exclaim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "realiti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "statu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
   },
   "pack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 5
   },
-  "Are" : {
+  "each" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
   },
-  "creating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "supple" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "bawled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Mabel" : {
+  "lewi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
+  },
+  "must" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 25
+  },
+  "offend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 11
+  },
+  "anim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "memorandum" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "cun" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "cup" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "thirty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
   "cur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "wasting" : {
+  "liabil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "wandered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 3
   },
   "cut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
+    "value" : 6
   },
-  "perfectly" : {
+  "distribu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 6
   },
-  "Vanilla" : {
+  "mallet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "dread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "killing" : {
+  "prize" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "two" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 35
+  },
+  "accident" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -935,109 +1295,141 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 31
   },
-  "Defects" : {
+  "pop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "calmly" : {
+  "found" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 35
+  },
+  "perfectli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "tear" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 11
+  },
+  "pot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "pencils" : {
+  "neatli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "teas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "reported" : {
+  "wriggl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "worried" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "distribute" : {
+  "curios" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 5
+  },
+  "larg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 33
+  },
+  "curiou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 19
+  },
+  "attach" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "shout" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 11
   },
   "kitchen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
   },
+  "lark" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "advantag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "penc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
   "creation" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "SUCH" : {
+  "resourc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "BUT" : {
+  "think" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 51
+  },
+  "dodg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "occurred" : {
+  "mournfulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "calmli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "refresh" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "claw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
-  },
-  "refused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "anxiously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 14
-  },
-  "FULCRUM" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Run" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "They" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 22
-  },
-  "OTHER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "mournfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
   },
   "txt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "PUNITIVE" : {
+  "charg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "FATHER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 8
   },
   "watch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
+    "value" : 13
   },
   "speech" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "purple" : {
+  "uneasili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "clap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "dodo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 13
+  },
+  "quit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 33
   },
   "thing" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 49
-  },
-  "cartwheels" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 82
   },
   "fashion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -1047,11 +1439,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "Creating" : {
+  "till" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 21
   },
-  "undertone" : {
+  "attend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "startl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
@@ -1059,51 +1455,67 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "unable" : {
+  "had" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 10
+  },
+  "prepar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "redistribut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "glare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "lip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "wasn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 11
   },
   "shook" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 9
   },
-  "There" : {
+  "late" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 35
+    "value" : 7
   },
-  "paying" : {
+  "adventur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 12
   },
-  "fellows" : {
+  "school" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 6
   },
   "lit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "feathers" : {
+  "hat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "blows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "dogs" : {
+  "wast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "This" : {
+  "brush" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 22
+    "value" : 2
   },
-  "donation" : {
+  "doubl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 3
   },
-  "shrieks" : {
+  "actual" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -1111,113 +1523,161 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 10
   },
+  "rippl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "unlock" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "last" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 36
+  },
   "juror" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 5
   },
-  "prosecute" : {
+  "wash" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "dunce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 5
   },
   "doubt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "Involved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "These" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "fixed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "page" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "full" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 16
-  },
-  "pepper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 6
   },
-  "memory" : {
+  "loveliest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "cards" : {
+  "courag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "askance" : {
+  "funni" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "warn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "receipt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "page" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "swim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "jurymen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "full" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 19
+  },
+  "trampl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "pepper" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
+  "tilli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "tipto" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "tini" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "becaus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 11
   },
   "concept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "house" : {
+  "millennium" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 18
+    "value" : 1
+  },
+  "effort" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
   },
   "mice" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
   },
-  "currants" : {
+  "steadi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "attends" : {
+  "wave" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "stare" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "vote" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
-  },
-  "hours" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
   },
   "unjust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "shore" : {
+  "yer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
   },
   "start" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 5
   },
-  "WHAT" : {
+  "shore" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
+    "value" : 4
+  },
+  "yet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 18
+  },
+  "contemptu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
   },
   "pair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "chanc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 5
-  },
-  "licking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "manage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
   },
   "fallen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
+  },
+  "chang" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 27
   },
   "paid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -1231,35 +1691,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "verses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "imitated" : {
+  "unusu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "INSIDE" : {
+  "financi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "time" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 77
+  },
+  "puf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
   "downward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Come" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 21
-  },
-  "PARAGRAPH" : {
+  "pun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "required" : {
+  "distrac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "CONSEQUENTIAL" : {
+  "pur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "put" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 34
+  },
+  "glanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -1267,97 +1735,105 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "remembered" : {
+  "eaglet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
+    "value" : 3
   },
-  "Suppose" : {
+  "trai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 1
   },
-  "Presently" : {
+  "her" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 212
+  },
+  "whoever" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "deletion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "tongu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
   },
   "golden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 7
   },
-  "fountains" : {
+  "furiou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 1
   },
-  "lonely" : {
+  "payment" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 3
+  },
+  "trap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "pale" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
   },
-  "furiously" : {
+  "applic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "flowers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 3
   },
   "threw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "players" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "INCIDENTAL" : {
+  "sixpenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "destroy" : {
+  "lesson" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 13
+  },
+  "wretch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
-  },
-  "dates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "GIVE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
   },
   "coast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "provide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "telescopes" : {
+  "memori" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "consultation" : {
+  "happi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "sorrows" : {
+  "destroi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "judg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "tabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 18
+  },
+  "engin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Write" : {
+  "hookah" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 5
   },
-  "NOTICE" : {
+  "pant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "redistribute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 3
   },
   "bright" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -1367,59 +1843,55 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "teaching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
   "lot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Morcar" : {
+  "crimson" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
-  },
-  "computer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "fundraising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
   },
   "low" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 15
+    "value" : 16
   },
-  "manners" : {
+  "lazi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "pretext" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "growl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "consult" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "grown" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "tire" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
   },
   "meant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 5
   },
-  "means" : {
+  "chain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
+    "value" : 2
   },
-  "Puss" : {
+  "edwin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
-  "survive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "fury" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Canary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "centre" : {
+  "chair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -1427,297 +1899,365 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Found" : {
+  "muddl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "wonderland" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
+  "rustl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "performed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "ravens" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "fetch" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "fellow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "hanging" : {
+  "furi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "contradicted" : {
+  "fetch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "fellow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "garden" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 24
+  },
+  "cling" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "small" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 12
+  },
+  "daresai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
   "door" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 30
+    "value" : 32
   },
   "teacup" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "dodged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 5
   },
   "quick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
-  "audibly" : {
+  "hid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "possession" : {
+  "beak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "daresay" : {
+  "sixteenth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Like" : {
+  "tell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 34
   },
-  "disappeared" : {
+  "dai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 37
+  },
+  "him" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 31
+  },
+  "listen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 12
+  },
+  "hit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "checked" : {
+  "audibli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 1
   },
-  "pointing" : {
+  "beat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "interrupt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 12
+  },
+  "beau" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
+  },
+  "bear" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
   },
   "affair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "DRINK" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "day" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 29
-  },
-  "accustomed" : {
+  "titl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "raising" : {
+  "consider" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "proofread" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "group" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
   "obtain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 5
   },
-  "drinking" : {
+  "suppos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 14
+  },
+  "gross" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "curiosity" : {
+  "employe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
+    "value" : 3
   },
-  "minutes" : {
+  "tree" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 11
+    "value" : 15
   },
-  "Queen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 74
-  },
-  "created" : {
+  "straighten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
   "format" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "EXCEPT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 6
   },
   "water" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
+    "value" : 6
   },
-  "puzzling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "pause" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "stays" : {
+  "fidget" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "whiskers" : {
+  "histori" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 8
   },
-  "CAN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "tittered" : {
+  "request" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "sobbed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "apples" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "INDEMNITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "alternately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "critical" : {
+  "fulcrum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
   "part" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
+    "value" : 7
   },
-  "conversations" : {
+  "their" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 32
   },
-  "Kings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "principal" : {
+  "shepherd" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "CHORUS" : {
+  "wildli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "tones" : {
+  "thirteen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 1
   },
-  "Will" : {
+  "point" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
+    "value" : 5
+  },
+  "unenforc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "synonym" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "frighten" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
   },
   "relief" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "wildly" : {
+  "pari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "subscribe" : {
+  "easi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "facil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "noticing" : {
+  "process" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Date" : {
+  "seasid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "bottl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 10
+  },
+  "clear" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "teapot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "reliev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "clean" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "uneasi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "meal" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "diamond" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "fairbank" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "mean" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 26
+  },
+  "glad" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 11
+  },
+  "meat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "earl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "ears" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "beasts" : {
+  "ferret" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "viewing" : {
+  "account" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 3
   },
-  "shouted" : {
+  "decidedli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
+    "value" : 4
+  },
+  "recov" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "railwai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "conqueror" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
   },
   "doth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "engraved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "finds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "startled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Thus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "DISTRIBUTOR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "WONDERLAND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "examining" : {
+  "lullabi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "railway" : {
+  "gregori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "trim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "uglif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "unrolled" : {
+  "ugh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "accepting" : {
+  "nervou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "strict" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "carefully" : {
+  "you" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 481
   },
-  "banks" : {
+  "jump" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 10
+  },
+  "soft" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "happen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 21
   },
   "pass" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 7
   },
   "past" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -1725,7 +2265,7 @@
   },
   "mile" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 5
   },
   "shock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -1737,113 +2277,181 @@
   },
   "bill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 17
   },
-  "easy" : {
+  "court" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 18
+  },
+  "carefulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
-  },
-  "Here" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 11
-  },
-  "smiled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "See" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "bathing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "eats" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
   },
   "domain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
+    "value" : 8
+  },
+  "preserv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "organ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "treatment" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "choosing" : {
+  "troubl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "shiver" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "waited" : {
+  "sentenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 11
+    "value" : 9
   },
-  "FOOT" : {
+  "hot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "corpor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "THE" : {
+  "how" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 13
+    "value" : 71
   },
-  "October" : {
+  "releas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
-  },
-  "adoption" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Eaglet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
   },
   "grass" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
   },
-  "annoyed" : {
+  "inde" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 11
+  },
+  "direc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
+  "term" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 22
+  },
+  "uncork" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "regul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
   "mine" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
+    "value" : 10
   },
   "mind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
+    "value" : 13
   },
-  "business" : {
+  "ooti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
+    "value" : 4
+  },
+  "pennyworth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "chin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "tail" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 12
   },
   "staff" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "shoes" : {
+  "right" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
+    "value" : 32
+  },
+  "march" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 36
+  },
+  "opposit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "possibli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "blast" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "mutter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "insid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "june" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "answer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 14
   },
   "taught" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
   },
-  "returning" : {
+  "meet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Your" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 4
   },
   "maximum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "TIS" : {
+  "inch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "paus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "under" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "did" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 57
+  },
+  "deserv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "represent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -1851,167 +2459,195 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
+  "london" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
   "dig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 5
   },
-  "added" : {
+  "dip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 23
+    "value" : 2
   },
-  "cheated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "shifting" : {
+  "gratefulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "She" : {
+  "down" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 39
+    "value" : 102
   },
-  "wretched" : {
+  "hold" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 14
+  },
+  "tale" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "absurd" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
   "bird" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "adding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 12
   },
   "forgotten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 6
   },
+  "club" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
   "legal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "LICENSE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "seated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Collar" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "possibly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "journey" : {
+  "talk" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 31
+  },
+  "vanish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "hatter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 57
+  },
+  "count" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Trims" : {
+  "creep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
-  },
-  "Shy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "remained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
   },
   "brown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "Reeling" : {
+  "repli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 34
   },
-  "Because" : {
+  "asham" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
-  "acceptance" : {
+  "take" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 26
   },
   "month" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "puzzled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
-  },
   "learnt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "paws" : {
+  "blame" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "octob" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "perhap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 15
+  },
+  "injur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "humbl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "confusion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "occasion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "some" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 47
+  },
+  "busili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
-  },
-  "gratefully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Sir" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Sit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Idiot" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "growling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "squeeze" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
   },
   "back" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 38
+    "value" : 40
   },
-  "hedgehogs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "miss" : {
+  "compani" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "With" : {
+  "applaus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 1
   },
-  "states" : {
+  "miss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 6
+  },
+  "abid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "pound" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "journei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "trot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
   },
   "bite" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "busily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
   "doze" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "just" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 49
+  },
+  "sole" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "company" : {
+  "owner" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "coupl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "idiot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "afor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -2019,59 +2655,83 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "permission" : {
+  "babi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
+    "value" : 14
   },
   "grand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "decidedly" : {
+  "home" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "hole" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "michael" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "print" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
   },
-  "Treacle" : {
+  "juri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 22
   },
-  "baby" : {
+  "interpret" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 14
+    "value" : 1
+  },
+  "iron" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "grant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "showing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "newsletter" : {
+  "explain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 11
+  },
+  "muscular" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Lizard" : {
+  "convers" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
+    "value" : 11
+  },
+  "ignor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "convert" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
+  "hope" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 9
+  },
   "attempt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "soon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 23
+  },
+  "assembl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
   },
   "thick" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Fifteenth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "TRADEMARK" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -2079,47 +2739,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Despite" : {
+  "bend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
   "lock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 4
   },
-  "Even" : {
+  "latin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "VERY" : {
+  "rapidli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 13
-  },
-  "letters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "chatte" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
   "fear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 5
   },
-  "lying" : {
+  "song" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
+    "value" : 7
   },
-  "minding" : {
+  "creat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 6
   },
-  "Somebody" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "bleeds" : {
+  "belt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -2127,89 +2775,113 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 30
   },
-  "GAVE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Director" : {
+  "chop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "signed" : {
+  "manag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 12
   },
-  "sense" : {
+  "bell" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "spectacl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "timidly" : {
+  "afford" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
-  },
-  "hoping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "printed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 1
   },
   "field" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Seals" : {
+  "invalid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "messages" : {
+  "doe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 6
   },
   "dog" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 6
   },
-  "status" : {
+  "notifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 1
   },
   "don" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 51
+    "value" : 61
   },
   "upset" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "natur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "unimport" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "skim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "stamp" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "unfortun" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "glanced" : {
+  "summer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Rabbit" : {
+  "deriv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 45
+    "value" : 5
   },
-  "scattered" : {
+  "twenti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "mention" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
   },
   "mad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 14
+    "value" : 15
   },
-  "legally" : {
+  "file" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "mai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 25
+  },
+  "herald" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "nurse" : {
+  "tart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 8
   },
   "wouldn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 12
+    "value" : 13
   },
   "man" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -2217,47 +2889,67 @@
   },
   "stand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
+    "value" : 7
   },
-  "twenty" : {
+  "map" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "heavi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "listeners" : {
+  "could" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 57
+  },
+  "forward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "POCKET" : {
+  "bent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Soo" : {
+  "cattl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
+    "value" : 1
+  },
+  "ebook" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 16
   },
   "widest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "crouched" : {
+  "lodg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "spectacles" : {
+  "explan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 5
   },
-  "THAT" : {
+  "royalti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 15
+    "value" : 5
+  },
+  "return" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "nonsens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
   },
   "feet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 19
   },
-  "fees" : {
+  "meekli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 2
   },
   "mail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -2265,109 +2957,197 @@
   },
   "subject" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "THAN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 8
   },
   "feel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
+    "value" : 17
   },
-  "terribly" : {
+  "banquet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
-  },
-  "nursing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
   },
   "main" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Lake" : {
+  "drown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Hearts" : {
+  "smile" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 6
   },
-  "peering" : {
+  "blade" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "sulkili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "fine" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "find" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 25
+  },
+  "dri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "terribli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "exactli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
   },
   "credit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "likes" : {
+  "hearthrug" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "waste" : {
+  "alter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "sooner" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "utf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "cries" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "cheerfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Alice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 398
-  },
-  "equipment" : {
+  "occur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
+  },
+  "pleasant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "difficult" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
   },
   "dry" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 8
   },
-  "includes" : {
+  "sort" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 23
+  },
+  "fill" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "failur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "interrupted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
-  },
-  "picking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "labelled" : {
+  "softli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "ringlets" : {
+  "heart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 10
   },
-  "directions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "handsome" : {
+  "cheerfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Information" : {
+  "forget" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 5
   },
-  "nonsense" : {
+  "servic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "professor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "true" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "tast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 6
   },
+  "hors" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "position" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "present" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
+  "curtain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "laughter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "timidli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 9
+  },
+  "soup" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 18
+  },
+  "gryphon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 55
+  },
+  "stair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "belong" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "best" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "sour" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "sooth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
   "breath" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "ball" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "certainli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
   },
@@ -2375,259 +3155,251 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "repeat" : {
+  "execut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 9
+  },
+  "hour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 6
   },
-  "smoking" : {
+  "hous" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 19
+  },
+  "repeat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 20
   },
   "men" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "suppressed" : {
+  "barlei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "physical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "included" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 1
   },
   "make" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 30
+    "value" : 50
+  },
+  "capit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
   },
   "met" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
   },
-  "lullaby" : {
+  "heard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 30
   },
-  "waving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "barley" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Wake" : {
+  "extraordinari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "rapidly" : {
+  "execution" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 6
+  },
+  "master" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
   },
   "fright" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "witness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
-  },
   "riper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "doubtfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "powdered" : {
+  "tougher" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "bake" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "disagre" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "princip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "curl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "inform" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
+  "depend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
   },
   "woke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "sorrow" : {
+  "commit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 1
   },
-  "trees" : {
+  "about" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "righthand" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "scream" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 7
   },
+  "sorrow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
   "crash" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "THEY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "granted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "bank" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "character" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sizes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "meaning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "drawing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Imagine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "stick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
   },
-  "tales" : {
+  "bank" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "curv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "moderate" : {
+  "fire" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 4
+  },
+  "stick" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "giddi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "immedi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
   },
   "height" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 5
   },
-  "goals" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "singing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "scratching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Seaography" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "invent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "LIABILITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "received" : {
+  "myself" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 6
   },
-  "wonderful" : {
+  "invent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "PROVIDED" : {
+  "impati" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 6
   },
-  "TWO" : {
+  "sleepi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "howl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "doubtfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "execute" : {
+  "rude" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "boxed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 3
   },
   "highest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "animal" : {
+  "declar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "except" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "shower" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "impatiently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "THEN" : {
+  "suppl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "shared" : {
+  "fact" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
+  "butterfli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "lone" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "examine" : {
+  "thistl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
-  },
-  "March" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 35
   },
   "long" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 32
+    "value" : 35
+  },
+  "redistribu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
   },
   "fell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 6
   },
-  "remember" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 14
-  },
-  "butterfly" : {
+  "fade" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "boots" : {
+  "unless" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "free" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
+  "mix" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "grumbled" : {
+  "honour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "But" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 37
-  },
-  "twinkle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
+    "value" : 4
   },
   "stiff" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "middle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "idiotic" : {
+  "hippopotamu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -2635,15 +3407,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "expression" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
   "star" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
+  "though" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
   "childhood" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "polit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "appeal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -2651,139 +3431,179 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "stay" : {
+  "appear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
+    "value" : 15
   },
-  "increasing" : {
+  "face" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 20
+  },
+  "oldest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Australia" : {
+  "afraid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 12
+  },
+  "fish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 9
+  },
+  "nurs" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "mani" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
   },
   "open" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
+    "value" : 20
+  },
+  "stai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
   },
   "treat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
   "agent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "expressing" : {
+  "eagerli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 8
   },
-  "exclamation" : {
+  "monei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 3
   },
-  "locks" : {
+  "project" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 87
+  },
+  "seven" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "whatev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "Swim" : {
+  "tread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Last" : {
+  "sever" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
+  "loos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
   "bark" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 3
   },
-  "roughly" : {
+  "cheshir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 7
   },
   "wood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 8
   },
-  "First" : {
+  "five" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 7
   },
-  "displaying" : {
+  "melancholi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 6
   },
-  "riddles" : {
+  "vanilla" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
-  },
-  "surprise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "maps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "dropping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
   },
   "felt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 23
   },
-  "invited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
   "lobster" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "KNOW" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "William" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
+    "value" : 14
   },
   "conquest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "modification" : {
+  "look" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 106
+  },
+  "entranc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "flying" : {
+  "nibbl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "allow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "arriv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
-  },
-  "THIS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
   },
   "knock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "transcrip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "impertin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "father" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "binari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "lori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "commerci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "rule" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 10
   },
   "proper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "Time" : {
+  "beast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "beast" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "vegetable" : {
+  "condemn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -2791,17 +3611,29 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
+  "transcrib" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
   "speed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "bats" : {
+  "peopl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 16
+  },
+  "turtl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 61
+  },
+  "loudli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "outsid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
-  },
-  "apple" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
   },
   "common" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -2809,39 +3641,43 @@
   },
   "interest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 6
   },
-  "sleepy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "performances" : {
+  "appli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "apply" : {
+  "wonder" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 28
+  },
+  "bath" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Brandy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "histories" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "eagerly" : {
+  "middl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 8
   },
-  "money" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "disagree" : {
+  "accustom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "annoi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "canari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "mari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "twinkl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 13
   },
   "disgust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -2849,25 +3685,37 @@
   },
   "gutenberg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
+    "value" : 93
   },
   "mark" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 11
   },
-  "axes" : {
+  "base" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "carrol" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "fair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "sharks" : {
+  "crocodil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "nonproprietary" : {
+  "trickl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "shillings" : {
+  "grammar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "critic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -2875,53 +3723,61 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "obstacle" : {
+  "proces" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 6
   },
   "slate" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 12
   },
-  "attempts" : {
+  "nonproprietari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "profits" : {
+  "zip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "EBook" : {
+  "still" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 10
   },
   "worm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
+  "compress" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
   "work" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 52
+    "value" : 86
   },
   "lose" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "cattle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "THOSE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "books" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "knowing" : {
+  "caucu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 3
+  },
+  "rattl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "wors" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "underneath" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "statem" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "wore" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -2929,25 +3785,37 @@
   },
   "word" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 11
+    "value" : 32
+  },
+  "variat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "refund" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 10
   },
   "love" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 6
   },
   "flock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "tongue" : {
+  "iii" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 1
   },
   "forehead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "enjoy" : {
+  "impos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "boldli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -2955,163 +3823,231 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "throwing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "ear" : {
+  "requir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 6
   },
-  "writing" : {
+  "punch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "uniform" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "fall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 9
   },
-  "rushed" : {
+  "ear" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 11
+  },
+  "scatter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
-  },
-  "federal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
   },
   "eat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 17
+    "value" : 20
   },
-  "believed" : {
+  "finger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 5
   },
   "loud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 6
   },
-  "include" : {
+  "graze" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
   "swallow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 3
   },
-  "aged" : {
+  "subscrib" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Everybody" : {
+  "puzzl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 14
   },
-  "haste" : {
+  "flurri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "nice" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
   },
   "opinion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "altogether" : {
+  "excel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
+    "value" : 2
   },
   "soldier" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 11
   },
-  "cutting" : {
+  "cucumb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "thump" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "literari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 13
+  },
+  "bawl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "exists" : {
+  "forgot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
-  "upsetting" : {
+  "stir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "first" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 51
   },
   "insult" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "voice" : {
+  "whistl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 47
+    "value" : 2
   },
-  "existence" : {
+  "tight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "axis" : {
+  "frog" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "spite" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "EXPRESS" : {
+  "thatch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "subdued" : {
+  "punit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "simpl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "from" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 38
   },
   "mayn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "expecting" : {
+  "fumbl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 1
   },
   "spell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "discover" : {
+  "sulki" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "bottom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "ill" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "purpl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "pebbles" : {
+  "poki" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "edg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
   },
   "coward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "SEND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "squeezed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Can" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "sulky" : {
+  "solicit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
+  "spade" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "mayb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "insol" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "impli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
   "provision" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Cat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 26
-  },
-  "Chief" : {
+  "speaker" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Beau" : {
+  "indign" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 1
   },
-  "Curiouser" : {
+  "uncomfort" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "enjoi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "dinah" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 14
+  },
+  "death" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "arrai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -3119,83 +4055,79 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
+  "powder" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "error" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
   "eel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 3
   },
-  "sternly" : {
+  "network" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "HERE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "walking" : {
+  "paper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 5
   },
-  "knuckles" : {
+  "public" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 9
+  },
+  "steam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "notifies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Tillie" : {
+  "protec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
   "grave" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "ink" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "gravi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "improv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "rush" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "advantage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "dainties" : {
+  "jack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "gbnewby" : {
+  "crept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Service" : {
+  "stolen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Change" : {
+  "round" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "whispered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "Contact" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Tea" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "BEFORE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 41
   },
   "unlink" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "deductible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "gravy" : {
+  "gbnewbi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -3203,15 +4135,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "WILL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "Ten" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "irritated" : {
+  "retir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -3219,59 +4143,59 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "hands" : {
+  "sternli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 12
+    "value" : 1
+  },
+  "perman" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "pope" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "refus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "egg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "desperate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 6
   },
   "year" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "thimble" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
   },
-  "leading" : {
+  "absenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Repeat" : {
+  "sensat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
   "branch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "WHATEVER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Everything" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "THINK" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
+  },
+  "fairi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "engrav" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "music" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "saves" : {
+  "poor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 27
   },
-  "gallons" : {
+  "vii" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -3279,35 +4203,59 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "YOUR" : {
+  "farm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
+    "value" : 1
   },
-  "silence" : {
+  "schoolroom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 11
+    "value" : 1
   },
-  "moving" : {
+  "near" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 14
+  },
+  "ran" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 16
+  },
+  "grief" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "rap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "hungri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "fairy" : {
+  "newslett" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "marched" : {
+  "rat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "fireplac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "agreement" : {
+  "agreem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 17
+    "value" : 18
   },
-  "AK" : {
+  "pool" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 11
+  },
+  "raw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "fancying" : {
+  "merchant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -3315,179 +4263,127 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "crossly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "planning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "AS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "AT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
   "stop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
+    "value" : 10
+  },
+  "telescop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
   },
   "guess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 6
   },
-  "happening" : {
+  "fairli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "returns" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Where" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "folded" : {
+  "guest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "consented" : {
+  "ceas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "June" : {
+  "snort" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "BE" : {
+  "kettl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "antipathi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "throat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "WATCH" : {
+  "nile" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Ah" : {
+  "ein" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
+    "value" : 1
   },
-  "UNimportant" : {
+  "pebbl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
-  },
-  "immediately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "An" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "HATED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "The" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 119
   },
   "sleep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 6
   },
-  "swimming" : {
+  "crumb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 4
   },
-  "hungry" : {
+  "dormous" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 40
   },
-  "gazing" : {
+  "measur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "As" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 17
-  },
-  "At" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
-  },
-  "stretched" : {
+  "machin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "variations" : {
+  "close" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 16
+  },
+  "crossli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
-  },
-  "prohibition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "agreed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "computers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "toes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "Be" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
   },
   "flavour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
+  "fourteenth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
   "learn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "growled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "BOOTS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 11
   },
   "neck" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 7
   },
-  "ridiculous" : {
+  "brandi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "By" : {
+  "distributor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
+    "value" : 1
+  },
+  "fast" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "signifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
   },
   "sweet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Tis" : {
+  "kindli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "Take" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "addressing" : {
+  "seaographi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -3495,49 +4391,89 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "evidence" : {
+  "isn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
+    "value" : 7
   },
-  "official" : {
+  "ach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 1
+  },
+  "knuckl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "savag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "piteou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "fling" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "couldn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 9
   },
-  "cupboards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "leave" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "signifies" : {
+  "specif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "cakes" : {
+  "red" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "serpent" : {
+  "act" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "post" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 6
   },
-  "forepaws" : {
+  "duck" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "finish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 18
+  },
+  "remedi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "knave" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 9
+  },
+  "serpent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 12
+  },
+  "incomplet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "ada" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
   "faint" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
   "doesn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 16
+  },
+  "quadril" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
   },
   "wrote" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -3547,47 +4483,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Do" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 16
-  },
-  "newspapers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
   "gather" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "encoding" : {
+  "hardli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 9
+  },
+  "consent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "obtaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "DAMAGE" : {
+  "helpless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Dr" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "sobbing" : {
+  "respect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "kindly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Little" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "loose" : {
+  "altern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
@@ -3595,63 +4511,79 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 8
   },
-  "crawling" : {
+  "panther" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 3
   },
-  "indignant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Footman" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 11
-  },
-  "rises" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "turtles" : {
+  "shelv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "Hole" : {
+  "trust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "chimney" : {
+  "smallest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
+    "value" : 2
   },
-  "complained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "desperately" : {
+  "famili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "spirited" : {
+  "ridg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
-  "engine" : {
+  "prevent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "stretch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "undo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "chimnei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "prosecut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
   "end" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 17
+    "value" : 22
   },
-  "lines" : {
+  "inkstand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "mistake" : {
+  "strang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 5
   },
-  "Tale" : {
+  "lizard" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "modifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "volunt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "pour" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "veget" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -3659,15 +4591,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Replacement" : {
+  "anyth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 9
   },
-  "WITH" : {
+  "label" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 3
   },
-  "slippery" : {
+  "howev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 21
+  },
+  "special" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -3675,61 +4611,85 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Mouse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 30
-  },
-  "GUTENBERG" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "royalties" : {
+  "truth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "START" : {
+  "agre" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 12
   },
-  "family" : {
+  "numer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Hold" : {
+  "exempt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 2
   },
-  "HE" : {
+  "crab" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 3
+  },
+  "slipperi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "smaller" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
   },
   "copyright" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 13
+    "value" : 14
   },
-  "called" : {
+  "donat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 15
+    "value" : 20
   },
   "told" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 6
   },
-  "Go" : {
+  "ago" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 2
   },
-  "turns" : {
+  "properti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 2
   },
   "moral" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 9
+  },
+  "number" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 8
+  },
+  "defect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "identifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "punish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "deepest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "nai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "uglifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
   },
   "brave" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -3739,247 +4699,219 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "judge" : {
+  "somersault" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 2
   },
-  "darkness" : {
+  "shorter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
-  "He" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 20
-  },
-  "IF" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "II" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "DON" : {
+  "contradict" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
   "shape" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 4
   },
-  "IN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "Hm" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "uglify" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "refreshments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "IS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
-  },
-  "IT" : {
+  "invit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
   },
-  "IV" : {
+  "ceil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Just" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "IX" : {
+  "forti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
-  },
-  "Some" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
   },
   "hedgehog" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
+    "value" : 10
   },
-  "camomile" : {
+  "spot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Too" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "EVEN" : {
+  "other" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
-  },
-  "crossed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "If" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 30
-  },
-  "EVER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
   },
   "tone" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 40
+    "value" : 42
   },
-  "In" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 12
-  },
-  "Is" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "Gutenberg" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 83
-  },
-  "It" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 66
-  },
-  "representations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "holiday" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "asked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 17
-  },
-  "encourage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Elsie" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "share" : {
+  "singer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "punished" : {
+  "exclusion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "puffed" : {
+  "air" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 16
+  },
+  "remind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "OUTSIDE" : {
+  "pictur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "uncommonli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "elegant" : {
+  "locat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "speak" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 20
+  },
+  "share" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "holidai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "USE" : {
+  "shark" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "stigand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "notic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 17
   },
   "sharp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 6
   },
-  "rosetree" : {
+  "surpris" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 12
+  },
+  "slip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "citi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "stored" : {
+  "shan" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "pleasur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "mississippi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "shingle" : {
+  "atom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "royal" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "shed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Soon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "LL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "FITNESS" : {
+  "esq" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
   "shake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 4
   },
-  "UTF" : {
+  "glove" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 11
   },
   "est" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "hoarsely" : {
+  "anxiou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "tops" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 3
   },
   "trial" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
+    "value" : 11
   },
-  "pages" : {
+  "rear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "ME" : {
+  "ala" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
+    "value" : 4
   },
-  "tucked" : {
+  "snout" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "oblig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "links" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "entrance" : {
+  "unsolicit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "nasty" : {
+  "favourit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "catching" : {
+  "all" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 119
   },
-  "remedies" : {
+  "took" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 24
+  },
+  "new" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
+  "escap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "read" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 18
+  },
+  "frontispiec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "belov" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "todai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -3987,11 +4919,39 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
+  "touch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "shall" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
+  "rememb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 20
+  },
+  "choos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
   "brass" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
+  "real" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "clock" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
   "conger" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "nasti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -3999,159 +4959,151 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Ma" : {
+  "unit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 10
   },
-  "NO" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "Grief" : {
+  "yell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "financial" : {
+  "mock" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 56
+  },
+  "therefor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "reaching" : {
+  "bodi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "flamingoes" : {
+  "collect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "dreamy" : {
+  "cartwheel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "My" : {
+  "choru" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 6
   },
-  "running" : {
+  "quiver" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
+    "value" : 1
+  },
+  "trick" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "favour" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "disappoint" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "grunt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 5
   },
-  "OF" : {
+  "calcul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 13
+    "value" : 2
   },
-  "whispers" : {
+  "and" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 922
   },
   "chose" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "France" : {
+  "row" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "obsolet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "declared" : {
+  "dreami" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "No" : {
+  "ani" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 20
+  },
+  "immens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "ann" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "fifteen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "haven" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 8
   },
-  "OR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "BUSY" : {
+  "louder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Explain" : {
+  "guilt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Mercia" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 1
   },
   "pencil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "specific" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "complying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "Tut" : {
+  "indemn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Of" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 12
-  },
-  "PG" : {
+  "fender" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Oh" : {
+  "ladder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 35
+    "value" : 1
+  },
+  "previou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "whisper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 9
   },
-  "Let" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 11
-  },
-  "Perhaps" : {
+  "dull" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "muttering" : {
+  "reason" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 12
   },
-  "teases" : {
+  "thought" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "On" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "NEGLIGENCE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "merrily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Or" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 76
   },
   "ring" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "Ou" : {
+  "turkei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -4159,353 +5111,493 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "angrily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
-  },
-  "decided" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "accusation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "tumbling" : {
+  "ornam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "pounds" : {
+  "maintain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "shoulder" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "dance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 13
-  },
-  "remain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "expected" : {
+  "shift" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "voices" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "lazily" : {
+  "merrili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "countries" : {
+  "curli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Two" : {
+  "cake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 6
   },
-  "MUST" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "toss" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "eye" : {
+  "english" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 7
   },
-  "Soup" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 13
-  },
-  "wanted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "glaring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "deserved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "argued" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "thistle" : {
+  "jar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "Royalty" : {
+  "zealand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 1
   },
-  "permitted" : {
+  "mistak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "Pennyworth" : {
+  "shoulder" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
+  "angrili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 9
+  },
+  "jaw" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "latitud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "Fish" : {
+  "broke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "WOULD" : {
+  "mysteri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "circumst" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "remain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "gentli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "patienc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "reed" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "rumbl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "dunc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "shouldn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 5
   },
-  "mournful" : {
+  "toss" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "demand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "indemnify" : {
+  "reel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "jaws" : {
+  "duchess" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 42
+  },
+  "letter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "lazili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "underton" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
+  },
+  "necessarili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "flash" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "appl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "cackl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "scrambl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "indemnifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "worth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "notion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "grace" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "where" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 18
+  },
+  "arm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 21
+  },
+  "caper" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "broken" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "pglaf" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
   },
   "poison" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
+  "infring" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "black" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "liveri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "holder" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
   "nest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Suppress" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Queens" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Carroll" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "recovered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "splashing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Sh" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "livery" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "TO" : {
+  "suppress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 5
   },
-  "So" : {
+  "balanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 27
+    "value" : 1
+  },
+  "call" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 25
+  },
+  "such" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 35
+  },
+  "classic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "kick" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "ask" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 28
+  },
+  "knelt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "derision" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "understood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Croquet" : {
+  "rub" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "through" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 16
+  },
+  "strength" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "jurors" : {
+  "tortois" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 3
+  },
+  "run" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 12
   },
   "research" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "forgetting" : {
+  "curtsei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 2
   },
-  "incomplete" : {
+  "worri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "either" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 10
+  },
+  "view" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
   },
   "white" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
+    "value" : 38
   },
-  "sounded" : {
+  "those" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "discov" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "difficulti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 5
   },
-  "houses" : {
+  "imposs" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 3
   },
-  "Drive" : {
+  "examin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "To" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "UT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "exclaimed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "mallets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "imagine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "draggled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 3
   },
   "suet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
+  "alic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 403
+  },
+  "irrit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
   "girl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 7
   },
-  "sharing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "yards" : {
+  "bleed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "VE" : {
+  "longer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "flutter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "SWIM" : {
+  "introduc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 3
   },
-  "VI" : {
+  "aliv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "affectionately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 3
   },
   "trumpet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
+  "shingl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "name" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 10
+  },
   "aloud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 5
   },
-  "Up" : {
+  "mourn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "thunderstorm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "physic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "beheaded" : {
+  "next" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 25
+  },
+  "nod" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "boon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "import" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
+  "submit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "string" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "whisker" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "crocodile" : {
+  "book" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 13
   },
-  "naturedly" : {
+  "show" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 5
+  },
+  "edition" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
   },
   "snatch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "originator" : {
+  "cautious" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 3
   },
-  "WE" : {
+  "disappear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
   "conclusion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "hurriedly" : {
+  "crouch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 1
   },
-  "tempered" : {
+  "nor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 1
   },
-  "trademark" : {
+  "button" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
+    "value" : 1
   },
-  "lived" : {
+  "comput" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "not" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 153
+  },
+  "now" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 60
+  },
+  "nearli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
+  "overcom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "trademark" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 11
+  },
+  "boot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
   "wag" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "faintly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "undoing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "derived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "severity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "pinch" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "thoughts" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "toys" : {
+  "ascii" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "shoe" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "wai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 19
+  },
+  "pinch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
   },
   "green" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -4513,13 +5605,29 @@
   },
   "race" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
+    "value" : 6
   },
-  "Gryphon" : {
+  "hurriedli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 55
+    "value" : 2
   },
-  "Suddenly" : {
+  "emphasi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "frown" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "stupidli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "bone" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "faintli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -4527,33 +5635,29 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "We" : {
+  "knowledg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 11
+    "value" : 3
   },
-  "grey" : {
+  "what" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 135
+  },
+  "naturedli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "XI" : {
+  "mouth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 14
   },
-  "sensation" : {
+  "refer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
-  },
-  "Five" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
   },
   "window" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 8
-  },
-  "attempted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
   },
   "flame" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -4561,165 +5665,221 @@
   },
   "rise" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 3
   },
-  "panted" : {
+  "suddenli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 13
+  },
+  "grei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "play" : {
+  "leader" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
+    "value" : 1
   },
-  "quickly" : {
+  "simpleton" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "yard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "taxes" : {
+  "commotion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "educations" : {
+  "arithmet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "pleases" : {
+  "when" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 65
+  },
+  "cart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "synonymous" : {
+  "plai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 11
+  },
+  "anxious" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 14
   },
   "fan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
+    "value" : 12
+  },
+  "axi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "camomil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "driest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
+  "quickli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "displai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
   "fat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "frying" : {
+  "electron" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 29
   },
   "catch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 6
+  },
+  "morsel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "plan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 5
   },
-  "promising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "give" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 12
-  },
-  "lives" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "depends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "double" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "comfortably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Seven" : {
+  "case" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 5
   },
-  "comfortable" : {
+  "give" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 18
+  },
+  "ahem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "prizes" : {
+  "multipl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "viii" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "hollow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "wearili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "melan" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "moon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "consid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
+  "futur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "Sixteenth" : {
+  "everyth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 12
+  },
+  "waist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
-  },
-  "EAT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "PLEASE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
   },
   "suit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "completely" : {
+  "card" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 4
   },
-  "Always" : {
+  "care" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Rule" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 6
   },
   "denial" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "entangled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "EBOOK" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "QUITE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "receiving" : {
+  "orang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "guard" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "pattern" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "direct" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "daisi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "compil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "gain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "cherri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "caus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "scold" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "cushion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
   },
   "modern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
+  "violat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
   "web" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 6
   },
-  "flustered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sentenced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "occasionally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Begin" : {
+  "seldom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -4727,33 +5887,53 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "relieved" : {
+  "protect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "passag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
   },
   "grin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
+    "value" : 11
+  },
+  "mischief" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "disput" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "mercia" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "more" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 21
   },
   "wet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "dishes" : {
+  "kill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "eyelids" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 3
   },
   "great" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 39
   },
-  "happened" : {
+  "morn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
+    "value" : 5
+  },
+  "bore" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "wrong" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -4763,47 +5943,47 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Speak" : {
+  "fanci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 10
   },
-  "pleased" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "sides" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "stockings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "heads" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
-  },
-  "wondered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "stuff" : {
+  "advanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
+  "beautifulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "stuff" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "shut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
   "fee" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
+    "value" : 12
+  },
+  "handsom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "eleventh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Drink" : {
+  "section" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
+  "rosetre" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Twinkle" : {
+  "simpli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
@@ -4811,49 +5991,69 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "presented" : {
+  "feebl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "england" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "whiles" : {
+  "desper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Hjckrrh" : {
+  "hunt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 3
   },
-  "marked" : {
+  "king" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 64
+  },
+  "kind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 8
+  },
+  "eleg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "nearer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 5
   },
-  "laughed" : {
+  "canterburi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "rais" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "flamingo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "most" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "shill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "opened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
-  },
-  "inwards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "pleasing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "produced" : {
+  "footstep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "Hardly" : {
+  "phrase" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 4
+  },
+  "imagin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
   },
   "hung" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -4863,43 +6063,63 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
+  "keep" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 16
+  },
+  "affection" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
   "solemn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "screamed" : {
+  "eaten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 1
   },
-  "choked" : {
+  "daughter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 1
   },
   "sugar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
+  "who" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 64
+  },
+  "largest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
   "game" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 12
+    "value" : 14
+  },
+  "jog" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "joi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "why" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 40
+  },
+  "continu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 9
   },
   "remark" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
+    "value" : 28
   },
-  "died" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "denies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "necessarily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "rearing" : {
+  "donor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -4907,7 +6127,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
+  "patient" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "sad" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "arrang" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "newbi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "messag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
   "win" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "profit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "sheep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -4915,27 +6163,55 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 14
   },
-  "Luckily" : {
+  "rest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 12
+  },
+  "breach" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
   },
   "butter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
+    "value" : 10
   },
-  "Frog" : {
+  "move" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 11
+  },
+  "wit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 11
+  },
+  "sat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 17
+  },
+  "yawn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "shini" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "From" : {
+  "terrier" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "liabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "shine" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "spread" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
   },
   "leant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Waiting" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -4943,37 +6219,41 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "matters" : {
+  "mous" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 44
+  },
+  "compli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 9
+  },
+  "archiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 13
+  },
+  "earnestli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
-  },
-  "Lewis" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "Ugh" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "VII" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "shiny" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
   },
   "visit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 3
   },
-  "denied" : {
+  "front" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
+  },
+  "confus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
   },
   "user" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
+  },
+  "unfold" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
   },
   "oneself" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -4983,11 +6263,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "pleasanter" : {
+  "stupid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "draggl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "dipped" : {
+  "viru" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "familiarli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "bad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
@@ -4997,91 +6289,179 @@
   },
   "bring" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "bag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "guinea" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "complet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "kiss" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
-  },
-  "luckily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Tarts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
   },
   "fond" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
   },
-  "losing" : {
+  "squeez" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
   "fit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 6
   },
-  "familiarly" : {
+  "offer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "breez" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
   "hush" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "bat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
   },
   "fix" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 3
   },
   "honest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "trembled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
   "custard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Pool" : {
+  "angri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 5
   },
-  "Story" : {
+  "buttercup" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
   "addition" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 6
   },
-  "promoting" : {
+  "barrow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
+  "despit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "posit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "adjourn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
   "grow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 13
+    "value" : 24
+  },
+  "ad" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 24
+  },
+  "sure" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 14
   },
   "shrink" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 5
   },
-  "EIN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "puppy" : {
+  "puppi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 7
   },
-  "turning" : {
+  "ag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 12
+    "value" : 5
   },
-  "patted" : {
+  "ah" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "indignantli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "entangl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "disclaim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "ak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "an" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 49
+  },
+  "secur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "ar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 70
+  },
+  "fold" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "patter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "as" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 249
+  },
+  "at" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 215
+  },
+  "globe" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "ax" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "luckili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "drive" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
   },
   "brother" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -5091,35 +6471,59 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "Northumbria" : {
+  "deal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 12
   },
   "prove" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 5
   },
-  "ordering" : {
+  "be" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 115
   },
-  "virus" : {
+  "dead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 4
   },
-  "claws" : {
+  "sea" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 14
   },
   "search" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
+  "see" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 12
+  },
+  "inward" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
   "sudden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 5
   },
-  "Defect" : {
+  "by" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 63
+  },
+  "civil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "behead" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "franc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "subdu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -5127,37 +6531,21 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "tumbled" : {
+  "dear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 32
   },
   "foot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
+    "value" : 10
   },
-  "Did" : {
+  "set" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 24
   },
-  "disclaimer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "onions" : {
+  "edgar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
-  },
-  "charge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "Poor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "keeping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
   },
   "quicker" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -5167,83 +6555,127 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "alternate" : {
+  "freeli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "figur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "renam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
-  },
-  "Grammar" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "lasted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "breathe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
   },
   "fly" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 4
   },
   "partner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Father" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "freely" : {
+  "dainti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 1
+  },
+  "jug" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "bed" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
   },
   "parchment" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
+  "bee" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "beg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 9
+  },
+  "di" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
   "tureen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "stairs" : {
+  "offic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 7
   },
-  "bristling" : {
+  "do" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "girls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 102
   },
   "thunder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
+  "splendidli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "parti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 11
+  },
+  "justic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "dr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "discontinu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "beauti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 14
+  },
   "won" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 26
   },
-  "warning" : {
+  "contact" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "inclin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
   "wow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 6
   },
-  "Though" : {
+  "which" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 56
+  },
+  "deduct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Talking" : {
+  "magpi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
   "eh" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "ei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -5255,7 +6687,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "Nile" : {
+  "carri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
+  "complain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "she" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 537
+  },
+  "never" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 46
+  },
+  "askanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -5263,67 +6711,79 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "piece" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "END" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "burst" : {
+  "usurp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "carry" : {
+  "ey" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 36
+  },
+  "squeak" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "chrysali" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "chuckl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "activ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "prohibi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "burst" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
   "frame" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Arithmetic" : {
+  "deep" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "indic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "limbs" : {
+  "delai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "tears" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
-  },
-  "SOMEBODY" : {
+  "shy" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "dozing" : {
+  "origin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
-  "watching" : {
+  "for" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 169
   },
   "content" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Stole" : {
+  "energet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Crab" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "SOME" : {
+  "clasp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Number" : {
+  "titter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -5331,23 +6791,63 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 9
   },
-  "trouble" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "rats" : {
+  "tremul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "whiting" : {
+  "snappishli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "accid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "promot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "sir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "settl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "sit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 19
+  },
+  "inquisit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "disobei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "someth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 14
+  },
+  "bound" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "go" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 8
   },
-  "attended" : {
+  "dinner" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "vagu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "snappishly" : {
+  "preciou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -5359,179 +6859,307 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 5
   },
-  "Duck" : {
+  "farmer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 1
   },
-  "pinched" : {
+  "ha" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 5
   },
-  "presents" : {
+  "avoid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "foundat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 25
+  },
+  "he" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 123
+  },
+  "posses" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "tunnel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "promotion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Professor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
   "feather" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
-  "practice" : {
+  "hi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 52
+  },
+  "agoni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "ADVENTURES" : {
+  "crowd" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 9
   },
-  "transcription" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "transcribe" : {
+  "hm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "appeared" : {
+  "vers" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 8
   },
-  "agony" : {
+  "altogeth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "easili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "warranti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "bit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 16
+  },
+  "ventur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "obstacl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "grinned" : {
+  "veri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 143
+  },
+  "elsi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "promis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "easily" : {
+  "corner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 5
+  },
+  "william" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
+  "beautifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "join" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 12
+  },
+  "moder" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "promin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "if" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 105
   },
   "burnt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "violently" : {
+  "french" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
   },
-  "encouraging" : {
+  "crown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 3
   },
-  "Don" : {
+  "ii" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
+    "value" : 1
   },
-  "plates" : {
+  "sky" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 5
+  },
+  "in" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 429
   },
   "ointment" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "serpents" : {
+  "director" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 1
   },
   "lower" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "dinn" : {
+  "tomorrow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "doorway" : {
+  "ir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "is" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 111
+  },
+  "dinn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "it" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 664
+  },
+  "rave" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "foolish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "fry" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "decid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "iv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "drink" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
   },
   "odd" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Mad" : {
+  "tinkl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Plain" : {
+  "ix" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "bough" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "surviv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "christma" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "experi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "cheeks" : {
+  "verdict" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 4
   },
   "gave" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 13
+    "value" : 15
   },
-  "alteration" : {
+  "begin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 32
   },
-  "shrieked" : {
+  "somebodi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 5
   },
   "wider" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "turned" : {
+  "paragraph" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 16
+    "value" : 14
   },
-  "May" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Shan" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "library" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "footman" : {
+  "brought" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "strings" : {
+  "librari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "sending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "RIGHT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "delight" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "sadly" : {
+  "plate" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 5
   },
-  "ESQ" : {
+  "neighbour" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "believ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Use" : {
+  "sadli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "world" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "footman" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 14
+  },
+  "delight" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "currant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "side" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 21
+  },
+  "bread" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "break" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
@@ -5539,35 +7167,47 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 15
   },
+  "adop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
   "draw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
+    "value" : 8
   },
-  "wandering" : {
+  "cupboard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "generally" : {
+  "comfort" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
+    "value" : 3
+  },
+  "off" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 43
   },
   "knee" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 5
   },
-  "places" : {
+  "hide" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 1
   },
   "wooden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "fumbled" : {
+  "report" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "indirectli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "tipped" : {
+  "ful" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -5575,49 +7215,97 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "Stolen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
   "ll" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 56
-  },
-  "triumphantly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 57
   },
   "fur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "Nonsense" : {
+  "sigh" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 12
+  },
+  "inquir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Mock" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 56
-  },
-  "Read" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "edge" : {
+  "constant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
+  },
+  "eyelid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "receiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 10
+  },
+  "sob" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 9
+  },
+  "sign" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "directli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "while" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 18
+  },
+  "ly" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
+  "coax" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "anger" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "triumphantli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "that" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 314
+  },
+  "high" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 16
   },
   "faster" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "ma" : {
+  "soo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "download" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "picked" : {
+  "son" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "ma" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
+  },
+  "conclud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
   },
   "skirt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -5627,119 +7315,159 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 6
   },
+  "than" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "me" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 62
+  },
+  "limit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
   "claim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "locked" : {
+  "outdat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Alas" : {
+  "kneel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Updated" : {
+  "author" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 3
   },
-  "possessed" : {
+  "poker" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "TRUE" : {
+  "creatur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 14
+  },
+  "thrown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "feeling" : {
+  "my" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
+    "value" : 19
   },
-  "City" : {
+  "modif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
-  },
-  "fidgeted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "license" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
   },
   "disk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "THROUGH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
   "dream" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
+    "value" : 9
   },
   "dish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 6
   },
-  "Conqueror" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "fluttered" : {
+  "gaze" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Except" : {
+  "updat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "Drawling" : {
+  "produc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "boi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
+  "chatt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "no" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 94
+  },
+  "incessantli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
   "furrow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "passionate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "PRECIOUS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "kissed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "CONTRACT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "mixed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
+  "code" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "seal" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "box" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 11
+  },
+  "bow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "tumbl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
   "head" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 50
+    "value" : 60
   },
   "footmen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "SOUP" : {
+  "birthdai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "considerable" : {
+  "restric" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "dreamed" : {
+  "deni" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "charit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "of" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 629
+  },
+  "oh" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 45
+  },
+  "involv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "possibl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "doorwai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -5753,6049 +7481,105 @@
   },
   "hear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 15
+    "value" : 19
   },
   "fight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 3
   },
-  "pretty" : {
+  "on" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 293
+  },
+  "purpos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "or" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 89
+  },
+  "ou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "determine" : {
+  "cross" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "complianc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "ow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Caterpillar" : {
+  "treacl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 27
+    "value" : 7
+  },
+  "encod" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "drew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 5
   },
-  "VOICE" : {
+  "forepaw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "incessantly" : {
+  "pretti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "painting" : {
+  "extrem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "BEST" : {
+  "equip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "sitting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
-  },
-  "Paris" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "remarks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "infringement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Archive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 13
-  },
-  "readily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "rocket" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "registered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "promised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "stretching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "evidently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "States" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
-  },
-  "speaking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "extremely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "clever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "straightened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "hundreds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "choke" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "proposal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "settled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "ancient" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "wander" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "twelve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "London" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "donors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "waistcoat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "discovered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "bells" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "executed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "thatched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "croquet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "blew" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Party" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sh" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "variety" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "executes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "insolence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "thanked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "email" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Call" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "Wonderland" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "daisies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "toffee" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "started" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "UNDER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Section" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "flower" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "closer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "closed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "tm" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 57
-  },
-  "Literary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 13
-  },
-  "SHOES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "compressed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "country" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "commercial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "exporting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "reasonable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "generations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "rules" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "oop" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "Volunteers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "waters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "treated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "PROJECT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "smiling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "usual" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "DAMAGES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "suppose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 12
-  },
-  "upright" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "ve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 43
-  },
-  "Please" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "thin" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "remarkable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "archbishop" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "NOT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
-  },
-  "quarrelled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "failure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "knot" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "frightened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "support" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "changed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "drop" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "saucer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "shaped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "SLUGGARD" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "WAS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "cold" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "learning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "life" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 13
-  },
-  "reeds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "shriek" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "gay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "lieu" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "wide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "previous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "org" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 13
-  },
-  "reading" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "argue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "squeaking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "held" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "chains" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "courtiers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Internal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "ye" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "BREACH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "problem" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "terms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 20
-  },
-  "deeply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "asleep" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "lobsters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "method" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "wife" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "scroll" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "shilling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "push" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "provisions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "exact" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Those" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "periodic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "distribution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "ACTUAL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "flappers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "dark" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "Either" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "copy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 12
-  },
-  "nibbled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "gloomily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "dare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "Table" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "cook" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 13
-  },
-  "cool" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "sell" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "continued" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
-  },
-  "elbows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "brain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "abide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "buttered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "seaside" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "trickling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "located" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "chorus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "roses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "magic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "date" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "snail" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "addresses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "lamps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "data" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sound" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "murdering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "obliged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "Most" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "grinning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "FROM" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "rustling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "King" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 61
-  },
-  "croqueted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "distributing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "blow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "tossing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "curious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 19
-  },
-  "proud" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Character" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "creatures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
-  },
-  "resource" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "untwist" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "branches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Hatter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 55
-  },
-  "ending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Zealand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "efforts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "addressed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "ground" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "send" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "expenses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "note" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Serpent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "shrimp" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "purpose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "line" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "scale" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "shyly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "pretexts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "hearth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "station" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "hearts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "feeble" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "saucepan" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "treacle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "scaly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "shrill" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "nose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "costs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "cost" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "feebly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "smoke" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "follow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "FIT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "washing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "compliance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "locations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "vanishing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "harmless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "wild" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "govern" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "numerous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "England" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Therefore" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "explanation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "youth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "kettle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "begins" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "introduced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "contributions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "flapper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "calculate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "prison" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sister" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
-  },
-  "whatsoever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "frames" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Consider" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "chimneys" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "volunteers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "remarking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "wink" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "baked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "thoughtfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "wine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "wind" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "humble" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Coils" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "airs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "concluded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "talking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 16
-  },
-  "Ambition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "arrived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "FOUNDATION" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Contributions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "curiouser" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "stupidest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "committed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "licensed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Shakespeare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "stingy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "lips" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "humbly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Boots" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "days" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "arch" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "faces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "returned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "reports" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sharply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "wise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "pan" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "conversation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
-  },
-  "Unless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "roared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "singers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "murder" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Turtle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 59
-  },
-  "invitation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "paw" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "FOR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "pay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "enormous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "clearer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "list" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "strange" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "inquired" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "About" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "toast" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Dear" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "tails" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "authority" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "remarked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
-  },
-  "End" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "cleared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "creature" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "child" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 11
-  },
-  "formats" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "young" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "obsolete" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "medium" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "remove" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "producing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sneezing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "ridge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "live" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "ventured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "lodging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "wits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "perform" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "inquisitively" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Allow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "lady" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "hopeless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "pocket" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "wags" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "named" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "considered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "Nay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "License" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
-  },
-  "changing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "approach" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "afore" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "flashed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "write" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "pet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "IMPLIED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "dripping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "proceed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "impertinent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "corporation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "understand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "confirmation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "slowly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "loving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "unhappy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "arrum" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "appearing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "despair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "eBook" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "larger" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "engaged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "queer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 12
-  },
-  "hundred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "wait" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "desks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "indicating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "FUL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "rapped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "ORANGE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "violence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Quick" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "laid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "raven" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "opportunities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "names" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "entity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "tide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "New" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "imposed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "arrow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "WAISTCOAT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "manner" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "pie" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "pig" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
-  },
-  "pegs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "RETURNED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "mineral" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "counting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "terror" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "void" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "swam" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "liability" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "However" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 14
-  },
-  "Public" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "READ" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "arms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "twist" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "rising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "replied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 29
-  },
-  "prisoner" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "oblong" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "accidentally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "vulgar" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "twentieth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "attending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "extra" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "busy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "land" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "explanations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "burn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "tied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "buttons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "chief" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "performing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "doubtful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "burning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "English" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "conduct" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "velvet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "treading" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Distraction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "machines" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "tidy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "renamed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "walk" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "quietly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "WILLIAM" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "fanned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "OLD" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "eels" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Fainting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "lessen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Thank" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "meeting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "displayed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "MILLENNIUM" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "began" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 58
-  },
-  "HEARTS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Project" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 83
-  },
-  "reality" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "offend" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "circle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "memorandum" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "neatly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "ONE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "Would" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "giving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "prize" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "raving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "accident" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "pop" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "found" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 33
-  },
-  "pot" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "lark" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "escape" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "funny" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "Really" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "receive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "implied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "beating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "uneasily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "standing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "feelings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "OURS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "till" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 21
-  },
-  "Once" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "Anything" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Sing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "MYSELF" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "accounting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "secure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Fetch" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "wasn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 11
-  },
-  "late" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "school" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "things" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 33
-  },
-  "immense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "hat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "cautiously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "brush" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "offers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "pronounced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sighed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "wash" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "loveliest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "uncomfortable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "Nor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Not" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
-  },
-  "measure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "checks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Now" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 12
-  },
-  "playing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "receipt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "employees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "rattle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "swim" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "jurymen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "impossible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "Was" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "effort" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "complaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "dried" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "settling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "yesterday" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "LEAVE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "denying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "assembled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "contemptuously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Soles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "steady" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "vote" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "earls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "yer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "gravely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "delightful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "time" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 68
-  },
-  "tray" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "happy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "pun" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "put" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 31
-  },
-  "Special" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "rustled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "laws" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "lesson" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "LITTLE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "OUT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Web" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "tiny" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "VIII" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "muddle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Hadn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "hookah" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "flinging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "doubled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "uncomfortably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "lazy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "methods" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Digging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "confirmed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "ways" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "crimson" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "growl" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "grown" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "confusing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "Classics" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "chain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "chair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "MORE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Silence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "permanent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "organized" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "XII" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "garden" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 16
-  },
-  "choice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "facility" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "small" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 12
-  },
-  "hid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "beak" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "saucepans" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "cucumber" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "replace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "listen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "wondering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "hit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "beat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "interrupt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sobs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "emphasis" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "bear" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "brightened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "proofread" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Who" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 15
-  },
-  "group" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Panther" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "gross" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "tree" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "Why" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 27
-  },
-  "pleaded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "shouting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "history" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "nibbling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "KING" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "KIND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "RABBIT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "managing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "croqueting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "request" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Adventures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "shepherd" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "thirteen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "general" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "sounds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "frighten" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "ceiling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "requirements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "clear" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "crowded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "Only" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "teapot" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "clean" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "meal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "glad" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 11
-  },
-  "meat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "persisted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "hurry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 11
-  },
-  "blacking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "account" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "uneasy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "furrows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "hoarse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "advance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "skimming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "rumbling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "hunting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "knowledge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "soft" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "happen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "delighted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "opportunity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
-  },
-  "active" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "court" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 17
-  },
-  "sixpence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Said" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "venture" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "LIMITED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "Mississippi" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "teacups" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "PLENTY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Prizes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "beds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "processions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "shiver" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "bottle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
-  },
-  "hot" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "Salt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "hearing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "chin" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "tail" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
-  },
-  "subjects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "tells" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Half" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "traps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "ANYTHING" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "legged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "answer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
-  },
-  "meet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "series" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "CURTSEYING" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Wow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "arches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "putting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "rubbed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "questions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "inclined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "promise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "ASCII" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "hold" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "tale" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "Rome" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "absurd" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "outdated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "porpoise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "talk" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 14
-  },
-  "listened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "reply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "Same" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "hatter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "For" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 15
-  },
-  "creep" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "muttered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Hand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "blame" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Turn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "confusion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "carrying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "beginning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 15
-  },
-  "waiting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "SOMEWHERE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Well" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 23
-  },
-  "additional" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "swallowed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Language" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "trot" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "passed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "notice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "International" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "owner" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "jury" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 22
-  },
-  "remembering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "home" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "hole" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "print" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Good" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "explain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "muscular" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Thinking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "dropped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "answers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "shedding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Sends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "royalty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "hope" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "paragraphs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "bend" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "WASHING" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "song" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "belt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "executioner" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "chop" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "MERCHANTIBILITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Writhing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Hare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 31
-  },
-  "altered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "heavy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Cheshire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "afford" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Hart" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "DISTRIBUTE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "unpleasant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "FENDER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Edwin" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "diligently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Right" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Off" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 11
-  },
-  "summer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Still" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "file" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "tart" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "PURPOSE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "bent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "favourite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "machine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "evening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "return" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "codes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sulkily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "charities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "instance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "HIGH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Chorus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "LIABLE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "practically" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "banquet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "trampled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "smile" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "confused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "fine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "downloading" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "find" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 21
-  },
-  "Sentence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "calculated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sooner" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "pleasant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "occur" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Between" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "difficult" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Have" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "sort" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 20
-  },
-  "breeze" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "friends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "heart" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "forget" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "true" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "leaning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "position" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "present" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "curtain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "softly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "laughter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "soup" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "belong" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "appears" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sour" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "hour" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "advise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "regulating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "heard" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 30
-  },
-  "falling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "execution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "West" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "master" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "extraordinary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "meekly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "tougher" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "puzzle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "pulling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "online" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "Pray" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "coming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "splashed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Antipathies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "annoy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Each" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "REMEDIES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "feared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "NEVER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "United" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
-  },
-  "righthand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "scream" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "giddy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "procession" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "ignorant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "fire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "adventures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "based" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Longitude" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "pointed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "rude" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "processing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "shower" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "fact" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "One" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "respectable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "knocked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "pieces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "Dodo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 13
-  },
-  "free" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "honour" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "accordance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "HAD" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "people" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 16
-  },
-  "face" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 15
-  },
-  "oldest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "afraid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 12
-  },
-  "fish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "After" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "Laughing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "inside" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Full" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "melancholy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "Sounds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "leaves" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "impatient" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "quarrelling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "collection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "finding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "fits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Latin" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "guessed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "judging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Does" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "staring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "yawning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "sighing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "kills" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "loudly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "soothing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "reasons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "father" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "jumped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "rule" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "YET" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "derivative" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "condemn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Stupid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "assistance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "recognised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sneeze" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "answered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "growls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Title" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sands" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "HER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "folding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "stamping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "fair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "charitable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "yelled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "games" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "zip" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "comfits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "arise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "reduced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "dressed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "agree" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
-  },
-  "Our" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "underneath" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "doors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "DISCLAIMER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Get" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "refund" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "donations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 12
-  },
-  "hoped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "damages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "birds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
-  },
-  "pictures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "discontinue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "uniform" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "fall" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "frontispiece" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Lacie" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Fury" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "ridges" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Mystery" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "boldly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "flurry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "pictured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "finger" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "Owl" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "caused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "rattling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "HIM" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "nice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "Stand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "appearance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "HIS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "wings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "thump" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "damaged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "forgot" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Geography" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "appealed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "graceful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "tight" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "frog" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "spite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "poky" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "bottom" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "ill" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "finished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 12
-  },
-  "solicit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "fading" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Quadrille" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "speaker" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "replacement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "Whoever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "death" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "advice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "statements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "SAID" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "network" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "holding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "paper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "public" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "array" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "clubs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "steam" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "DIRECT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "listening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "ink" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "tricks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sisters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "rush" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "dears" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "crept" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "round" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 41
-  },
-  "Additional" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Tell" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "YOU" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 21
-  },
-  "pope" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "vague" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Pinch" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "references" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "EVERYBODY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "redistribution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "setting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "favoured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "poor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 25
-  },
-  "farm" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "schoolroom" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sorts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "ran" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 16
-  },
-  "invented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "ashamed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Maybe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "rat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "excellent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "unlocking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "fairly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "pool" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
-  },
-  "handwriting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "raw" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "hatters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "redistributing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "shaking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "hurried" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 11
-  },
-  "HOW" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "charges" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "grazed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Bill" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 16
-  },
-  "Author" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "providing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "weeks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "throat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "posted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "French" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "retire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Mind" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Mine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "close" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 13
-  },
-  "curled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "linked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "pulled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "signify" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "fast" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "executions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "trials" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "calling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Pat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "couple" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Email" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "offended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
-  },
-  "isn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "moved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "Melan" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "fortunately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "red" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "act" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "duck" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "repeating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "finish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "helped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "dreaming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "educational" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "wrapping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "helpless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "respect" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "ache" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "yawned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "begged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "ornamented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Posting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "scrambling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "production" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "smallest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "soldiers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
-  },
-  "morals" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "choose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Gregory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "miles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "prevent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "undo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Donations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Evidence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "inkstand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Forty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Down" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "identify" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "pour" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "label" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "White" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 22
-  },
-  "truth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Exactly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "exempt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "age" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "crab" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "shoulders" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "smaller" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "ago" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "accessed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "fishes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "years" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "skurried" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "number" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "disappointment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "defect" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Back" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "property" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "somersault" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Stuff" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "shorter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "eggs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "whistle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "distributed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "spot" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Miss" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "AGREE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "uncommonly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "HAVE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "doubling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "exclusion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "air" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 15
-  },
-  "courage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "electronic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 27
-  },
-  "speak" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 13
-  },
-  "unsolicited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "wriggling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "filled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "eBooks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "Indeed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Pig" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "removed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "future" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "shan" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "spades" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "atom" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "DONATIONS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "royal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "copied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "body" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "copies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "modified" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "snout" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "read" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 12
-  },
-  "touch" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "applicable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "real" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "clock" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "couples" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "expense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Newby" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "maintaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "alas" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "tremulous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "LESS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "jumping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "PERSONS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Visit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "quiver" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "today" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "gardeners" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "row" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "fifteen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "louder" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "guilt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "looked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 45
-  },
-  "minute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 21
-  },
-  "ladder" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "compilation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "THEIR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "dull" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "Lastly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "reason" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
-  },
-  "thought" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 74
-  },
-  "Ground" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "taste" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "barking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "identification" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Uglification" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "cake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "jar" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Foundation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 24
-  },
-  "jaw" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "broke" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "shouldn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "demand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "warranties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Refund" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "turkey" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "gently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "letter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "Knave" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
-  },
-  "telescope" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "succeeded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "Edgar" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "handed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "worth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "Certainly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "cried" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 20
-  },
-  "notion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "Heads" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "patience" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "DOES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Many" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "takes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "arm" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 15
-  },
-  "broken" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "pglaf" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "curly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Derision" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "noticed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "holder" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "fitted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "curls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "bowed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "call" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "kick" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "partners" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Has" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "knelt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "longed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "forwards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "swallowing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Normans" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "strength" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Compliance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "THERE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "officer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "run" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "occasional" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "repeated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
-  },
-  "mouse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 14
-  },
-  "Wouldn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "lowing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "ate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "MARMALADE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "piteous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Look" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "donate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "Behead" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "curtsey" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "worry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "THESE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Bring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "lifted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "worse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "FULL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "screaming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "difficulty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "longer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "watched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "volunteer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Long" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "thunderstorm" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "leaving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Domain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "COURT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "trotting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "boon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Christmas" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "grins" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "distance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "uncorked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Yes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 12
-  },
-  "absence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "book" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 11
-  },
-  "show" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "Yet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "Leave" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "edition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "barrowful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "gloves" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 11
-  },
-  "twinkled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "crying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "stupidly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Mary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "vanished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "resting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "learned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "introduce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "chrysalis" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "bone" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "suddenly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 12
-  },
-  "mouth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
-  },
-  "Her" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "nervous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "simpleton" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "fancy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "yard" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "commotion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "whistling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Shark" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "WARRANTIES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "poured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "collected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Lory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "cart" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "anxious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "morsel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "severely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "case" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "canvas" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "III" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "hollow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sprawling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "cackled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sticks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "moon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "waist" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "wearily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "card" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "care" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "Atheling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "cherry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "damage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "guard" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "pattern" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "settle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "fireplace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "pressing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "cushion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "seldom" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "protect" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "daisy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "coaxing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "mischief" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "heels" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "display" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "usurpation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "kill" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Him" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "bore" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "inaccurate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "beautifully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "cats" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 13
-  },
-  "His" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "COULD" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "accounts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "shut" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "diamonds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Beautiful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "simple" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "minded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "YOURS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "choking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Magpie" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "QUEEN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "INCLUDING" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Mission" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Tortoise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "interrupting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "king" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "kind" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "slates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "flamingo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "important" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "phrase" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "bones" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "eaten" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "daughter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "largest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "limitation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "pretending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "solicitation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Shall" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "sad" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "mentioned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "Jack" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "EDITION" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "profit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Release" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sheep" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "rest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
-  },
-  "move" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "comply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "original" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 17
-  },
-  "earnestly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "terrier" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "spread" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "REPLACEMENT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "guests" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "front" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "You" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 63
-  },
-  "simply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "stupid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "bad" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Stop" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Pepper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "bag" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "guinea" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "kiss" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "offer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "bat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "buttercup" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "drowned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "DOTH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "adjourn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "disclaim" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "personal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "angry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "How" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 27
-  },
-  "MILE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "straightening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "submitted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "delay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "globe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "violates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "SOMETHING" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "applause" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "drive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "deal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 12
-  },
-  "dead" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "IRS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "eyes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 29
-  },
-  "sea" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 14
-  },
-  "proves" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "proved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "peeping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "HEARTHRUG" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "civil" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "dear" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 28
-  },
-  "nodded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "purring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "set" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 23
-  },
-  "joined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "words" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 21
-  },
-  "sneezes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "howled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "RED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "difficulties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "WARRANTY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "MINE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "eyed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "jug" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "bed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "beg" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "ITS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "beauti" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Stigand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "contact" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "North" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "splendidly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sneezed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "REFUND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "parts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "party" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
-  },
-  "deep" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "deletions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "goose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "trembling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "pattering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "Caucus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "explained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "riddle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "indignantly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "pardoned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sir" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "rippling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "INDIRECT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "mouths" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "directed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "living" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "bound" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "dinner" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "disobey" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "walrus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "farmer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "avoid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "tunnel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "rubbing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "grunted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "Nearly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "crowd" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "Which" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "provoking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "beautify" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "bit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 16
-  },
-  "unfolded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "muchness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "corner" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "animals" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "join" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
-  },
-  "crown" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "sentence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "sky" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "tiptoe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Majesty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 12
-  },
-  "large" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 33
-  },
-  "tomorrow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "foolish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "drink" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "beheading" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "bough" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Lobster" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "verdict" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "begin" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 12
-  },
-  "paragraph" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
-  },
-  "Besides" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "brought" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "works" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 33
-  },
-  "alive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "Catch" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "payments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "extras" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "plate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "neighbour" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "thinking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
-  },
-  "finishing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "POSSIBILITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "world" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "viewed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "table" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 17
-  },
-  "Improve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Stretching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "side" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 17
-  },
-  "bread" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "pence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "break" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "missed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "change" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 14
-  },
-  "indirectly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "comfort" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "respectful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "hide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "candle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "reminding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "ALL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "paused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sigh" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "constant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "sob" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "invalidity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "sign" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "office" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "anger" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "Nothing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "panting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "high" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 15
-  },
-  "son" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "snorting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "directly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "squeaked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "kneel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Executive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "poker" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Terms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "restrictions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "thrown" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "roots" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "preserve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "belongs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "AND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "attached" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Advice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "errors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "birthday" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Before" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "tastes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "fanning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "box" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
-  },
-  "ANY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
-  },
-  "boy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "tasted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "upstairs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "ALICE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "hedges" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "politely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "savage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "unfortunate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "chance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "interesting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "cross" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "raised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "editions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
   },
   "earth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
   },
-  "howling" : {
+  "quarrel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "offici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "quarrel" : {
+  "pg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "truthful" : {
+  "candl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "backs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "cunning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "blades" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 3
   },
   "stool" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "dancing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
   "elbow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 4
   },
   "stoop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "ledge" : {
+  "geographi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "rocket" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -11805,69 +7589,77 @@
   },
   "paint" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 3
   },
-  "fighting" : {
+  "marmalad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "injure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "OWNER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "encouraged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Sections" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Never" : {
+  "hoars" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 4
   },
+  "clever" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
   "friend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 5
+  },
+  "damag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "ringlet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "drip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "mushroom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 8
   },
-  "deny" : {
+  "drawl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 3
   },
-  "closely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Herald" : {
+  "walru" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "pleasure" : {
+  "choke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 5
   },
-  "crawled" : {
+  "varieti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "miserable" : {
+  "old" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 14
   },
-  "remaining" : {
+  "australia" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 1
   },
-  "morning" : {
+  "then" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 81
+  },
+  "ancient" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "thei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 146
+  },
+  "accept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 5
   },
@@ -11875,59 +7667,51 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "accept" : {
+  "seat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "horse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "mission" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "ARE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "clasped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "stopping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "interpreted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "lessons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
-  },
-  "Such" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "access" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
-  },
-  "Coming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "advisable" : {
+  "unrol" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "overcome" : {
+  "mission" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "includ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 13
+  },
+  "readili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "unusually" : {
+  "wander" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "minut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 32
+  },
+  "waistcoat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "access" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 12
+  },
+  "languag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "plainli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "expres" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -11935,31 +7719,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "pitied" : {
+  "kei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 9
+  },
+  "croquet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 11
+  },
+  "blew" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
   },
   "current" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "managed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "plainly" : {
+  "heel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "key" : {
+  "sh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
+    "value" : 2
   },
-  "surprised" : {
+  "dilig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
+    "value" : 1
   },
-  "stopped" : {
+  "persist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "so" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 152
+  },
+  "email" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
@@ -11967,109 +7763,193 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 7
   },
-  "fancied" : {
+  "intern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "makes" : {
+  "onc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 12
+    "value" : 17
   },
-  "beloved" : {
+  "centr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "tarts" : {
+  "store" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "flower" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "stori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
+  "closer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "hedg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "confirm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "pull" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "silenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 14
+  },
+  "gallon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "ti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 6
   },
-  "Fourteenth" : {
+  "remov" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "tm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 57
+  },
+  "assist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "slipped" : {
+  "to" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 405
   },
   "fourth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "story" : {
+  "but" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 166
+  },
+  "expens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "express" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "countri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "oop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 7
   },
-  "laughing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "declare" : {
+  "morcar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "Latitude" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "brushing" : {
+  "lick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "pairs" : {
+  "nois" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "instantly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  },
-  "cheered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 4
   },
   "written" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 9
   },
-  "noises" : {
+  "up" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 48
+  },
+  "provok" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
-  },
-  "Duchess" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 42
   },
   "passion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 4
   },
-  "fills" : {
+  "fifteenth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "dreadfully" : {
+  "us" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 19
+  },
+  "tuck" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "ut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "coil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "instantli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "usual" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 6
+  },
+  "dismai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "sink" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Pigeon" : {
+  "exclam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 11
+    "value" : 1
   },
   "stole" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
-  "crumbs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "dismay" : {
+  "upright" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "ve" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 44
+  },
+  "thin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "archbishop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "vi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "dreadfulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
   },
   "expend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -12081,25 +7961,33 @@
   },
   "desk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
-  "General" : {
+  "know" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 81
   },
-  "sorrowful" : {
+  "knot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
   "sing" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
+    "value" : 8
   },
-  "curving" : {
+  "support" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "drop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "saucer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "figures" : {
+  "proprietari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -12115,49 +8003,81 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "What" : {
+  "wa" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 42
+    "value" : 340
   },
-  "shelves" : {
+  "cold" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "life" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 13
+  },
+  "we" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 43
+  },
+  "gai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "danc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 15
+  },
+  "shriek" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "lieu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "clapping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "proprietary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Race" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "ootiful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "lovely" : {
+  "choic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "punching" : {
+  "brighten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
-  "figure" : {
+  "argum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  },
-  "types" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 5
   },
   "corrupt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "wide" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "licens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 17
+  },
+  "org" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 13
+  },
+  "newspap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "teach" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "recognis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "distribut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 17
   },
   "tulip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -12167,39 +8087,51 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "CHAPTER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 12
-  },
-  "passing" : {
+  "norman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Tears" : {
+  "xi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "reach" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "Give" : {
+  "succeed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 3
   },
-  "inches" : {
+  "individu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "held" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "reach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 6
+  },
+  "deepli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "ye" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 13
+  },
+  "type" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "hiss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "shrinking" : {
+  "puss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 1
   },
-  "positively" : {
+  "problem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -12207,69 +8139,125 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 10
   },
+  "rightli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
   "sight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 10
-  },
-  "dreadful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
   },
   "teeth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "chuckled" : {
+  "asleep" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
+  "roar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "natural" : {
+  "between" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 1
+  },
+  "collar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "goal" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "method" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
   },
   "overhead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "rightly" : {
+  "wife" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "joys" : {
+  "contract" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Ahem" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Next" : {
+  "scroll" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "WORK" : {
+  "come" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 58
+  },
+  "nobodi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "push" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Revenue" : {
+  "exist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "opportun" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 10
+  },
+  "exact" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "neighbouring" : {
+  "lift" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "unwillingly" : {
+  "regist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "feder" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "thimbl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "educ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
   },
   "languid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "derive" : {
+  "north" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "copi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 25
+  },
+  "lastli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "our" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 12
+  },
+  "out" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 117
   },
   "weak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -12279,51 +8267,99 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "LOVE" : {
+  "lean" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
   "flat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
+  "get" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 16
+  },
+  "dark" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
   "leap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "accus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
   "place" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 9
+    "value" : 11
+  },
+  "leav" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 16
+  },
+  "alwai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "dare" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
   },
   "regular" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "sits" : {
+  "courtier" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "cook" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 13
+  },
+  "cool" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "sell" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "upstair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "dispute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "prominently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "tired" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  },
-  "tremble" : {
+  "brain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "digging" : {
+  "gloomili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "lead" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "readabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "jogged" : {
+  "expect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "help" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
+  "inaccur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "unwillingli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -12333,29 +8369,53 @@
   },
   "hadn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
+    "value" : 8
   },
-  "When" : {
+  "miser" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
+    "value" : 2
   },
-  "cease" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  },
-  "Multiplication" : {
+  "consequenti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "argument" : {
+  "date" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 5
   },
-  "passage" : {
+  "magic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 1
   },
-  "Keep" : {
+  "dress" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "snail" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "whatsoev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "data" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "owl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "onion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "sound" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 13
+  },
+  "own" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
@@ -12363,93 +8423,93 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 7
   },
-  "leaders" : {
+  "ledg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "hopeful" : {
+  "neglig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "natured" : {
+  "circl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
-  },
-  "growing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 11
-  },
-  "knocking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
   },
   "twelfth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "crashed" : {
+  "plain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 2
   },
   "sage" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "justice" : {
+  "xii" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "verse" : {
+  "blow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 3
   },
   "furious" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "officers" : {
+  "replac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 6
   },
-  "readable" : {
+  "sens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "curious" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "alarmed" : {
+  "proud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "indirect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "individual" : {
+  "like" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "value" : 33
+  },
+  "untwist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "onli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 46
   },
   "salmon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "ugly" : {
+  "unpleas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
-  },
-  "accepted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "tinkling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
   },
   "tax" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
+    "value" : 7
+  },
+  "collec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
   },
   "person" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 8
-  },
-  "capering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "value" : 11
   },
   "safe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -12459,29 +8519,69 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "files" : {
+  "ugli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 2
   },
-  "chanced" : {
+  "ground" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
+  "send" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "sprawl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "Dormouse" : {
+  "here" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 40
+    "value" : 34
+  },
+  "note" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
   },
   "week" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "value" : 4
   },
-  "balls" : {
+  "execu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "shrimp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "hedge" : {
+  "shyli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "line" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "noth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "link" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "scale" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "scali" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "can" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 68
   },
   "goldfish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
@@ -12491,39 +8591,91 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 7
   },
-  "ready" : {
+  "everybodi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 8
   },
+  "feebli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
   "cat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 11
+    "value" : 50
+  },
+  "hearth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   },
   "flew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "alarm" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "carried" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
-  },
-  "limited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  },
-  "While" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  },
-  "hurrying" : {
+  "station" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "played" : {
+  "alarm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "saucepan" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
+  },
+  "canva" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "said" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 418
+  },
+  "provid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 15
+  },
+  "realli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 7
+  },
+  "player" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 4
+  },
+  "shrill" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 5
+  },
+  "limb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
+  },
+  "nose" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
+  "cost" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 6
+  },
+  "will" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 37
+  },
+  "readi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 8
+  },
+  "smoke" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 3
+  },
+  "follow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 16
+  },
+  "somewher" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
@@ -12531,8 +8683,12 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
   },
-  "arguments" : {
+  "harmless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
     "value" : 1
+  },
+  "wild" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 2
   }
 }

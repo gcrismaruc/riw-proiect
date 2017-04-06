@@ -36,11 +36,11 @@ public class Reducer implements  Runnable{
 
     public void method1(Path path) throws IOException {
         List<DirectIndex> directIndex = objectMapper.readValue(new File(String.valueOf(path)), new TypeReference<ArrayList<DirectIndex>>() {});
+        System.out.println(PHASE_TWO + "_REDUCER  " + Thread.currentThread().getId() + "   " + path.toString());
 
         String fileName = path.toString().replace("DirectIndex","InverseIndex").replace(".idc", ".ii");
 
         Map<String, List<MyPair>> map = new TreeMap<>();
-
 
         for(DirectIndex d : directIndex){
             String word = d.getKey();
@@ -65,10 +65,10 @@ public class Reducer implements  Runnable{
         switch (this.phase) {
             case "PHASE_TWO":
                 try {
-                    long startTime = System.currentTimeMillis();
+                   // long startTime = System.currentTimeMillis();
                     method1(this.path);
-                    long endTime = System.currentTimeMillis();
-                    System.out.println("Thread: " + Thread.currentThread().getId() + " time = " + (endTime - startTime));
+                   // long endTime = System.currentTimeMillis();
+                    //System.out.println("Thread: " + Thread.currentThread().getId() + " time = " + (endTime - startTime));
 
                 } catch (IOException e) {
                     e.printStackTrace();

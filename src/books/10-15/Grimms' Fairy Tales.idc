@@ -1,17 +1,9 @@
 {
-  "prepare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "nicely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
   "half" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 31
+    "value" : 34
   },
-  "Donkey" : {
+  "illumin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -19,21 +11,9 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 17
   },
-  "plumes" : {
+  "gloomi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "fifty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "shooting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Countryman" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "hall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -41,121 +21,73 @@
   },
   "pretend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "guards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
-  },
-  "roams" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "twinkling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "drunk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
+  "successfulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "would" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 152
+  },
+  "stumbl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
   "pick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 32
+    "value" : 51
   },
-  "legs" : {
+  "reproach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 18
-  },
-  "Michael" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "gloomy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "electronically" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "rattled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "coals" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 1
   },
   "ten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "scanty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "sake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 8
   },
-  "successfully" : {
+  "conceal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
   "solid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "meats" : {
+  "switzerland" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 1
   },
   "scratch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "require" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "hornets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
   "click" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "compassionate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "backwards" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
   "willow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "Comrade" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Promise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 13
   },
   "size" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 5
   },
   "left" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 80
   },
-  "squared" : {
+  "intertwin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -163,149 +95,65 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "rejoice" : {
+  "besid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "drums" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "A" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 36
-  },
-  "telling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "accessible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 16
   },
   "hang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "B" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "vengeance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "C" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "D" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "E" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 22
-  },
-  "F" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
+    "value" : 20
   },
   "roll" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 27
   },
-  "I" : {
+  "pronounc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1103
+    "value" : 1
   },
   "turn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 25
+    "value" : 78
+  },
+  "suffici" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "elect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "O" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 18
-  },
   "gold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 86
+    "value" : 89
   },
-  "minds" : {
+  "after" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "opposition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "S" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "U" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "feeding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "stirring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 142
   },
   "quiet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 8
   },
-  "galloped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "staircase" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "nibble" : {
+  "surfac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "hand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 75
-  },
-  "elves" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "ovenful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Hush" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 108
   },
   "a" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1942
-  },
-  "ordered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 26
+    "value" : 1978
   },
   "b" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
-  "BEE" : {
+  "piec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 61
   },
   "garland" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -313,47 +161,43 @@
   },
   "salt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "address" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 8
   },
   "c" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 7
+  },
+  "address" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "d" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  },
-  "rabble" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 12
   },
   "e" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 23
   },
-  "benches" : {
+  "f" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 11
   },
   "laden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Wallface" : {
+  "i" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1103
+  },
+  "majesti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "scanti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "weeping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "eating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
   },
   "m" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -365,25 +209,21 @@
   },
   "o" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
+    "value" : 30
   },
   "prettier" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
+  "the" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 7224
+  },
   "straight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 23
   },
-  "Red" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 30
-  },
-  "entering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "destroyed" : {
+  "halt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -393,7 +233,11 @@
   },
   "s" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 370
+    "value" : 376
+  },
+  "thi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 375
   },
   "t" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -401,123 +245,87 @@
   },
   "throw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 23
+    "value" : 28
   },
-  "readers" : {
+  "u" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "enchantment" : {
+  "fifti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "information" : {
+  "thank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 17
   },
-  "waggoner" : {
+  "imag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 1
   },
-  "wheels" : {
+  "thu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
+    "value" : 45
   },
   "violent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 5
   },
   "thy" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 29
   },
-  "Again" : {
+  "overjoi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 7
   },
-  "Its" : {
+  "undoubtedli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "advic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 12
   },
   "good" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 167
-  },
-  "faithful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
-  },
-  "empty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
+    "value" : 220
   },
   "tie" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "millers" : {
+  "export" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "PGLAF" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "suffered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "ascended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "copying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
   },
   "laugh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 28
   },
-  "tis" : {
+  "rome" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
-  "STRICT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "making" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 18
-  },
-  "suspecting" : {
+  "practic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "cinder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "Fool" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "unhappiness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
   "check" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
-  "sand" : {
+  "tusk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "walked" : {
+  "sand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 30
+    "value" : 2
   },
   "sang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -525,25 +333,9 @@
   },
   "sleeper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "owed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Redistributing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "soles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "supposed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "disguises" : {
+  "grindston" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -551,37 +343,37 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
+  "hundr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 24
+  },
+  "hark" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 5
+  },
   "ascend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 5
   },
   "harm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 15
   },
-  "raging" : {
+  "fortun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 15
+  },
+  "ensur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "rope" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 11
   },
-  "provided" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "moaning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Surely" : {
+  "hart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "GRETEL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
   },
   "lent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -595,53 +387,41 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "disclaimers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Redistribution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "adrift" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "shivering" : {
+  "grandmoth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 26
   },
-  "thieves" : {
+  "root" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
+    "value" : 4
   },
   "hard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 28
+    "value" : 29
   },
-  "hare" : {
+  "ridicul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 1
   },
   "spoil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "ensuring" : {
+  "hare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
-  "pasture" : {
+  "tiresom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "November" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "roof" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 16
+    "value" : 17
   },
   "wheelbarrow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -653,59 +433,51 @@
   },
   "cheek" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 6
   },
-  "MOUSE" : {
+  "chees" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "quarters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "swords" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 17
   },
   "room" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 51
+    "value" : 55
   },
   "cheer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 5
+  },
+  "bemoan" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "rampion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
   },
-  "translation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "suitable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "handling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Aha" : {
+  "permit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
+  },
+  "well" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 169
+  },
+  "permis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 7
+  },
+  "goos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 29
   },
   "splash" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "taking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  },
-  "Jacob" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
+  },
+  "empti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 19
   },
   "fountain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -715,35 +487,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Gave" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
   "pioneer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "gains" : {
+  "reveng" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
-  "chilly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "SNOWDROP" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "loved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 24
-  },
-  "gained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "flashing" : {
+  "sash" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -751,19 +503,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "fierce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "struck" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 21
   },
   "hate" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "dinners" : {
+  "billow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -771,153 +519,141 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
   },
+  "propos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
   "flow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
   "order" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
+    "value" : 45
   },
-  "peeped" : {
+  "chilli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 1
   },
-  "pressed" : {
+  "crevic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "conceit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "went" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 445
+  },
+  "inten" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "dumml" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 22
+  },
+  "revenu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "hast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 21
   },
   "gore" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "cords" : {
+  "gorg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "bringing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "daylight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "schools" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "binary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "spots" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "orders" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "stepsister" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "coach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
   },
-  "pink" : {
+  "conceiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "dumpl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
+  "pink" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
   "woman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 98
+    "value" : 99
   },
   "successor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "gaily" : {
+  "pine" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "ceremoni" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "save" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
+    "value" : 33
   },
-  "outwitted" : {
+  "increas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "grated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "pins" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
   "toe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 5
   },
   "matter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 24
+    "value" : 26
   },
-  "shutting" : {
+  "proposi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "trusty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "hypertext" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "walls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
   "tom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 30
   },
   "top" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 21
+    "value" : 25
   },
-  "rosy" : {
+  "gaili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 1
   },
-  "ELSIE" : {
+  "have" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "noise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 18
-  },
-  "maidens" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 422
   },
   "meadow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
+    "value" : 16
   },
   "roast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
+    "value" : 13
   },
   "taller" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -925,89 +661,49 @@
   },
   "avail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 5
   },
   "quilt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Fairbanks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "famous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "contented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
-  },
-  "additions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "wept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 26
   },
+  "rosi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
   "lover" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "goats" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "vinegar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "loves" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "spirit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 10
   },
-  "ailed" : {
+  "nicknam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "intellectual" : {
+  "littl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 401
   },
   "cheap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "wishing" : {
+  "cheat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 3
   },
-  "ascending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "produce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "walks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "FISHERMAN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "courteously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "undoubtedly" : {
+  "regard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -1017,61 +713,45 @@
   },
   "witch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 33
-  },
-  "snips" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "warmed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 34
   },
   "rose" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 28
+    "value" : 59
   },
   "constraint" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "slopping" : {
+  "sluggard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Very" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
   "thousand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
+    "value" : 17
   },
-  "sacks" : {
+  "trusti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "All" : {
+  "sacks" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 25
-  },
-  "capital" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 1
   },
   "fuel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
+  "pleas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 49
+  },
   "cow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 43
+    "value" : 48
   },
-  "lets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "dunghill" : {
+  "quack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -1079,21 +759,13 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "employee" : {
+  "upon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "pray" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
+    "value" : 104
   },
   "lad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "employed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
   "gown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -1101,9 +773,9 @@
   },
   "crawl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
-  "Copyright" : {
+  "proce" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -1111,33 +783,29 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
+  "lai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 84
+  },
   "towel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "SAUSAGE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "defective" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "raise" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
   "spoon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
   "west" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
-  "owns" : {
+  "rove" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
+  },
+  "plenti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 15
   },
   "lap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -1149,15 +817,11 @@
   },
   "pitcher" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
-  "joyously" : {
+  "prai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "hated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 33
   },
   "tower" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -1165,95 +829,63 @@
   },
   "pigeon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 8
   },
-  "ceasing" : {
+  "thirsti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 13
   },
   "law" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "including" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "lay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 81
+    "value" : 13
   },
   "wert" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "hatch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "grisli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 12
   },
   "pardon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "plenty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
-  },
-  "AGREEMENT" : {
+  "rous" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "adventure" : {
+  "translat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "successive" : {
+  "welcom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 7
   },
   "condition" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "thirsty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
-  },
-  "And" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 212
-  },
-  "ceremony" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "hewing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "shining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
   "hawk" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Hurry" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "chicken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 11
   },
-  "hastily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "unenforceability" : {
+  "coolli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "chatter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
   },
   "overhung" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -1261,135 +893,67 @@
   },
   "troop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "Any" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "renowned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "GRIEF" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "times" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 18
+    "value" : 6
   },
   "wound" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 12
   },
-  "footed" : {
+  "hastili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Cock" : {
+  "twelv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 45
   },
-  "coolly" : {
+  "distanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
+  },
+  "cri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 155
   },
   "floor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 11
   },
-  "direction" : {
+  "howsoev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "That" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 48
-  },
-  "wounded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "Their" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "necklace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 1
   },
   "cry" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  },
-  "rows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "distinguished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "opening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "hatching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "lentils" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 28
   },
   "doctor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
-  },
-  "tapped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "stable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  },
-  "lambs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 20
   },
   "pillow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  },
-  "harness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 14
   },
   "spoken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "impatience" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "overset" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
-  },
-  "piteously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "sport" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "fatten" : {
+  "incident" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "fatten" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "tub" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -1399,37 +963,21 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 25
   },
-  "prey" : {
+  "tug" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "dishful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "geese" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  },
-  "robbing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "concert" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "pity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 20
-  },
   "led" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 40
   },
-  "fairies" : {
+  "grumbl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 3
   },
   "uncertain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -1437,125 +985,109 @@
   },
   "leg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
+    "value" : 35
   },
   "concern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
-  "circulate" : {
+  "thirti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "beautiful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 123
-  },
-  "worked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
   },
   "mountain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 18
+    "value" : 37
   },
-  "Rumpelstiltskin" : {
+  "prei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Then" : {
+  "trembl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 471
+    "value" : 9
+  },
+  "piti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 24
+  },
+  "let" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 161
   },
   "state" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 23
   },
   "fishpond" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "scolded" : {
+  "press" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 2
+  },
+  "haughti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "dough" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "cares" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "clack" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 6
+  },
+  "gener" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
   "night" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 105
+    "value" : 109
   },
   "pace" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
-  "dumplings" : {
+  "exclaim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "opposite" : {
+  "statu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 4
   },
   "shrank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "rendered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Are" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "jewels" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "chamberlains" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "creating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "restrained" : {
+  "pack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "bawled" : {
+  "each" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 21
+  },
+  "cuf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "wetted" : {
+  "anim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 11
   },
-  "smacked" : {
+  "cun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "cup" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 15
   },
-  "sweeping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "thirty" : {
+  "twa" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -1563,89 +1095,61 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "wandered" : {
+  "liabil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 3
   },
   "cut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 76
-  },
-  "perfectly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Pull" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 83
   },
   "warrior" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
-  "collapsed" : {
+  "distribu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Vanilla" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "prayed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "weighed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "untrue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
   "dread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 10
   },
-  "starve" : {
+  "two" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "TURNIP" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 141
   },
   "moment" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 21
   },
-  "Defects" : {
+  "perfectli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "godmother" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "desired" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
   },
   "tear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 18
   },
-  "wanderer" : {
+  "teas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "reported" : {
+  "curios" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "curiou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "meagr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "distribute" : {
+  "attach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 1
   },
   "kitchen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -1653,31 +1157,19 @@
   },
   "shout" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "situation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
   "creation" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "inclination" : {
+  "think" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 67
+  },
+  "mournfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "SUCH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "BUT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Against" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "clad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -1687,81 +1179,29 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "ingredient" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "refused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "occurred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "shells" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "forbidden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "accused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Run" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "services" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "stuffed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "haughty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "forfeited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "They" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 78
-  },
-  "OTHER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "claw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "mournfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 5
   },
   "txt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "PUNITIVE" : {
+  "mistress" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 6
+  },
+  "prayer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "mistress" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
   "watch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
+    "value" : 35
   },
   "speech" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -1769,11 +1209,7 @@
   },
   "clap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "purple" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
   },
   "urchin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -1781,63 +1217,43 @@
   },
   "pluck" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 11
   },
   "polish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "thing" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 50
+    "value" : 89
   },
   "thine" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "demanded" : {
+  "entic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "surely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "Creating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "FUNDEVOGEL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
   },
   "lid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "brayed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "lie" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 30
+    "value" : 32
   },
   "smell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 4
   },
-  "whetted" : {
+  "glare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "unable" : {
+  "lip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "amends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 12
   },
   "shook" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -1847,35 +1263,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Simpleton" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "There" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 72
-  },
-  "dying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "smelt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "paying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "fellows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "feathers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  },
-  "blows" : {
+  "seashor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
@@ -1883,29 +1275,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "dogs" : {
+  "entir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
-  },
-  "This" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 47
-  },
-  "donation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
   "shoot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 10
+  },
+  "actual" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
   },
   "glass" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 36
+    "value" : 41
   },
   "chest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 9
   },
   "undertook" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -1915,10 +1303,6 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "reflection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "doubt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
@@ -1927,19 +1311,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "inspected" : {
+  "undon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
-  "doctored" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "These" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "suited" : {
+  "eagl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
@@ -1947,85 +1323,69 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "fixed" : {
+  "page" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "page" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "GIRL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "full" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 60
-  },
-  "Seek" : {
+  "obedi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "cards" : {
+  "full" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 65
+  },
+  "delici" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "starri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "becaus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 24
   },
   "concept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "house" : {
+  "awar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 126
+    "value" : 3
   },
   "mice" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
   },
-  "GRIMM" : {
+  "awak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "cared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "scorned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Mountain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "starry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Dame" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 7
   },
   "bellow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "TWELVE" : {
+  "stare" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "nightingal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "pail" : {
+  "scyth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "pain" : {
+  "pail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "hours" : {
+  "pain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 7
   },
   "miau" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -2037,51 +1397,39 @@
   },
   "suspicion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "start" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 11
   },
   "shore" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 12
   },
-  "start" : {
+  "contemptu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 1
   },
-  "stars" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  },
-  "WHAT" : {
+  "bicker" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
   "supper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 10
   },
   "earliest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "unwrapped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "licking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "pair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
+    "value" : 11
   },
-  "manage" : {
+  "starv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "Jip" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 3
   },
   "wiser" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -2089,23 +1437,23 @@
   },
   "equal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
+  },
+  "awai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 278
   },
   "fallen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 17
   },
+  "upsid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
   "paid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 20
-  },
-  "spared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "illuminated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "short" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -2115,83 +1463,51 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "alight" : {
+  "financi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "stumbles" : {
+  "alight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
   "plump" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "cabbage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Come" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
-  },
-  "Creep" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "PARAGRAPH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "plume" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "required" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Lift" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "CONSEQUENTIAL" : {
+  "three" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 104
+  },
+  "galleri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "climb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 18
   },
-  "remembered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Suppose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Gracious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Presently" : {
+  "whoever" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 8
   },
-  "pennies" : {
+  "tongu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 9
   },
   "golden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 83
+    "value" : 95
   },
-  "Wife" : {
+  "furiou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
+    "value" : 4
   },
-  "Mortal" : {
+  "wheresoev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -2201,127 +1517,79 @@
   },
   "payment" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
   "enter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 16
   },
-  "lonely" : {
+  "heavili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 2
   },
   "pale" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 8
   },
-  "gallery" : {
+  "applic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "flowers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 16
+    "value" : 3
   },
   "threw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 43
   },
-  "INCIDENTAL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "wretch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 21
+    "value" : 23
   },
-  "roads" : {
+  "midg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "entreated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "destroy" : {
+  "plung" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "Dudding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "GIVE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "coast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "provide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "Finding" : {
+  "hereupon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Life" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 18
-  },
-  "reckoned" : {
+  "eggshel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "destroi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
   },
   "afar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "sorrows" : {
+  "recogn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "chicks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "ants" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "pans" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "NOTICE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
   "pant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "whereon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "redistribute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "log" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Could" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
   "bright" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 8
   },
   "paperwork" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -2333,33 +1601,13 @@
   },
   "lot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "glasses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "billows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "computer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "fundraising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
   "low" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "angels" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "tumble" : {
+  "consult" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -2369,23 +1617,19 @@
   },
   "gracious" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
   "pane" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Thou" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 3
   },
   "motionless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "SEVEN" : {
+  "crutch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 1
   },
   "wealth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -2395,117 +1639,69 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "furs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "means" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "survive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "fury" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "jeered" : {
+  "hound" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "rusty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Uncouth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "blown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "performed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "suitor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "calves" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
   "aught" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "walled" : {
+  "rustl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "furi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "ante" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "ravens" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
   "fellow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 25
+    "value" : 28
   },
   "fetch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 27
+    "value" : 41
   },
   "unbeaten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "barely" : {
+  "rusti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "hanging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
   },
   "clip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
+  "mantl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
   "door" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 143
-  },
-  "commanded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 149
   },
   "quick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 6
   },
   "doom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "friendly" : {
+  "tell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "possession" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "stoked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 60
   },
   "silken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -2513,95 +1709,39 @@
   },
   "husband" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 41
+    "value" : 47
   },
-  "besmeared" : {
+  "dai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 220
+  },
+  "shrivel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "experience" : {
+  "bloom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "flames" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "launched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "merry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 27
-  },
-  "Send" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "daughters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  },
-  "Prince" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "commander" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Like" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "wasteful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "shown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "bloom" : {
+  "medicin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "celebrated" : {
+  "paltri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "disappeared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 1
   },
   "affair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Christendom" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "majesty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "day" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 192
-  },
-  "SHANKS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "housework" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "trumpets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "ambush" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -2609,103 +1749,51 @@
   },
   "obtain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "foaming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "CLEVER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "drinking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "curiosity" : {
+  "nimbli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
   },
-  "Queen" : {
+  "suppos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
   },
-  "nimble" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "created" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "format" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 6
   },
-  "EXCEPT" : {
+  "particular" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "water" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 97
+    "value" : 117
   },
-  "striding" : {
+  "done" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "stays" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "nimbly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "Hereupon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "CAP" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 85
   },
   "countless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "perceived" : {
+  "friendli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 7
   },
-  "Joy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "CAT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "pierced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "sobbed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "apples" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 18
-  },
-  "INDEMNITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "ease" : {
+  "sparkl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 8
+  },
+  "merri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 27
+  },
+  "entertain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "unbidden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -2715,55 +1803,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "DIED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "critical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "insulted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "part" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 21
+    "value" : 26
   },
-  "Blow" : {
+  "unexpect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 1
   },
   "workmen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Lily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
   "clod" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "principal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "guarded" : {
+  "sunshin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "breezes" : {
+  "coars" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 1
   },
   "east" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Wilt" : {
+  "synonym" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -2771,13 +1839,9 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Will" : {
+  "easi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  },
-  "hinges" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 16
   },
   "thither" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -2787,77 +1851,21 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "spiteful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "washed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "cursing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "revenge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "villages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Bad" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "built" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 9
   },
-  "subscribe" : {
+  "seasid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "scampered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "persuaded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "paltry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "threads" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "entertained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "heavily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "seeking" : {
+  "diamond" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
   },
-  "Date" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "ears" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  },
   "chamberlain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 4
   },
   "overtook" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -2867,27 +1875,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "earn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  },
-  "disreputable" : {
+  "fairbank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "earn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 14
+  },
+  "earl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "splendour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "behaved" : {
+  "further" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
+  "disench" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
   "dearest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 10
   },
-  "gaping" : {
+  "recov" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
@@ -2895,241 +1911,161 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "fiery" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "crabs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "compassion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "beasts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 16
+    "value" : 2
   },
   "den" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "Towards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Whither" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "viewing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "path" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 15
   },
   "crack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 5
   },
   "bind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "engraved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
   "ashen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Thus" : {
+  "gregori" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 1
   },
   "dew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "principally" : {
+  "ugh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "DISTRIBUTOR" : {
+  "necklac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "accepting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "pass" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 25
-  },
-  "carefully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "Compared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 70
   },
   "mile" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "delightfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
   "past" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "mourning" : {
+  "grate" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "shock" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "milk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  },
-  "ashes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 22
+    "value" : 14
   },
   "strew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 5
+  },
+  "bill" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "whose" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 5
+  },
+  "clog" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "easy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 16
-  },
-  "Sea" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
   },
   "mill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 11
   },
-  "meddle" : {
+  "buyer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
   "bucket" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
-  "gudgeons" : {
+  "carefulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 6
   },
-  "Here" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
-  },
-  "smiled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "See" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "bathing" : {
+  "delightfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "flakes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "eats" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Lina" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
   },
   "finer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "flocks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "domain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 8
   },
-  "assigned" : {
+  "crabb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
   "treatment" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "touched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
-  },
-  "Set" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "wherewith" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "bodies" : {
+  "sentenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 6
   },
-  "virtues" : {
+  "grasp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "pantaloons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "waited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 18
-  },
-  "THE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 109
   },
   "dove" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 16
-  },
-  "Holiness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 30
   },
   "thriven" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
+  "brai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
   "grass" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "weighty" : {
+  "direc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "term" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 22
+  },
+  "celebr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 8
   },
   "latch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -3141,27 +2077,7 @@
   },
   "mind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 27
-  },
-  "grateful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "craftily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "business" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
-  },
-  "Beg" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "reverence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 31
   },
   "oxen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -3171,53 +2087,73 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "STORY" : {
+  "right" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 3
   },
   "chestnut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "shoes" : {
+  "opposit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 26
+    "value" : 3
   },
-  "homewards" : {
+  "possibli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 1
+  },
+  "insid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 17
+  },
+  "craftili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "taught" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "returning" : {
+  "fieri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 5
+  },
+  "borrow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "Your" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
   },
   "maximum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
+  "paus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
   "desert" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Emma" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "quarter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "masterpiece" : {
+  "under" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 9
+  },
+  "fierc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "deserv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 8
+  },
+  "did" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 191
+  },
+  "quarter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 8
   },
   "die" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -3226,10 +2162,6 @@
   "dig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
-  },
-  "added" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "handsomest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -3243,7 +2175,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "Around" : {
+  "reappear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -3251,49 +2183,29 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "cheated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "dangerously" : {
+  "dip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "fears" : {
+  "gratefulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "tailoring" : {
+  "bedtim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "She" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 94
+    "value" : 1
   },
   "wretched" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
   "habit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "kingdoms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "brings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Scarcely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
   "bird" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 113
+    "value" : 144
   },
   "club" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -3309,47 +2221,15 @@
   },
   "legal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "highway" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "signal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "LICENSE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "seated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "possibly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "laces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "journey" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
-  },
   "test" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
-  },
-  "fastened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "remained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 22
   },
   "strap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -3357,83 +2237,39 @@
   },
   "straw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
+    "value" : 23
   },
   "brown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 8
   },
-  "hideous" : {
+  "asham" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "comely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "feast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 36
-  },
-  "laced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Because" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 39
   },
   "month" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "University" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "embraced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Grete" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "braided" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 7
   },
   "learnt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 18
   },
-  "paws" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "Early" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "gratefully" : {
+  "final" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "whispering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Sir" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Sit" : {
+  "nudg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "colours" : {
+  "awok" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 30
   },
   "occasion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -3443,33 +2279,33 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "growling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "bidden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "needles" : {
+  "troublesom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "busili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "lathe" : {
+  "ferri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "overwhelmed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
   "back" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 150
+    "value" : 154
   },
-  "worthy" : {
+  "compani" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 9
+  },
+  "loav" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
   },
   "endless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -3479,97 +2315,69 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Lady" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "mist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "With" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 24
-  },
   "miss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "states" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "hewed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "plucking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 18
   },
   "pound" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
+  "journei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 28
+  },
   "load" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 7
+  },
+  "pounc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "bite" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "busily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "ferry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "company" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 4
   },
   "loaf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 8
   },
-  "Children" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "blinded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "human" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "prince" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 60
-  },
-  "feasted" : {
+  "ingredi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
+  "tress" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "stabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 15
+  },
+  "stromberg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 6
+  },
   "custom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 4
   },
   "length" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 28
   },
-  "Linger" : {
+  "babi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
-  },
-  "blessed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "priest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -3579,15 +2387,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "abode" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "permission" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "watered" : {
+  "ecclesiast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -3595,79 +2395,51 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "Thereupon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  },
-  "Wish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "travels" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "GOOSE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
   "fiend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "blackened" : {
+  "inherit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "baby" : {
+  "interpret" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "tommi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "worthi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "relat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "blossoms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "grant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 12
   },
   "dearer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "MUSICIANS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "ebony" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
   "dewdrop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "newsletter" : {
+  "grandfath" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "armies" : {
+  "convers" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "brothers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 34
-  },
-  "reared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "FOUR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "fascinated" : {
+  "necess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -3681,45 +2453,29 @@
   },
   "attempt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 4
   },
   "thick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "Already" : {
+  "dearli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 6
+  },
+  "influenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "December" : {
+  "eboni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "TRADEMARK" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Despite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "revealed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 4
   },
   "lock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 20
   },
   "text" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Even" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Nibble" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -3729,135 +2485,55 @@
   },
   "blacken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "fools" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "kindness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "dearly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "letters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 2
   },
   "fear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 25
-  },
-  "lying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 34
-  },
-  "glittering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 31
   },
   "made" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 121
   },
-  "bits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Director" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "signed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "stall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
-  },
-  "sense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "yielded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
   },
   "brew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Tomorrow" : {
+  "manag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 15
   },
   "bade" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 10
   },
-  "printed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "TOM" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
   "field" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
+    "value" : 24
   },
-  "served" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "warned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "curse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "legitimate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Gently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Marburg" : {
+  "invalid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "dog" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 40
+    "value" : 57
   },
   "mite" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "status" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "sewed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "silenced" : {
+  "renown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "don" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 24
+    "value" : 29
   },
   "upset" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -3871,21 +2547,21 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "goodbye" : {
+  "bandi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 1
   },
   "skin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 29
+    "value" : 34
+  },
+  "tailor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 73
   },
   "broth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
-  },
-  "tailor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 67
   },
   "ripest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -3893,87 +2569,71 @@
   },
   "skip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "scattered" : {
+  "skil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 3
+  },
+  "twenti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
   },
   "mad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
+  "mai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 80
+  },
   "stream" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  },
-  "legally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "nurse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "dwarf" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 62
-  },
-  "man" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 226
-  },
-  "stand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 15
   },
-  "leisure" : {
+  "dwarf" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 79
+  },
+  "man" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 228
+  },
+  "stand" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 63
+  },
+  "surround" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
   "map" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Dagny" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "twenty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 6
   },
   "mat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "listeners" : {
+  "parlei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "forward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
+    "value" : 16
   },
-  "Thumb" : {
+  "urg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Witches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "bless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 9
   },
-  "cabbages" : {
+  "ebook" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Sultan" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 17
   },
   "widest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -3983,67 +2643,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 11
   },
-  "threes" : {
+  "lodg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
-  "parley" : {
+  "thiev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "princes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "crouched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "spectacles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "MISER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "warlike" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 13
   },
   "unseen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Likewise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "THAT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "feet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 23
-  },
-  "fees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "tacked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "sprung" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Snow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 18
-  },
   "mail" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "disposi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -4051,53 +2675,33 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "COAL" : {
+  "edward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
   "feel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 21
+    "value" : 27
   },
   "main" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "terribly" : {
+  "ilsabil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "sadness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "nostrils" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Lake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Mistress" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 12
   },
   "coachman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "esteemed" : {
+  "strip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "peering" : {
+  "terribli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "inns" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 6
   },
   "grain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -4105,41 +2709,21 @@
   },
   "maid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 33
+    "value" : 34
   },
   "credit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "logs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "terrible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "likes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
   "alter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "cries" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "waste" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "brook" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 8
   },
-  "cheerfully" : {
+  "embroid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -4151,47 +2735,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
+  "utf" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "weighti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
   "broom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "equipment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
   },
   "dry" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 11
   },
-  "includes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "streak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "interrupted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "poisoned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "cheating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "chaffinch" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "picking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "Boy" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
@@ -4199,97 +2763,53 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Growler" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "messengers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
   "feed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 5
   },
-  "chuckle" : {
+  "cheerfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "handsomely" : {
+  "servic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "woes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 11
   },
   "bonnet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "rejoiced" : {
+  "shoemak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "Wait" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "Kywitt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 16
-  },
-  "thriving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "handsome" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
-  },
-  "Behold" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "twas" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 11
   },
   "stair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 16
   },
   "senseless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "necks" : {
+  "legitim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "conceive" : {
+  "stain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "Sanna" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Information" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "nonsense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "breath" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 6
   },
   "ball" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 23
+    "value" : 24
+  },
+  "godmoth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 6
   },
   "uncommon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -4301,83 +2821,55 @@
   },
   "men" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 29
+    "value" : 30
   },
   "repeat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "smoking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Round" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "cups" : {
+  "hither" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 9
+  },
+  "shabbi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 7
+  },
+  "loin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "physical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "included" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
   },
   "met" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 40
   },
+  "capit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
   "make" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 81
+    "value" : 110
   },
-  "spindle" : {
+  "fulfil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
+    "value" : 8
   },
-  "Readily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "wicked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 21
-  },
-  "ingratitude" : {
+  "mew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "combing" : {
+  "likew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "tiled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "opposed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "waving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "eggshells" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "constable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 23
   },
   "thread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 5
+  },
+  "merci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 10
   },
   "wicket" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -4385,7 +2877,23 @@
   },
   "fright" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 6
+  },
+  "waken" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "dud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "partlet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 22
+  },
+  "discours" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "due" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -4397,23 +2905,27 @@
   },
   "bake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "waking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 8
   },
   "breast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "mercy" : {
+  "princip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 3
   },
   "curl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 9
+  },
+  "verili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "inform" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 11
   },
   "craftsmen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -4421,11 +2933,7 @@
   },
   "depend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "wretchedly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
   "woke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -4435,41 +2943,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Snowdrop" : {
+  "about" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 34
+    "value" : 78
   },
-  "intertwined" : {
+  "commit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "sorrow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 21
   },
   "cure" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 4
   },
   "danger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "trees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 21
-  },
-  "THEY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "granted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "observed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 9
   },
   "crash" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -4479,73 +2971,37 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "stripes" : {
+  "staircas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
-  },
-  "hiding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
   },
   "bank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
   },
-  "sizes" : {
+  "wretchedli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Translator" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "meaning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "drawing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 2
   },
   "stick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 12
   },
   "band" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "tales" : {
+  "taler" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 10
   },
-  "vexation" : {
+  "curs" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "released" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "height" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "goals" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "boxes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Instantly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "singing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
   },
   "beaten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -4559,33 +3015,13 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "LIABILITY" : {
+  "impati" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "PREPARER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "wonderful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  },
-  "received" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
-  },
-  "PROVIDED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "ducats" : {
+  "booti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "willows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "millet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -4593,7 +3029,11 @@
   },
   "miller" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 37
+    "value" : 38
+  },
+  "jingl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "highest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -4603,27 +3043,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "animal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "MOUNTAINS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "receives" : {
+  "qualiti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "binds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "shared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
   },
   "shelter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
+  "butterfli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "lone" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
@@ -4631,13 +3063,13 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "industry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "long" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 143
+    "value" : 154
+  },
+  "redistribu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "uproar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -4645,63 +3077,43 @@
   },
   "fell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 130
-  },
-  "ravaging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "remember" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "Miserable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 133
   },
   "gazer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "boots" : {
+  "industri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 5
   },
-  "holes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "booty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "crumbled" : {
+  "mix" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "But" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 215
-  },
-  "dirty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
   },
   "stiff" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "middle" : {
+  "prosper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 20
+    "value" : 1
+  },
+  "though" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 13
   },
   "star" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 19
   },
   "wolf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 70
+    "value" : 72
+  },
+  "polit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "swamp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -4711,91 +3123,91 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "stay" : {
+  "dirti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 23
+    "value" : 14
+  },
+  "appear" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 12
   },
   "stag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
+  "appeas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
   "stab" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "consecr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Wilhelm" : {
+  "nurs" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
-  "increasing" : {
+  "mani" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "descended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "melted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 54
   },
   "open" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 44
+    "value" : 93
   },
-  "seeks" : {
+  "stai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 40
   },
   "treat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 6
   },
   "agent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "starving" : {
+  "eagerli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "monei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 51
+  },
+  "atten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "odious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "forced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 30
   },
   "rapid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "numbers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "project" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 88
   },
-  "locks" : {
+  "seven" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 56
   },
-  "Last" : {
+  "whatev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 9
   },
   "tread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
+  },
+  "berri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
   },
   "darker" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "swiftly" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -4803,305 +3215,189 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
+  "loos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
   "bark" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "paces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "greedy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 7
   },
   "wood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 82
+    "value" : 88
   },
   "tobacco" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "First" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
   "bare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "displaying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "admitted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "beard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 27
+    "value" : 30
   },
-  "maps" : {
+  "swiftli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "dropping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "gazed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "uneasiness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "sealed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "cooked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 2
   },
   "felt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 31
   },
-  "invited" : {
+  "greedi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "gardener" : {
+  "look" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
+    "value" : 234
   },
-  "crushed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "modification" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "troubling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "grounds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "salted" : {
+  "entranc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "murdered" : {
+  "bespok" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "nuts" : {
+  "allow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "paths" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "flying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "THIS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "milking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 15
   },
   "knock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 32
   },
-  "befall" : {
+  "transcrip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "needed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "lord" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 21
+    "value" : 27
   },
   "mass" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "knocks" : {
+  "binari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
   "proper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Time" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "beast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
+    "value" : 31
   },
   "bitter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
+  "transcrib" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "bast" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
   "speed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "apple" : {
+  "peopl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 28
+    "value" : 45
+  },
+  "admit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "common" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "ranged" : {
+  "admir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "appli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "twig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 5
+  },
+  "untru" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "bath" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "performances" : {
+  "twin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "LIFE" : {
+  "middl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 20
   },
-  "Eating" : {
+  "healthi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Late" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "apply" : {
+  "overlook" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "separated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Neither" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
   },
   "bedroom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "bars" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "BROTHERS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "renewed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Till" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
   "pedlar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "eagerly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "money" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 50
-  },
-  "riches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "healthy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "richer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Every" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
   "step" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 32
+  },
+  "disgust" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "gutenberg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "comrades" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 93
   },
   "mark" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 9
   },
-  "labourers" : {
+  "base" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "stem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "sunshine" : {
+  "espi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Beware" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "shovels" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "fingers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "nonproprietary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "mop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -5115,19 +3411,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 31
   },
-  "richly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
   "overspread" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "trifling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "obstacle" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -5135,17 +3419,13 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "fickle" : {
+  "nonproprietari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "profits" : {
+  "still" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "EBook" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 84
   },
   "worn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -5157,41 +3437,37 @@
   },
   "work" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 110
+    "value" : 158
   },
   "lose" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 8
   },
-  "mounts" : {
+  "richli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "nestl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "THOSE" : {
+  "wors" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 10
+  },
+  "suitabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "HANSEL" : {
+  "statem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
-  "knowing" : {
+  "toward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
+    "value" : 6
   },
   "mate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "masons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "WIFE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "waddled" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -5201,33 +3477,17 @@
   },
   "word" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 30
+    "value" : 49
   },
   "love" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
+    "value" : 46
   },
   "flock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
+    "value" : 11
   },
-  "tongue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "literary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "hovering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "enjoy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "defended" : {
+  "impos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -5235,63 +3495,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "Pearls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "slave" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "throwing" : {
+  "ashor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 1
   },
-  "beans" : {
+  "eas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 8
   },
   "ear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "rascally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "writing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "rushed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "indoors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "federal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 21
   },
   "eat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 92
-  },
-  "believed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "solitude" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 110
   },
   "spruce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "counselled" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -5303,49 +3527,33 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 11
   },
-  "include" : {
+  "graze" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "repent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "swallow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 14
   },
-  "aged" : {
+  "hasti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 1
   },
   "sting" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Doctor" : {
+  "highwai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "LANGUAGES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "haste" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 1
   },
   "opinion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "lots" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "altogether" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
   },
   "greenwood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -5353,59 +3561,39 @@
   },
   "soldier" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 48
+    "value" : 56
   },
-  "sleeve" : {
+  "literari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "merrymaking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "cutting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "hasty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "exists" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 14
   },
   "bawl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "stir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 15
   },
   "devour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 11
   },
   "menial" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "voice" : {
+  "insult" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 25
+    "value" : 2
   },
-  "avarice" : {
+  "disguis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "morsels" : {
+  "whistl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "prepared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 10
   },
   "craft" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -5417,195 +3605,119 @@
   },
   "threshold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 4
   },
   "float" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "swans" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "prettily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "coarse" : {
+  "unwrap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "EXPRESS" : {
+  "punit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "Tree" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
   },
   "hunter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
-  "suckle" : {
+  "prettili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "spell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 9
   },
-  "discover" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "midday" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "pebbles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "HORSE" : {
+  "sulki" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
+  },
+  "palac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 32
   },
   "cleaner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "rushes" : {
+  "vex" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 5
+  },
+  "edg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 5
   },
   "coward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "sounding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "thrush" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "SEND" : {
+  "insol" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "squeezed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "appointed" : {
+  "middai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Can" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "sulky" : {
+  "impli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "Cap" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 26
   },
   "provision" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 5
   },
-  "Cat" : {
+  "enjoi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
-  },
-  "Caw" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "cleaned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 11
   },
   "thrust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 7
   },
-  "Chief" : {
+  "briskli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
-  "kneaded" : {
+  "goodby" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 28
+  },
+  "catherin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 18
   },
   "winter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 8
   },
-  "clouds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Bear" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
   "elder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "untying" : {
+  "conscienc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "CONTENTS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "NOTE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "walking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "briskly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "talks" : {
+  "recit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "spend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 4
   },
-  "Since" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "notifies" : {
+  "retinu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "nutshells" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Jorinda" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "heartily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
   },
   "grinder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -5613,33 +3725,13 @@
   },
   "grave" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "retinue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "advantage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "gbnewby" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 9
   },
   "spent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "LILY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "greens" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Service" : {
+  "instead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -5647,39 +3739,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "whispered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
   "command" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 8
   },
-  "Hesse" : {
+  "frederick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 26
   },
-  "Contact" : {
+  "heartili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "BEFORE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
   "stolen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 9
   },
+  "swarm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
   "unlink" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "wakened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "deductible" : {
+  "gbnewbi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -5687,127 +3771,75 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "WILL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "exception" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "hands" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 25
-  },
-  "egg" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "saved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
-  },
-  "year" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
-  },
-  "sufficiently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "leading" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "allowed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "staying" : {
+  "retir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "ounces" : {
+  "perman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "awful" : {
+  "refus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 10
+  },
+  "egg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 17
+  },
+  "year" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 57
+  },
+  "absenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "branch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 19
   },
-  "Everything" : {
+  "fairi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 39
+  },
+  "engrav" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "music" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "saves" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "famine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "awaiting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "understanding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
   "neat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "RUMPELSTILTSKIN" : {
+  "volum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 1
   },
-  "silence" : {
+  "hungri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "moving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "fairy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 25
-  },
-  "WATER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "marched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "agreement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
+    "value" : 14
   },
   "mayor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 11
   },
+  "fireplac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "agreem" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 18
+  },
   "merchant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
+    "value" : 14
   },
-  "AK" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "insects" : {
+  "naughti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -5815,43 +3847,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
   },
-  "impetuous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "version" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "AS" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "stop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
+    "value" : 34
   },
   "guess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "whirring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "capered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "guest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
+    "value" : 24
   },
-  "happening" : {
+  "ceas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
-  "returns" : {
+  "handl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -5859,115 +3875,51 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Spinning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Where" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 32
-  },
-  "fared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "consented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "LION" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "beware" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "forest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 85
+    "value" : 91
   },
-  "BE" : {
+  "ein" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "HOLLE" : {
+  "pebbl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 6
   },
-  "BLUE" : {
+  "secretli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Ah" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 56
-  },
-  "immediately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  },
-  "Am" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "An" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "The" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 594
+    "value" : 3
   },
   "sleep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 40
-  },
-  "hungry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
-  },
-  "swimming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "gazing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "As" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 60
-  },
-  "stretched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
-  },
-  "At" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 84
+    "value" : 62
   },
   "cudgel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 4
   },
-  "refuse" : {
+  "crumb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Au" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
   "sleek" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "rumbles" : {
+  "growler" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
-  "prohibition" : {
+  "sleev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 6
+  },
+  "measur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "machin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -5975,121 +3927,57 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "naughty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "musician" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "agreed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 27
-  },
-  "expatiated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "computers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "secretly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "toes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 9
   },
   "sweep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 5
   },
   "descend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "Be" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "slay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
   "learn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 23
-  },
-  "growled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "hopping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "dreary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 32
   },
   "neck" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 21
+    "value" : 22
   },
-  "Jump" : {
+  "hanau" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "darted" : {
+  "slai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "upside" : {
+  "dreari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "scratched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "By" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  },
-  "Meanwhile" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 2
   },
   "sweet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 9
   },
-  "florins" : {
+  "kindli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Tis" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Take" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
-  },
-  "thorns" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "notes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 8
   },
   "eager" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
+  },
+  "stuf" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "undertak" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
   },
   "sprint" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -6099,11 +3987,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "official" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
   "fling" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "piteou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "savag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "specif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -6113,25 +4009,25 @@
   },
   "spring" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
-  },
-  "leave" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 47
-  },
-  "cottage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 19
   },
   "knave" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "cakes" : {
+  "dobbin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 1
   },
   "elf" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "faint" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "ell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -6139,9 +4035,9 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "vexed" : {
+  "need" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 13
   },
   "wrote" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -6151,71 +4047,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "journeyed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "Do" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 23
-  },
   "gather" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 15
   },
-  "shoemaker" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "encoding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "obtaining" : {
+  "insist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "DAMAGE" : {
+  "hardli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
-  "Dr" : {
+  "castl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 82
   },
-  "trustfully" : {
+  "elv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "kindly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 3
   },
   "risen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "Worse" : {
+  "shadi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "blazed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Little" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 20
-  },
-  "loose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "unawares" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Dearest" : {
+  "altern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -6223,93 +4083,41 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 8
   },
-  "Dummling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 22
-  },
-  "sailing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "rises" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "threepence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "chimney" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "shady" : {
+  "trustfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "companion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 7
   },
-  "complained" : {
+  "famili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Iron" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
+    "value" : 2
   },
   "ride" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
+    "value" : 18
   },
-  "Fundevogel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  },
-  "finely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "sleeping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 22
-  },
-  "During" : {
+  "ridg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "stretch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 23
   },
-  "gates" : {
+  "chimnei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "BEARD" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Looking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
   "accomplish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "spirited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "havoc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "snoring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
   },
   "linen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -6317,113 +4125,57 @@
   },
   "end" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 39
+    "value" : 45
   },
-  "packed" : {
+  "strang" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 19
+  },
+  "vow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Home" : {
+  "volunt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "selecting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "mistake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 7
   },
   "wouldst" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "slippers" : {
+  "rich" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 25
+  },
+  "veget" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "rich" : {
+  "betrai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 21
+    "value" : 3
   },
   "rick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Replacement" : {
+  "howev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Talk" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "WREN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "WITH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "loosened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "slippery" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "scissors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 121
   },
   "special" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "agre" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 39
+  },
+  "numer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "Falada" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 18
-  },
-  "GUTENBERG" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "royalties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "GRIMMS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "sweat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "kicks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "betray" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "START" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "pronounce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "family" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "jokes" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -6431,51 +4183,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
+  "slipperi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
   "gift" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "wanting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 12
   },
   "copyright" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
+    "value" : 14
   },
-  "called" : {
+  "donat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 96
+    "value" : 20
   },
   "told" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 100
   },
-  "springs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Go" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
-  },
-  "rolled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
-  },
-  "crosses" : {
+  "stipul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "turns" : {
+  "bravo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "newly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "gradually" : {
+  "tenderli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -6491,173 +4227,73 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Ha" : {
+  "nai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 5
   },
   "narrow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
   },
-  "judge" : {
+  "brave" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
+    "value" : 1
   },
   "nap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "darkness" : {
+  "newli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "invis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
-  },
-  "DOG" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "He" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 137
-  },
-  "IF" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Hi" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "tenderly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "partnership" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "shape" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "Whatever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "IN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "MOTHER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 5
   },
   "stealer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "stitches" : {
+  "invit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 6
+  },
+  "trifl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "nay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "stitched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "sexton" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 10
   },
-  "IS" : {
+  "forth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "thousands" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "jams" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "crossing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Just" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 23
+    "value" : 44
   },
   "bewail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Afterwards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Some" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
-  },
-  "Tom" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 26
-  },
-  "Top" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
   },
   "seventh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "Madam" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "charming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "driven" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "EVEN" : {
+  "disreput" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "MAN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "crossed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "If" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 91
-  },
-  "gallows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "lamentations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "hatched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "misfortunes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
   },
   "singer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -6667,35 +4303,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "In" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 56
-  },
   "wooer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "Is" : {
+  "carpent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 2
   },
-  "Gutenberg" : {
+  "against" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 83
+    "value" : 10
   },
-  "It" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 74
-  },
-  "pouring" : {
+  "maypol" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "representations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "holiday" : {
+  "swell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -6703,65 +4327,41 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "appeased" : {
+  "stepmoth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 4
   },
-  "asked" : {
+  "assur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 128
+    "value" : 2
+  },
+  "assum" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "amiss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Elsie" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 27
-  },
-  "climbed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
-  },
   "share" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 11
   },
-  "punished" : {
+  "holidai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "bustl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "puffed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "fattening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "linger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
-  "stores" : {
+  "notic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "grandmother" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 26
-  },
-  "USE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Meantime" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "grasshopper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 8
   },
   "sharp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -6771,23 +4371,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "slip" : {
+  "surpris" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "bushes" : {
+  "unconsum" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "slip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 17
+  },
+  "sprinkl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 6
+  },
+  "endur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "pleasur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "stored" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Soon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
-  },
-  "Unlucky" : {
+  "meddl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
@@ -6795,45 +4403,13 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "flies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "Fill" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "FITNESS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "shake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "Lay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "UTF" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 16
   },
   "spice" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "tops" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "scorches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "naked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
   },
   "homesick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -6843,41 +4419,13 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "barked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Enough" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "admiring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "undertake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
   "finest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "pages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "bridle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "links" : {
+  "hobbleti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
-  },
-  "entrance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "net" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -6887,113 +4435,53 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "nasty" : {
+  "escap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 13
   },
-  "catching" : {
+  "new" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 10
   },
-  "Lo" : {
+  "took" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 103
   },
-  "MR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "SNOW" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "soundly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "woods" : {
+  "belov" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "yoked" : {
+  "shall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 154
   },
-  "emptied" : {
+  "choos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "pancakes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
   "brass" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "driving" : {
+  "nasti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "Truly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "shalt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "followers" : {
+  "blyth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "foretell" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "nightingale" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Sunday" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "greediness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "wooed" : {
+  "yell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "pillows" : {
+  "soundli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "heated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "graciously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "THREE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "millstone" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "amusement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "mercilessly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
   "shame" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -7003,61 +4491,41 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
   },
-  "NO" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "spied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Frankfurt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Mr" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
-  },
-  "financial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "befallen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "dreams" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "reaching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "trick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 8
   },
   "dreamt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "My" : {
+  "around" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 55
+    "value" : 6
   },
-  "running" : {
+  "joyous" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 18
+    "value" : 2
   },
-  "spies" : {
+  "slop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "OF" : {
+  "clumsi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 21
+    "value" : 4
+  },
+  "grunt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "calcul" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "tore" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -7067,137 +4535,69 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "stepdaughter" : {
+  "cinderella" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 1
   },
-  "declared" : {
+  "render" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 2
   },
-  "No" : {
+  "immens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 45
-  },
-  "stepped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "OR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "hobblety" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 1
   },
   "drawer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "rolls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "specific" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "complying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "sowed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "inherited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "BUSH" : {
+  "gild" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Of" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "PG" : {
+  "shank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Oh" : {
+  "indemn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 51
+    "value" : 1
   },
-  "SECOND" : {
+  "misfortun" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 9
+  },
+  "mercilessli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "previou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Let" : {
+  "whisper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 26
-  },
-  "Perhaps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "appetite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Fine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "muttering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "needle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
-  },
-  "remainder" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "forms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "On" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 20
-  },
-  "clumsy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "NEGLIGENCE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
   "summon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 11
   },
-  "merrily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "Or" : {
+  "farth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "ring" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 37
+    "value" : 40
   },
   "farther" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 18
+  },
+  "maintain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "shift" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -7207,199 +4607,107 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
+  "echo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
   "frolic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "angrily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
   "bargain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 16
+    "value" : 19
   },
-  "cheese" : {
+  "merrili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
-  },
-  "decided" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "snarled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "companies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "pears" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "tumbling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "meadows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 10
   },
   "butler" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "remorse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "shoulder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 20
   },
-  "ecclesiastics" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Scour" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "dance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 22
-  },
-  "fully" : {
+  "angrili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "joyful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "pearl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 15
   },
-  "waves" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "journeying" : {
+  "mysteri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Cut" : {
+  "dictionari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
-  "dining" : {
+  "marburg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "remain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 32
   },
-  "expected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "voices" : {
+  "rumbl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "lazily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "countries" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Two" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
   },
   "toss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
-  "fearfully" : {
+  "kywitt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 16
+  },
+  "lazili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "eye" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "waved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "dictionary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "wanted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 56
-  },
-  "exchanged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "deserved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "flask" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "shines" : {
+  "fearfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "feels" : {
+  "necessarili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Chanticleer" : {
+  "flash" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 30
+    "value" : 3
   },
-  "enemy" : {
+  "appl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 49
   },
-  "pounce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "TIMOTHY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Royalty" : {
+  "scrambl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "amused" : {
+  "cardin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "permitted" : {
+  "indemnifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "silli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 12
   },
   "drunken" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "obeyed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -7407,73 +4715,37 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "mournful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "stillness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "indemnify" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "hooks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "nightingales" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "horror" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
   "poison" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "silly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
+    "value" : 8
   },
   "black" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 38
   },
-  "Lie" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "nest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 10
   },
-  "recovered" : {
+  "fulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "stayed" : {
+  "such" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
+    "value" : 19
   },
-  "embroidered" : {
+  "remaind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "gossip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "TO" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "So" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 167
   },
   "suck" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -7483,25 +4755,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "supported" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "fetched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  },
   "dwelt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "presently" : {
+  "knive" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 1
+  },
+  "oppos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "foam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
+  },
+  "innoc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 6
   },
   "swung" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -7509,11 +4781,7 @@
   },
   "dwell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "remains" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
   "boast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -7523,111 +4791,51 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "dwarfs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
-  },
   "research" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Hullo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "forgetting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "incomplete" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "white" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 85
+    "value" : 89
   },
-  "sounded" : {
+  "acknowledg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "furniture" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "houses" : {
+  "stripe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
-  },
-  "birches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "huge" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "To" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 18
-  },
-  "UT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Tu" : {
+  "imposs" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "exclaimed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "imagine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "wounds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "town" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 23
-  },
-  "flings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "boats" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 24
   },
   "girl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 62
-  },
-  "sharing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "yards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "pined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 82
   },
   "flutter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
+  "trumpet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "bobbin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "servants" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
-  },
-  "leads" : {
+  "pancak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -7635,37 +4843,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "clothing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Up" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "fields" : {
+  "enemi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 11
   },
-  "trifle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "thieving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Gretel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 94
-  },
-  "blind" : {
+  "physic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Grimm" : {
+  "next" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 55
+  },
+  "nod" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "blind" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
   },
   "string" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -7675,49 +4871,61 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 11
   },
-  "originator" : {
+  "import" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "cellarful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Goodness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "drops" : {
+  "snatch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
+  "nor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 18
+  },
+  "button" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 7
+  },
+  "not" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 663
+  },
+  "now" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 223
+  },
+  "leagu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
+  "nearli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
   "trademark" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
+    "value" : 11
   },
-  "lived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 48
-  },
-  "sorrowed" : {
+  "wag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "derived" : {
+  "lofti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "news" : {
+  "ascii" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 2
   },
-  "thoughts" : {
+  "wai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 72
   },
   "pinch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
   "rack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -7729,55 +4937,39 @@
   },
   "green" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 15
   },
   "conquer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Suddenly" : {
+  "pierc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
   "war" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 9
+  },
+  "greet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "grew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 34
   },
-  "We" : {
+  "magnific" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 28
+    "value" : 4
   },
-  "grey" : {
+  "what" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 429
   },
-  "Five" : {
+  "refer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "brightness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "summons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "pitiful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "hoofs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Sorry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "risk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -7785,119 +4977,63 @@
   },
   "window" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 52
-  },
-  "attempted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 57
   },
   "rise" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 8
   },
   "flame" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 8
   },
-  "play" : {
+  "grei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
-  },
-  "haired" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "sorcerer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "plaything" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "BANDY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "innocence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "butterflies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Behind" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "quickly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 28
+    "value" : 14
   },
   "brushwood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "taxes" : {
+  "when" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 644
+  },
+  "plai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 33
+  },
+  "fan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "decide" : {
+  "crush" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "pleases" : {
+  "quickli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "synonymous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "tugged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "endured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "pricked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 28
   },
   "stuck" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
+    "value" : 15
   },
   "fat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 25
   },
-  "struggling" : {
+  "electron" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 29
   },
   "catch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 13
   },
   "plan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
-  },
-  "Marleen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
-  },
-  "promising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Hearken" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
   },
   "brooch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -7905,87 +5041,55 @@
   },
   "give" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 143
+    "value" : 157
   },
   "counsel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
-  },
-  "rained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "travellers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "lives" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 14
   },
-  "depends" : {
+  "ember" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "comfortably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
   },
   "horrid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Seven" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "lofty" : {
+  "melan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "chickens" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "ships" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "determined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "suppers" : {
+  "collaps" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "EAT" : {
+  "abash" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
-  "ladies" : {
+  "vexat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "studi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "PLEASE" : {
+  "futur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
-  "Always" : {
+  "everyth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 38
+  },
+  "flake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "suit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "rested" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "Tread" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 8
   },
   "denial" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -7995,167 +5099,99 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "study" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "villains" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "entangled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "EBOOK" : {
+  "pantri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
   "direct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "youngest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 27
   },
-  "MRS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "gain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "receiving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "PRINCESSES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
   },
   "web" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 6
+  },
+  "wed" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 28
   },
   "droll" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "sentenced" : {
+  "sausag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "pantry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Begin" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 16
   },
   "older" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "comical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "SULTAN" : {
+  "passag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Fair" : {
+  "grin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "disput" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "wet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
-  "dishes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "peaceably" : {
+  "mourner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "greas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
   },
   "great" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 152
-  },
-  "happened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 51
-  },
-  "rags" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 153
   },
   "wrong" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "bargains" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "sunbeams" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
   "shirt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "enchanted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "Speak" : {
+  "whet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "pleased" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 27
   },
   "rage" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
-  },
-  "hampered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "sides" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "mourned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 16
   },
   "behold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 5
   },
-  "stockings" : {
+  "beauteou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 1
   },
-  "heads" : {
+  "advanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
+    "value" : 1
   },
   "board" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "wondered" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
@@ -8171,21 +5207,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "despised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "fee" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 12
   },
   "eleventh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Drink" : {
+  "section" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 8
   },
   "whit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -8193,83 +5225,55 @@
   },
   "nut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
+    "value" : 22
   },
-  "constantly" : {
+  "whir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "JORINDA" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "whip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "earned" : {
+  "overflow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "threaten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
-  "presented" : {
+  "constantli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "letting" : {
+  "feebl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 1
   },
-  "awoke" : {
+  "remembr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 30
-  },
-  "marked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 1
   },
   "rain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 5
   },
   "hunt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 13
   },
   "cellar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 21
+    "value" : 22
   },
-  "recital" : {
+  "dispos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "visible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "borne" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "hangs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "RIDING" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "nearer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 9
-  },
-  "laughed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
   },
   "lifeless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -8279,29 +5283,13 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "opened" : {
+  "rais" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 36
-  },
-  "BEAR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 9
   },
   "sung" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
-  },
-  "BEAN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "voyage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "produced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "market" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -8311,37 +5299,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Hardly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "roving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "hung" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 14
   },
-  "eagle" : {
+  "keep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 50
   },
-  "TREE" : {
+  "solemn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "forgets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "screamed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "choked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
   },
   "sugar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -8351,133 +5319,81 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
+  "who" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 323
+  },
   "weigh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "game" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 9
   },
-  "wondrous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "whu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "unexpected" : {
+  "why" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 58
   },
-  "curtsied" : {
+  "faith" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 19
+  },
+  "remark" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "deserves" : {
+  "everyon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 14
   },
-  "died" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 23
-  },
-  "collaborated" : {
+  "donor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Curdken" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
-  },
-  "pocketsful" : {
+  "newbi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "necessarily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "herbs" : {
+  "breach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "rocks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "scorching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "wagged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Until" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Luckily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "butter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "mocked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 11
   },
   "gale" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "handful" : {
+  "wit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 2
   },
-  "From" : {
+  "tremend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 1
+  },
+  "shine" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 10
   },
   "leant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "contained" : {
+  "archiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Today" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "matters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "tasting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Ugh" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "attention" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "approached" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 13
   },
   "visit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
+    "value" : 12
   },
   "rake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -8495,6 +5411,10 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
+  "parent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
   "smote" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
@@ -8503,45 +5423,29 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "dipped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "fig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "unwil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 5
   },
   "horseman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "unbuttoned" : {
+  "plough" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "greeting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "bring" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 72
-  },
-  "luckily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "hearted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 76
   },
   "brink" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
-  },
-  "sacksful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "fir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -8551,45 +5455,33 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 10
   },
-  "leaped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "fit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "skins" : {
+  "squeez" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "jingling" : {
+  "fit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 8
+  },
+  "gentl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
   },
   "hush" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "fix" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "excites" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
   "honest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
   },
-  "trembled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
   "giant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 31
+    "value" : 47
   },
   "pitiless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -8601,89 +5493,101 @@
   },
   "perch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 11
   },
   "rang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 6
   },
-  "deaths" : {
+  "waggon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
+  "neglect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "addition" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
   "barrow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "promoting" : {
+  "despit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
-  "BRIAR" : {
+  "despis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
   "grow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 15
+  },
+  "sure" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 32
+  },
+  "ad" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "gang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "carve" : {
+  "vein" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "league" : {
+  "ag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 5
+  },
+  "ah" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 56
   },
   "piebald" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Moaning" : {
+  "ak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "spangled" : {
+  "al" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 14
   },
-  "EIN" : {
+  "am" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 16
   },
-  "dreaded" : {
+  "an" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 128
   },
-  "blowing" : {
+  "ar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 196
+  },
+  "as" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 782
+  },
+  "at" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 663
   },
   "yonder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "haunted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "boiling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "Devil" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "unanimously" : {
+  "au" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -8691,77 +5595,53 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "turning" : {
+  "aw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 1
   },
-  "peace" : {
+  "ax" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 16
+    "value" : 20
+  },
+  "luckili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
   },
   "folk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "consideration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "patted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "formed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
   "brother" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 40
+    "value" : 85
   },
   "hurt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
+    "value" : 14
   },
-  "breadcrumbs" : {
+  "rogueri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
-  "ells" : {
+  "be" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "straitened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 557
   },
   "prove" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 4
   },
-  "ordering" : {
+  "insignific" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "virus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "claws" : {
+  "virtu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "search" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
-  },
-  "panes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "furnished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 21
   },
   "sudden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -8769,73 +5649,45 @@
   },
   "fool" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 9
+  },
+  "by" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 316
+  },
+  "saddl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
-  },
-  "Henceforth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "nickname" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Gothel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Defect" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "scarcely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
   },
   "foot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 21
+    "value" : 24
   },
   "tooth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Did" : {
+  "spaciou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "disclaimer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "clave" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "charge" : {
+  "fli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "Poor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 8
   },
   "apish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "keeping" : {
+  "edgar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 3
   },
   "quicker" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "gorged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "alternate" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -8843,63 +5695,47 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "mounted" : {
+  "sickl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 1
   },
-  "breathe" : {
+  "freeli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "lasted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
   },
   "food" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 27
   },
-  "fly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
-  },
-  "Pope" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "roguery" : {
+  "figur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "plunge" : {
+  "expati" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "renam" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "fly" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 24
   },
   "partner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "prospered" : {
+  "confin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "seemly" : {
+  "enchant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 15
   },
   "unfit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Father" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "freely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "perceiving" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -8907,13 +5743,13 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "essential" : {
+  "gape" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
-  "faithfulness" : {
+  "scarc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 19
   },
   "vent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -8923,35 +5759,67 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "stairs" : {
+  "di" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
+    "value" : 25
   },
-  "language" : {
+  "haunt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "girls" : {
+  "poodl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 18
+    "value" : 3
+  },
+  "gasp" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "forc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 33
+  },
+  "do" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 323
+  },
+  "thunder" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "seemli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "woe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
-  "observe" : {
+  "justic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "forg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "dr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "furnish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "armour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "furnish" : {
+  "snare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "accomplished" : {
+  "dy" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -8967,35 +5835,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "chairs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Though" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "image" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "quails" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "softened" : {
+  "inclin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
+  "deduct" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "snarl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "ribbon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "carri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 92
+  },
+  "needl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 16
+  },
   "thickest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "trance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "tumbles" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -9007,91 +5871,67 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "downstairs" : {
+  "mightili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 1
   },
   "fourteen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "marble" : {
+  "never" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 80
   },
   "knife" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 18
   },
-  "temptation" : {
+  "ey" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 65
+  },
+  "chuckl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "piece" : {
+  "activ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 39
-  },
-  "screams" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "laboured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "END" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "carry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 41
+    "value" : 2
   },
   "burst" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "arose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "stared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "necessity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "mightily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "frame" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "christening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "mountains" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  },
-  "limbs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "tears" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
-  },
-  "snapping" : {
+  "eventid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "glittered" : {
+  "indic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "clamber" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "origin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "for" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 732
+  },
+  "propheci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "unlucki" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
@@ -9099,33 +5939,29 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "modestly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "watching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
   "twilight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "fox" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 59
-  },
   "content" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 7
+  },
+  "fox" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 89
   },
   "burden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "TALES" : {
+  "hover" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 1
+  },
+  "dine" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "rate" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -9143,15 +5979,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "trouble" : {
+  "accid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 26
+    "value" : 1
   },
-  "prophecy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "divide" : {
+  "modestli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -9159,177 +5991,161 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "attended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "IRON" : {
+  "betim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
+  },
+  "go" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 351
   },
   "syrup" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Although" : {
+  "treasur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 12
   },
-  "tease" : {
+  "preciou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
   "fork" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "carts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "form" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
+    "value" : 20
   },
-  "counted" : {
+  "publish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "unlucky" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 2
   },
   "ha" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 120
   },
-  "pinched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "gate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 23
-  },
-  "turnips" : {
+  "lightheart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "HOME" : {
+  "restor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "gate" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 25
+  },
+  "renew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "presents" : {
+  "he" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 2083
+  },
+  "assign" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "promotion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Professor" : {
+  "hi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 1038
   },
   "feather" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 19
   },
   "beheld" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "ADVENTURES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "transcription" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "ho" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "delayed" : {
+  "easili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 11
+  },
+  "altogeth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "degre" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Throughout" : {
+  "ventur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "False" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "divine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 9
   },
   "foul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "transcribe" : {
+  "veri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 212
+  },
+  "elsi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 29
+  },
+  "four" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 35
+  },
+  "ic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "appeared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "grinned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "easily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
   },
   "drag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 16
+  },
+  "if" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 344
   },
   "burnt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 9
   },
-  "burns" : {
+  "in" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "violently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "disputed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Don" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "dispatched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "plates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 1221
   },
   "lower" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "dismissed" : {
+  "ir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "is" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 421
+  },
+  "crafti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "aimed" : {
+  "fascin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "it" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1356
   },
   "fry" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -9339,31 +6155,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "talked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "decree" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "loaves" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "Plain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "ICHABOD" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "cheeks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "Yellow" : {
+  "surviv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -9373,95 +6165,47 @@
   },
   "gave" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 106
+    "value" : 109
   },
-  "alteration" : {
+  "prophesi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "crafty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "HOOD" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "rascal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 7
   },
-  "Brothers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "turned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 44
-  },
-  "May" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "eagerness" : {
+  "librari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "sparkling" : {
+  "believ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 11
   },
   "whirl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "library" : {
+  "chandeli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
-  "River" : {
+  "sadli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 20
+  },
+  "meantim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 18
   },
   "peril" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "RIGHT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "sending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "roamed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "slaughterer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "delight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "remembrance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "sadly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
-  },
-  "roaming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Use" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 13
   },
   "knew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -9469,39 +6213,23 @@
   },
   "draw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 24
-  },
-  "wandering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 28
   },
   "fowl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 11
   },
   "dungeon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
+  "off" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 38
+  },
   "knee" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "disposition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "places" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Weeping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "troublesome" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 10
   },
   "slender" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -9515,9 +6243,9 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "conscious" : {
+  "li" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 11
   },
   "fun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -9527,33 +6255,49 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 34
   },
-  "greeted" : {
+  "inquir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 8
   },
   "fur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
+    "value" : 12
   },
-  "Nonsense" : {
+  "lo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "receiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 22
+  },
+  "girdl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
+  "while" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 65
+  },
+  "ly" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 34
+  },
+  "second" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 47
   },
   "briar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 8
+  },
+  "that" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1094
   },
   "faster" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
-  },
-  "edge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "picked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
   },
   "www" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -9563,77 +6307,61 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
+  "limit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 8
+  },
   "claim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "torches" : {
+  "outdat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
-  "locked" : {
+  "thaw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 1
   },
   "fasten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
-  "hobbled" : {
+  "mr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 34
+  },
+  "author" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Alas" : {
+  "precipic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 27
-  },
-  "months" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Updated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "possessed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
   "dirt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "cuffings" : {
+  "jemmi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "feeling" : {
+  "my" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "City" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "stipulated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 312
   },
   "chosen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "repented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "coat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 17
   },
-  "license" : {
+  "sunris" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 1
   },
   "disk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -9643,107 +6371,75 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 32
   },
-  "dismissal" : {
+  "apiec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
   "gaze" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 11
   },
   "dish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 21
+    "value" : 29
   },
   "dream" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
+    "value" : 14
   },
-  "Men" : {
+  "oho" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "noble" : {
+  "updat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "rushing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "coal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 12
+  },
+  "sorrowfulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "malice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "fluttered" : {
+  "ingratitud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "rays" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "tablets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Except" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "heat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 8
   },
   "bride" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 52
+    "value" : 56
   },
-  "chambers" : {
+  "no" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 312
   },
-  "brightly" : {
+  "involuntarili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 1
+  },
+  "furrow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "code" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "student" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "keys" : {
+  "bridg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 5
   },
-  "earthenware" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "MOUNTAIN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "careful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "kissed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "CONTRACT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "sorrowfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "mixed" : {
+  "seal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -9753,61 +6449,77 @@
   },
   "head" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 117
+    "value" : 131
   },
-  "involuntarily" : {
+  "foolishli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "dales" : {
+  "charit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 1
   },
-  "considerable" : {
+  "of" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1486
+  },
+  "heal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Verily" : {
+  "oh" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 52
+  },
+  "possibl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "proposition" : {
+  "dive" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "heap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
+    "value" : 13
   },
   "fight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 10
   },
   "hear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 24
+    "value" : 34
   },
-  "skilful" : {
+  "on" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 1055
   },
-  "pretty" : {
+  "purpos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 26
+    "value" : 6
   },
-  "recover" : {
+  "or" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 95
   },
-  "determine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "foolishly" : {
+  "embark" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "considerably" : {
+  "ow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "complianc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 5
+  },
+  "rabbl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "encod" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -9817,7 +6529,7 @@
   },
   "whilst" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 12
   },
   "drew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -9827,117 +6539,69 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "lands" : {
+  "pretti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 26
+  },
+  "equip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 5
+  },
+  "pg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "nobl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 7
   },
   "cock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
+    "value" : 19
   },
-  "wights" : {
+  "bridl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "knit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "sitting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 60
-  },
-  "remarks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "infringement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "salad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
-  },
-  "Archive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
-  },
-  "trinkets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 19
   },
   "splendid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "registered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "bushy" : {
+  "burnish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "promised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
-  },
-  "expedient" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "States" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
   },
   "scarlet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "speaking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "freeze" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "clever" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 32
   },
-  "KNOWALL" : {
+  "damag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 7
   },
-  "bathed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "hundreds" : {
+  "drip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Reel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "tripped" : {
+  "bushi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "breaking" : {
+  "choke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "proposal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "forks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
   "thee" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -9947,93 +6611,65 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "settled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "belaboured" : {
+  "varieti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "budded" : {
+  "old" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 207
   },
-  "Catherine" : {
+  "then" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 16
+    "value" : 674
+  },
+  "thei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 850
   },
   "seat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "seas" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 13
   },
   "squirrel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "howsoever" : {
+  "includ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 13
+  },
+  "readili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "brightli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "wander" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 9
   },
   "adopt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "wander" : {
+  "opposi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
-  "twelve" : {
+  "minut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 40
-  },
-  "bundles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "donors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "bridge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "scythe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 2
   },
   "waistcoat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "discovered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "belly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "bells" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
   "seed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
-  },
-  "swarming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Cake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "bled" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -10043,15 +6679,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "executed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "seek" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
+    "value" : 23
   },
-  "toasted" : {
+  "wilhelm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "wallfac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -10059,273 +6695,185 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "forester" : {
+  "belli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "compelled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
   "heel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 6
   },
-  "variety" : {
+  "entreati" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "sugarloaf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "thanked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "insolence" : {
+  "dilig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "casks" : {
+  "waddl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
+  },
+  "disturb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "dolefulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "persist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "so" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 730
   },
   "email" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
   "calendar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Thomas" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "braying" : {
+  "intern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "dumpling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "stormy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "decision" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "moaned" : {
+  "onc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 128
   },
   "shudder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 35
+    "value" : 40
   },
   "closet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "neighbours" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "started" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "UNDER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "heed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Section" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
   "flower" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 20
+    "value" : 37
   },
   "monster" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "single" : {
+  "hedg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 5
   },
   "pull" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 31
   },
-  "crowned" : {
+  "stormi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "ti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 13
+  },
+  "remov" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
+  "acquaint" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "assist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "closed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "flowed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "tm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 57
   },
-  "Literary" : {
+  "to" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
+    "value" : 2749
   },
-  "compressed" : {
+  "tu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Actually" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "waddling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "country" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 28
-  },
-  "commercial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "joint" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "exporting" : {
+  "ty" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "excellence" : {
+  "wick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 21
   },
-  "separate" : {
+  "countri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "reasonable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "generations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "rules" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "doves" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
-  },
-  "ELVES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "loaded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "ruled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 30
   },
   "lick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
+  },
+  "nois" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 19
   },
   "dale" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 5
   },
   "sprang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 44
   },
-  "military" : {
+  "up" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 72
   },
   "fifteenth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Volunteers" : {
+  "us" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 19
+  },
+  "ut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Another" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "pecked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "treated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "waters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "pitchers" : {
+  "kehrewit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "PROJECT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "smiling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "praised" : {
+  "coil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "usual" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 8
-  },
-  "entreaty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "DAMAGES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "suppose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
   },
   "upright" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -10339,77 +6887,49 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Please" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "NOT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "sees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "forge" : {
+  "bywai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "valiant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "towns" : {
+  "know" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "frightened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 29
+    "value" : 107
   },
   "support" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "STRAW" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "deceive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "changed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
+    "value" : 8
   },
   "coin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "drop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
+    "value" : 22
   },
-  "WAS" : {
+  "honei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 5
   },
   "apron" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 10
   },
-  "prophesy" : {
+  "wa" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 1385
   },
   "cold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 15
   },
-  "learning" : {
+  "hearken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 7
   },
   "pure" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -10417,55 +6937,47 @@
   },
   "life" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 41
+    "value" : 61
   },
-  "willingly" : {
+  "we" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
+    "value" : 209
   },
-  "bucketful" : {
+  "gai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
   },
-  "summoned" : {
+  "quail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "reeds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
   "heir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "shapes" : {
+  "tangl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "honey" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
   },
   "screw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
-  "lies" : {
+  "wo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
+    "value" : 1
   },
   "frolick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "disposed" : {
+  "danc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 63
   },
-  "gay" : {
+  "willingli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 13
   },
   "lieu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -10479,15 +6991,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 18
   },
-  "previous" : {
+  "licens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 17
   },
   "org" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 13
   },
   "brighter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "rever" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -10499,25 +7015,9 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "reading" : {
+  "distribut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "fiercely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "wrens" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "lied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Husband" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 17
   },
   "superior" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -10525,7 +7025,7 @@
   },
   "succeed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
   "deeper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -10533,11 +7033,15 @@
   },
   "dame" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
   "turnip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 9
+  },
+  "sourc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "torment" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -10547,17 +7051,9 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 35
   },
-  "chains" : {
+  "deepli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "courtiers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "Internal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "dragon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -10565,9 +7061,13 @@
   },
   "ye" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 59
   },
-  "troops" : {
+  "type" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "april" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -10575,9 +7075,9 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "BREACH" : {
+  "venom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
   "forthwith" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -10587,17 +7087,9 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "terms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 20
-  },
-  "arranging" : {
+  "hazard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "deeply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "asleep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -10607,37 +7099,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "seized" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 27
-  },
-  "presence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "whosoever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "plucked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
   "method" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "wife" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 139
-  },
-  "nails" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "misfortune" : {
+  "wife" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 152
+  },
+  "contract" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "come" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 240
+  },
+  "linnet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "leather" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -10645,41 +7125,61 @@
   },
   "push" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 17
   },
   "comb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 12
   },
-  "provisions" : {
+  "befriend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "exist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "purs" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
+  "seiz" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 30
   },
   "parlour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
+  "masterpiec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
   "lift" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 24
   },
-  "force" : {
+  "indoor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 1
   },
-  "Show" : {
+  "undecid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
-  "Those" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "surrounded" : {
+  "regist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Hausmarchen" : {
+  "feder" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "cops" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "educ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -10687,89 +7187,81 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "periodic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "vagabond" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
+  "north" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "robes" : {
+  "copi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 25
+  },
+  "our" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 38
+  },
+  "out" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 197
+  },
+  "confess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "German" : {
+  "dart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "sensibly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "befriended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "distribution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "ACTUAL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Mrs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
+    "value" : 3
   },
   "noon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "thrusts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "ghost" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Mother" : {
+  "bitterli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 6
+  },
+  "get" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 118
   },
   "dark" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 25
+    "value" : 29
   },
-  "copy" : {
+  "darl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
+    "value" : 5
+  },
+  "accus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "sensibli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "power" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 16
   },
-  "nibbled" : {
+  "alwai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 18
   },
   "dare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 18
   },
-  "pleasantly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "asses" : {
+  "festiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "precious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
   },
   "bridal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -10777,7 +7269,11 @@
   },
   "cook" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 62
+    "value" : 77
+  },
+  "reviv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "cool" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -10787,137 +7283,81 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 12
   },
-  "SWEETHEART" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "industrious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "elbows" : {
+  "militari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "continued" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
   },
   "coffin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 7
+  },
+  "suspect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "thou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 34
+    "value" : 48
   },
-  "abide" : {
+  "upstair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 16
   },
-  "transformation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "contrive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "buttered" : {
+  "brain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "sprinkled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "puts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "amazed" : {
+  "readabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
+  },
+  "help" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 56
+  },
+  "pleasantli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "depth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "seaside" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "polluted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "ended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "located" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "gasping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "owe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "perished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Goodbye" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 22
-  },
-  "roses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "dashed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "magic" : {
+  "braid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
   "date" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
+  },
+  "magic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 5
   },
   "dress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
+    "value" : 37
   },
   "snail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "ails" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "addresses" : {
+  "pincer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "lamps" : {
+  "whatsoev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 6
+  },
+  "reveal" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
   },
   "data" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "FROG" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "owl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -10931,53 +7371,37 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "obliged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
-  },
   "sound" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 17
   },
-  "murdering" : {
+  "own" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "lili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 11
+  },
+  "drum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Most" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "rustling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "treasures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "CATHERINE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "healing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "hanged" : {
+  "separ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "King" : {
+  "neglig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
+    "value" : 1
+  },
+  "circl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 7
   },
   "firewood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "distributing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
   },
   "bearer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -10985,17 +7409,17 @@
   },
   "blow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 23
+    "value" : 34
   },
-  "climbing" : {
+  "embrac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
-  "WHO" : {
+  "replac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 6
   },
-  "tossing" : {
+  "sens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -11003,81 +7427,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
   },
-  "curious" : {
+  "haughtili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Character" : {
+  "like" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 138
+  },
+  "embassi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "bitterly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "creatures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "depended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "dolefully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "judged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "branches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
-  },
-  "unbolted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "cord" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "ending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Stromberg" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "fretted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "efforts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "haughtily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "proposed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 7
   },
   "council" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "hills" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  },
-  "dazzling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
   },
   "forefeet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -11085,99 +7453,99 @@
   },
   "ground" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 38
-  },
-  "pigeons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 39
   },
   "dash" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "send" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 11
   },
   "sprawl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "expenses" : {
+  "thereupon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 13
+  },
+  "here" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 104
   },
   "note" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
+  },
+  "lina" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 12
   },
   "moonlight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "purpose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
   "line" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "hearty" : {
+  "noth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 115
+  },
+  "snowdrop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 36
   },
   "snake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 7
   },
-  "riding" : {
+  "link" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 4
   },
   "hero" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
+  "scald" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
   "hadst" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "conveyed" : {
+  "kinder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Rest" : {
+  "limp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "peeling" : {
+  "hearti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "hearth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 8
   },
-  "hearts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "feeble" : {
+  "station" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "herb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "herd" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 8
-  },
-  "affairs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "earning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "nose" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -11185,27 +7553,19 @@
   },
   "limb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "shrill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "costs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "cost" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
+    "value" : 14
   },
-  "stories" : {
+  "will" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "fishing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 516
   },
   "lime" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -11213,55 +7573,23 @@
   },
   "smoke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 8
   },
   "follow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
+    "value" : 51
   },
   "wilt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
   "intent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "magical" : {
+  "sultan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "washing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "hearse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "compliance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "wretchedness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "assured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "challenge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "roasted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "locations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 16
   },
   "harmless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -11271,53 +7599,33 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 35
   },
-  "chatting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "intend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "plagued" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 5
   },
   "snap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
-  "Water" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
-  },
-  "overflowing" : {
+  "bedchamb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "german" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 5
   },
   "govern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "numerous" : {
+  "your" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 241
   },
-  "carcase" : {
+  "hurri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "spacious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "recognized" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "explanation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 11
   },
   "rider" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -11325,69 +7633,49 @@
   },
   "youth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 44
+    "value" : 46
   },
-  "kettle" : {
+  "shopkeep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 1
+  },
+  "these" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 44
   },
   "stratagem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "begins" : {
+  "emma" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "twins" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "contributions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "croaking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "undressed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "philology" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "calculate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "persistent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "prison" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 9
   },
   "sister" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 30
-  },
-  "whatsoever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 40
   },
   "groom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "chimneys" : {
+  "serv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 14
+  },
+  "intellectu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
   "possess" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "philologi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -11395,41 +7683,41 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "volunteers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "Korbes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "lion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 26
-  },
-  "seizing" : {
+  "thoughtfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "baked" : {
+  "hess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 1
+  },
+  "lion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 33
+  },
+  "befor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 176
+  },
+  "clutch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "grope" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "dawn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 6
   },
   "bearskin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "thoughtfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "wing" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 12
   },
   "wine" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -11437,27 +7725,19 @@
   },
   "wind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 36
+    "value" : 39
   },
-  "revived" : {
+  "chirp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "flight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "folly" : {
+  "engag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "carriage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
-  },
-  "obedient" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "ahead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -11465,333 +7745,141 @@
   },
   "yellow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 10
   },
-  "misery" : {
+  "strangl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "folli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "miseri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "masters" : {
+  "lightn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 6
   },
-  "talking" : {
+  "remors" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "sharpen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "arrived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "FOUNDATION" : {
+  "enorm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "Contributions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "prying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "lights" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "combed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "borrowed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "resolved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "merciful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "committed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "licensed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "cows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "faced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "wipe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "overwhelm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "veins" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "foliage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "lips" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
   },
   "blue" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
+    "value" : 15
   },
-  "Holle" : {
+  "god" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
+    "value" : 16
   },
-  "days" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 28
-  },
-  "echoed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "illustration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "returned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  },
-  "faces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "undone" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "renders" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "reports" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "sharply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "roaring" : {
+  "wrap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "shuddered" : {
+  "deadli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "reader" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "ladi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 39
   },
   "sworn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "deadly" : {
+  "snif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "mewed" : {
+  "wish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "belonging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "dragging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 105
   },
   "wise" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "Brother" : {
+  "sharpli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 1
+  },
+  "pai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 13
   },
   "pan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "skipping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
   "sewn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Underneath" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "conversation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Unless" : {
+  "dismount" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "roared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "murder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 13
   },
-  "Turtle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "unconsumed" : {
+  "pat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "lace" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "snorted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 7
   },
   "paw" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "FOR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Marian" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "pay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "enormous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "FOX" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "strange" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 18
-  },
-  "inquired" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
   },
   "lack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "About" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "neglected" : {
+  "toast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Dear" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 16
-  },
-  "fated" : {
+  "success" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "tails" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "spending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "sinking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "remarked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "scenes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "folks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "End" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "onwards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "cleared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "creature" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
   },
   "child" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 83
   },
-  "formats" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "young" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 78
   },
-  "divided" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "obsolete" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "RAVENS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "fetching" : {
+  "contribu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
@@ -11799,29 +7887,21 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "remove" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "wisdom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
   },
   "pear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
-  "peas" : {
+  "determin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
+    "value" : 5
   },
   "forlorn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "treasure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
   },
   "fairest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -11829,317 +7909,205 @@
   },
   "live" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 39
-  },
-  "ventured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 106
   },
   "minutest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "lodging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "WHITE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "departed" : {
+  "cowardli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "wits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "victory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "People" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "perform" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "halfway" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "cowardly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Apple" : {
+  "unawar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
+  "peac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 16
+  },
+  "perform" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 12
+  },
+  "hurrah" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "with" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 740
+  },
   "wren" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "crutches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "hissed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "lads" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "service" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "maypole" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 13
   },
   "battlefield" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
+  "there" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 392
+  },
   "snip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "victori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
+  "mumbl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "lady" : {
+  "ravag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 35
+    "value" : 1
+  },
+  "halfwai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "pocket" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 31
+    "value" : 33
   },
-  "named" : {
+  "unhappi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 5
   },
-  "groaned" : {
+  "anoint" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "considered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Nay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "License" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "John" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "invisible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
   },
   "cutter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "delivered" : {
+  "desir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 15
+  },
+  "hamper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "throats" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "entire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
   },
   "approach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 8
   },
-  "harnessed" : {
+  "pea" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 19
   },
-  "shopkeeper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "ribbons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "deliverer" : {
+  "gothel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "flashed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "curling" : {
+  "write" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "ceased" : {
+  "wage" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "IMPLIED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "dripping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "roadside" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Everyone" : {
+  "sneer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "corporation" : {
+  "wight" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "harshli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "period" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "understand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
+    "value" : 14
   },
   "peck" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 11
   },
   "birth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "confirmation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "slowly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "heaven" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  },
-  "harshly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "unhappy" : {
+  "dismiss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "thresholds" : {
+  "heaven" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 29
   },
   "draught" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 15
   },
-  "arrogance" : {
+  "even" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 102
   },
-  "appearing" : {
+  "aris" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "despair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "assumed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "TAILOR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Finally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "eBook" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
   "larger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
-  },
-  "engaged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "queer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "hundred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 23
-  },
   "wait" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 22
+    "value" : 64
   },
   "queen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 69
+    "value" : 78
   },
-  "magnificent" : {
+  "costli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
-  "kinds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "sausages" : {
+  "entiti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
-  },
-  "shaved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "SPARROW" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "instant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "disgusted" : {
+  "accordingli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "indicating" : {
+  "mason" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "peep" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 8
+  },
+  "peer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
@@ -12147,25 +8115,21 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "costly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "hitherto" : {
+  "wail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "tempted" : {
+  "slowli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "hitherto" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "handkerchief" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 9
-  },
-  "Quick" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "laid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -12175,21 +8139,13 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "consequence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "raven" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 18
+    "value" : 31
   },
   "bought" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 11
-  },
-  "boughs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "lain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -12197,11 +8153,11 @@
   },
   "peel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Hick" : {
+  "excus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
   "lair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -12211,51 +8167,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "opportunities" : {
+  "frankfurt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "charact" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "meanwhil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 6
+  },
+  "roland" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 16
+  },
+  "tide" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "denounce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "lingering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "names" : {
+  "tonight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "Beloved" : {
+  "fundrais" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "messenger" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "RUMPLESTILTSKIN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "disfigure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "entity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "tonight" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "imposed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "rowed" : {
+  "obei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -12263,17 +8203,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "equally" : {
+  "chariti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "clumsili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
+  },
+  "reign" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 7
   },
   "manner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "suits" : {
+  "quietli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 12
   },
   "pig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -12281,15 +8229,31 @@
   },
   "wake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 4
   },
   "pin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 9
+  },
+  "unabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 9
+  },
+  "rejoic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 15
   },
   "stock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 8
+  },
+  "objec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "armi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
   },
   "beneath" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -12299,77 +8263,45 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Hansel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 45
-  },
   "void" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "voic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 26
   },
   "swam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "liability" : {
+  "swan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "snapped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
   "heroic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "However" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 25
-  },
-  "kings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "Public" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "affected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Three" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "loins" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "army" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "READ" : {
+  "chick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "carter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 18
   },
-  "clumsily" : {
+  "tempt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "temptat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
   "snow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 20
-  },
-  "arms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
+    "value" : 41
   },
   "evil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -12377,133 +8309,97 @@
   },
   "lake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "rising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "replied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 44
+    "value" : 9
   },
   "bush" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
+    "value" : 16
   },
   "fruit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 5
   },
-  "bleated" : {
+  "busi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 15
   },
-  "prisoner" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "bearded" : {
+  "unanim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "accidentally" : {
+  "muse" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "wailing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "sorely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "pursue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "ties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "intended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "busy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "design" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "working" : {
+  "identif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 1
   },
   "land" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 30
-  },
-  "unluckily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 32
   },
   "unpack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
+  "skull" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
   "burn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 18
   },
-  "tied" : {
+  "buri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "buttons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 10
   },
   "chief" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "accord" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "performing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "forfeit" : {
+  "convei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "kicked" : {
+  "accord" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 5
+  },
+  "hurrican" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "forfeit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "unluckili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "procur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "lamp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
   },
-  "burning" : {
+  "straiten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
+    "value" : 1
   },
-  "English" : {
+  "confidenti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
-  "darting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "pebble" : {
+  "groan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -12511,29 +8407,29 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "bury" : {
+  "breadcrumb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 1
   },
-  "VISIT" : {
+  "conduct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
   "velvet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "crowns" : {
+  "aros" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "treading" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 8
   },
   "lamb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 6
+  },
+  "carcas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "ply" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -12541,57 +8437,41 @@
   },
   "wall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  },
-  "renamed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 19
   },
   "walk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 23
+    "value" : 62
   },
-  "quietly" : {
+  "befel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  },
-  "windowframe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "lame" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "coffins" : {
+  "disclos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "fanned" : {
+  "cultur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "meddling" : {
+  "liberti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "OLD" : {
+  "pelt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "marry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 18
+    "value" : 2
   },
   "password" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "liberty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Throw" : {
+  "crook" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -12599,41 +8479,21 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "Thank" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "crowed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "arrangements" : {
+  "thickli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "meeting" : {
+  "onlin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
   },
   "marsh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "landed" : {
+  "yesterdai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "confidential" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "byways" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "displayed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
   "mankind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -12643,93 +8503,37 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 117
   },
-  "angered" : {
+  "want" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 124
   },
-  "thickly" : {
+  "realiti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "exerted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "recognize" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Project" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 83
-  },
-  "bravely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "wand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 8
   },
-  "humming" : {
+  "marri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "reality" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 47
   },
   "shrewd" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "circle" : {
+  "silveri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 5
   },
   "safeguard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "diligent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "roved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "sunrise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Kate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "gilded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "neatly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "nobles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "ware" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Would" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "giving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 6
   },
   "prize" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -12739,10 +8543,6 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "KIDS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "accident" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
@@ -12751,55 +8551,51 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
+  "pop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
   "found" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 122
   },
   "pot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 16
   },
-  "mornings" : {
+  "neatli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "prais" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "blackbird" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "excuse" : {
+  "larg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "spoonful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 38
   },
   "knight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 10
   },
-  "escape" : {
+  "anoth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 59
   },
-  "arts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "funny" : {
+  "freez" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "receive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "cruelty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "implied" : {
+  "advantag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "beating" : {
+  "penc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -12807,33 +8603,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Knowall" : {
+  "charg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 9
   },
-  "LEARN" : {
+  "cruelti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "fainting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "standing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 39
-  },
   "charm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "stables" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "Standing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 7
   },
   "unicorn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -12841,21 +8621,21 @@
   },
   "till" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 121
+    "value" : 126
   },
   "friendship" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Once" : {
+  "attend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
+    "value" : 5
   },
-  "smith" : {
+  "pastur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Anything" : {
+  "smith" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -12863,29 +8643,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Sing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "shovel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "anointed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "mischance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "lightnings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "goods" : {
+  "prepar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
+  },
+  "had" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 615
   },
   "tilt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -12895,99 +8663,111 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "secure" : {
+  "innkeep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Fetch" : {
+  "braveri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "gatewai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "redistribut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "hai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 13
   },
   "wasn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
+  "han" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 125
+  },
   "late" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
+    "value" : 14
+  },
+  "adventur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
   },
   "school" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 4
+  },
+  "dunghil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "ham" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "continue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "proclaimed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Crabb" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
   "rarest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "things" : {
+  "har" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 39
+    "value" : 8
   },
   "hangest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
+  "tile" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
   "hat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 13
   },
-  "immense" : {
+  "lath" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "passages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "beauteous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "BURIED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "brush" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "offers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Heaven" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "hay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
-  },
-  "perish" : {
+  "wast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "sighed" : {
+  "brush" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
+  "perish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "unlock" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "guilti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "last" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 150
+  },
+  "korb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "unlock" : {
+  "hansel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 47
+  },
+  "carelessli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -12997,15 +8777,11 @@
   },
   "wash" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 17
   },
   "weight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "cheerful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
   },
   "loveliest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -13015,105 +8791,57 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "grindstone" : {
+  "merrymak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Nor" : {
+  "courag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
+  },
+  "funni" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "warn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "warm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
-  },
-  "Not" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
-  },
-  "measure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "guilty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "checks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "outskirts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 21
   },
   "pry" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Now" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 97
-  },
-  "carelessly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "chalk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "playing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
   "receipt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "wars" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "employees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "swim" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "stooped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "pedlars" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "alighted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "impossible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Was" : {
+  "soothsay" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Grimms" : {
+  "swim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 11
+  },
+  "trampl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "tini" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "effort" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 6
   },
   "thicker" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -13127,171 +8855,95 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "vegetables" : {
+  "steadi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 1
   },
   "wave" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "yesterday" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "forbade" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "venomous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 12
   },
   "stronger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "handsomer" : {
+  "prudent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "heavens" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "ends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "assembled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "contemptuously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "steady" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "early" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
-  },
-  "earls" : {
+  "jacob" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "eaters" : {
+  "junip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 19
   },
-  "grumbling" : {
+  "yet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "gravely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 47
   },
   "childless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "windows" : {
+  "earli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "quieted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 21
   },
   "wager" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "wages" : {
+  "chanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "faring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "alike" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 8
   },
   "colour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
-  "delightful" : {
+  "chang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "observing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 20
   },
   "time" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 205
-  },
-  "Cannot" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 225
   },
   "buzz" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "wither" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
   },
-  "bravery" : {
+  "pud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
+  "puf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "gateway" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "snares" : {
+  "circul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "happy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 25
-  },
-  "sickness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "continually" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
   },
   "put" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 133
-  },
-  "mocking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Bless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 140
   },
   "hen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Special" : {
+  "her" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 834
+  },
+  "deletion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -13301,47 +8953,15 @@
   },
   "hew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "grows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "stationed" : {
+  "denounc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "laws" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "meets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "caves" : {
+  "persuad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "twigs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "dangling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "LITTLE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "dawdle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "awhile" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "doublet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -13349,171 +8969,111 @@
   },
   "light" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 40
+    "value" : 53
   },
-  "Web" : {
+  "happi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 29
   },
-  "tiny" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "valuable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "circled" : {
+  "merrim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "baskets" : {
+  "spangl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "consecrated" : {
+  "judg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 14
   },
-  "lazy" : {
+  "tabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "methods" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "confirmed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 44
   },
   "smart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "vowed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "cleft" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "enraged" : {
+  "lazi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "ways" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Whilst" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 8
   },
   "helmet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
+  "growl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
   "grown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 10
   },
-  "entice" : {
+  "tire" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 29
   },
   "henceforth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
   "barrel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
+    "value" : 13
   },
   "chain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "desire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  },
-  "touching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "terrified" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 12
   },
   "chair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 11
   },
-  "muddy" : {
+  "dagni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "decked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "sword" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
+    "value" : 13
   },
   "swore" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "earnings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "grove" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "chat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "permanent" : {
+  "struggl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "organized" : {
+  "chat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
+  "muddi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "garden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 45
+    "value" : 66
   },
   "chap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "lamenting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "cudgelled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "travel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "facility" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "HUNCHBACK" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 32
   },
   "small" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -13523,6 +9083,10 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
+  "trinket" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
   "hid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 11
@@ -13531,7 +9095,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "replace" : {
+  "hie" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -13541,59 +9105,43 @@
   },
   "listen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "hailing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "LUCK" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 34
   },
   "hit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
   },
-  "companions" : {
+  "bruis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "groped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
   "beat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 8
   },
-  "grandfather" : {
+  "interrupt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 1
   },
   "bear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 40
+    "value" : 45
   },
-  "Woman" : {
+  "titl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "consider" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
   },
   "proofread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "trampling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "bean" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "Who" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 23
+    "value" : 9
   },
   "group" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -13603,25 +9151,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "tapping" : {
+  "whither" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 13
   },
   "croak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 8
   },
-  "savagely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "bruised" : {
+  "tack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "gross" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "employe" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
   },
   "workshop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -13637,83 +9185,55 @@
   },
   "tree" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 121
+    "value" : 147
   },
-  "Why" : {
+  "careless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 25
+    "value" : 1
   },
-  "shouting" : {
+  "coxcomb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "marian" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "history" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "nibbling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "KING" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "hurts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "counteract" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "unharmed" : {
+  "histori" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "KIND" : {
+  "exchang" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "peaceabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "whistled" : {
+  "ashputtel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "deserted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "managing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "belonged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 18
   },
   "request" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "credentials" : {
+  "their" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "hoes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "rocking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "feigning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 163
   },
   "shepherd" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 28
+  },
+  "novemb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "thirteen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -13721,75 +9241,39 @@
   },
   "point" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "silvery" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "grieved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
-  },
-  "polished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 7
   },
   "mistook" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "general" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Blessed" : {
+  "unenforc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "frighten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 30
   },
-  "shuddering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "grieves" : {
+  "facil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "deserve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "requirements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "embassies" : {
+  "process" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "tricked" : {
+  "sprout" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "restore" : {
+  "bottl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "reproached" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 7
   },
   "clear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "Only" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 9
   },
   "workmanship" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -13797,11 +9281,15 @@
   },
   "clean" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 11
   },
   "manikin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 11
+  },
+  "uneasi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 12
   },
   "meal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -13811,43 +9299,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "vagabonds" : {
+  "fundevogel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 14
+  },
+  "mean" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 20
+  },
+  "neither" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 14
   },
   "glad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
+    "value" : 22
   },
   "meat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 17
+  },
+  "chafe" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "godchildren" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "hurry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
   "account" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
   },
-  "attendance" : {
+  "ichabod" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "uneasy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  },
-  "furrows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "innocent" : {
+  "marbl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
@@ -13859,101 +9347,77 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "brushed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "hoarse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "beef" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
+  },
+  "stride" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
   },
   "meek" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "sackful" : {
+  "dawdl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "attendants" : {
+  "tranc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 1
   },
-  "scolding" : {
+  "crosswai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "traitor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "trip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
   },
   "trim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "murderous" : {
+  "yok" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "hunting" : {
+  "strict" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
+    "value" : 1
+  },
+  "you" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1262
   },
   "beer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 15
   },
-  "safely" : {
+  "jump" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "bees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 30
   },
   "soft" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "knowledge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "jump" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "happen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 63
   },
-  "festival" : {
+  "perceiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 5
   },
   "scoundrel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "delighted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "opportunity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "scornfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "active" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "court" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -13963,21 +9427,9 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "venture" : {
+  "grasshopp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "Said" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "LIMITED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Mississippi" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "discern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -13985,63 +9437,43 @@
   },
   "entreat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "combs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "brushes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
   "hob" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "beds" : {
+  "preserv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "Briar" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 2
   },
   "hoe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "stems" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "sweetly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "gardens" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
+  },
+  "organ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "troubl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 33
+  },
+  "marleen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 14
   },
   "shiver" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "unwilling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 2
   },
   "hop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 8
   },
   "comer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "bottle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
   },
   "hot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -14051,7 +9483,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "honourable" : {
+  "corpor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "pursu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 6
+  },
+  "how" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 186
+  },
+  "sweetli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -14059,25 +9503,21 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Salt" : {
+  "uncouth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "hearing" : {
+  "releas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 2
   },
-  "wedding" : {
+  "regul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 26
+    "value" : 1
   },
   "spare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "tusks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
   "chin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -14085,155 +9525,79 @@
   },
   "tail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
+    "value" : 25
   },
-  "bargained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "dragged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "stepmother" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "Half" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "popped" : {
+  "lentil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "ANYTHING" : {
+  "march" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "mutter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
-  "legged" : {
+  "solitud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "meet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "regarded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "answer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
+    "value" : 125
+  },
+  "meet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 12
   },
   "glee" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "calls" : {
+  "falada" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "seashore" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "restored" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 18
   },
   "bolder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "purse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "putting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "rubbed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "robbers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
-  },
-  "promise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "ASCII" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "robbery" : {
+  "belabour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "leaned" : {
+  "thrive" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "represent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "dispatch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "gudgeon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "hold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 32
-  },
-  "Cinderella" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 36
   },
   "tale" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "magnificently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Rome" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "outdated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "reckoning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Hurrah" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Nevertheless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 19
   },
   "talk" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "listened" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 15
   },
   "tall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
-  },
-  "reply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "landmark" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -14243,211 +9607,139 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
+  "vanish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
   "train" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "Tales" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "honourably" : {
+  "baron" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "Gold" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Taylor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "rapidity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "ashore" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "For" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 20
   },
   "count" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 8
   },
-  "muttered" : {
+  "creep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 5
   },
   "trough" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "creep" : {
+  "repli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 46
   },
-  "GOLDEN" : {
+  "take" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "Fox" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 24
+    "value" : 179
   },
   "horseback" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "planed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "undecided" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "blame" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Turn" : {
+  "perhap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 14
   },
-  "Hans" : {
+  "reckon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 119
+    "value" : 2
   },
-  "carrying" : {
+  "some" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 138
   },
-  "beginning" : {
+  "princ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "waiting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
+    "value" : 78
   },
   "landlord" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "Well" : {
+  "divin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 37
+    "value" : 1
   },
-  "additional" : {
+  "nosegai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "univers" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "bloodi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "reflec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "abid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "berries" : {
+  "trot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 6
   },
-  "apiece" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "ROBBER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "SALAD" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Money" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "tidings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "swallowed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  },
-  "Language" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "deceived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "passes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "conceited" : {
+  "hausmarchen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "soften" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "passed" : {
+  "just" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 35
+    "value" : 87
   },
-  "notice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "bloody" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "International" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "sole" : {
+  "divid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
+  "sole" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
   "owner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 6
   },
   "sold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "winged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Grant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "midnight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 9
   },
-  "emptying" : {
+  "coupl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "espied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "juiciest" : {
+  "collabor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "grandson" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "juiciest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -14455,31 +9747,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "darling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
   "trod" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "comforted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "killed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 31
-  },
   "home" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 178
+    "value" : 180
   },
   "hole" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
+    "value" : 21
   },
-  "entreaties" : {
+  "michael" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
@@ -14489,13 +9769,17 @@
   },
   "print" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
   },
   "cavern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "material" : {
+  "although" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 6
+  },
+  "holi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -14503,35 +9787,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "nosegay" : {
+  "holl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 12
   },
   "iron" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 26
   },
   "hug" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Good" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 43
-  },
-  "bedtime" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "nudged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "fortunes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "explain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "scholarli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -14539,69 +9811,45 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
+  "hum" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
   "basket" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "envy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 6
   },
   "hut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "dropped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "answers" : {
+  "visibl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "royalty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "rogues" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "hope" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 10
   },
-  "paragraphs" : {
+  "soon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 154
+  },
+  "assembl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
-  },
-  "scholarly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "tablet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "tables" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
   "hook" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "sons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
-  },
-  "pertains" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "translations" : {
+  "melt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "bend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -14615,149 +9863,101 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 16
   },
-  "suspected" : {
+  "creat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "dowry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
   "chop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Hard" : {
+  "grete" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
-  "JOHN" : {
+  "hood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "MERCHANTIBILITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "bell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 8
   },
-  "heavy" : {
+  "hoof" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 26
+    "value" : 1
   },
-  "Hark" : {
+  "stepsist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 1
   },
   "snuff" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "fires" : {
+  "spectacl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "envi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
   },
   "underground" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "asks" : {
+  "dowri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 1
   },
-  "reached" : {
+  "repos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 23
+    "value" : 1
+  },
+  "singl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 6
   },
   "hardest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "cinders" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Hart" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "roasts" : {
+  "notifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "sings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "dived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "eventide" : {
+  "natur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "Heinrich" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "DISTRIBUTE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "painted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
   },
   "anvil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "conquered" : {
+  "deliver" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Right" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Rose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 22
+    "value" : 2
   },
   "summer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "Off" : {
+  "deriv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Still" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Clever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 5
   },
   "file" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
   },
-  "PURPOSE" : {
+  "heavi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 26
   },
-  "grease" : {
+  "could" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
-  },
-  "nestled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "bent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -14765,29 +9965,21 @@
   },
   "strike" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 9
   },
   "smack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "subdue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "health" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "gathered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
-  },
   "torch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "favourite" : {
+  "ropemak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -14795,125 +9987,85 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "trusted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "machine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "evening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 68
-  },
-  "return" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 25
-  },
-  "codes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "sulkily" : {
+  "explan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "charities" : {
+  "dishearten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "concerned" : {
+  "doodl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
-  "LIABLE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "conscience" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "practically" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "serve" : {
+  "royalti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "envious" : {
+  "robberi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "GRANDSON" : {
+  "return" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 39
+  },
+  "nonsens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "cough" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "drown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 8
   },
-  "Upstairs" : {
+  "smile" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
   "heath" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "fine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 51
-  },
-  "downloading" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "SNAKE" : {
+  "sulkili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "find" : {
+  "fine" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 76
+    "value" : 55
   },
   "huntsmen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 23
+    "value" : 25
   },
-  "Oho" : {
+  "find" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 82
   },
   "host" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 4
   },
-  "Wert" : {
+  "dangl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "backward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 7
   },
-  "calculated" : {
+  "abod" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "turtle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "crackle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "sooner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 5
   },
   "pleasant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -14925,43 +10077,39 @@
   },
   "occur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
   "difficult" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "floated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Have" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "sort" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "fill" : {
+  "vallei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "steps" : {
+  "sort" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 13
   },
+  "fill" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 14
+  },
   "hears" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "presenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "softli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 12
   },
   "heart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 73
-  },
-  "friends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 78
   },
   "painter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -14969,57 +10117,57 @@
   },
   "forget" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "peasants" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 9
+  },
+  "professor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "task" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 15
   },
   "horn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 4
+  },
+  "hors" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 111
   },
   "true" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 39
   },
-  "befell" : {
+  "tast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 20
   },
   "sore" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "valley" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 8
   },
   "present" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "softly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 23
   },
   "curtain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "soup" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 12
   },
-  "bustled" : {
+  "belong" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 13
+  },
+  "outwit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "belong" : {
+  "hideou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
@@ -15027,249 +10175,141 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "blythe" : {
+  "comrad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "abundance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "dangerous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "movements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "appears" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "troubles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "meagre" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 9
   },
   "sour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "coined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "hour" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 20
-  },
-  "troubled" : {
+  "sooth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "regulating" : {
+  "certainli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "transform" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "execut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "hour" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 24
+  },
+  "hous" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 129
+  },
+  "millston" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 6
   },
   "heard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 111
   },
-  "falling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "poodle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "West" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "pretended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
   "sought" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 10
   },
-  "shocked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "master" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 46
-  },
-  "croaked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Upon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "lions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "pulling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 54
   },
   "thyself" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "online" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "Pray" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
-  },
-  "coming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 26
-  },
-  "splashed" : {
+  "relent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Each" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "REMEDIES" : {
+  "apprentic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "feared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Old" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "linnets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "United" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
   },
   "scream" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "snowing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 24
   },
   "cover" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 15
   },
   "firm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "coughing" : {
+  "reflect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "procession" : {
+  "sprai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "Behave" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
   },
   "fire" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 70
+    "value" : 71
   },
-  "trample" : {
+  "awhil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
-  "sticking" : {
+  "immedi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 15
   },
-  "based" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "spray" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "greedily" : {
+  "distinguish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "howl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Murder" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
   "fiddler" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 10
   },
-  "intention" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "pointed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "traitors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "rude" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "spindles" : {
+  "forgiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "declar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
+  "greedili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Willingly" : {
+  "except" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "processing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "clung" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "unfastened" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "shower" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
+  },
+  "nevertheless" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 6
   },
   "topmost" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -15279,81 +10319,49 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "One" : {
+  "jewel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 34
+    "value" : 7
   },
-  "respectable" : {
+  "fret" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "announc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 8
+  },
+  "bewar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "knocked" : {
+  "unless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 22
-  },
-  "Strew" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "FAIRY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "scalded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Haste" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "pieces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 22
-  },
-  "Jorindel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "Under" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "particulars" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "free" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 40
   },
+  "ought" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
   "honour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "accordance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "weary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "GRISLY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "people" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 44
+    "value" : 3
   },
   "face" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 42
+    "value" : 45
   },
-  "trips" : {
+  "arrog" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "weari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 8
   },
   "afraid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -15361,63 +10369,35 @@
   },
   "fish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 37
-  },
-  "showed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 18
-  },
-  "After" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 35
+    "value" : 46
   },
   "household" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 4
   },
-  "invite" : {
+  "befal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "maids" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Click" : {
+  "contentedli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "ice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Whose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "inside" : {
+  "afterward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 16
   },
-  "ploughed" : {
+  "shrub" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "curdken" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 13
+  },
+  "restrain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "Tommy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Full" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "melancholy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "leaves" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
   },
   "awkward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -15427,23 +10407,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
+  "five" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 5
+  },
   "ruin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "commands" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "streamed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "mourners" : {
+  "melancholi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "impatient" : {
+  "vanilla" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
@@ -15451,51 +10427,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "celebrate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "quarrelling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Merrily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "collection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "finding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
   "thrice" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "fits" : {
+  "nibbl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
   "hunger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 15
   },
-  "contentedly" : {
+  "idl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "announced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 7
   },
   "slept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 21
   },
-  "staring" : {
+  "inspect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "guid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -15503,17 +10459,13 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "sighing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "kills" : {
+  "squar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "loudly" : {
+  "arriv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 10
   },
   "gulp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -15525,73 +10477,69 @@
   },
   "father" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 175
+    "value" : 183
   },
-  "begging" : {
+  "commerci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "jumped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 22
   },
   "swept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "derivative" : {
+  "rule" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "assistance" : {
+  "condemn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
-  "girdle" : {
+  "everi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 50
   },
-  "ropemaker" : {
+  "turtl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
-  "Straw" : {
+  "loudli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 8
   },
-  "dismounted" : {
+  "spindl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 11
   },
-  "hurting" : {
+  "wonder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Kehrewit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 22
   },
   "guiltless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "answered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 114
-  },
-  "Title" : {
+  "shave" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "PEASANT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Someone" : {
+  "windowfram" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "sands" : {
+  "again" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 189
+  },
+  "unharm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "resembl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "avaric" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -15599,17 +10547,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "fireside" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "shrivelled" : {
+  "twinkl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
+  "excit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "nurseri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "safeti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
   "fair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
+    "value" : 13
   },
   "wisest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -15619,47 +10575,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "degrees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "prick" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Away" : {
+  "messeng" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
   },
-  "charitable" : {
+  "prick" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 5
+  },
+  "sanna" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "critic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "safety" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
   },
   "price" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "enable" : {
+  "jeer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
-  "yelled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "glared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "dresses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "pincers" : {
+  "proces" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -15667,53 +10607,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "FORTH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "leagues" : {
+  "compress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "arise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "dressed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  },
-  "swelling" : {
+  "birch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "agree" : {
+  "rattl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
+    "value" : 2
   },
-  "Our" : {
+  "earthenwar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "Out" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "underneath" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "HUNTSMEN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "doors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "welcomed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 10
   },
   "fail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -15723,45 +10635,21 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "DISCLAIMER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Get" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
   "emperor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 11
-  },
-  "betrayed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "pride" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "beckoned" : {
+  "impetu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "apprentices" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Shoot" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "danced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 23
   },
   "refund" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 10
   },
   "distress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -15771,55 +10659,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "donations" : {
+  "thumb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
+    "value" : 7
   },
   "steep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "hoped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "thumb" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "seize" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "damages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "church" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
+    "value" : 12
   },
-  "boiled" : {
+  "daytim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
   "steed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "chests" : {
+  "boldli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
-  "birds" : {
+  "requir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 23
+    "value" : 12
   },
   "foreign" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "discontinue" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -15829,111 +10697,75 @@
   },
   "fall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 38
+    "value" : 44
   },
   "blaze" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "frontispiece" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "mysterious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "ridges" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "boldly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "stitching" : {
+  "scatter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
   "event" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "flurry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "finger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 35
+    "value" : 45
+  },
+  "rumpelstiltskin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
   },
   "spat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "caused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "nice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "bewailed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "planks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Stand" : {
+  "subscrib" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "HIS" : {
+  "flurri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 1
+  },
+  "nice" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 13
+  },
+  "excel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
   },
   "liquid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "wings" : {
+  "cannot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "damaged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 53
   },
   "forgot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 11
   },
-  "fisherman" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 25
-  },
-  "runs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "dawned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "Done" : {
+  "excep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "fisherman" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 27
+  },
+  "first" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 104
   },
   "perfect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "puddings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "fewer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -15947,49 +10779,33 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "Edwardes" : {
+  "frog" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 22
   },
   "chamber" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 26
-  },
-  "frog" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
+    "value" : 28
   },
   "spite" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 6
   },
-  "arrange" : {
+  "simpl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
-  "harmed" : {
+  "from" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 180
   },
   "depart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "halted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "smells" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "drawers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "bench" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 8
   },
   "bottom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -15999,83 +10815,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 26
   },
-  "derry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "finished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "disheartened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "published" : {
+  "purpl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
   "solicit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
-  "JEMMY" : {
+  "fals" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 11
   },
   "poke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "fortress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "healed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "bridegroom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 11
   },
-  "Heinel" : {
+  "granit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
+    "value" : 2
   },
-  "covered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "basted" : {
+  "derri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "spinning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "enticed" : {
+  "fame" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "bosom" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "replacement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Whoever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "tossed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "pelting" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
@@ -16089,7 +10865,7 @@
   },
   "death" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 26
+    "value" : 27
   },
   "steak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -16099,21 +10875,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "advice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  },
-  "statements" : {
+  "arrai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "VALIANT" : {
+  "squir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
   },
   "bestow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
+  },
+  "rumplestiltskin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "error" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "imp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -16123,31 +10903,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "forsake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "holding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
   "shinest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
   "public" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
+    "value" : 11
   },
   "paper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "winds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "array" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -16155,107 +10919,59 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
+  "scornfulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
   "track" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
-  },
-  "concealed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "DIRECT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "procure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "listening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "fortune" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  },
-  "repay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "blockhead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "perching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "inn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "charging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "tricks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 12
   },
   "heaviest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "sisters" : {
+  "rush" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "DANCING" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 6
   },
   "nigh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
+  "emploi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
   "crept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 19
-  },
-  "blooming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "trade" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
+  "repai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "pollut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
   "round" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 82
-  },
-  "Roland" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
-  },
-  "Additional" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Tell" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "creeping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 85
   },
   "ambassador" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "insisted" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -16263,93 +10979,57 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "weave" : {
+  "comic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "YOU" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "horses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
+    "value" : 1
   },
   "pope" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 16
   },
-  "Silly" : {
+  "properli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 6
+  },
+  "treacher" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "fare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 11
   },
   "sweetheart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 9
   },
-  "references" : {
+  "describ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "LEGS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "nailed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "shakes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "redistribution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "RAPUNZEL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "setting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "properly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
   },
   "ducat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "favoured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "precipice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "hugged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
   },
   "poor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 86
+    "value" : 91
   },
-  "stabbed" : {
+  "scorn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
-  "sorts" : {
+  "rag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 3
+  },
+  "rai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 5
+  },
+  "curtsi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "ran" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -16357,21 +11037,13 @@
   },
   "grief" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "ashamed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 10
   },
   "rap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
-  "needful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "civilly" : {
+  "newslett" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -16379,23 +11051,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "envied" : {
+  "illustr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "excellent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "withered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "fairly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "slaughterers" : {
+  "hobbl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -16403,179 +11063,67 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "ray" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "redistributing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "shaking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "sprinkle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "snore" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 12
+  },
+  "firmli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "cultural" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "HOW" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "hurried" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "persons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "charges" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "courtyard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 10
   },
-  "grazed" : {
+  "fairli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "pearls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  },
-  "warming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Author" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "East" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "espying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "firmly" : {
+  "treacheri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Bind" : {
+  "feign" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "providing" : {
+  "snort" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 1
   },
-  "weeks" : {
+  "kettl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 5
   },
   "fate" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "ringing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "licked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 6
   },
   "throat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 7
   },
   "hasten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 9
   },
-  "ridiculed" : {
+  "odiou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "robbed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "blamed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "posted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "rolling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "retire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Mind" : {
+  "civilli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "close" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 29
+    "value" : 36
   },
-  "God" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 16
-  },
-  "curled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "HANS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "breathed" : {
+  "distributor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "linked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "PRINCE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "pulled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
-  },
-  "intending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "sharpening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "mumbled" : {
+  "materi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -16583,25 +11131,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 71
   },
-  "leisurely" : {
+  "sorcer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "calling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "spin" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "robber" : {
+  "mischanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "qualities" : {
+  "hunchback" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "spin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 19
+  },
+  "robber" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 19
   },
   "cistern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -16611,105 +11159,45 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
   },
-  "bolted" : {
+  "scour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "clambered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "couple" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "astonishment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Email" : {
+  "movem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "saddle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "moved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "daintily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "simpletons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Pay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "pots" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Melan" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "fortunately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "red" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 56
-  },
-  "musing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 92
   },
   "act" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
+  "post" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 6
+  },
   "duck" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 21
-  },
-  "magnificence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "tiresome" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "helped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 25
   },
   "finish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 14
+  },
+  "remedi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "morrow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "frogs" : {
+  "incomplet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "gifts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "dreaming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
   "add" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -16719,21 +11207,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "educational" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "LIGHT" : {
+  "peacefulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Twelve" : {
+  "amend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "consent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 9
   },
   "ado" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -16745,107 +11229,43 @@
   },
   "respect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 5
   },
   "shelf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "escaped" : {
+  "shell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "peacefully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "shell" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "begged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 25
-  },
-  "Softly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "exchange" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Sooner" : {
+  "daintili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "heaped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "puddle" : {
+  "fourthli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "trust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
-  "sparrows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "buyers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Posting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "production" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Bird" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "universally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "soldiers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "choose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "treachery" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Gregory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "overtake" : {
+  "sorri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "Fourthly" : {
+  "scamper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "skipped" : {
+  "frightfulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "consequ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "miles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
   },
   "prevent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -16855,63 +11275,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "behave" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "disturbing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "happiness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "Donations" : {
+  "outskirt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "strikes" : {
+  "benjamin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "roadsid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "woefulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "modifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "succe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "frightfully" : {
+  "pour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
-  "bills" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "sashes" : {
+  "undisturb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "bedchamber" : {
+  "anyth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "hares" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "embrace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "identify" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "cleverly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 27
   },
   "vermin" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "woefully" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -16919,43 +11319,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 9
   },
+  "uncl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "cleverli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
   "exempt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "pushed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
-  },
-  "fished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "strewn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "enjoyed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "crab" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "age" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "crossways" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "shoulders" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  },
-  "feasting" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
@@ -16963,17 +11343,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "sickle" : {
+  "dirtiest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "dirtiest" : {
+  "challeng" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "ago" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
+  },
+  "properti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
+  "yearn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "rib" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -16983,33 +11371,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 8
   },
-  "accessed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "fishes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "years" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 43
-  },
   "boar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 10
   },
   "number" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 7
   },
   "defect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 7
+  },
+  "identifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "punish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 8
   },
   "rim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -17019,123 +11399,51 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Back" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "property" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "strangely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "frock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "eggs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "Rapunzel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 23
-  },
-  "volumes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "carelessness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "distributed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "urged" : {
+  "aha" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "hairy" : {
+  "hairi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "happily" : {
+  "happili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 12
   },
   "spot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 18
-  },
-  "clogs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 19
   },
   "woodman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 10
   },
-  "fiddle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "Miss" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "AGREE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "silver" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 24
-  },
-  "mighty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "WENT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "sleeves" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "aid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "blessing" : {
+  "other" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
   "aim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "city" : {
+  "ail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  },
-  "barons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "fairer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "uncle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "HAVE" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -17143,35 +11451,39 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
+  "mighti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 6
+  },
   "air" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 25
   },
-  "Hanau" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "courage" : {
+  "unbolt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
+  },
+  "resum" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "crew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "PINK" : {
+  "locat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 6
   },
-  "electronic" : {
+  "yield" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 27
+    "value" : 3
   },
   "speak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 22
+    "value" : 26
   },
-  "unsolicited" : {
+  "consciou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -17179,65 +11491,29 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "ROSE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "filled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "eBooks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "FIRST" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "spoiled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "meantime" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
   "boat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 16
+    "value" : 17
   },
-  "Fear" : {
+  "citi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 12
+  },
+  "mississippi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "removed" : {
+  "moan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
-  },
-  "powerful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "future" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "burnished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "acquaintance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "DONATIONS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "royal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 21
+  },
+  "pertain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "shed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -17247,89 +11523,97 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "copied" : {
+  "duke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
   "scissor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
+  },
+  "fiddl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 9
   },
   "glove" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "catches" : {
+  "anxiou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "reigned" : {
+  "villag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 18
   },
-  "body" : {
+  "spur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
+    "value" : 2
   },
-  "unlocked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "clods" : {
+  "rear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "cage" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
+    "value" : 19
   },
-  "brains" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "copies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "tresses" : {
+  "playth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "modified" : {
+  "ala" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 38
+  },
+  "insect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "ale" : {
+  "buffet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 1
   },
-  "dukes" : {
+  "oblig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 13
+  },
+  "unsolicit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "favourit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "all" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 602
   },
   "read" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
+    "value" : 13
   },
-  "tying" : {
+  "frontispiec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "alm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "todai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 8
   },
   "touch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 22
   },
-  "barrels" : {
+  "rememb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "conducted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "applicable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 7
   },
   "clock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -17339,77 +11623,41 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "strangers" : {
+  "unit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 10
   },
-  "expense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Newby" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "maintaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "April" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "alas" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  },
-  "Stuck" : {
+  "famou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
+  },
+  "alreadi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 13
   },
   "sadder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "reappeared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Fairy" : {
+  "mock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "prayers" : {
+  "bodi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 15
   },
-  "dusty" : {
+  "collect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "badly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "overjoyed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "jumping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 2
   },
   "rob" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "equipped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 5
   },
   "rod" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
   "dumb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -17419,37 +11667,41 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "lamented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "favour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 6
   },
-  "simples" : {
+  "badli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "poultri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "cleverness" : {
+  "resolv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "rejoicing" : {
+  "and" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 5547
   },
-  "buffetings" : {
+  "vengeanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "today" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
   },
   "row" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 6
+  },
+  "obsolet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "ani" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 20
   },
   "fifteen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -17459,43 +11711,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "poultry" : {
+  "blossom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "looked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 113
   },
   "ant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 13
   },
-  "Feel" : {
+  "suckl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "perched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "Faith" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "wrongs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "doodle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "minute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "caring" : {
+  "shew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -17503,25 +11731,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "compilation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "ninth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "FREDERICK" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "ASHPUTTEL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "parson" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 15
+  },
+  "until" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 11
   },
   "dull" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -17529,45 +11749,17 @@
   },
   "reason" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "silently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 10
   },
   "thought" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 166
-  },
-  "Sweep" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "rascals" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "taste" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 173
   },
   "ship" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "barking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 11
   },
   "ragamuffin" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "innkeeper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "abashed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -17579,211 +11771,115 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "identification" : {
+  "forsak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "cake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 23
   },
   "jam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 6
   },
-  "hired" : {
+  "english" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "mistak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "Foundation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 24
-  },
-  "gentle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "poverty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "talers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
   },
   "boil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 9
   },
-  "goodness" : {
+  "dazzl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "lightning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 3
   },
   "broke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 19
   },
-  "deeds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Shake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
   "nail" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "hosts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "shabby" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
   },
-  "spirits" : {
+  "wondrou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "patienc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "gentli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "Make" : {
+  "reed" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "miracul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "completed" : {
+  "threepenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "juniper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
+    "value" : 2
   },
   "mount" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 9
   },
   "demand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
+  },
+  "ounc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "reel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "warranties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "rings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Refund" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "gently" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
   "letter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 6
   },
-  "KORBES" : {
+  "gees" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 12
+  },
+  "scorch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "limped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "succeeded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Edgar" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "cheeses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "increased" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "tallest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "devil" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "sleepers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "handed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Nursery" : {
+  "calv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "devil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
   },
   "worth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "Open" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  },
-  "Certainly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "cried" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 153
-  },
-  "RAVEN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "fluttering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "fruits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "pockets" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "blowest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Heads" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Ashputtel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 16
-  },
-  "patience" : {
+  "blowest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -17791,33 +11887,21 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Peasant" : {
+  "where" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Many" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "takes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "stirred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 140
   },
   "arm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 18
   },
-  "Stay" : {
+  "malic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "kids" : {
+  "caper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 3
   },
   "broken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -17825,57 +11909,49 @@
   },
   "stitch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
   "pglaf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 8
   },
   "art" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
+    "value" : 20
   },
-  "thoughtful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "noticed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "lacking" : {
+  "esteem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Had" : {
+  "infring" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
   "holder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "pudding" : {
+  "poverti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "fitted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
   "call" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 105
   },
   "calm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "kick" : {
+  "accurs" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "trumps" : {
+  "kick" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 5
+  },
+  "essenti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -17885,169 +11961,97 @@
   },
   "ash" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 23
   },
-  "Learn" : {
+  "ask" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Has" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "relations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 162
   },
   "knelt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
+  "nake" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
   "rub" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "ass" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 20
+    "value" : 22
   },
-  "longed" : {
+  "unkindli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "forwards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "shewed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "rue" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "castle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 82
-  },
   "strength" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 15
   },
-  "Compliance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "run" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 54
+    "value" : 77
   },
-  "treacherous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "repeated" : {
+  "worri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "mother" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 138
+    "value" : 154
   },
-  "mouse" : {
+  "crackl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 34
+    "value" : 1
   },
   "view" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 5
   },
-  "unkindly" : {
+  "jorinda" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "ate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 39
-  },
-  "Kinder" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "warriors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 12
   },
   "piteous" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Look" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "donate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 1
   },
   "purest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "PARTLET" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "travelling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
-  "palace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 32
-  },
-  "worry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "watches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "rapunzel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Bring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "knives" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "lifted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 18
-  },
-  "bold" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "worse" : {
+  "discov" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 9
   },
-  "bounded" : {
+  "those" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 11
+  },
+  "alik" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "dares" : {
+  "difficulti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
-  "overlooking" : {
+  "rapunzel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 26
+  },
+  "dure" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 5
+  },
+  "bold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -18055,45 +12059,29 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "delicious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "FULL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "screaming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "difficulty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "watched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
   "longer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 49
   },
-  "volunteer" : {
+  "sunbeam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Long" : {
+  "aliv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 19
   },
-  "marrying" : {
+  "consum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "name" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 25
   },
   "crow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
   "worst" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -18101,35 +12089,19 @@
   },
   "mourn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
   "hornet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "bolt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 5
   },
   "thunderstorm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "leaving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Domain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Judge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "trotting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
   },
   "boon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -18139,7 +12111,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "Christmas" : {
+  "forbad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -18147,25 +12119,13 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "distance" : {
+  "fatigu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 3
   },
-  "planted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "Yes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 41
-  },
-  "absence" : {
+  "attract" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "approaching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "book" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -18173,213 +12133,149 @@
   },
   "show" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
-  },
-  "Yet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Leave" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 37
   },
   "edition" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
+  },
+  "disappear" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 5
+  },
+  "penni" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 5
   },
   "shot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 10
   },
-  "cracked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "situated" : {
+  "crouch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "sniffed" : {
+  "comput" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
+  "defend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "arrive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "crying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
   },
   "street" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 13
   },
-  "mantle" : {
+  "overcom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 7
+  },
+  "boot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 7
   },
   "shoe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 16
+    "value" : 42
   },
-  "vanished" : {
+  "enabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 1
   },
-  "resting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "learned" : {
+  "jollili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
+  },
+  "thirdli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "boni" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "duti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "bone" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "suddenly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
+    "value" : 15
   },
   "bond" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "WEDDING" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Put" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "discourse" : {
+  "foliag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "JUNIPER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "jollily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "christened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "mouth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 18
+    "value" : 23
   },
-  "thirdly" : {
+  "knowledg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Her" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "bony" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "giants" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 16
-  },
-  "relented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "duty" : {
+  "unti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "stranger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "penny" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "hastening" : {
+  "suddenli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "blazing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 16
   },
   "simpleton" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
   },
-  "delicate" : {
+  "trump" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 1
   },
   "yard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "fancy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 9
   },
   "jib" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "fowls" : {
+  "loosen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 1
   },
-  "whistling" : {
+  "carv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
-  "WARRANTIES" : {
+  "enrag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "poured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "collected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "carpenter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
   "cart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
-  },
-  "axe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 20
+  },
+  "appetit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "jip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
   },
   "cast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "anxious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "quacking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "dressing" : {
+  "nostril" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -18387,37 +12283,41 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "Work" : {
+  "displai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
   "cask" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
+    "value" : 14
   },
   "broad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "awakened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
   "princess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 101
+    "value" : 122
   },
   "morsel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
   "greater" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
+  "grimm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 12
+  },
   "case" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 9
+  },
+  "sundai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
   },
   "hollow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -18427,113 +12327,81 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "wares" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "longing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "saving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Lord" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
   "moon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 20
   },
-  "sticks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "miraculous" : {
+  "hullo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "consid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "flesh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "alms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "card" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
   },
   "care" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 56
-  },
-  "cherry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "damage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 62
   },
   "guard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 12
   },
-  "fulfilled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "settle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "fireplace" : {
+  "terribl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
+  },
+  "compil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "labour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "parched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "scrape" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
+  "cherri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
   "madam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
+  },
+  "caus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 15
+  },
+  "scold" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 9
   },
   "cushion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "buzzed" : {
+  "violat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "comrade" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "dared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "snowflakes" : {
+  "bleat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "cooking" : {
+  "besmear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 1
   },
   "protect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -18543,31 +12411,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "Ought" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "chandelier" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "Hie" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "born" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 10
   },
-  "heels" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "display" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "soothsayer" : {
+  "furnitur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -18577,15 +12425,11 @@
   },
   "kill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 29
+    "value" : 61
   },
-  "consulted" : {
+  "morn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "ducks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 102
   },
   "gnaw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -18595,149 +12439,57 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "inaccurate" : {
+  "fanci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
-  "beings" : {
+  "onward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "beautifully" : {
+  "beautifulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
-  },
-  "spurs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "copse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "His" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
-  },
-  "tailors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "cats" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "cured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "rapping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "playthings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "parted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "hunters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "shut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 27
-  },
-  "diamonds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 28
   },
   "luck" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 25
+    "value" : 27
   },
-  "bidding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "shrubs" : {
+  "credenti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "TRAVELLING" : {
+  "handsom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 17
   },
-  "simple" : {
+  "busybodi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 1
   },
-  "devoured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "prudently" : {
+  "timothi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "cloud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "amicably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "QUEEN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "cages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "busybody" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "INCLUDING" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Mission" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "wrapped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 5
   },
   "ridden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "rogue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "roused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Produced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "cave" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 6
   },
   "king" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 349
+    "value" : 373
   },
   "forgiven" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -18745,11 +12497,19 @@
   },
   "kind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 26
+    "value" : 40
   },
-  "important" : {
+  "daili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "most" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 18
+  },
+  "cabbag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "moss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -18759,15 +12519,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "bones" : {
+  "imagin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
+    "value" : 4
   },
-  "daily" : {
+  "voyag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 2
   },
-  "YOUTH" : {
+  "eater" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "valuabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
@@ -18781,35 +12545,31 @@
   },
   "daughter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 94
+    "value" : 105
+  },
+  "courteous" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "cloth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 40
   },
-  "chafed" : {
+  "jog" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 5
   },
-  "limitation" : {
+  "joi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "pretending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Princess" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "solicitation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 29
   },
   "awaken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 10
+  },
+  "continu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 14
   },
   "forbid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -18819,25 +12579,13 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "footing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "bowl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "Shall" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "strangle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "joy" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 27
+    "value" : 2
   },
   "patient" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -18845,11 +12593,15 @@
   },
   "sad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
+    "value" : 14
   },
   "sheer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "arrang" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
   },
   "goldsmith" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -18857,11 +12609,7 @@
   },
   "profit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Release" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
   "sheep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -18869,21 +12617,13 @@
   },
   "rest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 43
+    "value" : 50
   },
   "move" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
+    "value" : 20
   },
-  "disclosed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "comply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "original" : {
+  "dislik" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -18895,47 +12635,51 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 125
   },
-  "wheresoever" : {
+  "enough" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 9
   },
-  "earnestly" : {
+  "truli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "kingdom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 38
+    "value" : 40
   },
-  "Bride" : {
+  "liabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "hopped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 1
   },
   "spread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 9
   },
+  "griev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 20
+  },
   "afternoon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "REPLACEMENT" : {
+  "situat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "guests" : {
+  "mous" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 38
   },
-  "Blackbird" : {
+  "terrifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 9
   },
-  "midges" : {
+  "compli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 9
+  },
+  "earnestli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -18943,39 +12687,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 15
   },
-  "You" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 101
-  },
-  "customer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "plane" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "stupid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "bad" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 18
-  },
-  "Stop" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "wedge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "stripped" : {
+  "viru" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "reflected" : {
+  "christen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 6
+  },
+  "bad" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 19
+  },
+  "decre" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -18987,49 +12719,33 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "boys" : {
+  "complet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "drags" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "awake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
   },
   "kiss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 13
   },
-  "plague" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Carter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "offer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "thawed" : {
+  "constabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
+  "offer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 12
+  },
+  "breez" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 6
+  },
   "suffer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 10
   },
   "bar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "disenchanted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 5
   },
   "neighbourhood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -19039,53 +12755,53 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "drowned" : {
+  "contriv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 5
   },
-  "hazardous" : {
+  "angri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 21
+  },
+  "entangl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "disclaim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
-  "angry" : {
+  "greatli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 21
+    "value" : 9
   },
-  "How" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 32
-  },
-  "delay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "violates" : {
+  "secur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "heinel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 17
   },
   "plant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 6
+  },
+  "slyli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
+  "florin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
   "drive" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "greatly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 14
   },
   "plank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "Ilsabill" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
+    "value" : 6
   },
   "deal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -19095,165 +12811,85 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 8
   },
-  "stained" : {
+  "affect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "accursed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "slyly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
   },
   "dead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 58
   },
-  "CROOK" : {
+  "leisur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "dainty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "IRS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "eyes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 63
+    "value" : 3
   },
   "sea" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 27
+    "value" : 32
   },
   "drain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "princesses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
-  },
   "sixth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "amuse" : {
+  "sixti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "proved" : {
+  "see" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 160
   },
   "servant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 37
-  },
-  "coiled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "offered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 52
   },
   "civil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "dear" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 41
-  },
-  "compared" : {
+  "subdu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "nodded" : {
+  "dear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "sixty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Grisly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
+    "value" : 57
   },
   "set" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 124
+    "value" : 130
   },
-  "sprouted" : {
+  "contain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
   "sew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "roofs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "joined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 7
   },
   "fastest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "words" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
-  },
-  "medicine" : {
+  "suspici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "entered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  },
-  "RED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "battle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "quilts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "skein" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "WARRANTY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "river" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 15
   },
-  "astonished" : {
+  "dainti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "crevice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
   "jug" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -19261,265 +12897,201 @@
   },
   "bed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 79
+    "value" : 86
   },
-  "rooms" : {
+  "bee" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "beauty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 6
   },
   "beg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
+    "value" : 38
+  },
+  "offic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
   },
   "deck" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "boastfulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "felled" : {
+  "parti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "baking" : {
+  "discontinu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "beauti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 131
   },
   "contact" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "excuses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "North" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "boastfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "PARTNERSHIP" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "bobbins" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
   "searcher" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "REFUND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "BIRD" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
   "plash" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "tilling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "suspicious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "lovelier" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
   "complain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
+  "fickl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "searched" : {
+  "abund" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 1
   },
-  "anxiety" : {
+  "she" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1219
+  },
+  "prohibi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "overtak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "Influenced" : {
+  "compas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Accordingly" : {
+  "compar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "resumed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "cardinals" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "party" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "lucky" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 2
   },
   "deer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "Immediately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "deep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 18
   },
-  "unruly" : {
+  "delai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "confined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Instead" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "sources" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "mockingly" : {
+  "compel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "deletions" : {
+  "pigsti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "goose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 25
-  },
-  "forgive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "trembling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 6
   },
   "deed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
   },
-  "unhappily" : {
+  "homeward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 7
   },
-  "sparkled" : {
+  "faithfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "liking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "signs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "related" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
   "await" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
   "sin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
+  "promot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
   "sir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 7
   },
   "lump" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "INDIRECT" : {
+  "settl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 10
   },
   "sit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 29
+    "value" : 99
   },
-  "mouths" : {
+  "battl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 5
+  },
+  "unhappili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "snored" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
   },
   "brilliant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "living" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
   "oven" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 8
+  },
+  "someth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 51
   },
   "bound" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 16
-  },
-  "false" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
+    "value" : 18
   },
   "cobbler" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "embers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "dinner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 16
+    "value" : 17
   },
   "stroke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 7
   },
   "wreath" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 4
   },
-  "tugging" : {
+  "lucki" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 14
+  },
+  "marriag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 9
+  },
+  "unruli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "mockingli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "begon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -19529,41 +13101,37 @@
   },
   "bid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "pigsty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 11
   },
   "fresh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "uttered" : {
+  "foundat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 25
+  },
+  "astonish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 10
+  },
+  "posses" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
   },
   "peasant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 49
+    "value" : 61
   },
   "big" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 28
   },
-  "grunted" : {
+  "heinrich" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Nearly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "thankful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "advanced" : {
+  "select" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -19571,109 +13139,69 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "repose" : {
+  "warranti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "peers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
   "sick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 8
   },
   "bit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "sluggards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 9
   },
   "slaughter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "FEAR" : {
+  "obstacl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
   "maiden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 27
+    "value" : 32
   },
-  "fatigue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "striking" : {
+  "knead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "promis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 25
   },
   "corner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 22
   },
-  "crows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "hick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
-  "animals" : {
+  "decemb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 1
   },
   "join" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 3
   },
-  "tasks" : {
+  "promin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
   "crown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 5
   },
   "sky" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "sentence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "screwed" : {
+  "director" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "inquire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "faithfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "large" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 38
-  },
-  "surface" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "grasped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "satisfied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
   },
   "vain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -19681,47 +13209,59 @@
   },
   "tomorrow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
+    "value" : 16
+  },
+  "suffoc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "foolish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "drink" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 46
-  },
-  "bough" : {
+  "decid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "attracted" : {
+  "drink" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 52
+  },
+  "bough" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
+  "christma" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
+  "experi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "john" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
   "begin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 15
+  },
+  "anxieti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
   },
   "paragraph" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
+    "value" : 14
   },
   "brought" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 91
   },
-  "Besides" : {
+  "downstair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
-  },
-  "works" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 33
-  },
-  "alive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
   },
   "crystal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -19731,73 +13271,29 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "weariness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "payments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "narrower" : {
+  "amaz" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
   "neighbour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
   "plate" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  },
-  "flowering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "thinking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 25
-  },
-  "POSSIBILITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 16
   },
   "world" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 63
   },
-  "strewed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "viewed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "embarked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "SKIN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "urgent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "bundle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "table" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 43
-  },
   "countryman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
+    "value" : 14
   },
   "amidst" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -19809,195 +13305,91 @@
   },
   "side" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 59
+    "value" : 65
   },
   "bread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 44
   },
-  "pence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Prithee" : {
+  "centuri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "thorn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 7
   },
   "break" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
-  },
-  "missed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "change" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "clapped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Tonight" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "indirectly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 14
   },
   "cupboard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "Swiftly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Switzerland" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "joke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 7
   },
   "comfort" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "likewise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 22
+    "value" : 15
   },
   "bacon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
+  "deceiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
   "hide" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "suspicions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "punishment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "century" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "JEREMIAH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "THUMB" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "candle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 11
   },
   "report" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "motions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "thunders" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "married" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 28
-  },
-  "trotted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
+  },
+  "indirectli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "toadstool" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Church" : {
+  "sigh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "paused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 9
   },
   "constant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "chirping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "cursed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "lament" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 7
   },
-  "knees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "invalidity" : {
+  "sob" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "sign" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "squire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
-  },
-  "office" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
   },
   "angel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 5
+  },
+  "directli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
   },
   "anger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "Nothing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "panting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "stands" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "Took" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 6
   },
   "sift" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -20007,137 +13399,85 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 22
   },
-  "son" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 115
-  },
-  "falls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "proceeds" : {
+  "download" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Bewailing" : {
+  "son" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 129
   },
   "split" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "sailed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "directly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "Something" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "DOCTOR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Executive" : {
+  "undress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "WILLOW" : {
+  "sow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
-  "hounds" : {
+  "puddl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
   },
-  "Terms" : {
+  "creatur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "restrictions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 11
   },
   "thrown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 15
   },
-  "roots" : {
+  "unfasten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 1
   },
-  "preserve" : {
+  "modif" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "spi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "CHANTICLEER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "clerks" : {
+  "unbutton" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "poked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "belongs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
   },
   "proclaim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "produc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 6
+  },
+  "disfigur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "AND" : {
+  "boi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 39
-  },
-  "attached" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "snatched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 73
   },
   "spy" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "errors" : {
+  "behind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 21
   },
-  "parents" : {
+  "pantaloon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "Before" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "pursues" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "consumed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "ROLAND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "box" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 8
   },
   "bow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -20147,81 +13487,45 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "ANY" : {
+  "tumbl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "boy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 69
+    "value" : 4
   },
   "switch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "tasted" : {
+  "restric" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 2
   },
-  "suitors" : {
+  "deni" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "bundl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "pursued" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "upstairs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
-  },
-  "politely" : {
+  "thoma" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "savage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "chance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
   },
   "wheel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 22
   },
   "cross" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "raised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 9
   },
   "control" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "gladness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "frightful" : {
+  "clerk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "acknowledge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "editions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "chattering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   },
   "earth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -20229,31 +13533,23 @@
   },
   "quarrel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 4
   },
-  "howling" : {
+  "offici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "tempting" : {
+  "candl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "prithe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "backs" : {
+  "pinafor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "lighthearted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "dancing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 16
-  },
-  "cunning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 2
   },
   "stool" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -20261,69 +13557,57 @@
   },
   "elbow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
-  "murderers" : {
+  "whosoev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 3
   },
   "stoop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "pinafore" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "counts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 7
   },
   "upper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "buried" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
   "stood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 79
   },
-  "dwelling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
   "paint" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
-  "pains" : {
+  "injuri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "miserably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "fighting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 4
   },
   "ponder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "OWNER" : {
+  "tarri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "graciou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "gallow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 8
+  },
+  "scene" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Thirdly" : {
+  "horribli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Sections" : {
+  "exert" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -20331,9 +13615,9 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Never" : {
+  "hoars" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
+    "value" : 1
   },
   "hinder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -20341,13 +13625,9 @@
   },
   "friend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 33
+    "value" : 41
   },
   "scent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "Hither" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
@@ -20355,139 +13635,55 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Coxcomb" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "injury" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
   "drawn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "lighted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "deny" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "horribly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "miserable" : {
+  "stepdaught" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "crawled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "pleasure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "hurricane" : {
+  "jeremiah" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "remaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "morning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 100
   },
   "accept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "horse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 90
-  },
-  "yearning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 4
   },
   "mission" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "stopping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "plunged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
   "sty" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "stops" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "scrambled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "tarry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "interpreted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "daytime" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Crumb" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Such" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "wiped" : {
+  "warlik" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "access" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
+    "value" : 12
+  },
+  "foretel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "hind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "curtains" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "pails" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "overcome" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "Listen" : {
+  "languag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "undisturbed" : {
+  "snowflak" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "hing" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -20499,89 +13695,57 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 47
   },
-  "pitied" : {
+  "kei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 11
+  },
+  "dusti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "cottag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 19
   },
   "current" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "managed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
   "gloom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "fancies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "copper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "key" : {
+  "bewitch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "surprised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Golden" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
+    "value" : 3
   },
   "silk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "knights" : {
+  "christendom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "stopped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 16
+    "value" : 1
   },
   "silent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
   "storm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
-  "laying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "fancied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "manages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "makes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  },
   "slipper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 11
   },
-  "enemies" : {
+  "launch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "threatened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 1
   },
   "amid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -20589,105 +13753,93 @@
   },
   "store" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 7
   },
-  "merriment" : {
+  "amic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "beloved" : {
+  "stori" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 13
   },
-  "condemned" : {
+  "bud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 1
   },
-  "Master" : {
+  "confirm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 2
   },
   "hill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 16
+    "value" : 28
+  },
+  "silenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
   },
   "cloak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 26
   },
+  "kate" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 5
+  },
   "gallop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 6
+  },
+  "bui" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 11
   },
   "appoint" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "WOLF" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "stones" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 19
-  },
-  "slipped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 15
   },
   "fourth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "story" : {
+  "famin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 1
+  },
+  "but" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 901
   },
   "stoke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "declare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "dislike" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "buy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  },
-  "wished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 50
-  },
-  "pairs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "instantly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "betrothed" : {
+  "expens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "jorindel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 12
   },
-  "sneered" : {
+  "express" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "chanticl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 35
+  },
+  "betroth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 12
   },
   "written" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "wishes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "noises" : {
+  "enviou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -20695,99 +13847,59 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "lustily" : {
+  "parch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "NUTS" : {
+  "instantli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
-  "greatness" : {
+  "dismai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "hastened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "dreadfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
   },
   "sink" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "buckets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
-  },
-  "Household" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "braids" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
   },
   "dismal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "BRIDEGROOM" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "stole" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 9
   },
-  "SHOEMAKER" : {
+  "dreadfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "nutshell" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "crumbs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "dismay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
   "expend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "General" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "sorrowful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 13
-  },
   "sing" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 23
+    "value" : 46
   },
-  "horns" : {
+  "crumbl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "insists" : {
+  "sinc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
   "higher" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 8
   },
-  "Dobbin" : {
+  "hire" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "proprietari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -20797,65 +13909,29 @@
   },
   "kid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "donkey" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 14
   },
   "throne" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "Inside" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "prisoners" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "What" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 129
-  },
-  "clapping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "proprietary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "missing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
-  "flapping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Partlet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
-  },
-  "lovely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "skulls" : {
+  "donkei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "strokes" : {
+  "throughout" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "mortal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "figure" : {
+  "gradual" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 1
   },
-  "types" : {
+  "fleeci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -20867,13 +13943,21 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "farthings" : {
+  "departur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
+  },
+  "behav" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 18
+  },
+  "lustili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "stone" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 33
+    "value" : 52
   },
   "enchantress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -20883,77 +13967,45 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 12
   },
-  "kerchief" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "fleecy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Kingdom" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "nights" : {
+  "loveli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "famed" : {
+  "kerchief" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "passing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 8
   },
   "gentleman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "sack" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
-  },
-  "streets" : {
+  "individu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
+  "sack" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 17
+  },
   "reach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
+    "value" : 35
   },
-  "backed" : {
+  "hiss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "Give" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
   },
   "hack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "travelled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  },
-  "Further" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "rowing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "road" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 29
+    "value" : 30
   },
   "children" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 78
+    "value" : 79
   },
   "sight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -20963,55 +14015,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
   },
-  "dreadful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
   "teeth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 8
   },
-  "chuckled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "roar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 7
   },
   "roam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "traveller" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "guide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "JORINDEL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "raspberry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Frederick" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 24
+    "value" : 5
   },
   "collar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "wreaths" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "natural" : {
+  "goal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -21019,61 +14039,37 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 19
   },
-  "joyfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
   "goat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 10
   },
-  "bespoke" : {
+  "knowal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
   "beggar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "stately" : {
+  "opportun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 6
   },
-  "Next" : {
+  "gretel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
+    "value" : 98
   },
-  "WORK" : {
+  "joyfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
-  "Revenue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "neighbouring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "unwillingly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "Scream" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "insignificant" : {
+  "expedi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "wear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
-  },
-  "dusky" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "rode" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -21087,17 +14083,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "derive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "weak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
   "rock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 15
+  },
+  "raspberri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "rushlight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -21105,153 +14101,105 @@
   },
   "lean" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
+  },
+  "duski" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "leap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 4
+  },
+  "flap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "place" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 43
+    "value" : 61
   },
-  "objection" : {
+  "leav" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 57
   },
-  "sits" : {
+  "someon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
+    "value" : 13
   },
-  "informed" : {
+  "courtier" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "dispute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "bemoaned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
   "bigger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 7
   },
-  "prominently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "tired" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 29
-  },
-  "tremble" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "jogged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  },
   "leaf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
+  "observ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 5
+  },
   "lead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 7
   },
   "token" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "tangled" : {
+  "expect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
+  },
+  "inaccur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
+  },
+  "unwillingli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 2
   },
   "site" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 4
   },
-  "When" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 211
-  },
-  "cease" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "soothe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
   "miser" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
+    "value" : 27
   },
-  "BENJAMIN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "solemnized" : {
+  "robe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
+  },
+  "consequenti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 1
   },
   "behaviour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "Sadly" : {
+  "carriag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 13
   },
   "villain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
-  "passage" : {
+  "utter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "Keep" : {
+  "firesid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
+    "value" : 2
   },
   "begun" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "sausage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 11
-  },
-  "cooks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "bustle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "tremendous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "growing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "utterly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "knocking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "neighbourly" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -21261,67 +14209,35 @@
   },
   "plain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "describing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "begone" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "justice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
-  },
-  "confessed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "furious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "officers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "clothed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   },
   "tan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 5
   },
-  "readable" : {
+  "taylor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 3
   },
-  "tap" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  },
-  "alarmed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "sharpened" : {
+  "utterli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "individual" : {
+  "tap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
+    "value" : 13
   },
-  "ugly" : {
+  "indirect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 1
   },
-  "accepted" : {
+  "neighbourli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "onli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 72
   },
   "godless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -21329,47 +14245,31 @@
   },
   "tax" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 7
+  },
+  "weav" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 4
+  },
+  "collec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 6
   },
   "person" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  },
-  "capering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 7
   },
   "safe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 21
+    "value" : 28
   },
-  "mouthful" : {
+  "ugli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  },
-  "rods" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "files" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 9
   },
   "glitter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "chanced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "departure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "Bravo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 11
   },
   "ween" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -21377,21 +14277,17 @@
   },
   "week" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 4
   },
-  "covering" : {
+  "filthi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
   "sail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "value" : 6
   },
   "farmyard" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "balls" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -21399,7 +14295,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "musicians" : {
+  "deliv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
@@ -21411,13 +14307,9 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "suffocated" : {
+  "weep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "hedge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+    "value" : 21
   },
   "tune" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -21427,49 +14319,37 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "weep" : {
+  "plagu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 14
+    "value" : 4
   },
-  "bewitched" : {
+  "can" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "aware" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  },
-  "guarding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 154
   },
   "hair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 56
+    "value" : 57
   },
   "cap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
+    "value" : 45
   },
-  "filthy" : {
+  "satisfi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 13
   },
-  "ready" : {
+  "delic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 37
+    "value" : 3
   },
-  "marriage" : {
+  "cat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
+    "value" : 91
   },
   "flew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 61
-  },
-  "cat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 64
   },
   "stove" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -21477,19 +14357,27 @@
   },
   "alarm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
-  "Bickers" : {
+  "caw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
   "sparrow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 27
+    "value" : 30
   },
-  "village" : {
+  "said" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 17
+    "value" : 867
+  },
+  "provid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 18
+  },
+  "rogu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "value" : 3
   },
   "greatest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -21499,33 +14387,29 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "carried" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 43
-  },
-  "clutched" : {
+  "nimbl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
   "motion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 2
   },
-  "idle" : {
+  "nutshel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
+    "value" : 3
   },
-  "satisfy" : {
+  "readi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 37
   },
-  "limited" : {
+  "wedg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "studied" : {
+  "amus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "value" : 5
   },
   "plight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
@@ -21535,10 +14419,6 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 3
   },
-  "Strike" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
   "fault" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
@@ -21547,40 +14427,12 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 2
   },
-  "While" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 7
-  },
-  "hurrying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "played" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  },
-  "bites" : {
+  "hail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
   },
-  "clothes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 30
-  },
-  "betimes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  },
-  "carries" : {
+  "beckon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
     "value" : 1
-  },
-  "resembled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  },
-  "granite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
   }
 }

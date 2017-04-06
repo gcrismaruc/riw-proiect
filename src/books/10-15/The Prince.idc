@@ -1,17 +1,21 @@
 {
+  "" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
   "cancel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "prepare" : {
+  "landriani" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 1
   },
   "half" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
   },
-  "conformed" : {
+  "pusillanim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -19,47 +23,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "fifty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "discourage" : {
+  "pretend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "guards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Michael" : {
+  "pretenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "customs" : {
+  "overaw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 1
+  },
+  "replet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "successfulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "amilcar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "reproach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
-  },
-  "electronically" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 14
   },
   "ten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  },
-  "scanty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "energy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 11
   },
   "conceal" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "disastr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -67,279 +67,159 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "successfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "solid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Died" : {
+  "antonio" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 14
+  },
+  "mandragola" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "'" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "squares" : {
+  "servitud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "require" : {
+  "persian" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "reserves" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "conspirator" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "backwards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "compassionate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "incited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "poems" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "th'" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Diet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
   "left" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 28
   },
-  "rounded" : {
+  "temper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "dismayed" : {
+  "unmean" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "extracts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "amusing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Ruberto" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
   },
   "object" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "Chancellor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "A" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 24
-  },
-  "Prendera" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "telling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "accessible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "spends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "B" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "vengeance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "C" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "D" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "E" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 23
-  },
-  "F" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 15
-  },
-  "infinite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
   },
-  "G" : {
+  "besid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
+  },
+  "ferdinand" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 8
+  },
+  "advoc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "I" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 214
-  },
-  "usurpers" : {
+  "unaccustom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "suffice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "notable" : {
+  "roll" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "K" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "turn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 15
+    "value" : 40
   },
-  "L" : {
+  "turk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 11
   },
-  "balanced" : {
+  "suffici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "N" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 22
   },
   "elect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 12
+  },
+  "polici" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
   },
   "result" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 6
   },
   "gold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "minds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "P" : {
+  "pier" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "characters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "opposition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "S" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "T" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "U" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "V" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "W" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "X" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "disunited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "commission" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "after" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 51
   },
   "quiet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 7
   },
-  "policy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "hand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 25
-  },
-  "a" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 759
-  },
-  "ordered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "b" : {
+  "connect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "piev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "hand" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 49
+  },
+  "a" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 783
+  },
+  "b" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 11
+  },
   "address" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 4
   },
   "c" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 13
+  },
+  "piec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "salt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "d" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "dambois" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "e" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 30
   },
-  "posture" : {
+  "f" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 15
+  },
+  "g" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -347,25 +227,29 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "artistic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "i" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 219
   },
   "familiari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Bonifacio" : {
+  "k" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "majesti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
+  },
+  "l" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "eating" : {
+  "scanti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
   "blood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -375,23 +259,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
+  "n" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
   "o" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "the" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3111
+  },
   "p" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "straight" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "entering" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "consisting" : {
+  "straight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -399,11 +283,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "destroyed" : {
+  "adriat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
+    "value" : 1
+  },
+  "incit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "s" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
+  },
+  "thi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 365
+  },
+  "t" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "inconsider" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -411,125 +311,133 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "stature" : {
+  "u" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "obvious" : {
+  "fifti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "regain" : {
+  "v" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "information" : {
+  "w" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "x" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "Citta" : {
+  "thank" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "regain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "demonstr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "brevity" : {
+  "magnifico" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "razed" : {
+  "philosoph" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Res" : {
+  "thu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 56
   },
   "violent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Moliri" : {
+  "incid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "Again" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "thy" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 9
   },
-  "converting" : {
+  "undoubtedli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "wrestl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "confront" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "Its" : {
+  "advic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
   "good" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 70
+    "value" : 73
   },
-  "faithful" : {
+  "violenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
+    "value" : 6
   },
-  "empty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "PGLAF" : {
+  "undismai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "suffered" : {
+  "advis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "bondage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "speakers" : {
+  "export" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "copying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "Cesare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 17
   },
   "laugh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "STRICT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "pillaged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "making" : {
+  "rome" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
+    "value" : 33
+  },
+  "che" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "practic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "adviz" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "princedom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Fool" : {
+  "intim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "shakespear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "reduc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
   },
   "beset" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -537,33 +445,25 @@
   },
   "check" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 4
   },
-  "Aet" : {
+  "sparta" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 2
   },
-  "owed" : {
+  "practis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "Redistributing" : {
+  "expul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "son's" : {
+  "milanes" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "cowardice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "arbiters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "anticipating" : {
+  "prendera" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -571,127 +471,75 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "translating" : {
+  "hundr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 21
+  },
+  "unjudg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "ascend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
   },
   "praetorian" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "fortun" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 70
+  },
   "harm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "applied" : {
+  "ensur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "disturbed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "raging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "provided" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "effecting" : {
+  "dexter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "displeased" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "malcontent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "disclaimers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "society" : {
+  "hart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "expanded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "ascent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "arranged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Redistribution" : {
+  "effeminaci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "VALENTINO" : {
+  "cavalcad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "root" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "abates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
   "hard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "multiply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "colouring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "ensuring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "November" : {
+  "spoil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "depriving" : {
+  "societi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 4
   },
-  "effeminacy" : {
+  "tuscan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "blocks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "quarters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "swords" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "endeavoured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Sienese" : {
+  "multipli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -699,265 +547,217 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "Cecchi" : {
+  "energi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "better" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 12
+  },
+  "incep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "allegations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Frenchmen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "translation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "permit" : {
+  "surrend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "Philopoemen" : {
+  "permit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 12
   },
-  "handling" : {
+  "permis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 10
   },
-  "ambitions" : {
+  "empti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 1
   },
-  "taking" : {
+  "sylvest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
+    "value" : 1
   },
-  "extinguished" : {
+  "expos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "observance" : {
+  "hatr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 19
+  },
+  "orsini" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 30
+  },
+  "variabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "reveng" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "scourings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "incensed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "conjecture" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "fearing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "loved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
-  },
-  "experiment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "gained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
   },
   "executor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "reservation" : {
+  "tortur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "struck" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "block" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "hate" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 22
   },
-  "order" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 50
-  },
-  "undignified" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "enlisting" : {
+  "block" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Vincula" : {
+  "orsino" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "lascivi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "propos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "Guelph" : {
+  "order" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
+    "value" : 62
   },
-  "pressed" : {
+  "propor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "capabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
+  },
+  "colleagu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "inten" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
+  },
+  "savonarola" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
   "timid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
   "distant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 9
   },
-  "felicity" : {
+  "revenu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "pike" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "hast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
+    "value" : 11
   },
-  "Lorqua" : {
+  "reform" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "propose" : {
+  "nondimanco" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "reformed" : {
+  "matteo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "remit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "swindling" : {
+  "macrinu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "solemnli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "illustrated" : {
+  "conceiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "bringing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "kindnesses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "binary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "orders" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "homage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "women" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "deferred" : {
+  "orsinian" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 1
   },
   "successor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 6
   },
   "woman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "Heliogabalus" : {
+  "honesti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "increas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 14
   },
   "save" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 8
   },
-  "inexperience" : {
+  "giorgio" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Vitellozo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "protection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "solemnly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 7
   },
   "matter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
+    "value" : 20
   },
-  "VITELLI" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "footsteps" : {
+  "saul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
+  },
+  "buckler" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "hypertext" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "walls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "Notwithstanding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
   "top" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "honesty" : {
+  "have" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "acquiring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "noise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "neutrality" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Decennale" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 373
   },
   "rota" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -965,87 +765,35 @@
   },
   "avail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "gaming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Fairbanks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "famous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 9
   },
   "question" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "contented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "additions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 8
   },
   "lover" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
-  "hallowed" : {
+  "asiat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
   "spirit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 8
   },
-  "Giovanni" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 19
-  },
-  "intellectual" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "wishing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 17
-  },
-  "produce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "picture" : {
+  "goth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "walks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "observances" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "confided" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "undoubtedly" : {
+  "cheat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "regard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "Madonna" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 6
   },
   "rose" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -1055,251 +803,163 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Orsinian" : {
+  "imit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 13
   },
   "thousand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 33
   },
-  "All" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
   "col" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "capital" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
   "minor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "pleas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 12
+  },
+  "sicili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "hostile" : {
+  "upon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 19
+    "value" : 52
   },
-  "tortured" : {
+  "republ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "lets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "translated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "graces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "expeditions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "employee" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 21
   },
   "lad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "pray" : {
+  "proce" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "employed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "abilities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  },
-  "Copyright" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "aggrandized" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 4
   },
   "abject" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "incontrovertible" : {
+  "whenev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 7
   },
-  "ambitious" : {
+  "lai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 7
   },
-  "defective" : {
+  "ordin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "raise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 6
   },
   "west" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "owns" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
+  },
+  "alamanni" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "lap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "pliant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "representative" : {
+  "puccinello" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "hated" : {
+  "prai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 20
-  },
-  "Uguccione" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 22
+    "value" : 3
   },
   "tower" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "circumstances" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
+    "value" : 3
   },
   "law" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 27
   },
   "comparison" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "including" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "lay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "Prato" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "pernicious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "rout" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
   "pardon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "constitutes" : {
+  "piou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "suspects" : {
+  "frescobaldi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "AGREEMENT" : {
+  "translat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
+  },
+  "repudi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "institutions" : {
+  "welcom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
   "condition" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 9
   },
-  "And" : {
+  "were" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 129
+    "value" : 169
   },
-  "obligation" : {
+  "gravina" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 5
   },
-  "mounting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "desirous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "constituted" : {
+  "similarli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "DEDICATION" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "unenforceability" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "whencesoever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "unclaimed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "troop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 7
   },
-  "Any" : {
+  "attrac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "effective" : {
+  "respons" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "blindfold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "wound" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 5
   },
-  "times" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 34
-  },
-  "Cyrus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
-  "teaches" : {
+  "dissolv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -1307,87 +967,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "similarly" : {
+  "dissolu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Achilles" : {
+  "twelv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "expedients" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "exhorted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "generous" : {
+  "distanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "repressed" : {
+  "syracusan" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "encourag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 11
+  },
+  "alberico" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "direction" : {
+  "filippo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "That" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "wounded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Christopher" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "comments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Lombardian" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
   "cry" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 5
   },
-  "Taddeo" : {
+  "doctor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "distinguished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "chooses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "opening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "saliva" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "REBEL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "activities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "stable" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -1395,41 +1011,21 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 7
   },
-  "Alberico" : {
+  "skirmish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "maintenance" : {
+  "respond" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "contemporaries" : {
+  "incident" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
-  "Lucchese" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "barbarous" : {
+  "vettori" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
-  },
-  "CIVIL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "prey" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "lieutenant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "expedition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
   },
   "fuit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -1439,7 +1035,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
   },
-  "Cancellieri" : {
+  "absorb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "pitt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -1447,219 +1047,171 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Greeks" : {
+  "concern" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 35
+  },
+  "enhanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "thirti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
   },
   "stato" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "beautiful" : {
+  "mountain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 9
   },
-  "integrity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "worked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "liable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "appreciative" : {
+  "prei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "destroys" : {
+  "leo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "trembl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Then" : {
+  "homini" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 1
+  },
+  "let" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 31
   },
   "state" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 84
+    "value" : 137
+  },
+  "courtesi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "press" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "haughti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "forsook" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "subordinated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "cares" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "portcullis" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Sinigalia" : {
+  "gener" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 21
   },
   "night" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
+    "value" : 12
   },
-  "opposite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
-  },
-  "courtesy" : {
+  "exclaim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Matteo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "rendered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "CONCERNS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "ABILITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "offering" : {
+  "surnam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "archers" : {
+  "statu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
-  "creating" : {
+  "each" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 14
+  },
+  "pisa" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 36
   },
   "cum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "directs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "wetted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "sweeping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "thirty" : {
+  "suppli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "Art" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "perfectly" : {
+  "cun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
+  },
+  "provinc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
+  },
+  "liabil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
   },
   "cut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "Vanilla" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "concurrent" : {
+  "aylmer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "killing" : {
+  "distribu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "prayed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 6
   },
   "dread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "untrue" : {
+  "mainten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "weighed" : {
+  "deferenti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Dante" : {
+  "lantico" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Gaeta" : {
+  "perfectli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Defects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Orsino" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "desired" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 3
   },
   "radici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "tear" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
   "attack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 26
+    "value" : 48
   },
-  "reported" : {
+  "humour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "Serezzana" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "begets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "attach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "distribute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "prevented" : {
+  "casavecchio" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "situation" : {
+  "shout" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
@@ -1667,141 +1219,81 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Orsini" : {
+  "resourc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 29
+    "value" : 6
   },
-  "SUCH" : {
+  "think" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "BUT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 17
   },
   "thirst" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "occurred" : {
+  "carthag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "bandini" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "giovanni" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 19
+  },
+  "cecchi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "taddeo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
-  },
-  "refused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "desires" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "accused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "rapacious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "d'Este" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "XVIII" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "services" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "stuffed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "haughty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Valentino" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
-  "They" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 18
-  },
-  "OTHER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "txt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "PUNITIVE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "torture" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "filling" : {
+  "prayer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "watch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 5
   },
-  "enslaved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "quit" : {
+  "clan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Jeanne" : {
+  "deliber" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "quit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
+  },
+  "polish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "thing" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
-  },
-  "demanded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 70
   },
   "thine" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "privileges" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "principle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Creating" : {
+  "graviti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "Ritratti" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "statecraft" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
-  },
-  "tedious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "lie" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -1811,267 +1303,147 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "source" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "acquires" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
   "rotisya" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "unable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  },
-  "FEARED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Zanobi" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "There" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "punishing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "dying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "paying" : {
+  "buonaccorso" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "roughness" : {
+  "lip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "vitality" : {
+  "buonaccorsi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "unguarded" : {
+  "entir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Ladislao" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "blows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "dogs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "This" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 61
-  },
-  "donation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "weakened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 31
   },
   "cogunt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "acquired" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 26
-  },
   "manna" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "doubl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "actual" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "eastern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "glass" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "ultimate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "judgments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "impetuously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "doubt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 12
   },
-  "MEASURED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "enlisted" : {
+  "roberto" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "These" : {
+  "merit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
+    "value" : 2
   },
-  "involved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "adorned" : {
+  "undon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "rashness" : {
+  "terenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "district" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 4
   },
-  "College" : {
+  "renaiss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "fixed" : {
+  "unmak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 1
   },
   "page" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
-  "assume" : {
+  "obedi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "nursed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 10
   },
   "full" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 20
+    "value" : 23
   },
-  "gentile" : {
+  "caravaggio" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Italian" : {
+  "becaus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 15
-  },
-  "memory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
-  },
-  "custode" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 158
   },
   "concept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Castracani" : {
+  "banish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "house" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 26
-  },
-  "Twelfth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "disaster" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "scorned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "'The" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "convention" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Others" : {
+  "awar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "hours" : {
+  "valdichiana" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "opposing" : {
+  "ladislao" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Colonna" : {
+  "pain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
   "suspicion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 4
   },
   "center" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "cooled" : {
+  "start" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
   "shore" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
-  "start" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "enlarged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "AVOID" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "WHAT" : {
+  "empoli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "advised" : {
+  "bicker" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
@@ -2079,19 +1451,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "manage" : {
+  "pair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 2
   },
   "equal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
   "wiser" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Partly" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -2099,11 +1467,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "busson" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
   "fallen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "gravity" : {
+  "inexperi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "upsid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -2113,149 +1489,69 @@
   },
   "short" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 17
+    "value" : 19
   },
-  "Fortune" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "replete" : {
+  "unusu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "imitated" : {
+  "financi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 1
   },
   "incur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
-  "measured" : {
+  "homag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
   "downward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "rewarding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Falconi" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "abreast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "dearness" : {
+  "pall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "truths" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "treacheries" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "obstacles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "PARAGRAPH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "imagined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "unholy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Count" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
   },
   "watchword" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "required" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Unfruitful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "CONSEQUENTIAL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Greece" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
-  },
-  "complacent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "measures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "remembered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "WHEN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Presently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "season" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "attain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "enter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "snowed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "restoration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "benignant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "flowers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "threw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "deputy" : {
+  "payment" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "enter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 19
+  },
+  "attain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 11
+  },
+  "pistoia" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 23
+  },
+  "dispers" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "applic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "threw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
@@ -2263,31 +1559,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "INCIDENTAL" : {
+  "pressur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Fortunati" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "destroy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  },
-  "entreated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Athens" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "SECRETARIES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Victorious" : {
+  "albizzi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -2295,59 +1571,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "respectfully" : {
+  "mich" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "GIVE" : {
+  "memori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 13
+  },
+  "destroi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 24
+  },
+  "unholi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "provide" : {
+  "recogn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
-  "reckoned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Locrians" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "NOTICE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "inhumanity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "redistribute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 19
   },
   "guerdon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "enterprise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "saluted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "paperwork" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "consume" : {
+  "ritratti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "planned" : {
+  "paperwork" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -2363,17 +1615,9 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "computer" : {
+  "deputi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "fundraising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "frivolous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
   "low" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -2381,11 +1625,11 @@
   },
   "pretext" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 6
   },
-  "discoursed" : {
+  "consult" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
   "comest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -2393,13 +1637,9 @@
   },
   "gracious" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
-  "Thou" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "GAIN" : {
+  "respectfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -2407,71 +1647,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "means" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 22
-  },
-  "survive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "fury" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "discourses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "centre" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "artels" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "orphan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "performed" : {
+  "bloodsh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "eternal" : {
+  "redress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "persuasions" : {
+  "furor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "idleness" : {
+  "rustl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "parentage" : {
+  "furi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "transversely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
   "fellow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "awed" : {
+  "carrara" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "interests" : {
+  "manacl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
-  "crushing" : {
+  "adversari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -2479,61 +1691,41 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "commanded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "Flamininus" : {
+  "quick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "alliance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "repudiated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "friendly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
   },
   "sixteenth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "possession" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
-  },
-  "recognizing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "experience" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "shores" : {
+  "tell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "husband" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "dai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 35
   },
   "dal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "Prince" : {
+  "prefect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 30
+    "value" : 1
   },
-  "shows" : {
+  "lorqua" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 1
   },
-  "Francesco" : {
+  "italia" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 28
+    "value" : 1
   },
   "shown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -2543,211 +1735,119 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "delinquents" : {
+  "medicin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "celebrated" : {
+  "paltri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "religi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "exhort" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
   },
   "affair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Canneschi" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "pointing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "majesty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "Countess" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Christendom" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "day" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 21
-  },
-  "Lords" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "accustomed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 20
-  },
-  "Fucecchio" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "combination" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 41
   },
   "obtain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
+    "value" : 21
   },
-  "raising" : {
+  "tournam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "Manfred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "statesman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "drinking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "repute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "besieging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Cunio" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "created" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 12
-  },
-  "Queen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "KEEP" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Massa" : {
+  "liter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "format" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 6
   },
-  "EXCEPT" : {
+  "novita" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "nell'" : {
+  "particular" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "reconcil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "dispens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "water" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "August" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 8
   },
   "savour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "CAN" : {
+  "riario" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "perceived" : {
+  "friendli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 13
   },
-  "ample" : {
+  "achiev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 6
   },
-  "Pistoians" : {
+  "vaila" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 6
   },
   "entertain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 7
   },
-  "INDEMNITY" : {
+  "lambertuccio" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "San" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 18
-  },
-  "ease" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
   },
   "overrun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "critical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "relied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
   "countess" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "de'" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "part" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 25
-  },
-  "insulted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "banished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "WICKEDNESS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "jealousy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "duels" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "principal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "inducement" : {
+  "part" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 30
+  },
+  "incom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "leghorn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "unexpect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "elucid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -2755,31 +1855,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "unrestrained" : {
+  "synonym" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "relies" : {
+  "obeis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "Assembling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "dated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "possessing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "infantrymen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Frammenti" : {
+  "jealousi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "pari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -2787,33 +1879,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "endowed" : {
+  "easi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "introduction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 14
   },
   "thither" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Noticing" : {
+  "distinc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Nantes" : {
+  "intox" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "washed" : {
+  "lavenza" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "revenge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "nello" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -2823,139 +1907,91 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "subscribe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "paltry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "persuaded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "noticing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "intorno" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "entertained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "priests" : {
+  "xiii" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "seeking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "colleague" : {
+  "reliev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Date" : {
+  "nelli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "ears" : {
+  "asino" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
-  "Second" : {
+  "third" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 10
   },
   "build" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 8
   },
-  "gratitude" : {
+  "fairbank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "wallac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "earn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
   "splendour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "persuades" : {
+  "further" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "interfere" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "demands" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Florentines" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 60
+    "value" : 15
   },
   "dearest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "recov" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
   "dost" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Romagnian" : {
+  "lieuten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "Annibale" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "regulated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "fiery" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "dei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "del" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "compassion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "ambiguous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "beasts" : {
+  "unstabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "parliament" : {
+  "intellig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "viewing" : {
+  "del" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
-  "shouted" : {
+  "compassion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "divorc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -2965,77 +2001,45 @@
   },
   "path" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Faenza" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 4
   },
   "bind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 7
   },
-  "finds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "Thus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 18
-  },
-  "record" : {
+  "gregori" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Syracuse" : {
+  "record" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 3
   },
   "exemplar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "preaches" : {
+  "partli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 10
+  },
+  "sclavonia" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "DISTRIBUTOR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "examining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "accepting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "servitude" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "provinces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
   },
   "pass" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 16
-  },
-  "carefully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "banks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 34
   },
   "past" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
   "mile" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
+  },
+  "doro" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -3047,55 +2051,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "mourning" : {
+  "canestrini" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "tributary" : {
+  "especi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 10
   },
-  "easy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
-  },
-  "Sea" : {
+  "conjectur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "beginnings" : {
+  "sugges" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Here" : {
+  "carefulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 4
   },
-  "See" : {
+  "impres" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
-  },
-  "fines" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "domain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 8
   },
-  "omitted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "assigned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "infidels" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "average" : {
+  "tributari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
@@ -3103,131 +2087,87 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "touched" : {
+  "sentenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "compare" : {
+  "hannib" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "lodgings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "impinge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "stockade" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "bodies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "virtues" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "Bentivogli" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "choosing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "waited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "THE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 26
   },
   "vineyard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "composition" : {
+  "pave" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Holiness" : {
+  "brag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "weighty" : {
+  "direc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "unlike" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
   "term" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 26
   },
-  "acquisition" : {
+  "celebr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 3
   },
   "mine" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "oligarchy" : {
+  "mind" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 28
+  },
+  "pitigliano" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "mind" : {
+  "raffaello" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 23
+    "value" : 1
   },
-  "business" : {
+  "forbear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 1
   },
   "staff" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "acuteness" : {
+  "right" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "opposit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 11
+  },
+  "possibli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "partly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
-  "requisite" : {
+  "animos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "constrained" : {
+  "insid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "Sicily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
   },
   "taught" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Sclavonia" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "returning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "complicated" : {
+  "fieri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -3235,77 +2175,61 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "phrases" : {
+  "cambrai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "under" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 66
   },
   "richest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "vitellozzo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 12
+  },
+  "did" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 67
+  },
+  "capua" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "deserv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "quarter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 11
+  },
   "die" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 7
   },
-  "added" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "Hiero" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Furore" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Shortly" : {
+  "reserv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "quantities" : {
+  "victual" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Ugucionne" : {
+  "gratefulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "besiege" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "cheated" : {
+  "monum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "believing" : {
+  "imped" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "shifting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "fears" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "She" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "kingdoms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "brings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "adding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "midst" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -3313,139 +2237,99 @@
   },
   "legal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "evils" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
-  },
-  "Alexandria" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "signal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 5
   },
-  "fortitude" : {
+  "uninjur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "LICENSE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "seated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "possibly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "seasons" : {
+  "sumptuous" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "Gaddo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "test" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "finally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "Darius" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "learns" : {
+  "exhaust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Luigi" : {
+  "epaminonda" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "remained" : {
+  "sermon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
+    "value" : 1
   },
-  "ITALY" : {
+  "guelph" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 16
+  },
+  "asham" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "feast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "interfered" : {
+  "consumm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Because" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 17
+    "value" : 2
   },
   "month" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "disunit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "final" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
   },
   "learnt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "final" : {
+  "injur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 20
+  },
+  "bernabo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "humbl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "cring" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "varies" : {
+  "interven" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "occasions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "gratefully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "trattare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Sir" : {
+  "distract" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
   "occasion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "proportionate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "dispensed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "humours" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "importance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "overwhelmed" : {
+  "misl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "worthy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
   },
   "back" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -3453,205 +2337,181 @@
   },
   "endless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "training" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "expectation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "gallantly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "title" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "resisting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "states" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 32
-  },
-  "With" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "duration" : {
+  "compani" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "miss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Rouen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "Translated" : {
+  "pounc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "engagements" : {
+  "philistin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "company" : {
+  "zanobi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Bid" : {
+  "bite" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "gallantli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "human" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 14
   },
-  "prince" : {
+  "lombardian" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 185
+    "value" : 1
   },
-  "Frescobaldi" : {
+  "legat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "stabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "henri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "custom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 7
   },
   "length" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 7
   },
-  "priest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "permission" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "concerns" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Thereupon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Matters" : {
+  "babi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "considerations" : {
+  "priest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
+  },
+  "ecclesiast" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "advers" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 8
+  },
+  "patrimoni" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "apprehend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "interpret" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "universe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "faction" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 15
   },
-  "baby" : {
+  "inherit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "conceals" : {
+  "worthi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
+  },
+  "relat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 10
   },
   "grant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
   "withstood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "burdening" : {
+  "append" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "showing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
   },
   "dearer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "newsletter" : {
+  "custod" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "armies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 16
-  },
-  "reared" : {
+  "flamininu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "exhausted" : {
+  "rebelli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "devot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "convers" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "confugiendum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "grandfath" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "ignor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "necess" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 13
+  },
   "convert" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "construct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "attempt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 5
   },
   "thick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "December" : {
+  "influenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 7
   },
-  "Caravaggio" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "TRADEMARK" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "supplies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Despite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "revealed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Virtue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "resorted" : {
+  "profici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -3659,71 +2519,39 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "weakening" : {
+  "latin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "letters" : {
+  "rapidli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 5
+  },
+  "converg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "fear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 57
+    "value" : 78
   },
-  "lying" : {
+  "incens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "adversity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 2
   },
   "made" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 62
   },
-  "oriental" : {
+  "manag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Director" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "sense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "yielded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "EITHER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "hoping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "printed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 8
   },
   "field" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 7
   },
-  "Spaniard" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "served" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "virtuous" : {
+  "downfal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -3731,199 +2559,143 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "warned" : {
+  "invalid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "legitimate" : {
+  "statur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "interval" : {
+  "stalei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "senators" : {
+  "dog" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "status" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "nobility" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
   },
   "renown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "silenced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Bologna" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
+    "value" : 7
   },
   "upset" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "shrewdness" : {
+  "don" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "incauti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "cleanse" : {
+  "enrol" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "scattered" : {
+  "unfortun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 3
+  },
+  "skil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "mention" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 10
   },
-  "ennobled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Ravenna" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "government" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 23
-  },
-  "legally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "condemnation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "skirmishes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "recur" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "nurse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "accumulate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "crime" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "man" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 79
-  },
-  "stand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 16
-  },
-  "surround" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "twenty" : {
+  "twenti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
   },
-  "fiorentine" : {
+  "mai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 109
   },
-  "advocates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "supplied" : {
+  "recur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Government" : {
+  "crime" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "man" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 80
+  },
+  "stand" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 19
+  },
+  "surround" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "variou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
   },
   "forward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 13
   },
-  "lacks" : {
+  "feroc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Roman" : {
+  "urg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 16
+    "value" : 6
   },
-  "Italia" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Spain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 15
-  },
-  "murders" : {
+  "suprem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
+  },
+  "intrigu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "addict" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "ebook" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 18
+  },
   "widest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "princes" : {
+  "lodg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 53
+    "value" : 2
   },
-  "spectacles" : {
+  "bernardo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "warlike" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "fortifying" : {
+  "bernardi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Boccansacchi" : {
+  "recapitul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "THAT" : {
+  "ghibellin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 9
+  },
+  "commemor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "feet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "fees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "Pasolini" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -3937,77 +2709,65 @@
   },
   "subject" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 19
+    "value" : 53
   },
-  "THAN" : {
+  "disposi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "recognition" : {
+  "niger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "defending" : {
+  "pithi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "feel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 4
   },
-  "riformare" : {
+  "edward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "main" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Lake" : {
+  "manfr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "strip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "arrangement" : {
+  "conveni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Soderini" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "esteemed" : {
+  "commun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 7
   },
   "credit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 7
   },
-  "residence" : {
+  "alter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "terrible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "waste" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "libro" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Sparta" : {
+  "macedon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
-  "sheltering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "curbing" : {
+  "embroid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -4015,39 +2775,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "comedy" : {
+  "weighti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 2
   },
-  "bearing" : {
+  "arezzo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "equipment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 2
   },
   "embroil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "unaccustomed" : {
+  "aspir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "includes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
   "uti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "pressure" : {
+  "failur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Polidori" : {
+  "signif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -4055,17 +2807,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "attains" : {
+  "julian" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 4
   },
   "feed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "originate" : {
+  "servic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 8
   },
   "martial" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -4075,65 +2827,57 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "pithy" : {
+  "comedi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "handsome" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "veterans" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "constitution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Croce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "fidelity" : {
+  "fermo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 9
   },
-  "Information" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "commended" : {
+  "inextric" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Arno" : {
+  "legitim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 1
+  },
+  "cecco" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "prerog" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "men" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 165
+    "value" : 170
+  },
+  "tuscani" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 14
   },
   "repeat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 4
   },
-  "justification" : {
+  "guinigi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "physical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "included" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 13
   },
   "make" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 74
+    "value" : 90
+  },
+  "capit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "fulfil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
   },
   "met" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -4143,347 +2887,179 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "ingratitude" : {
+  "fortifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 9
   },
-  "assisting" : {
+  "likew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "opposed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "brocaded" : {
+  "unrestrain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "lukewarmly" : {
+  "merci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 10
   },
-  "conspires" : {
+  "discours" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "depicted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Conio" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "rapidly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "LUCCA" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "tyrannical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "witness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "fortify" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Editions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 8
   },
   "due" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "conform" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "conspired" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "INTRODUCTION" : {
+  "bavaria" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Burd" : {
+  "conform" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
+  },
+  "imping" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "lukewarmli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "cuor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "mercy" : {
+  "princip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 64
   },
   "duo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "inform" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 11
+  },
   "depend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 11
   },
-  "enters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "commit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "friendships" : {
+  "pillag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
+  "commit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 8
+  },
+  "about" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 15
+  },
+  "commis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
   "cure" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
   "sorrow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "History" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
   "danger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
+    "value" : 36
   },
   "curb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Riario" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "trees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "granted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
-  },
-  "THEY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "observed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 12
-  },
-  "observes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "character" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 16
   },
   "bank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "flourished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "consummate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Translator" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "meaning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "oppressed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "reassure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "drawing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "concurrently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 9
   },
   "band" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "tales" : {
+  "curs" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "year's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Methuen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "vexation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "released" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "height" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "moderate" : {
+  "posteriu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "resident" : {
+  "august" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "goals" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "beaten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "Xenophon" : {
+  "mall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
   "invent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "urbanity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "LIABILITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "received" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 19
-  },
   "fluent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "wonderful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "PROVIDED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "allied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "ducats" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "benefit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 11
   },
   "flood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "quality" : {
+  "empir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Bolognese" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "avoided" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "conveys" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 22
   },
   "highest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "regained" : {
+  "encount" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 4
   },
-  "sincere" : {
+  "qualiti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 10
+  },
+  "benefic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "allies" : {
+  "acquir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "maternal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "binds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "lascivious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "shared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 43
   },
   "shelter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 5
   },
-  "examine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "industry" : {
+  "vigor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "brests" : {
+  "auspic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -4491,11 +3067,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 42
   },
-  "MURDERING" : {
+  "redistribu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "uproar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "uproar" : {
+  "augment" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -4503,19 +3083,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
   },
-  "ravaging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "partition" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "garrisons" : {
+  "imprud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "examined" : {
+  "wolv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "benign" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "industri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
@@ -4523,51 +3107,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "attentively" : {
+  "mix" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "destruction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "But" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 70
-  },
-  "Oliverotto" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 21
-  },
-  "Siena" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "expression" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
   "prosper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 8
   },
-  "middle" : {
+  "phrasemong" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 1
   },
   "childhood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Guelphs" : {
+  "polit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 5
   },
   "talia" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "drilling" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -4579,111 +3139,115 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 27
   },
-  "controlled" : {
+  "appear" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 50
+  },
+  "carmagnola" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "dedicate" : {
+  "pernici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Silvestri" : {
+  "impart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Lapo" : {
+  "allur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "inspire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Marca" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "increasing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "holds" : {
+  "rapac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
+  },
+  "allud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "progress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "respected" : {
+  "nurs" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 3
+  },
+  "mani" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 93
   },
   "open" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
+    "value" : 17
   },
-  "seeks" : {
+  "alberigo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Visconti" : {
+  "stai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 1
+  },
+  "nicolo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 15
+  },
+  "treat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
   },
   "agent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "odious" : {
+  "monei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 12
   },
-  "wholly" : {
+  "ridolfi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "forced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
-  },
-  "suffering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "numbers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "conquers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "adroitly" : {
+  "invest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Last" : {
+  "atten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 6
   },
-  "Santa" : {
+  "project" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 87
+  },
+  "sinist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
+  },
+  "imput" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "tread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "MACHIAVELLI" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Negli" : {
+  "imperil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Arti" : {
+  "sever" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
+  },
+  "wholli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "loos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -4691,197 +3255,97 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "First" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
   "bare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Arte" : {
+  "adroitli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "displaying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "compromising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "WRITTEN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "formidable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "surprise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "admitted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "MERCENARIES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "seeds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "murderer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "invited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
   },
   "felt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "owing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
-  },
   "wont" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "bears" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
   "conquest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "crushed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "modification" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Beatrice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "exasperated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "effected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Uberti" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "injuring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "temperate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "advisers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "achieving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "murdered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "paths" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "forces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 34
-  },
-  "THIS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "Maria" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "secured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
+  },
+  "entranc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "look" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 11
+  },
+  "uguccion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 22
+  },
+  "abort" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "sergeant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "allow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 21
   },
   "defer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
-  "befall" : {
+  "transcrip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "valore" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Secretary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "needed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
   },
   "lord" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 16
+    "value" : 26
+  },
+  "mass" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "binari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "proper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 8
   },
-  "renaissance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "beast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 5
   },
-  "resides" : {
+  "expan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "rebelled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "contemptible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Georges" : {
+  "transcrib" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "recal" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 10
+  },
+  "peopl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 118
   },
   "admit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
   "common" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -4889,109 +3353,77 @@
   },
   "interest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 9
+  },
+  "admir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 9
+  },
+  "appli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "Alemagna" : {
+  "sicilian" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "untru" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "apprehends" : {
+  "ionia" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "performances" : {
+  "bath" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "presid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "prologue" : {
+  "middl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "chaste" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "ungrateful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "GRAVINA" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "LIFE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
   "patron" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
   },
-  "winning" : {
+  "barbarian" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "apply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "recently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
   "overlook" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "reassur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
   "politician" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "separated" : {
+  "frustrat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "histories" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "foreseen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "Neither" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "lodged" : {
+  "mari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "landing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "money" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 12
-  },
-  "disloyal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "riches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Primo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Every" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "step" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "revolu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
@@ -4999,153 +3431,113 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "unprotected" : {
+  "disgust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "forever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
   "gutenberg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "tribute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 93
   },
   "mark" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 6
   },
-  "resided" : {
+  "base" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
+  },
+  "tempor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 8
+  },
+  "minist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "Florence" : {
+  "bodili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 48
+    "value" : 2
   },
-  "revolution" : {
+  "senat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 12
+  },
+  "mon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "nonproprietary" : {
+  "theori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "maud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "loss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 8
   },
-  "reliable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "relate" : {
+  "mot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "lost" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 25
+    "value" : 26
   },
-  "Galeazzo" : {
+  "nonproprietari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "bodily" : {
+  "val" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 5
   },
-  "Gianpagolo" : {
+  "pauciti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "attempts" : {
+  "still" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "ammazzare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "fickle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "profits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "EBook" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "bragged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Lorenzo's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "relating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "resemblance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 13
   },
   "work" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 62
+    "value" : 109
   },
   "lose" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
+    "value" : 18
   },
-  "Gusciana" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "exceptional" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "subjects'" : {
+  "braccio" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "THOSE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Moses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "expanse" : {
+  "allesandria" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "beams" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "books" : {
+  "wors" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "knowing" : {
+  "disord" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
+    "value" : 6
   },
-  "Opizi" : {
+  "statem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
+  },
+  "among" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 17
+  },
+  "discourag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "wore" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -5153,21 +3545,17 @@
   },
   "word" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
+    "value" : 24
   },
-  "stated" : {
+  "variat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "Camerino" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "love" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 23
   },
-  "internal" : {
+  "flock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -5175,191 +3563,103 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "literary" : {
+  "vitellian" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 1
   },
   "architect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "enjoy" : {
+  "verifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 1
   },
-  "defended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "ecclesiastical" : {
+  "impos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
   "secret" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 9
   },
-  "foundation" : {
+  "impot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 1
   },
-  "naturally" : {
+  "slave" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 1
   },
-  "believes" : {
+  "unaspir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
-  "writing" : {
+  "eas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 11
   },
-  "Ferrara" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "federal" : {
+  "ear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
   "eat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "believed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  },
-  "impotence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Romagna" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 16
-  },
-  "combats" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "vicissitudes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
   "reward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 7
   },
-  "include" : {
+  "loui" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 18
   },
-  "Pistoian" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "aged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "haste" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "destructive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Valdarno" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "hunted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "sends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "opinion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
-  },
-  "Chance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "insisting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "altogether" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "soldier" : {
+  "adduc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "hominis" : {
+  "opinion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 15
+  },
+  "stink" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Empoli" : {
+  "agenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "soldier" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 57
+  },
+  "literari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 17
   },
   "devotion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "unarmed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
-  "Shakespeare's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "ages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "exists" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "defender" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Bartolomeo" : {
+  "averag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "avarice" : {
+  "requisit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "principality" : {
+  "insult" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 26
+    "value" : 1
   },
-  "injuries" : {
+  "undignifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 1
   },
-  "Testina" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "prepared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
-  "existence" : {
+  "disguis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -5367,195 +3667,151 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "pretence" : {
+  "alleg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
   "bowshot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "WORKS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "EXPRESS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "state's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "pikes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "divorced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "expecting" : {
+  "avarici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
+  },
+  "punit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "gracchi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "appar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "enmiti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "feud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "discover" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "midday" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "unsettled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "capture" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "partridge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "failed" : {
+  "palac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "unbelievers" : {
+  "edg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "SEND" : {
+  "anticip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "moreov" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "appointed" : {
+  "insol" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 6
   },
-  "estimation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Necessary" : {
+  "middai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "impli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
   },
   "provision" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 6
   },
-  "unreliable" : {
+  "indign" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "GOVERN" : {
+  "enjoi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "invaded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 5
   },
   "mud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Chief" : {
+  "billet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "luxuries" : {
+  "catherin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "colonnesi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
   },
   "winter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Casavecchio" : {
+  "serraval" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 7
   },
-  "walking" : {
+  "insurg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "liber" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 31
   },
   "spend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 4
   },
-  "notifies" : {
+  "vitelli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 19
+  },
+  "agil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "February" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Spartans" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
   },
   "grave" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "Medicean" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "advantage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 12
-  },
-  "gbnewby" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "spent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "Taranto" : {
+  "francia" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Service" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "ultimately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "rapacity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "command" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
-  },
-  "attacking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Contact" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "BEFORE" : {
+  "improv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "abortive" : {
+  "command" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 17
+  },
+  "unlik" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "frederick" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
+  },
+  "embolden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -5563,11 +3819,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "deductible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "variable" : {
+  "gbnewbi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -5575,79 +3827,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "WILL" : {
+  "retir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "imparted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Ten" : {
+  "perman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "standstill" : {
+  "refus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Piacenza" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Livius" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "hands" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 23
-  },
-  "rioting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
   "year" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
+    "value" : 40
   },
-  "sufficiently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "saved" : {
+  "absenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "desperate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "leading" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "allowed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "cruelties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
   "firebrand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Romans" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 19
-  },
-  "ignoring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "urge" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -5655,15 +3855,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "nephews" : {
+  "insecur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "themes" : {
+  "refug" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Staley" : {
+  "unhistor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -5671,31 +3871,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "counsellor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "vii" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
   "absent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "empire" : {
+  "volum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 15
-  },
-  "understanding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 1
   },
   "vim" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "silence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "extortion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "victims" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -5703,215 +3895,91 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "marched" : {
+  "hungri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "agreem" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 19
+  },
+  "merchant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
-  },
-  "agrees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "flatterers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "agreement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 18
-  },
-  "dealing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "agreeable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "unaspiring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "AK" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Casciano" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "economy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Julius" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 16
-  },
-  "community" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "impetuous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "AN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "version" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "malcontents" : {
+  "romagna" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "AS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "AT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "humbled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 16
   },
   "stop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "flanks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "Observe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "returns" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "prudence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "consented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "June" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "BE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "infantries" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "immediately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "drilled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "occupations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Carmagnola" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "An" : {
+  "casciano" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "HATED" : {
+  "cumqu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "The" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 130
-  },
-  "hungry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Ferdinand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "As" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "blindfolded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "At" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "refuse" : {
+  "handl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "variations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "elevated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "BY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
-  "prohibition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "boldness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "fulfilment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "DID" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "agreed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "computers" : {
+  "ceas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "secretly" : {
+  "economi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "failures" : {
+  "goliath" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "slay" : {
+  "retriev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "detrim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "ein" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "secretli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "reprov" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "measur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 16
+  },
+  "machin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "sweep" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "descend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "pesaro" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -5921,13 +3989,17 @@
   },
   "learn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
+    "value" : 18
   },
-  "evenings" : {
+  "normandi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "representing" : {
+  "vainli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "chiana" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -5939,165 +4011,61 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Machiavelli's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 12
-  },
-  "plundered" : {
+  "slai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "upside" : {
+  "chiron" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "missions" : {
+  "bologna" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 13
+  },
+  "eager" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "severe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "By" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Meanwhile" : {
+  "stuf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "vainly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Romulus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Normandy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "DA" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "florins" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Take" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Che" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "deliverance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Cf" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "evidence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "republic" : {
+  "undertak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "DI" : {
+  "severu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 9
   },
-  "amity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "official" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "historical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "inwardly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "ethics" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "suspense" : {
+  "specif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "spring" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "gibe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "leave" : {
+  "brittani" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 21
+    "value" : 3
   },
-  "overheated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "HURTFUL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "signifies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "discrimination" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "artillery" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "surrender" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "peoples" : {
+  "georg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "De" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Savonarola's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "toga" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "minister" : {
+  "need" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Di" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 22
   },
   "cruel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -6107,43 +4075,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "Bianca" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
   "shade" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "intentions" : {
+  "often" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 10
   },
-  "cardinal" : {
+  "lombardi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 17
   },
   "gather" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "Do" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "obtaining" : {
+  "insist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "DAMAGE" : {
+  "castl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 14
   },
-  "Dr" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "volume" : {
+  "substanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -6151,23 +4107,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "nefarious" : {
+  "visor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "unmeaning" : {
+  "podesta" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "buildings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "gluttonous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "loose" : {
+  "altern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -6175,71 +4123,47 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 8
   },
-  "discriminating" : {
+  "inwardli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "rises" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Lombardy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 17
-  },
-  "Ed" : {
+  "promulg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "private" : {
+  "gerozzo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 18
+    "value" : 1
   },
   "companion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
-  "complained" : {
+  "interfer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "famili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 28
   },
   "ride" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "During" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "paucity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "gates" : {
+  "vol" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
   "accomplish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 8
   },
-  "lined" : {
+  "rapaci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 7
   },
-  "spirited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Holy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "proportioned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "responsible" : {
+  "medal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -6249,33 +4173,25 @@
   },
   "end" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 19
+    "value" : 22
   },
-  "dastardy" : {
+  "strang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "lines" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "fails" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "forty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "mistake" : {
+  "maximilian" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "offending" : {
+  "sonetti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
-  "capabilities" : {
+  "volunt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
+  },
+  "particip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -6285,87 +4201,59 @@
   },
   "rich" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "chiefly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "agencies" : {
+  "dastardi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Replacement" : {
+  "howev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "praise" : {
+  "artilleri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "estim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
-  },
-  "WITH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "noted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
   },
   "special" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "contempt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 10
   },
-  "environment" : {
+  "agre" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 17
   },
-  "undertaking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "GUTENBERG" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "Asia" : {
+  "numer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "royalties" : {
+  "contempl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "arises" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  },
-  "detected" : {
+  "betray" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "achieved" : {
+  "chiefli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "descrition" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "START" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "arisen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "attacked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 16
-  },
-  "family" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 23
   },
   "swear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -6373,83 +4261,47 @@
   },
   "gift" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "slightly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
   "career" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
   },
-  "wanting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "subjugated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "copyright" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
+    "value" : 14
   },
-  "called" : {
+  "donat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 24
+    "value" : 20
   },
   "told" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 13
   },
-  "springs" : {
+  "occurr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "release" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Caesar" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "abiding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "rolled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "crosses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "HIMSELF" : {
+  "stipul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "moral" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "turns" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "newly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 4
   },
   "fullest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "aspire" : {
+  "slightli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 1
+  },
+  "passerini" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "brave" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -6457,105 +4309,61 @@
   },
   "narrow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
-  "proceedings" : {
+  "nam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "judge" : {
+  "ascanio" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "He" : {
+  "newli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 77
-  },
-  "IF" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "II" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
+    "value" : 3
   },
   "similar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "SUCCESSORS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 8
   },
   "shape" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "IN" : {
+  "invit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 3
   },
-  "aliens" : {
+  "trifl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "seventy" : {
+  "pyrrhu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "foundations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
-  },
-  "IS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "forte" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "IT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "wives" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "IV" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "crossing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "carnascialeschi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "IX" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Afterwards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Some" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "converge" : {
+  "forti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "drives" : {
+  "composi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "cumque" : {
+  "seventh" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "seventi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "vitellozo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -6563,183 +4371,107 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 16
   },
-  "FLATTERERS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "EVEN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "MAN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "expulsion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "crossed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "If" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 29
-  },
-  "weapons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Il" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "misfortunes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "In" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 43
-  },
-  "Is" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Gutenberg" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 83
-  },
-  "It" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 48
-  },
-  "representations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Della" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Syracusan" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "withstand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "tumults" : {
+  "characterist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "encourage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "ravaged" : {
+  "nell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "asked" : {
+  "against" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
+    "value" : 85
+  },
+  "swell" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "withstand" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "pictur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "assur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "honestli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "era" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Quintius" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "share" : {
+  "assum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "punished" : {
+  "share" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 7
   },
-  "obstinate" : {
+  "albinu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "liberator" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
   "err" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "honestly" : {
+  "notic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "USE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Vitellozzo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
-  },
-  "weighing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 9
   },
   "sharp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "concessions" : {
+  "surpris" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "standstil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "MEANS" : {
+  "sinigalia" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Lorenzo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 21
   },
   "slip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "stored" : {
+  "amiti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "firing" : {
+  "exampl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 30
+  },
+  "pleasur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "endur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 10
+  },
+  "pagolo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 26
   },
   "strongest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Fossombrone" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "cringed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "excelled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "flies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "FITNESS" : {
+  "unguard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -6751,15 +4483,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "ARMS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Dell'" : {
+  "unprotect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "losses" : {
+  "mackenzi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -6767,23 +4495,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "disorders" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "undertake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "finest" : {
+  "thrifti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "declares" : {
+  "ungrat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
-  "pages" : {
+  "finest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -6791,129 +4511,65 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "La" : {
+  "new" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 81
   },
-  "Stefano" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "bridle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "fortresses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
-  },
-  "Le" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "links" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Antiochus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "entrance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "ancestors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "wielded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "ESPECIALLY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "overawed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "tribu" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "remedies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "estate" : {
+  "escap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
   },
-  "positions" : {
+  "belov" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "florentin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 80
+  },
+  "tribu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Sermon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Taro" : {
+  "bianchi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "RESORT" : {
+  "choos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 8
   },
-  "driving" : {
+  "heliogabalu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "astuteness" : {
+  "invari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "followers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "continuance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "races" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
   },
   "tribe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Florio" : {
+  "strenuous" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "bestowed" : {
+  "therefor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 92
+  },
+  "explanandi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "dignifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "endow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "MEN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Desiring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Macedonia" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "graciously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "torn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -6923,63 +4579,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "endow" : {
+  "exalt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "NO" : {
+  "unexpectedli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "unexpectedly" : {
+  "disengag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "calcul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Mr" : {
+  "forli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "Nievole" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "influenced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "financial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "ferocity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "reaching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "promulgated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "running" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Istorie" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Baglioni" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "OF" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 23
-  },
-  "influences" : {
+  "medit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -6987,115 +4607,55 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "France" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 44
-  },
   "render" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 11
   },
-  "republics" : {
+  "immens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
+    "value" : 4
   },
-  "ON" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "No" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Proverb" : {
+  "egypt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "OR" : {
+  "marriott" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
+    "value" : 2
   },
   "manifest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 6
   },
-  "Maude" : {
+  "indemn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "employment" : {
+  "extrins" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "territori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
+  },
+  "misfortun" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "previou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "specific" : {
+  "riformar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "complying" : {
+  "estat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "obtains" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "indignity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "engage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "inherited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Leo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "Of" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "PG" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Canti" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Let" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "Perhaps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "remainder" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "forms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "On" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 15
-  },
-  "territory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 6
   },
   "axiom" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "NEGLIGENCE" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -7107,111 +4667,67 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Agathocles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "achievements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "victories" : {
+  "lifetim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "maintain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
+    "value" : 26
   },
-  "Cenami" : {
+  "ornam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "establishing" : {
+  "shift" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "entertainments" : {
+  "cambiagi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Cantacuzenus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "decided" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 12
-  },
-  "differently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "builds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Piombino" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "fully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Brunelleschi" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "pow'rs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "remain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 12
-  },
-  "expected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "countries" : {
+  "commodu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "liberated" : {
+  "shoulder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "eye" : {
+  "neri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 4
   },
-  "Milan" : {
+  "severino" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 22
+    "value" : 2
+  },
+  "circumst" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 10
+  },
+  "remain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 32
+  },
+  "swindl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "himself" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 36
   },
   "slow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "wanted" : {
+  "infam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "favouring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "liberating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Carmignuola" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "deserved" : {
+  "elizabethan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -7223,637 +4739,385 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "associations" : {
+  "necessarili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "tosa" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "disturbance" : {
+  "becomingli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "envoi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
   },
   "disunion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "contesting" : {
+  "cardin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 14
   },
-  "plundering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "enemy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 38
-  },
-  "nobly" : {
+  "recommend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "hindered" : {
+  "indemnifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "fermian" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "literal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "becomingly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Royalty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "envoy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "permitted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "Imola" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "obeyed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "indemnify" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "attribute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "expectations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "SO" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "poison" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "liberation" : {
+  "constantinopl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "fortunate" : {
+  "canneschi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Pitigliano" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Principe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "persuade" : {
+  "riot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Allesandria" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "irresolute" : {
+  "innov" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "LIBERATE" : {
+  "balanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "recovered" : {
+  "fulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "such" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 109
+  },
+  "fortunati" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
   },
   "embellish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "stayed" : {
+  "remaind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "Poggio" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "absolute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
   },
   "inganni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "embroidered" : {
+  "principl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "quartermast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "TO" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
-  "describe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "So" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
   },
   "understood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "countenance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Other" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "supported" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "St" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "counsellors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "presently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "administration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "d'Amboise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "remains" : {
+  "oppos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 7
   },
-  "objections" : {
+  "openli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "colleoni" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "deject" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "philip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
   },
   "boast" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "clemency" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
   "research" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
-  "Carthage" : {
+  "reorgan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "incomplete" : {
+  "piero" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "inconst" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Firenze" : {
+  "white" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "openly" : {
+  "acknowledg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "sinister" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 5
   },
   "flank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 6
   },
-  "houses" : {
+  "zerezzanello" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 1
   },
   "huge" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "To" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 18
-  },
-  "commemoration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "UT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "recurs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Castruccio" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 134
-  },
-  "weightiness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "aggrieved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "imagine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "wounds" : {
+  "oppon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
+  "imposs" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 11
+  },
   "town" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "Spaniards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 20
   },
   "decertandi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "sharing" : {
+  "examin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 7
   },
   "girl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "decrease" : {
+  "occupi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 14
   },
-  "affable" : {
+  "enemi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 63
   },
-  "destroying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "improving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "VI" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "servants" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "ignorance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "leads" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "designs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
-  "trifle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "javelins" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "beheaded" : {
+  "physic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
+  },
+  "import" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 11
   },
   "submit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "September" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "occupy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
   "hidden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "classes" : {
+  "antiqu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "eventualities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "manacles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "simplicity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "originator" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
   "summit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "Venafro" : {
+  "nor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "surnamed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 62
   },
   "conclusion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 7
   },
-  "durable" : {
+  "not" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 432
   },
   "doubtless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "thriftiness" : {
+  "privileg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "portico" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "aspired" : {
+  "piombino" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "statement" : {
+  "leagu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "now" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 29
+  },
+  "nearli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "trademark" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "lived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 11
   },
-  "supporting" : {
+  "lofti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "ascii" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "wai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 83
+  },
+  "greek" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "derived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Colleoni" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "news" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "severity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "thoughts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "election" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
   },
   "green" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "race" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "europ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
   "conquer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
+    "value" : 30
   },
   "war" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 41
+    "value" : 49
+  },
+  "enslav" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "possessor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "magnific" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 9
   },
   "grew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "We" : {
+  "what" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 63
   },
-  "DESPISED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "possessors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Chiana" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "XI" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Chiron" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "FORTRESSES" : {
+  "urban" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "refer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Battle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "fortified" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "Baldo" : {
+  "quintiu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "israel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
   },
   "risk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "battles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "attempted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "rise" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
+    "value" : 14
   },
-  "XV" : {
+  "intoler" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "play" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "XX" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Michelle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Francia" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "fought" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
   },
-  "quickly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 16
-  },
-  "Scolari" : {
+  "righteou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "taxes" : {
+  "when" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "decide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "pleases" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Bacon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "synonymous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 179
   },
   "modest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "licentiously" : {
+  "plai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "exiled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "denouncing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "entrusting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "doubly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Francis" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "hatred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 19
+    "value" : 4
   },
   "crush" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 7
   },
-  "Switzers" : {
+  "quickli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "confirming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "endured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 16
   },
   "stuck" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "greec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 13
+  },
+  "electron" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 29
   },
   "greed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -7863,71 +5127,55 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "issued" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
   "plan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 6
   },
   "citadel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "promising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "give" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 30
+    "value" : 42
   },
   "counsel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 8
   },
-  "rained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "lives" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "depends" : {
+  "papaci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "double" : {
+  "montelupo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "doubli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "unconquer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "nievol" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "dissolution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "rendering" : {
+  "obviou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "survived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "spittle" : {
+  "melan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "lofty" : {
+  "studi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 15
   },
-  "LAWS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "papacy" : {
+  "vexat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -7935,113 +5183,49 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Hence" : {
+  "futur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "determined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 7
   },
   "prevail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "ladies" : {
+  "suit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "PLEASE" : {
+  "cenami" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "dependents" : {
+  "widger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "completely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "dividing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Barbiano" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "study" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
-  },
-  "moderated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "commencing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "enormously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "EBOOK" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "LOVED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "portion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "differences" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
   "direct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "districts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 8
   },
   "fever" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Swiss" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "enabled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
+  },
+  "unworthi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "gain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 16
-  },
-  "conquering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "overreached" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 30
   },
   "hardship" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "receiving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
   "modern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -8051,31 +5235,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "CLEMENCY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "dupes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "abate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "web" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 6
   },
-  "Without" : {
+  "syracus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 5
   },
-  "jousts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "memories" : {
+  "physician" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -8083,85 +5251,45 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "BEING" : {
+  "livio" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "relieved" : {
+  "passag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
-  "enables" : {
+  "juliu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 16
   },
-  "exiles" : {
+  "disput" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
-  "castles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "noteworthy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "peaceably" : {
+  "wet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "great" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 84
-  },
-  "temporize" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "happened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 17
-  },
-  "Perugia" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 107
   },
   "wrong" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 5
   },
-  "ordained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "pleased" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "peaceable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "sides" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "heads" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "indebted" : {
+  "noteworthi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "wondered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "festivals" : {
+  "rage" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "advanc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
   },
   "fed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -8171,39 +5299,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "despised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
   "arrest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "distinction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "fee" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 12
+  },
+  "eleventh" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "section" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 8
   },
-  "Turning" : {
+  "enrico" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
-  "discontent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "retirement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "originated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "earned" : {
+  "overflow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -8211,35 +5327,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "presented" : {
+  "threaten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "despiser" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "letting" : {
+  "enrich" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "marked" : {
+  "ramiro" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "elem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "intrigue" : {
+  "rain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "desper" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "hunt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "heirs" : {
+  "dispos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "orient" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "borne" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "De'" : {
+  "liviu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -8247,57 +5371,49 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "laughed" : {
+  "elec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "tranquil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "opened" : {
+  "istori" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 1
+  },
+  "antoninu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "rais" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 22
   },
   "plea" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "men's" : {
+  "recours" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 6
   },
-  "solely" : {
+  "alexand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "FERMO" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "produced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "baptized" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "effects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "personally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "refers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 45
   },
   "effect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
+    "value" : 15
   },
-  "Ascanio" : {
+  "elev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 6
+  },
+  "keep" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 54
   },
   "hung" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -8307,81 +5423,65 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "unworthy" : {
+  "who" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 275
   },
-  "perceive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Pisan" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "weigh" : {
+  "appreci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "Wallace's" : {
+  "weigh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
-  "politics" : {
+  "game" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
-  "unexpected" : {
+  "maladi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
   "faith" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
+    "value" : 29
+  },
+  "why" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
   },
   "remark" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 9
   },
-  "died" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 37
-  },
-  "legate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "necessarily" : {
+  "acuto" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "invests" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "herbs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "strive" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 4
   },
-  "Dianora" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "wearisome" : {
+  "donor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "dialogue" : {
+  "ammazzar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "newbi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "malady" : {
+  "david" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 4
+  },
+  "diet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "blunder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -8389,95 +5489,55 @@
   },
   "win" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
+    "value" : 12
   },
   "lawyer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "lancers" : {
+  "breach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
   "wit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 7
   },
   "governorship" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "gladiat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "munitions" : {
+  "tremend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "regiment" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "diminish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Del" : {
+  "archiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "From" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "approaches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "posterius" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "availed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "recommended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "critics" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "barriers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "matters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
-  "VII" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "attention" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "approached" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 13
   },
   "visit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "Domnia" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "reduction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Fano" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
   "user" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
+  },
+  "dido" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "oneself" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -8487,15 +5547,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "confid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
   "extent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "inhabitants" : {
+  "parent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
-  "tournaments" : {
+  "unwil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "corrup" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -8505,81 +5573,77 @@
   },
   "bring" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 20
+    "value" : 25
   },
-  "trembles" : {
+  "luxuri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "assures" : {
+  "partiundi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "promoted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "losing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "fit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "unsettl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
   },
   "fix" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 10
   },
   "honest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
   },
+  "pension" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
   "rank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "deaths" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 7
   },
   "neglect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 8
   },
   "addition" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 8
   },
-  "embellished" : {
+  "despit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "bestows" : {
+  "despis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "promoting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "grow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 10
   },
   "ad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 13
   },
-  "PRINCES" : {
+  "grow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 4
   },
-  "league" : {
+  "ag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
+  },
+  "despiz" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "locality" : {
+  "ancestor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "ak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -8587,37 +5651,33 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "EIN" : {
+  "an" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 56
+  },
+  "extend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "thirds" : {
+  "ar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 277
+  },
+  "as" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 175
+  },
+  "at" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 187
+  },
+  "constitut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "aw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "haunted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Principalities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "turning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "peace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
-  },
-  "consideration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "formed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
   },
   "brother" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -8625,69 +5685,29 @@
   },
   "hurt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Paradise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "implying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
   "prove" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 9
   },
-  "ordering" : {
+  "be" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 481
+  },
+  "insignific" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "admire" : {
+  "virtu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 14
+  },
+  "domin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "Podesta" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "virus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "permanency" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Coryphaeus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "recourse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "reluctance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "communications" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
   },
   "search" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "furnished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "notions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Puccinello" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -8697,79 +5717,75 @@
   },
   "fool" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Defect" : {
+  "by" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 473
+  },
+  "franc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 44
+  },
+  "behead" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "sienes" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "scarcely" : {
+  "saddl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 2
   },
-  "abandonment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "exhorting" : {
+  "tooth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "foot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 9
   },
-  "disclaimer" : {
+  "madonna" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "humanity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "wills" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "enabling" : {
+  "fli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "cf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 4
   },
-  "charge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
-  "keeping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 12
-  },
-  "alternate" : {
+  "incredul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "lasted" : {
+  "lorenzo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 7
   },
-  "foreseeing" : {
+  "freeli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "mounted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 6
   },
   "food" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
-  "Pope" : {
+  "figur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 35
+    "value" : 1
+  },
+  "actor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "renam" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "fly" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -8779,37 +5795,41 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "prospered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "OLIVEROTTO" : {
+  "joann" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Father" : {
+  "confin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "unfit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "da" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 16
+    "value" : 17
   },
-  "freely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "perceiving" : {
+  "salut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "essential" : {
+  "formid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
   "de" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 9
+  },
+  "scarc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "justif" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "vent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -8819,41 +5839,49 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 15
   },
-  "admits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "di" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 24
+    "value" : 64
+  },
+  "haunt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "ditch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "language" : {
+  "forc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 65
   },
-  "observe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "furnish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "commissioned" : {
+  "extern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "accomplished" : {
+  "do" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 19
   },
-  "attacks" : {
+  "justic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 3
+  },
+  "dr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "furnish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "snare" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "dy" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "won" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -8861,37 +5889,33 @@
   },
   "rare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 7
   },
-  "warning" : {
+  "inclin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "celebrating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Various" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 8
   },
   "utmost" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 7
   },
+  "michel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
   "ed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 5
+  },
+  "which" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 291
   },
   "condottieri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "fatigued" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Returning" : {
+  "deduct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -8899,11 +5923,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "carri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 13
+  },
+  "felic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
   "pontiff" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 7
+  },
+  "er" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "fourteen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "integr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
@@ -8911,93 +5951,61 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "never" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 23
+  },
   "knife" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "Marcus" : {
+  "usurp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
+    "value" : 4
   },
-  "piece" : {
+  "ey" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 6
   },
-  "wiles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "laboured" : {
+  "affabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "XVII" : {
+  "activ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Italy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 56
-  },
-  "intervened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "END" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "carry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "commenting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "arose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
+    "value" : 4
   },
   "foe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "necessity" : {
+  "frame" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
+    "value" : 2
   },
-  "mountains" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  },
-  "limbs" : {
+  "taranto" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "tears" : {
+  "indic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 6
+  },
+  "origin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "for" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 408
   },
   "overturn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "mistakes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "lamentable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "modestly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "content" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
+    "value" : 12
   },
   "fox" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -9005,19 +6013,15 @@
   },
   "burden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "precaution" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "fatherland" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "personality" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Thebans" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "sanction" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -9027,71 +6031,47 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "rossi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
   "skill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "depots" : {
+  "accid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "CONCERNING" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 16
-  },
-  "trouble" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 17
   },
   "proverb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "prosperity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "divide" : {
+  "modestli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "'Principalities" : {
+  "class" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "contrary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
   },
   "contend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "i'" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "OBTAINED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "recalled" : {
+  "spanish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "Philistine" : {
+  "go" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
   "ribellati" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Although" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "employments" : {
+  "presenti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -9099,269 +6079,217 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "rash" : {
+  "contrari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 11
   },
-  "Vitelli" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 18
-  },
-  "form" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
-  },
-  "management" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "exclaims" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "fort" : {
+  "preciou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "gate" : {
+  "counten" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "petrucci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "rash" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
   },
-  "wrestling" : {
+  "form" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 20
+  },
+  "viand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "publish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "genoa" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "restor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 12
+  },
+  "fort" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "gate" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 10
+  },
+  "he" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 922
+  },
+  "stefano" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
+  },
+  "pecuniarili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "assign" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
   },
   "promotion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Professor" : {
+  "hi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "practice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 639
   },
   "beheld" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "transcription" : {
+  "vers" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "AVOIDED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "prospering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "delayed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "transcribe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "dispatches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "appeared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 15
-  },
-  "HUMAN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "contemplate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "easily" : {
+  "easili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 19
   },
-  "Private" : {
+  "degre" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
+  },
+  "altogeth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "flourish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "ttener" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "fra" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
   "insomuch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "if" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 183
+  },
+  "french" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 18
   },
   "burnt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Don" : {
+  "ii" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 8
   },
   "il" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "dispatched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 9
   },
   "javelin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "issue" : {
+  "in" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "dejected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 982
   },
   "lower" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "dismissed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "verb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Centaur" : {
+  "ir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "audacity" : {
+  "is" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 217
+  },
+  "it" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 636
+  },
+  "iv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "schemes" : {
+  "ix" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "dictated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Observing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "disputes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "imperilled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "decree" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "lively" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Plain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "acted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "ACQUIRED" : {
+  "surviv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
+  },
+  "malign" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "spaniard" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
   },
   "gave" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 20
   },
-  "alteration" : {
+  "essex" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "continuing" : {
+  "librari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "recovering" : {
+  "admonish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "May" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "turned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 20
-  },
-  "Inferno" : {
+  "customari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "eagerness" : {
+  "believ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 22
+  },
+  "digest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "billets" : {
+  "meantim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "occurrence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "extraordinarily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "literature" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Pazzino" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "library" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "malignity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "peril" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "sending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "customary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "RIGHT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "ability" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 23
+    "value" : 8
   },
   "belief" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -9369,113 +6297,53 @@
   },
   "delight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 7
   },
-  "proficient" : {
+  "orat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "Tuscan" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Use" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "knew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 15
   },
-  "slaughtered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Amilcar" : {
+  "acces" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "draw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "instrumentality" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "clearing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "generally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
   },
-  "Considering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "changeful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "places" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "disposition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "contended" : {
+  "knee" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "la" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "attaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "equals" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "despoiled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
-  },
-  "clans" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "le" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "dissensions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "complete" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "conscious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "NEW" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
+  },
+  "extraordinarili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "genera" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "impeded" : {
+  "expans" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "inquir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "dacr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -9483,55 +6351,67 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "domination" : {
+  "receiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 29
+  },
+  "prelat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "reaped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "political" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Joannes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "enterprises" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
-  "Savonarola" : {
+  "endang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "suggests" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "ruling" : {
+  "while" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "edge" : {
+  "ly" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "second" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 20
+  },
+  "magistr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "that" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 495
+  },
+  "infidel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "licenti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "conclud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 8
   },
   "www" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
   },
-  "sufficient" : {
+  "than" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 15
+    "value" : 73
   },
-  "Duchy" : {
+  "limit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 9
   },
   "claim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "outdat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -9539,27 +6419,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Sonetti" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "signalled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "colonies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "Braccio" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
   "fasten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "months" : {
+  "entri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "contest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
@@ -9567,75 +6435,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "lance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Updated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "enriching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "author" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "possessed" : {
+  "mr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "unconquerable" : {
+  "onesti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "author" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 26
+  },
+  "geniu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
   },
   "dirt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "enmities" : {
+  "artfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "feeling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "City" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "stipulated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Severino" : {
+  "courteou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "confronted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "remitting" : {
+  "raze" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "expansion" : {
+  "sunris" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "entry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "license" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "headquarters" : {
+  "expand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -9647,355 +6483,223 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "dismissal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "dream" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "squander" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "possesses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Men" : {
+  "updat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Machiavelli" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 53
-  },
-  "noble" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "magistrate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "retrieve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Scipio" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "Except" : {
+  "nobli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "favourable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "displace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "keys" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "lowly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "careful" : {
+  "metauro" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "CONTRACT" : {
+  "ingratitud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "no" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 106
+  },
+  "incessantli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "mixed" : {
+  "code" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 1
   },
-  "unready" : {
+  "seignior" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "bridg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "pasolini" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "head" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
-  },
-  "preparations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 15
   },
   "footmen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "considerable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Alba" : {
+  "charit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "of" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1799
   },
   "heal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "artfully" : {
+  "subsist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Lucca" : {
+  "possibl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 47
-  },
-  "occupied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 12
+    "value" : 1
   },
   "fight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 16
+    "value" : 25
   },
   "hear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 6
   },
-  "skilful" : {
+  "on" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 512
   },
-  "regimental" : {
+  "purpos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
-  "recover" : {
+  "or" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 243
+  },
+  "nobil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "determine" : {
+  "ow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 22
   },
-  "PAGOLO" : {
+  "complianc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "necromancer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 6
   },
   "ox" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Duke" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 26
-  },
-  "pusillanimity" : {
+  "soderini" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "families" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
   "whilst" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 38
+    "value" : 42
   },
   "confer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 4
   },
   "drew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 7
   },
-  "unmake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "bestrewn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "incessantly" : {
+  "equip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "disaffect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "novitas" : {
+  "ottav" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "memorials" : {
+  "sigismund" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "lands" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Christian" : {
+  "lowli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "carlo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "pg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "nobl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 30
   },
   "easier" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "spiritual" : {
+  "bridl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Hellespont" : {
+  "unreadi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "obsequies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Paris" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "infringement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Hebrews" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "inexperienced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "indications" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "exercised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Archive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
   },
   "nation" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "readily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 5
   },
   "splendid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Aldo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "registered" : {
+  "wrest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "downfall" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "discipline" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "avaricious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "promised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "expedient" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Bavaria" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "States" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
-  },
-  "AUXILIARIES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "speaking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "province" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "exercises" : {
+  "digniti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "inevitably" : {
+  "necessari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 58
   },
   "clever" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "magnanim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "damag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 10
+  },
+  "concurr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "Catherina" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "estimate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "shifts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "adversaries" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "hundreds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "promises" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
   },
   "recent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 9
   },
-  "January" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "proposal" : {
+  "vener" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -10003,539 +6707,403 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 16
   },
-  "conspirators" : {
+  "pavia" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "varieti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "spoils" : {
+  "old" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 16
   },
-  "settled" : {
+  "then" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "opponents" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "bathes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Catherine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 47
   },
   "ancient" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 12
   },
+  "thei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 441
+  },
+  "invad" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
   "seat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 6
   },
-  "consolidated" : {
+  "indiffer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "re" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "includ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 16
+  },
+  "readili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
   },
   "adopt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "destruct" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "ignomini" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "anastagio" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "austria" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "opposi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "twelve" : {
+  "cavalri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 25
+  },
+  "cautiou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
+  },
+  "seed" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "johanna" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "donors" : {
+  "expres" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "oppose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "Eastern" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "obtained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
-  "Edgcumbe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "bridge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "Albizzi" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "discovered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "activity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "inflicting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "prelates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "executed" : {
+  "deviat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
   "seek" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 11
+  },
+  "yearli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "eighteenth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "FORTUNE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
   "oppress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 15
+  },
+  "se" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "compelled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 19
-  },
-  "incurring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "DESCRIPTION" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "variety" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "si" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "persist" : {
+  "venic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
-  "insolence" : {
+  "dilig" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "perugia" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "thanked" : {
+  "disturb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
+  },
+  "persist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "treatis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "paved" : {
+  "so" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 192
   },
   "caution" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "ensigns" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "email" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "maintains" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
   "st" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "gratitud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "righteous" : {
+  "intern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
   "decision" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "singly" : {
+  "milano" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "squadrons" : {
+  "centr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "interv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Hawkwood" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "incurred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "neighbours" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "UNDER" : {
+  "adorn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "started" : {
+  "flower" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "pledg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "Section" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "dismantle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "single" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "connected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "pull" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "adornments" : {
+  "enforc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "singli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Bandini" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Sixth" : {
+  "th" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "buying" : {
+  "ti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "sect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "remov" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "acquaint" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
   },
   "assist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
-  "unfaithful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "closed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 36
   },
   "tm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 56
+    "value" : 57
   },
-  "consequent" : {
+  "to" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2000
   },
-  "Literary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
-  },
-  "attained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "compressed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "country" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 45
-  },
-  "commercial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "exporting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "separate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "reasonable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "generations" : {
+  "interf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "endangered" : {
+  "monsignor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "aquileia" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "willing" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "sighted" : {
+  "dialogu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "rules" : {
+  "ruler" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 15
+    "value" : 4
   },
-  "Seventh" : {
+  "wick" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "countri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 50
+  },
+  "valdarno" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "faithlessness" : {
+  "nois" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "sincerity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "biting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "ruled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
+    "value" : 2
   },
   "sprang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "military" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "Volunteers" : {
+  "xxiii" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "treated" : {
+  "lastra" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 1
   },
-  "waters" : {
+  "us" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 19
   },
-  "PROJECT" : {
+  "ut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "praised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "abolished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
   "usual" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "BARBARIANS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "DAMAGES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "anarchy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 7
   },
   "upright" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "entreats" : {
+  "archbishop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "chancellor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "moralizes" : {
+  "vi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
+  },
+  "extract" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "scruple" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Please" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "remarkable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "cavalry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 25
-  },
-  "NOT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "sees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "failure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "towns" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
   },
   "valiant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 7
   },
-  "Bold" : {
+  "know" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 40
   },
   "knot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "conspire" : {
+  "camerino" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "anarchi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "region" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "support" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
+    "value" : 18
   },
-  "praises" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "yearly" : {
+  "circumv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "Pietro" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "deceive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "changed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "Julian" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "yoke" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "WAR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "learning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "resolutions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "life" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 29
+    "value" : 30
   },
-  "WAY" : {
+  "literatur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 2
   },
-  "deceits" : {
+  "we" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 24
   },
-  "expects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "willingly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "prophets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "RENOWN" : {
+  "uberti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "heir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
-  "similarity" : {
+  "danc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "unfitted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "disposed" : {
+  "willingli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
-  },
-  "Whenever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Whereupon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
   },
   "lieu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "LIBERALITY" : {
+  "choic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
+  },
+  "clizia" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "argum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -10549,21 +7117,29 @@
   },
   "previous" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "licens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 18
   },
   "org" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 13
   },
-  "effeminate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "securing" : {
+  "christoph" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Signa" : {
+  "fores" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "rever" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "teach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -10571,69 +7147,57 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "reading" : {
+  "distribut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 18
+  },
+  "forev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "argue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "superior" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "succeed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "Guido" : {
+  "xi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "Guidi" : {
+  "superior" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
-  "Milanesi" : {
+  "succeed" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 11
+  },
+  "numantia" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Val" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "localities" : {
+  "xv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Milanese" : {
+  "xx" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "hostil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 19
+  },
+  "sourc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
   },
   "held" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 27
   },
-  "Internal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "courts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "type" : {
+  "deepli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "troops" : {
+  "type" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "pecuniarily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
   "hell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -10643,127 +7207,67 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "practise" : {
+  "problem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "BREACH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
   "preceptor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "problem" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "terms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 23
-  },
   "hazard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Book" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "voluntary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "connection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Signor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Arezzo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "deeply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
   "proof" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "seized" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
-  },
-  "abandoned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "presence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "surrounding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "researches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Mons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "method" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 19
   },
   "wife" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "years'" : {
+  "contract" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "oaths" : {
+  "voluntari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "conclude" : {
+  "come" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 41
   },
-  "ornaments" : {
+  "dant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "push" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "exist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 4
   },
   "insight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "provisions" : {
+  "assail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "examples" : {
+  "seiz" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 16
+    "value" : 27
   },
-  "contumeliously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "instrumental" : {
+  "penalti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -10771,75 +7275,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "constitutions" : {
+  "lift" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "force" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 17
-  },
-  "Those" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
-  },
-  "provisione" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "surrounded" : {
+  "regist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "precautions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "periodic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "forefathers" : {
+  "feder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "conceived" : {
+  "henc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 12
   },
-  "German" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "distribution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "ACTUAL" : {
+  "educ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "gloriously" : {
+  "south" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "capacity" : {
+  "north" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "eminence" : {
+  "copi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 25
   },
-  "consuming" : {
+  "our" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 19
   },
   "confess" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "saturate" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -10847,135 +7319,87 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "continues" : {
+  "induc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
-  "resembling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Either" : {
+  "accus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "witty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "fatality" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "copy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 12
   },
   "power" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 42
-  },
-  "Moro" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "mediation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "evidences" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 77
   },
   "dare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "rivers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "precious" : {
+  "festiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "galeazzo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "cool" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "continued" : {
+  "witti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 1
+  },
+  "militari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 10
+  },
+  "suspect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
   },
   "thou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 15
+    "value" : 22
   },
-  "abide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "mentioning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "forcing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "ALAMANNI" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Born" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "unified" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Macrinus" : {
+  "ennobl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "located" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "owe" : {
+  "readabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
+  },
+  "help" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 20
   },
   "date" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "CONQUERED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Aylmer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "dashed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 7
   },
   "dress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
-  "Company" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "addresses" : {
+  "satur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "succeeds" : {
+  "effemin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
-  "hindrance" : {
+  "whatsoev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "reveal" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "depot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -10987,23 +7411,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "obliged" : {
+  "own" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 80
   },
   "sound" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Most" : {
+  "separ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "breviti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "FROM" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "rustling" : {
+  "neglig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -11011,119 +7435,95 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "Mercenaries" : {
+  "circl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "King" : {
+  "barrier" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 44
+    "value" : 3
   },
-  "successes" : {
+  "partisan" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "etern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "distributing" : {
+  "xii" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 6
   },
   "arcidiavolo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "create" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
   "blow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 6
   },
-  "upholds" : {
+  "replac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
+  },
+  "sens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "avoiding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "WHO" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "resource" : {
+  "bondag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "asserted" : {
+  "magistraci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "depended" : {
+  "curious" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Prince'" : {
+  "xiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "WHY" : {
+  "maxim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "like" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 14
+  },
+  "inexperienc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "xix" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "embassi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "prolonged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "prestige" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "sheltered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Senate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
-  "efforts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Valdichiana" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "magistracy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "ancor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "addressed" : {
+  "council" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "proposed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
   "fraud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "council" : {
+  "philopoemen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "purposes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "hills" : {
+  "petrarch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -11135,59 +7535,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "dash" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
   "send" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
+    "value" : 19
   },
-  "inconsiderable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "judges" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Both" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "expenses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "necessities" : {
+  "thereupon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
+  },
+  "gia" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "here" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 17
   },
   "note" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Asiatic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "purpose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "rejected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 8
   },
   "line" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 8
   },
-  "penalty" : {
+  "noth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 11
   },
   "link" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
-  "exile" : {
+  "scale" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -11195,27 +7579,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "recovery" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "threatenings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "aggrandize" : {
+  "scali" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Raffaello" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "security" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 12
-  },
-  "intends" : {
+  "nardo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -11223,139 +7591,103 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "everybodi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
   "surmount" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "pretexts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "station" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "continual" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Adriatic" : {
+  "lucrezia" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "affairs" : {
+  "recoveri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 38
+    "value" : 1
+  },
+  "herb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "fester" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "nardi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "prose" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "considers" : {
+  "limb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 1
   },
   "nose" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "costs" : {
+  "aetolian" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 6
   },
-  "stating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "medals" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "cost" : {
+  "emin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "aims" : {
+  "cost" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
+  },
+  "will" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 26
+  },
+  "prosecu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Luca" : {
+  "barbar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 5
   },
-  "stories" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "superiore" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "confidence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "groups" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "allowing" : {
+  "treati" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
   "follow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 19
-  },
-  "revenues" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 61
   },
   "wilt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "ascendancy" : {
+  "connec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "astute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "oath" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
-  "compliance" : {
+  "disciplin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 6
   },
-  "treaty" : {
+  "medicean" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
-  "assured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "BUONDELMONTI" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "dignity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "challenge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "locations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Vitellian" : {
+  "wile" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -11363,219 +7695,179 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "intend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 11
+  },
   "wild" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "satisfactorily" : {
+  "german" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 7
   },
-  "wastes" : {
+  "ultim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "numerous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 2
   },
   "govern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 46
   },
-  "recognized" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "Therefore" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 42
-  },
-  "explanation" : {
+  "changeabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
+  },
+  "sovereignti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "enlarg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "institu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "hurri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "assassin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "rider" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "youth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
+    "value" : 9
   },
-  "begins" : {
+  "without" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 72
+  },
+  "these" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 106
+  },
+  "andria" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "introduced" : {
+  "impuls" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "contributions" : {
+  "satisfactorili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "protected" : {
+  "virgil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "framed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
   "victor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "sovereignty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Vaila" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "calculate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "prison" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 13
   },
   "sister" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "whatsoever" : {
+  "ferrara" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
+  },
+  "sometim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "intellects" : {
+  "serv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 9
   },
-  "Consider" : {
+  "intellectu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "gli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "capitano" : {
+  "reluct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "possess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 12
+  },
+  "capitano" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "neutral" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "Knowing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Lodovico's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "volunteers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "Fogliani" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Having" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
+    "value" : 6
   },
   "lion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
   },
-  "apparent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "innovations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "seizing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "Lazerone" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "presumption" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "wind" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Medici" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 20
-  },
-  "humble" : {
+  "fogliani" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "arrives" : {
+  "befor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 44
+  },
+  "alessandria" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "folly" : {
+  "joust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "romulu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "wing" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "wind" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
   },
   "chapter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 27
   },
   "harbour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "flight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 7
   },
-  "defence" : {
+  "engag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
-  "obedient" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "achieve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "concluded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 6
   },
   "ahead" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Decade" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "masters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "Pontremoli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -11583,31 +7875,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "alleged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "mastery" : {
+  "durat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "currents" : {
+  "hindranc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "arrived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "covenants" : {
+  "folli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "FOUNDATION" : {
+  "strangl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "Contributions" : {
+  "doctrin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -11615,151 +7899,71 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Princes" : {
+  "masteri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "resolved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "merciful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "adduce" : {
+  "enorm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "committed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "STATES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "hardships" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "licensed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "defends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Pandolfo" : {
+  "pandolfo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
+  },
+  "pazzino" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "union" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "ruined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
-  },
-  "foliage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "lips" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "strangled" : {
+  "wipe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
+  },
+  "athen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "overwhelm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "surer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "concludes" : {
+  "god" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 20
   },
-  "speaks" : {
+  "conspir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Mackenzie" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "days" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
-  },
-  "governs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Imperial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "returned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  },
-  "disguise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "faces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "imperial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "adopted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 16
   },
   "discuss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
-  },
-  "liberal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "undone" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 27
   },
   "standard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Agnolo" : {
+  "giuliano" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "acceptable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "reports" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 7
   },
   "correct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "reader" : {
+  "cowardic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 4
   },
-  "sharply" : {
+  "reader" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
@@ -11767,29 +7971,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "LIVED" : {
+  "ladi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "valiantli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Marquess" : {
+  "wish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "imitate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "pontiffs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "possessions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "incredulity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 81
   },
   "wise" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -11797,77 +7989,57 @@
   },
   "ambition" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
+    "value" : 15
   },
-  "conversation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "inquires" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Unless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "contributed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "revered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "murder" : {
+  "sharpli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "inquirer" : {
+  "pai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
+  },
+  "ambiti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "obstin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "dismount" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "monarchy" : {
+  "murder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 15
   },
-  "pounced" : {
+  "wherea" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 7
   },
   "lace" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Vita" : {
+  "european" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "FOR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "pay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 3
   },
   "clearer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "enormous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
   "earthen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "European" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
   "list" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "tediou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -11875,463 +8047,271 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "contributes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "strange" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "inquired" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "lack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "About" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "neglected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "external" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Contesting" : {
+  "monarchi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "circumstance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Pescia" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
   },
   "success" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "State" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "authority" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 22
-  },
-  "remarked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "End" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "preserving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "agility" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "permitting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Ubaldo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "cleared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "extricating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 18
   },
   "child" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "formats" : {
+  "presumptu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
+  },
+  "secreci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "young" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
   },
-  "divided" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "obsolete" : {
+  "contribu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "avenge" : {
+  "instrument" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "reasoned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Guilds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "medium" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "Gherardesca" : {
+  "fatal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "remove" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
   "wisdom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 10
   },
-  "CRUELTY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "fatal" : {
+  "multitud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "secrecy" : {
+  "obsequi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Giuliano" : {
+  "determin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 5
   },
-  "reputed" : {
+  "germani" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
+  "combin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
   "live" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 18
+    "value" : 40
   },
-  "responded" : {
+  "desol" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "dispossessed" : {
+  "cerchi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "victory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
-  },
-  "People" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "perform" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "excisions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "cowardly" : {
+  "cowardli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "redemption" : {
+  "peac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 18
   },
-  "service" : {
+  "perform" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 8
+  },
+  "fortitud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "with" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 349
+  },
+  "argu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "battlefield" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "lady" : {
+  "there" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 118
+  },
+  "victori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 18
+  },
+  "ravag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "valiantly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Nam" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Montelupo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "hectic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
+  "delinqu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
   "danaro" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "named" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
-  "neglects" : {
+  "unhappi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "harbouring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "foreigners" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  },
-  "Metauro" : {
+  "strongli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "considered" : {
+  "copious" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 40
+    "value" : 1
   },
-  "License" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "John" : {
+  "aveng" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "inception" : {
+  "focus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "delivered" : {
+  "desir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "entire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "exterminate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 32
   },
   "approach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 8
   },
-  "qualifications" : {
+  "mule" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "decisive" : {
+  "russia" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
+  },
+  "ordain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "write" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "Johanna" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "ceased" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "IMPLIED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 20
   },
   "period" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 7
   },
-  "envoys" : {
+  "africa" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 4
   },
   "proceed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "neglecting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "loyalty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "corporation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "understand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 15
+    "value" : 20
+  },
+  "dismiss" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
   },
   "birth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "underlying" : {
+  "xvi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "confirmation" : {
+  "chanceri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "slowly" : {
+  "even" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 15
   },
-  "intelligence" : {
+  "aris" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 20
   },
-  "innovator" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "loving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "assisted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "unhappy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "strongly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "manifested" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "meetings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "indication" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "appearing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "assumed" : {
+  "wive" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
   "despair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "champion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "eBook" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "engaged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "injures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
   "larger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "disputable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "hundred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 20
-  },
   "wait" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 10
   },
-  "iniquity" : {
+  "baldini" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "riders" : {
+  "queen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "magnificent" : {
+  "egyptian" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "kinds" : {
+  "costli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "entiti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "duke's" : {
+  "imprison" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "loyalti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "injured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "exterminated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "disgusted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "indicating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "native" : {
+  "marquess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -12343,301 +8323,225 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "costly" : {
+  "alvisi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Among" : {
+  "slowli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "violence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 2
   },
   "laid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 15
   },
-  "availing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "bodyguard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "attributed" : {
+  "xxi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "excus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 8
+  },
+  "charact" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 20
+  },
+  "xxv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "meanwhil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "balfour" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "instanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "desolation" : {
+  "inferno" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "discussed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "opportunities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "undoes" : {
+  "fundrais" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "curiously" : {
+  "obei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "attributes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "discerned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "entity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "armaments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "asperity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "imposed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 7
   },
   "arrow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "conduce" : {
+  "chariti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "equally" : {
+  "chide" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "reign" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
+  },
+  "theseu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "motiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
   },
   "manner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "DUKE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "sustained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "suits" : {
+  "necromanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Portico" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "associate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "councillors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Montecatini" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "perils" : {
+  "quietli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
   "judgment" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 6
   },
   "earlier" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "members" : {
+  "unabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 8
+  },
+  "whether" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 10
+  },
+  "piu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "objec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "arno" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
+  },
+  "tertina" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "armi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 66
+  },
+  "incontrovert" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "evid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
-  },
-  "Moors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Charles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 16
-  },
-  "Chancery" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "void" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Passerini" : {
+  "reconcili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 6
   },
-  "liability" : {
+  "absolut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "kings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "strengthened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "However" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "sway" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Public" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "affected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Seeing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 4
   },
   "tutor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "army" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 50
-  },
-  "senator" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "READ" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "impugn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "Magione" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
   },
   "tempt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Castello" : {
+  "pietro" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "ethic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "pretences" : {
+  "snow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Peretola" : {
+  "swai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "arms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 67
   },
   "evil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 12
-  },
-  "rarely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 15
   },
   "governor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 9
   },
-  "fevers" : {
+  "lake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "admonished" : {
+  "peretola" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Bastiano" : {
+  "massa" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 1
   },
-  "rising" : {
+  "uniti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 2
   },
-  "replied" : {
+  "lancer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 2
   },
-  "unite" : {
+  "switzer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 10
   },
   "fruit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "prisoner" : {
+  "busi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "Nelli" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
   "combat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "indulge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "unity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "pursue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
   "italici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -12647,139 +8551,123 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "intended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
   "design" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 15
+  },
+  "suspens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "lanc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "identif" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "land" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 8
   },
-  "working" : {
+  "victim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 1
   },
-  "Maximinus" : {
+  "redeem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 1
   },
-  "elevation" : {
+  "qualif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
   "burn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "imposing" : {
+  "conven" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "tied" : {
+  "buri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "chief" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 8
   },
-  "countryside" : {
+  "convei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "accord" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "performing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 8
   },
   "foremost" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "doubtful" : {
+  "italian" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 19
+  },
+  "procur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "burd" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
   },
   "vigour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "dexterity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "English" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
   "conduct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
+    "value" : 14
   },
-  "obey" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "labours" : {
+  "plunder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Credited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "wrested" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "changeable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "accustoms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "renamed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "viands" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "credited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "quietly" : {
+  "venafro" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "stinks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Alvisi" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "moderately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Guinigi" : {
+  "aros" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 13
   },
-  "marry" : {
+  "bastiano" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "wall" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "walk" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "liberti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 10
+  },
+  "montecarlo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
+  },
+  "lapo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "castello" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -12787,249 +8675,149 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "discussion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "Maximilian" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "lessen" : {
+  "induct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Passing" : {
+  "conduc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "lessen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "NICOLO" : {
+  "decad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
-  "liberty" : {
+  "ambigu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
+    "value" : 1
   },
   "lesser" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "thinks" : {
+  "eventu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "onlin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "marsh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "meeting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "events" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "portions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Tuscans" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "displayed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "discussing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "germs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "wickedness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
   },
   "mankind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "separately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "began" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 10
   },
-  "Constantinople" : {
+  "theban" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Africa" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "marshes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "participators" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "ANNEXED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "angered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "recognize" : {
+  "want" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 9
   },
-  "Tuscany" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
-  },
-  "Sommario" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Project" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 83
-  },
-  "Discourse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "induce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "vols" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "reality" : {
+  "girolamo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "difference" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "Syracusans" : {
+  "realiti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "offend" : {
+  "inher" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "baptiz" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "panciatichi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "marri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 8
   },
-  "actions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 24
-  },
-  "Epaminondas" : {
+  "shrewd" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "seasoning" : {
+  "sommario" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Candales" : {
+  "offend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 14
   },
-  "sunrise" : {
+  "rover" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Whereas" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "dispersed" : {
+  "offenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "nobles" : {
+  "larm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 25
+    "value" : 1
   },
-  "reside" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "ONE" : {
+  "defianc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "arti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "giving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
+    "value" : 2
   },
   "chase" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "accident" : {
+  "magion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "arte" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Vitelleschi" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "correspondency" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
   "found" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 50
+    "value" : 55
   },
   "freer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "excuse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "mornings" : {
+  "overreach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "coolness" : {
+  "borgia" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 13
+  },
+  "prais" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 11
+  },
+  "larg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 8
   },
   "knight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "infelicity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "honours" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 3
   },
   "castellan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -13039,27 +8827,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "d'oro" : {
+  "advantag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 20
   },
   "enlist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 6
   },
   "giver" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "escape" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "arts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "limits" : {
+  "chast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -13067,195 +8847,99 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "receive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
-  "Capua" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "cruelty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 15
-  },
-  "implied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "correspondence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "auxiliaries" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
-  "affability" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "summarized" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "intimate" : {
+  "aggrandiz" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "dispositions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "abstains" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Cerchi" : {
+  "entrust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "religion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
+    "value" : 9
   },
-  "standing" : {
+  "charg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 11
   },
-  "baths" : {
+  "cruelti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 21
   },
   "charm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "charl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 16
+  },
   "powerless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "prosperous" : {
+  "extermin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 9
   },
-  "implies" : {
+  "urbino" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 10
   },
   "friendship" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 8
   },
   "till" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "banishment" : {
+  "prepar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 16
   },
-  "inferiority" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "secure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 30
-  },
-  "guided" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "digested" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "uninjured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "late" : {
+  "pontif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "Burd's" : {
+  "redistribut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "Englishman" : {
+  "late" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 4
   },
-  "differing" : {
+  "adventur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 4
   },
   "school" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "preserved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "pensioner" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "continue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "subsisting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "proclaimed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "things" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 55
-  },
-  "immense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
   "hat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "unhistorical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "inherent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "realize" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "cautiously" : {
+  "wast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "advantageous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "offers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
   },
   "pre" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "crimes" : {
+  "last" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 12
+  },
+  "adapt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "wash" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -13263,51 +8947,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "preserves" : {
+  "courag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 16
   },
-  "secrets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Nor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "priestly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "warn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "flatterer" : {
+  "mediat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Not" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "measure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "checks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Now" : {
+  "arbit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
+  },
+  "warn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "attent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "chalk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "playing" : {
+  "gloriou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -13315,59 +8979,39 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "WHETHER" : {
+  "trattar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "wars" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "OFTEN" : {
+  "priestli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "employees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "updated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Rovere" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "injurious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "impossible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
-  },
-  "War" : {
+  "trampl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "effort" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "prudenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
+  },
+  "weapon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "redemp" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Council" : {
+  "cathol" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "agriculture" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "DARIUS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "courageous" : {
+  "instruc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
@@ -13375,113 +9019,49 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "ends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "prudent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
+    "value" : 9
   },
-  "retired" : {
+  "thebe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "overcame" : {
+  "yet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 46
   },
-  "Andria" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "assembled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  },
-  "early" : {
+  "earli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "commissioners" : {
+  "dictat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "writings" : {
+  "chanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 10
   },
-  "notwithstanding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "attentions" : {
+  "colour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "EXHORTATION" : {
+  "chang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Foundation's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "insurgents" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "aggrandizement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "genius" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "alike" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Palavicini" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Jove" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "delightful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "enemy's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Writings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "observing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 28
   },
   "time" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 96
+    "value" : 130
   },
-  "Testament" : {
+  "medici" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 20
+  },
+  "bracceschi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "dominions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "snares" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "shadow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -13489,35 +9069,11 @@
   },
   "dominion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 13
   },
-  "striving" : {
+  "prato" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "wheeled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "happy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "assassination" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "sickness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "circles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "governments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
   },
   "infant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -13525,37 +9081,29 @@
   },
   "put" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 25
+    "value" : 28
   },
-  "redressed" : {
+  "her" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 19
+  },
+  "deletion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "disaffected" : {
+  "unifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "reproved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "offence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "Classici" : {
+  "glutton" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Egyptians" : {
+  "nefari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Special" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "slaves" : {
+  "denounc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -13563,79 +9111,55 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "laws" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 22
-  },
-  "incurable" : {
+  "lesson" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "meets" : {
+  "persuad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 6
   },
-  "conclusions" : {
+  "dissembl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "WITHSTAND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "supreme" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "House" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "lapse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "light" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "Web" : {
+  "happi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 6
   },
-  "VIII" : {
+  "munition" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 2
   },
-  "Zerezzanello" : {
+  "judg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "stubborn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "methods" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
-  },
-  "offends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "merits" : {
+  "artist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "confirmed" : {
+  "jacopo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
+  },
+  "januari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "alien" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Being" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
-  "enraged" : {
+  "agnolo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -13643,17 +9167,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Machiavel" : {
+  "classici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "ways" : {
+  "theatr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 22
+    "value" : 1
   },
-  "Whilst" : {
+  "infami" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 1
   },
   "helmet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -13661,45 +9185,13 @@
   },
   "theme" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "ignominies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "desire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
-  },
-  "touching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "terrified" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "efficient" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "OWN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "consistent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "disgrace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Ridolfi" : {
+  "tire" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "OUGHT" : {
+  "chain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -13707,83 +9199,51 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "encountered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
   "sword" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "antiquity" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "permanent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
   "foster" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "organized" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "XII" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
   "faithless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "choice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "facility" : {
+  "garden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "governed" : {
+  "travel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
+    "value" : 1
   },
   "small" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 7
   },
-  "defeated" : {
+  "titu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "XIV" : {
+  "beam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "XIX" : {
+  "vincula" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "replace" : {
+  "him" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "figuratively" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "appointment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 88
   },
   "listen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 8
   },
-  "wondering" : {
+  "conio" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
@@ -13791,19 +9251,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Austria" : {
+  "major" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Cecco" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "companions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "employs" : {
+  "disast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -13811,205 +9263,153 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "Hannibal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "bear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 9
   },
-  "grandfather" : {
+  "titl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 8
   },
-  "compels" : {
+  "consider" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 9
+  },
+  "inspir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "flatter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
   },
   "proofread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Who" : {
+  "beatric" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "group" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "awaited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
+  },
+  "gaeta" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "gross" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "acclaimed" : {
+  "employe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
   "resist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
+    "value" : 13
   },
-  "Why" : {
+  "tree" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "emboldened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "history" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "disarm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "valorous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Girolamo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Castile" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "square" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 6
   },
   "distrust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 8
   },
   "counteract" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "animosity" : {
+  "histori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 12
+  },
+  "exchang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "absolutely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "KIND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "sustain" : {
+  "peaceabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "induces" : {
+  "sustain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
   "request" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Sylvester" : {
+  "praiseworthi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "hedingham" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "colony" : {
+  "their" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "reveals" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 232
   },
   "stipend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Michele" : {
+  "novemb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 2
   },
   "point" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
+    "value" : 14
   },
   "thirteen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "wolves" : {
+  "unenforc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
-  "general" : {
+  "coloni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 7
   },
-  "diverted" : {
+  "benedetto" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "robberies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "attachment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Virgil" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "induced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "uphold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "l'arme" : {
+  "unfruit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Thebes" : {
+  "bartolommea" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "requirements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "embassies" : {
+  "facil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "philosopher" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "restore" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "reproached" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Sible" : {
+  "process" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "attribut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
   },
   "eighth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -14017,21 +9417,13 @@
   },
   "clear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "Only" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "confining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 7
   },
   "banner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "encounter" : {
+  "croce" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
@@ -14039,39 +9431,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "debts" : {
+  "uneasi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Micheli" : {
+  "mean" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 36
   },
-  "praiseworthy" : {
+  "neither" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "valued" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "reproaches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 23
   },
   "bondmen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "suggestions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Minor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "persisted" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -14079,19 +9451,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 10
   },
-  "uneasy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "disarmed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
   "unforeseen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "XXIV" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -14099,45 +9459,33 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "XXII" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "conqueror" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "Sorel's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "diligence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "advance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 6
   },
   "blacksmith" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "HEREDITARY" : {
+  "marca" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "rally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "safely" : {
+  "yok" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "knowledge" : {
+  "accommod" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
+    "value" : 1
+  },
+  "strict" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "you" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 242
   },
   "soft" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -14147,139 +9495,147 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
+  "excision" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
   "happen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 32
   },
   "intellect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "'That" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
   "prima" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "devised" : {
+  "perceiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
   "loyal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "EFFECT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "delighted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "opportunity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 33
-  },
-  "active" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "court" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "misuse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "METHODS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "festered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "LIMITED" : {
+  "mede" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "Mississippi" : {
+  "scrupl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "discern" : {
+  "court" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
+  },
+  "headquart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "cours" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 25
+  },
+  "ralli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
   },
   "entreat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "deals" : {
+  "discern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "nativ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
   },
   "dealt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "councils" : {
+  "abat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "natives" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "hoc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "quartered" : {
+  "preserv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 14
+  },
+  "organ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "troubl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 29
+  },
+  "depict" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "gardens" : {
+  "brunelleschi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "unwilling" : {
+  "siena" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "fallaci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "cited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "trusting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
   },
   "soil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Owing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
   "hot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "characteristic" : {
+  "corpor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "procured" : {
+  "pursu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Salt" : {
+  "prologu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "how" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 74
+  },
+  "bartolomeo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "cesena" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "edifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "releas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "passiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -14287,175 +9643,95 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "consisted" : {
+  "parentag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "hearing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "one's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "enrolled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Fermo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  },
-  "despairing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "subjects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 31
-  },
-  "outraged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "overcoming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "noticeable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "assemble" : {
+  "regul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "upbraided" : {
+  "spare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "march" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 7
   },
-  "ANYTHING" : {
+  "june" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "coryphaeu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "advantages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "answer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
   },
   "meet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 14
   },
-  "calls" : {
+  "answer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 19
+  },
+  "archer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "timidity" : {
+  "disgrac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "saints" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Fabius" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "restored" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  },
-  "Imprisoned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
   "bolder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "goodwill" : {
+  "marcu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
+    "value" : 8
   },
-  "compete" : {
+  "represent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "putting" : {
+  "correctli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 1
   },
-  "guilds" : {
+  "dispatch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 2
   },
-  "Serravalle" : {
+  "modesti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 1
   },
   "priesthood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "presupposes" : {
+  "insurrec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "listener" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "inclined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "promise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Filippo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "ASCII" : {
+  "dianora" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "robbery" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
   "hold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 50
+    "value" : 58
   },
-  "correctly" : {
+  "tale" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Rome" : {
+  "oliverotto" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 33
+    "value" : 22
   },
-  "presentiment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "modesty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "outdated" : {
+  "convinc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -14463,57 +9739,53 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Goliath" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Nevertheless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 12
-  },
-  "listened" : {
+  "tribut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "reply" : {
+  "train" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "monarch's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "baron" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 9
   },
-  "dedicated" : {
+  "accompani" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 4
   },
-  "honourably" : {
+  "lucches" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 10
   },
-  "perpetrated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Pier" : {
+  "thrace" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "For" : {
+  "xvii" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 30
+    "value" : 1
   },
   "count" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 7
   },
-  "dedicates" : {
+  "repli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 12
+  },
+  "tommaso" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "transac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "take" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 74
   },
   "vision" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -14525,139 +9797,91 @@
   },
   "blame" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "parricide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "inclines" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "boasting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "reckon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Turk" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "Bracceschi" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "confusion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "carrying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "subtlety" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "beginning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 13
   },
-  "waiting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "deceives" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "additional" : {
+  "affec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "Granada" : {
+  "perhap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "reckon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "confusion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "some" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 49
+  },
+  "princ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 281
+  },
+  "upbraid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "partisans" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "Language" : {
+  "underli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "extrinsic" : {
+  "univers" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "discreetli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "deceived" : {
+  "santa" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
+    "value" : 2
   },
-  "passes" : {
+  "bloodi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "abid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "subtleti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "primo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Bartolommea" : {
+  "maria" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "elucidates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "exposed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "passed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 12
-  },
-  "annexed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
   },
   "potter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Henry" : {
+  "divid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 13
   },
-  "respects" : {
+  "hallow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "notice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "bloody" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "International" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "sole" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
   "owner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 6
   },
   "midnight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -14667,83 +9891,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Petrucci" : {
+  "asia" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
-  },
-  "Pistoia" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 23
-  },
-  "remembering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "augmenting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "mercenaries" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
-  },
-  "killed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 24
-  },
-  "Milano" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "home" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "pious" : {
+  "michael" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "shields" : {
+  "montecatini" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "brocad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "print" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "generality" : {
+  "although" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 47
   },
-  "material" : {
+  "holi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "Fra" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "encouragement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "marching" : {
+  "wearisom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "knighted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "fortunes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "president" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "erred" : {
+  "diplomat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -14751,291 +9935,151 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "envy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "reaches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Contrary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "adventurous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "encampment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "answers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Aragon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "ordinances" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "XVI" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "royalty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "hope" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 15
+    "value" : 26
   },
-  "paragraphs" : {
+  "gaddo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 2
   },
-  "sons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "WHICH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  },
-  "Retreat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "action" : {
+  "assembl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 11
   },
-  "anticipated" : {
+  "cyru" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 9
+  },
+  "action" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 35
+  },
+  "indulg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "transvers" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "oration" : {
+  "creat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 18
   },
-  "husbands" : {
+  "abil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "suspected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "XXIII" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "MERCHANTIBILITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 32
   },
   "protest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Magnificence" : {
+  "hiero" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 3
   },
-  "religione" : {
+  "astut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "altered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "heavy" : {
+  "auster" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "captains" : {
+  "negli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 15
+    "value" : 1
   },
-  "accompanied" : {
+  "arbitra" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "spectacl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "envi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "reached" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 17
-  },
-  "Secondly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "asks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "impression" : {
+  "singl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "Hart" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Gerozzo" : {
+  "notifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "comprehended" : {
+  "shield" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "deity" : {
+  "irrevoc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "discreetly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "acting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Bianchi" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "longest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "mules" : {
+  "natur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "DISTRIBUTE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "painted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "diligently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "conquered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 15
-  },
-  "innovators" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "XXI" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Right" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "recapitulation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "dealings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 29
   },
   "deliver" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
-  "AFFAIRS" : {
+  "diver" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "ECCLESIASTICAL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Antonio" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
-  },
-  "Still" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Ghibelline" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Ghibellines" : {
+  "whereupon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 7
   },
+  "landscap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "deriv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "disadvantag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
   "file" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 4
   },
-  "XXV" : {
+  "annibal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "incidents" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
   "member" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 7
   },
   "knowest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "periods" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "PURPOSE" : {
+  "accredit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "taro" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
   },
   "creed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Insomuch" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Caracalla" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "illness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "seigniors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Unhappily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "BETTER" : {
+  "heavi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -15043,185 +10087,129 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "allege" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "subdue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "health" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "heresy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "gathered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "cavalcade" : {
+  "subordin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "prospect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "domnia" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "presumptuous" : {
+  "exercis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "trusted" : {
+  "explan" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "heresi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "royalti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "machine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "evening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "return" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
-  },
-  "governorships" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "codes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "charities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "instance" : {
+  "robberi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "concerned" : {
+  "return" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 26
   },
-  "LIABLE" : {
+  "spartan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
-  "practically" : {
+  "opizi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "miracl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "banquet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 4
   },
-  "accredited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "serve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "envious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "encampments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "trampled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "callings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Asino" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Lambertuccio" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "fine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "downloading" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "find" : {
+  "reput" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 32
   },
-  "diverge" : {
+  "british" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "lunigiana" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "fine" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "find" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 42
+  },
+  "adher" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
   },
   "backward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "XXVI" : {
+  "occup" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "calculated" : {
+  "scolari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "citizen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "Saul" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 37
   },
   "lordship" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "cities" : {
+  "catherina" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
+    "value" : 2
   },
   "sooner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "illustrate" : {
+  "occur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 8
   },
   "drove" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "occur" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "SIGNOR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "difficult" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 15
+  },
+  "vallei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
   },
   "sort" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -15229,89 +10217,65 @@
   },
   "fill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
-  "experiences" : {
+  "dissen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "steps" : {
+  "presenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
-  },
-  "hears" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Castruccio's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "friends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 42
   },
   "forget" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 7
   },
+  "professor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
   "task" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "convenient" : {
+  "infel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "infer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Victories" : {
+  "hors" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "principles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 8
   },
   "true" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 12
   },
-  "tactics" : {
+  "tast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "LITERATURE" : {
+  "sore" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "position" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 19
+    "value" : 21
   },
   "present" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 20
-  },
-  "problems" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "arrested" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Magnificent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 25
   },
   "belong" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 6
   },
-  "borders" : {
+  "frai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -15323,55 +10287,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "Going" : {
+  "cunio" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "abundance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "dangerous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
-  },
-  "appears" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
-  "movements" : {
+  "serezzana" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "troubles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
-  "Philip" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "predominancy" : {
+  "deiti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "leadership" : {
+  "ugucionn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "alliances" : {
+  "summar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
-  "troubled" : {
+  "fundament" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "execut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "regulating" : {
+  "hour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "singularly" : {
+  "hous" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 32
+  },
+  "leadership" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -15379,65 +10331,37 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 14
   },
-  "Changes" : {
+  "extraordinari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "discontented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "execution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "falling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "West" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 7
   },
   "sought" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
   },
-  "writers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "master" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 15
-  },
-  "extraordinary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "Upon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  },
-  "attraction" : {
+  "stern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "pretender" : {
+  "chastis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "singularli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "master" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 22
+  },
+  "unsuccess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "mere" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "online" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "opinions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 3
   },
   "suburb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -15445,169 +10369,101 @@
   },
   "writer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "annoy" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "writes" : {
+  "profess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 1
   },
-  "merchants" : {
+  "extor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "envelop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "cover" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "Aetolians" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "coming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "Each" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "REMEDIES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Pisa" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 36
-  },
-  "disturbances" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "feared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 12
-  },
-  "Old" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "United" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "edifying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "vices" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "theatre" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "firm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "defenders" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Clement" : {
+  "reflect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Monsignor" : {
+  "coven" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "belfagor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "fire" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "FAITH" : {
+  "immedi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 9
+  },
+  "covet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "adventures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "temporal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
   },
   "citta" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Lavenza" : {
+  "countrysid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "based" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
   },
   "distinguish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "numbered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "unbelieving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "emperor's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "intention" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "pointed" : {
+  "chastiti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
   "undertaken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "fray" : {
+  "parliam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "disastrous" : {
+  "wield" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Officiis" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "processing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "impulse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "chastity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "inflicted" : {
+  "mestri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "foreigner" : {
+  "declar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 7
   },
-  "religious" : {
+  "except" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 18
+  },
+  "predomin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "pescia" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
@@ -15619,45 +10475,29 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
+  "nevertheless" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 29
+  },
   "fact" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
   },
-  "One" : {
+  "debat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 2
   },
-  "Quis" : {
+  "obscur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "fundamental" : {
+  "announc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Anastagio" : {
+  "indebt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "calumnies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "phrasemonger" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "pieces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "bases" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Pius" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "upheld" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -15667,23 +10507,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "unless" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
   "excess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
-  "Aquileia" : {
+  "christian" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Under" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "wonderfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "particulars" : {
+  "hawkwood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -15691,87 +10527,59 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 15
   },
-  "CONDUCT" : {
+  "ought" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "landscapes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 61
   },
   "honour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
+    "value" : 26
   },
   "rebellion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 8
   },
-  "invade" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "accordance" : {
+  "valor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "weary" : {
+  "wonderfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Clizia" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "people" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 114
-  },
-  "mastered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "designing" : {
+  "commerc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "face" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 6
   },
   "abandon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 5
+  },
+  "weari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
   },
   "afraid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "showed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "After" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
-  },
-  "intolerable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Pitt" : {
+  "fish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "adverse" : {
+  "reliabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "befal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "announces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "circumvent" : {
+  "edgcumb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -15779,123 +10587,67 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "obligations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "reputation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 25
-  },
-  "inside" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Jacopo" : {
+  "captur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
   },
-  "Full" : {
+  "faggiuola" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "presentation" : {
+  "afterward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 34
   },
-  "Gascony" : {
+  "soldan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "leaves" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "inextricably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Commencing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
   "restrain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "assassinations" : {
+  "bentivogli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "everybody's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 10
   },
   "ruin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 23
+    "value" : 38
   },
-  "commands" : {
+  "vanilla" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "recogni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "hesitated" : {
+  "repres" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "definiendi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "admirable" : {
+  "idl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "collection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "finding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "saddles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "hesitates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Achaeans" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "elected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
+    "value" : 4
   },
   "slept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Latin" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "campaign" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "vital" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "disadvantageous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Vettori" : {
+  "guid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "rewards" : {
+  "campaign" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "vital" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
@@ -15903,143 +10655,103 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Bergamo" : {
+  "squar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 5
   },
-  "reasons" : {
+  "arriv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 22
+    "value" : 9
   },
-  "Numantia" : {
+  "rough" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "qui" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "father" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 17
+    "value" : 20
   },
-  "Boscoli" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "begging" : {
+  "commerci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "rule" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 16
+    "value" : 44
   },
   "detect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "admirably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "derivative" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
+  },
+  "luigi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
   },
   "condemn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "assistance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 21
-  },
-  "commerce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Russia" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "towers" : {
+  "everi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "decrees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 33
   },
   "poem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "dismounted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "declaring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "fallacious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Anne" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Concerning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "meanness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "characteristics" : {
+  "depriv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 8
   },
-  "answered" : {
+  "certainti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 12
+    "value" : 1
   },
-  "decreed" : {
+  "falconi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "wonder" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 8
+  },
+  "accustom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 21
   },
   "inferior" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 5
   },
-  "indifferently" : {
+  "imaginari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "refuge" : {
+  "again" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 20
+  },
+  "macedonia" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Pesaro" : {
+  "commend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Title" : {
+  "commenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 9
   },
-  "certainty" : {
+  "resembl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
-  "Someone" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "HER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "imaginary" : {
+  "avaric" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -16047,35 +10759,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "professed" : {
+  "comment" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "milanesi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "removal" : {
+  "rouen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 6
   },
   "employ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "Pontiff" : {
+  "septemb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "agathocl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
+  },
+  "safeti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "comparatively" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "discussions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "binding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "desirable" : {
+  "slaveri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
@@ -16087,231 +10799,159 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "balcony" : {
+  "consist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
+  },
+  "agricultur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "charitable" : {
+  "sforza" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 18
   },
-  "enable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "safety" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "slavery" : {
+  "critic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "games" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "defensive" : {
+  "quantiti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "dependent" : {
+  "notwithstand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Lucrezia" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "profession" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 8
   },
   "zip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "briefly" : {
+  "compress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
-  "arise" : {
+  "hesit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "besieged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "reduced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 9
   },
   "cherish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "dressed" : {
+  "lanfranchi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "swelling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "agree" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
-  "imagination" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Our" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "resistance" : {
+  "declin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "eminent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Onesti" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Auxiliaries" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "fail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
-  },
-  "welcomed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "DISCLAIMER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 20
   },
   "emperor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
+    "value" : 26
   },
-  "Ionia" : {
+  "prolong" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "AFTERWARDS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "chastised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "regni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "ubaldo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "impetu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
   "inhuman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
   "refund" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
+    "value" : 10
   },
-  "narrowness" : {
+  "spain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "regions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "ADVANTAGEOUS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "donations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 12
-  },
-  "hoped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 15
   },
   "steep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "seize" : {
+  "vitelleschi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
+    "value" : 1
   },
-  "damages" : {
+  "church" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 23
   },
-  "foreign" : {
+  "iii" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "discontinue" : {
+  "alexandria" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "uniform" : {
+  "avignon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "boldli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "requir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 8
+  },
+  "foreign" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 17
+  },
+  "uniform" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
   },
   "papal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "irresolut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
   "fall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
+    "value" : 12
   },
-  "fordable" : {
+  "decreas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Huguenot" : {
+  "scatter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "hopes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "boldly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 6
   },
   "event" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "pictured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "established" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
+    "value" : 7
   },
   "boundless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "multitude" : {
+  "inhabit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
@@ -16319,19 +10959,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "caused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 18
-  },
-  "Burgundy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "siege" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "gratify" : {
+  "subscrib" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -16339,175 +10967,135 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "HIM" : {
+  "excel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 13
+  },
+  "imperi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "gratifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Canzoni" : {
+  "excep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "prefects" : {
+  "balconi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "HIS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "appearance" : {
+  "fisherman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Pall" : {
+  "first" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 61
   },
-  "wings" : {
+  "durabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "damaged" : {
+  "infinit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
+  },
+  "prefer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "runs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "MIXED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "perfect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Night" : {
+  "vicin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "roman" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 35
   },
   "fewer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Titus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "minority" : {
+  "matern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "rimini" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
   },
   "space" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "descending" : {
+  "fano" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "fiorentin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "reference" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "conspiracy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
   },
   "chamber" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "arrange" : {
+  "simpl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "inferred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
   "nephew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "disengaged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Spanish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
+  },
+  "from" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 234
   },
   "depart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Gia" : {
+  "squadron" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
   "ill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "misled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Commodus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "finished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "published" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 7
   },
   "solicit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "fals" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "fostered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "factions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
-  },
-  "Petrarch" : {
+  "dispossess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "quartermasters" : {
+  "centaur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "arbiter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
   },
   "fortress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 21
   },
-  "covered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "dignified" : {
+  "speaker" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "insolencies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "intervention" : {
+  "fabiu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -16515,57 +11103,41 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "replacement" : {
+  "castruccio" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "invariably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Louis" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 18
-  },
-  "MEANNESS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 142
   },
   "morto" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "accorded" : {
+  "erron" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "death" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 32
+    "value" : 36
   },
   "trite" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "arrival" : {
+  "arrai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "advice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 3
   },
   "frequent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "statements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
   "error" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 7
+  },
+  "bestow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
   },
   "network" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -16575,89 +11147,41 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "holding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
   "public" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
+    "value" : 14
   },
   "paper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Leaving" : {
+  "briefli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "array" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "winds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "chiding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "liberality" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 15
   },
   "pomp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "complicity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
   "endeavour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 7
   },
-  "concealed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "DIRECT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "listening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "enforced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "fortune" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 50
-  },
-  "repay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "constructed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Niger" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "verified" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "resources" : {
+  "protec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
+  },
+  "annex" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "signoria" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "conspiraci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 13
   },
   "unheard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -16671,191 +11195,95 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "emploi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 9
+  },
+  "enumer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
   "trade" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "round" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "Additional" : {
+  "repai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "round" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
   "garrison" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Pagolo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 25
+    "value" : 4
   },
   "ambassador" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "shortness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "conferred" : {
+  "lazeron" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "YOU" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "horses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
   "pope" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
+    "value" : 46
   },
-  "Bernabo" : {
+  "properli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
+  },
+  "treacher" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "fare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "references" : {
+  "describ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Macedon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Ottave" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "objects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Tommaso" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "redistribution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "resolution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "SHOULD" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "building" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "setting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "properly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 5
   },
   "ducat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "favoured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
-  },
-  "Pass" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "poor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 8
   },
-  "oppressing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
   "scorn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "ran" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "ashamed" : {
+  "newslett" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "insurrections" : {
+  "descrip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "ZANOBI" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "enduring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "excellent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "envied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Cardinal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "Albinus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "redistributing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "adapted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "authorities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Piero" : {
+  "illustr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "HOW" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "persons" : {
+  "englishman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "hurried" : {
+  "satisfac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
-  "charges" : {
+  "firmli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -16863,203 +11291,111 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Author" : {
+  "francesco" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 28
   },
-  "endure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "charged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "shortly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "firmly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "desiring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "providing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "weeks" : {
+  "treacheri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
+  },
+  "encamp" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "whencesoev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "fate" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "successors" : {
+  "contemporari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "frenchmen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "robbed" : {
+  "hasten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
-  "blamed" : {
+  "overh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 1
   },
-  "posted" : {
+  "milan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 22
   },
-  "personages" : {
+  "consolid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "odiou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
-  },
-  "French" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 18
-  },
-  "treatise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "polishing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "aspect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Lastra" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Nicolo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
-  },
-  "barbarity" : {
+  "unbeliev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "God" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 20
   },
   "close" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 11
   },
-  "delighting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "supporters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "linked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "PRINCE" : {
+  "profes" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
   },
-  "indulgence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "maxims" : {
+  "maximu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "mitigate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "retainers" : {
+  "saint" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "signify" : {
+  "distributor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "intending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
   },
   "sling" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "reconciliation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "Miniato" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "practised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
   "disdain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
+  },
+  "materi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
   },
   "fast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "executions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Avignon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "invasion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "OFFICE" : {
+  "signifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "desperation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "magistrates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "calling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "qualities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
+    "value" : 2
   },
   "spit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "citizens" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 30
-  },
-  "edifice" : {
+  "scour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -17067,43 +11403,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "CASTRACANI" : {
+  "contribut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 4
   },
-  "arrayed" : {
+  "movem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "communicate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Email" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "offended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "asserting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "saddle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "moved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
-  },
-  "betrayal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Melan" : {
+  "acclaim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -17113,87 +11421,75 @@
   },
   "act" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
+    "value" : 17
+  },
+  "michelagnolo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "post" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 8
   },
   "blush" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "magnificence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "insecure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
   },
   "finish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
+  },
+  "remedi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 9
   },
   "morrow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "GOOD" : {
+  "incomplet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "d'Orco" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "swift" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "gifts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
   "add" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "educational" : {
+  "combatt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "hurtful" : {
+  "initi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Magnifico" : {
+  "peacefulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "conquests" : {
+  "steadili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
-  "remedy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "propitious" : {
+  "equival" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "consent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "Pisans" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 8
   },
   "seventeenth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "discrimin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
   },
   "helpless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -17201,63 +11497,35 @@
   },
   "respect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 10
   },
-  "escaped" : {
+  "conces" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 1
   },
   "retreat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 4
   },
-  "avenged" : {
+  "behov" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "peacefully" : {
+  "fourthli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "defences" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "begged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "exchange" : {
+  "conced" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "hesitate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "feasts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "trust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 14
   },
-  "income" : {
+  "jeann" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "comprehensively" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "production" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "united" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
   },
   "smallest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -17267,99 +11535,67 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "soldiers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 54
-  },
-  "choose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "treachery" : {
+  "consequ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Montecarlo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "Gregory" : {
+  "monarch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "Edward" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Fourthly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "peaceful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Republic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  },
-  "soldiery" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "breeds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "miles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
   },
   "prevent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
-  "behave" : {
+  "aet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
   "undo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "appended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "previously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Donations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
+  },
+  "duel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "bonifacio" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "scopo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "identify" : {
+  "councillor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "canonry" : {
+  "soldieri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 9
+  },
+  "modifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "unreli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "pour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "cleverly" : {
+  "succe" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
+  },
+  "hellespont" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "recorded" : {
+  "anyth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -17369,147 +11605,99 @@
   },
   "truth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
+    "value" : 11
   },
-  "White" : {
+  "iniqu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "pledge" : {
+  "uncl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "canonri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "cleverli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "exempt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "collectively" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "pushed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "age" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "enjoyed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "college" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "shoulders" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "smaller" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
+  },
+  "challeng" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "properti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 13
   },
   "ago" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "rebellions" : {
+  "nabi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
   "rid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "accessed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "fishes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "years" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 24
-  },
-  "excepted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "variation" : {
+  "knowingli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "number" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 12
+    "value" : 15
   },
-  "obedience" : {
+  "venetian" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
+    "value" : 26
   },
   "defect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 12
   },
-  "George" : {
+  "identifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "punish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
+  },
+  "sempr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "pisan" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 8
+  },
+  "malcont" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "swiss" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "property" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
-  },
-  "rebus" : {
+  "powr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "decline" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "conceded" : {
+  "sundri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "League" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Catholic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Florentine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 19
-  },
-  "distributed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "STRENGTH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Enrico" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "urged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "masses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "system" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -17519,17 +11707,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "defects" : {
+  "exil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 9
   },
-  "AGREE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "mighty" : {
+  "praetor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "issu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
   },
   "aid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -17539,289 +11727,169 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "sundry" : {
+  "testina" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "Livio" : {
+  "other" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "fathers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 242
   },
   "aim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "city" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 38
-  },
-  "imprudent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "barons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "uncle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "portentous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "confident" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 6
   },
   "retain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 10
+  },
+  "florenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 48
+  },
+  "firstli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
   },
-  "HAVE" : {
+  "aggriev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 1
   },
   "exclusion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Brittany" : {
+  "dismantl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 2
+  },
+  "mighti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "air" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "courage" : {
+  "local" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 14
+    "value" : 2
   },
   "defeat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 9
   },
-  "tm's" : {
+  "locat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "accommodate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "steadily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 6
   },
   "yield" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
+    "value" : 15
   },
-  "Naples" : {
+  "xviii" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 19
-  },
-  "electronic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 27
-  },
-  "firstly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 1
   },
   "speak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 16
+    "value" : 24
   },
-  "ordinance" : {
+  "consciou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "unsolicited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "pontificate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "blushing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "squandering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "rests" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "filled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
   },
   "circumspect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "eBooks" : {
+  "machiavelli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 67
   },
-  "satisfaction" : {
+  "citi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 53
   },
-  "meantime" : {
+  "deuna" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "powerful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 22
-  },
-  "Antoninus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "removed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "meditation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "future" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
   },
   "cite" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 4
   },
   "atop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "DONATIONS" : {
+  "mississippi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "movement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "royal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "knowingly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "governance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "infamous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Pieve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "duke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 60
+    "value" : 92
   },
-  "copied" : {
+  "alba" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "anxiou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "impressed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "DEATH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "reigned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "body" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
-  },
-  "victualled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "commenced" : {
+  "correspond" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "points" : {
+  "villag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
-  "absorbed" : {
+  "corrispondenz" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "rear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 4
   },
-  "copies" : {
+  "baglioni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "l'antico" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "reap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "unhealthy" : {
+  "castracani" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "oblig" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 13
+  },
+  "unsolicit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "modified" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "mountaineers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "maintained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
   },
   "modo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "dukes" : {
+  "all" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 185
+  },
+  "border" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "PRINCIPALITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "tueri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -17829,27 +11897,31 @@
   },
   "read" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
+    "value" : 13
   },
-  "avoids" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "WERE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "SOLDIERY" : {
+  "simplic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "applicable" : {
+  "fidel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 9
+  },
+  "unhealthi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "touch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
+  },
+  "goodwil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 11
+  },
+  "rememb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
   },
   "gesso" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -17859,107 +11931,95 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "expense" : {
+  "achil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 2
   },
-  "maintaining" : {
+  "presump" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "unfaith" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "unit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 23
+  },
+  "famou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "d'Euna" : {
+  "maximinu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Newby" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "ONE'S" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "contemporary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Landriani" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 6
   },
   "cenotaph" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "prayers" : {
+  "bodi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 13
   },
-  "badly" : {
+  "collect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
-  },
-  "adherents" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
   },
   "rob" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 5
   },
-  "interfering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "baseness" : {
+  "colonna" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "CITIES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "accession" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "favour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 23
+    "value" : 34
   },
-  "weakness" : {
+  "shortli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "rebellious" : {
+  "badli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "cleverness" : {
+  "resolv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
-  "sternness" : {
+  "resolu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "diminished" : {
+  "and" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1885
   },
-  "construction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "dissembler" : {
+  "vengeanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "universal" : {
+  "obsolet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "aldo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "PRAISED" : {
+  "ani" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 20
+  },
+  "cesar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 17
+  },
+  "ann" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -17967,35 +12027,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "deliberately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "looked" : {
+  "relianc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "unnecessary" : {
+  "parricid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Marriott" : {
+  "pertinax" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 6
   },
-  "wrongs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Messer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 38
-  },
-  "suggested" : {
+  "mantua" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "caring" : {
+  "dedic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "compromis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "rebu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -18003,79 +12059,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "untie" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "ascends" : {
+  "captiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "compilation" : {
+  "unnecessari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "communicated" : {
+  "comprehend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "consists" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Correspondence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "THEIR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Pertinax" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "corrispondenze" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
   "reason" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 31
+    "value" : 63
   },
   "illud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "wearied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "thought" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
+    "value" : 14
   },
-  "foods" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "paraphrase" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "copiously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "taste" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "prosecution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "treaties" : {
+  "armam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -18083,221 +12091,129 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "acts" : {
+  "compos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "battalion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "Mall" : {
+  "stockad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "revolutions" : {
+  "construc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "exalted" : {
+  "english" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "officii" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "humbling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "identification" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "chiefs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Foundation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 21
-  },
-  "poverty" : {
+  "mistak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "testify" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "occasioned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "goodness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Nabis" : {
+  "outrag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "devoted" : {
+  "valentino" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 10
+  },
+  "resort" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
   },
   "broke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "deeds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
-  },
-  "reconciled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "noting" : {
+  "asper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "spirits" : {
+  "patienc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
-  "completed" : {
+  "gentli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "spiritu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "mount" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 5
   },
   "demand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 6
   },
-  "Venice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "warranties" : {
+  "testifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "territories" : {
+  "dariu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 4
   },
-  "Refund" : {
+  "sorel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "letter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "gently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Lupacci" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Lanfranchi" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 10
   },
   "truer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "corruption" : {
+  "fordabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "succeeded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
-  },
-  "accuse" : {
+  "postur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "increased" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "frequently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Wishing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "inspiring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "handed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "sores" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "acquire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "Sforza" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 18
   },
   "worth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "quarrels" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "deeming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "corrupting" : {
+  "devis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "varying" : {
+  "tactic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "PRINCIPALITIES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  },
-  "grace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "patience" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "captive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "KINGDOM" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Many" : {
+  "discus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "takes" : {
+  "notion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 1
+  },
+  "signor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "grace" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
   },
   "popular" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -18305,7 +12221,15 @@
   },
   "arm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 98
+  },
+  "pensieri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "perpetr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "broken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -18313,45 +12237,29 @@
   },
   "pglaf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 8
   },
   "art" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
+    "value" : 15
   },
   "vice" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 7
+  },
+  "acquisi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
   },
   "esteem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 9
   },
-  "ars" : {
+  "infring" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "strenuously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Gazette" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "noticed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Mantua" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "miserly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "inferiors" : {
+  "dupe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -18359,229 +12267,137 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
+  "poverti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
   "suppress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "describes" : {
+  "acut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Great" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 2
   },
   "call" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 30
+  },
+  "facilit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "calm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "incautious" : {
+  "essenti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "allurements" : {
+  "ask" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 12
   },
-  "armed" : {
+  "ravenna" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 24
+    "value" : 2
   },
-  "theories" : {
+  "miserli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "SUBJECT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "relations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "Pensieri" : {
+  "boccansacchi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "strength" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
-  },
-  "castle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 12
-  },
-  "Compliance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "THERE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 14
   },
   "disregard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "assailed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "offices" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "lifetime" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "bloodshed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Theseus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "occasional" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "justified" : {
+  "firenz" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "run" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 8
+  },
+  "nant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "extinguish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
-  },
-  "imprisoned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Discorsi" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "individuals" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "repeated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "treacherous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "debate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "mother" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "extinguish" : {
+  "either" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 57
   },
   "view" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Discorso" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Sigismund" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "'AS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Canestrini" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "recollection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "helpful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Look" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "donate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "results" : {
+  "preach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 1
   },
   "dust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "author's" : {
+  "those" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 187
   },
-  "defiance" : {
+  "discov" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 8
   },
-  "palace" : {
+  "difficulti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 50
+  },
+  "alik" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "courses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "motives" : {
+  "caracalla" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "pondering" : {
+  "methuen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "lifted" : {
+  "defens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "gianpagolo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "dure" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 16
   },
   "bold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 8
   },
-  "worse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Gravina" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "bounded" : {
+  "effici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "FULL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "camp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -18591,49 +12407,49 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "difficulty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 22
-  },
   "longer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 17
   },
-  "watched" : {
+  "introduc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 6
   },
-  "volunteer" : {
+  "privat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 19
   },
-  "senate" : {
+  "aliv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
-  "parties" : {
+  "consum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
+    "value" : 3
+  },
+  "name" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 19
   },
   "worst" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "leaving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "Domain" : {
+  "pontremoli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "forbearance" : {
+  "mourn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "benefits" : {
+  "notabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
+    "value" : 1
+  },
+  "gentil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "truce" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -18643,33 +12459,33 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "mercenary" : {
+  "reli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 19
+  },
+  "alli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 11
+  },
+  "fatigu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "distance" : {
+  "discorsi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
-  "Rimini" : {
+  "abolish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
   "abstain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "absence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "prospects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "book" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 6
   },
   "unum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -18677,41 +12493,25 @@
   },
   "attract" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "approaching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Benedetto" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
   "show" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 18
-  },
-  "Yet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "description" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 33
   },
   "edition" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 8
   },
   "cautious" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 2
   },
   "alla" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Alexander's" : {
+  "penni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -18719,127 +12519,99 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "situated" : {
+  "comput" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "capac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Carthaginian" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Pyrrhus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "defend" : {
+  "mercenari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 20
   },
-  "ally" : {
+  "defend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 30
   },
-  "arrive" : {
+  "defenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "crying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 11
   },
   "street" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 4
   },
-  "plains" : {
+  "overcom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
+    "value" : 14
   },
-  "outrageous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Venetian" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Mary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Borgia's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "resting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "violator" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "people's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "learned" : {
+  "discorso" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "introduce" : {
+  "napl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 19
   },
-  "substance" : {
+  "castil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "situate" : {
+  "plebian" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Possente" : {
+  "enabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 11
+  },
+  "negoti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "thirdli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "associ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 12
+  },
+  "duti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "bone" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "bond" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "discourse" : {
+  "foliag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 1
+  },
+  "obstruct" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "knowledg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 10
   },
   "mouth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 4
   },
-  "guidance" : {
+  "unti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "chastisements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "duty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "stranger" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "bons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "reorganize" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Italians'" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -18847,29 +12619,13 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "penny" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Bussone" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "leader" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "delicate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "dangers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
+    "value" : 9
   },
   "rebel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 9
   },
   "pressior" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -18879,107 +12635,59 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "WARRANTIES" : {
+  "agreeabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "collected" : {
+  "displac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "poured" : {
+  "enrag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "virtuou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "cast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "anxious" : {
+  "displai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "largely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 8
   },
   "cask" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "officials" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
   "greater" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 17
-  },
-  "elevate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "case" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 19
   },
-  "designate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "patrimony" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "admired" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "waits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "anxieties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "III" : {
+  "viii" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "affections" : {
+  "frammenti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "chained" : {
+  "illustri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 6
   },
-  "Neapolitans" : {
+  "consid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 69
   },
-  "Lord" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "duchy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "rely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 12
-  },
-  "Medes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "failing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "bounds" : {
+  "moor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -18987,17 +12695,9 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "excessive" : {
+  "scipio" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "displease" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "merited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 7
   },
   "card" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -19005,29 +12705,25 @@
   },
   "care" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 15
+    "value" : 21
   },
   "assault" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "damage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
   "guard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 7
+  },
+  "mitig" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "mose" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
   },
   "pattern" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "settle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "fulfilled" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -19035,117 +12731,93 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "exercise" : {
+  "terribl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 3
   },
-  "Eleventh" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "ditches" : {
+  "compil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "labour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
-  "Ferdinand's" : {
+  "caus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "pressing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 45
   },
   "freedom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "glorious" : {
+  "violat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "canzoni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "dared" : {
+  "superflu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "glorious" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "protect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 6
   },
   "vile" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "reliance" : {
+  "messer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 38
   },
   "born" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 27
+    "value" : 29
   },
-  "potentates" : {
+  "lodovico" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "display" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Lodovico" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "superfluous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Hedingham" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "consulted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 4
   },
   "clement" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "moro" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "kill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 30
+  },
+  "morn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 8
+  },
+  "antiochu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "fanci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "imola" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "clemenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
-  },
-  "inaccurate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "disorder" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "His" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "cured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "parted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "KINDS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Principal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "shut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -19155,59 +12827,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "venerated" : {
+  "contumeli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "conspiracies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "bucklers" : {
+  "barbiano" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "simple" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Knowledge" : {
+  "handsom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "sanjaks" : {
+  "simpli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "influence" : {
+  "oligarchi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "obscurity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "prudently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "cloud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Fanfani" : {
+  "luca" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "confusions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "mots" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Maximus" : {
+  "gazett" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -19219,89 +12867,57 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "INCLUDING" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Mission" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "vine" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "negotiate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "corrupted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "Produced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Italians" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
   "king" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 25
+    "value" : 70
   },
   "kind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
+    "value" : 16
+  },
+  "daili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
   },
   "tumult" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 9
   },
-  "obstructed" : {
+  "germ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "important" : {
+  "both" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 55
   },
   "persuasion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "parting" : {
+  "most" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "phrase" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 7
   },
-  "efficacious" : {
+  "footstep" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "veteran" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "bones" : {
+  "imagin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "daily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "affection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "corrupter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "YOUTH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
   "eaten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -19313,31 +12929,27 @@
   },
   "omit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "courteous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 5
   },
   "cloth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
-  "erroneous" : {
+  "duchi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
+  },
+  "machiavel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "limitation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "terrify" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "solicitation" : {
+  "propiti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "continu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 12
   },
   "awaken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -19345,41 +12957,17 @@
   },
   "captain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
+    "value" : 28
   },
-  "Tribu" : {
+  "resid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 11
   },
-  "Cambiagi" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "footing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Turks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "understands" : {
+  "patient" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Soldan" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "administrator" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "causing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "patient" : {
+  "reject" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
@@ -19387,123 +12975,95 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "arrang" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
   "sheer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "miracle" : {
+  "sai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "imitation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "battalions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "mentioned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
   },
   "profit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Release" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
   "sheep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "adds" : {
+  "san" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 18
   },
   "rest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 16
+    "value" : 18
   },
   "move" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 15
   },
   "amount" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "original" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "comply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "deviate" : {
+  "portculli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Carlo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "increase" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "consummating" : {
+  "paraphras" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "kingdom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 30
+    "value" : 34
   },
-  "assignable" : {
+  "liabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "differ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 15
   },
   "spread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "REPLACEMENT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Dacre" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "XIII" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "arming" : {
+  "histor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "adhered" : {
+  "situat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "terrifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "sanjak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "compli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 9
+  },
+  "bergamo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
   },
   "front" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "You" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 17
-  },
-  "simply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "intoxicated" : {
+  "exasper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -19511,11 +13071,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "equivalent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "regaining" : {
+  "viru" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -19523,157 +13079,73 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 16
   },
-  "Tertina" : {
+  "decre" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
-  "facile" : {
+  "complet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "reflected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "alienate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "stripped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "boys" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Institutions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Widger" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 11
   },
   "offer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "diplomatic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 16
   },
   "suffer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 7
   },
-  "ruining" : {
+  "xxiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "sects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "imputation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "campaigns" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Terence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Fermians" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "complex" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "gaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Florentines'" : {
+  "xxii" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "hazardous" : {
+  "narrowli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
-  "narrowly" : {
+  "recollec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "disclaim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "definiendis" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
   "downright" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "astonishing" : {
+  "secur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 52
   },
-  "How" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Athenians" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "submitted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "violates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "plans" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "drive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "IS'" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "greatly" : {
+  "greatli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "hesitation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "victorious" : {
+  "florin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Archbishop" : {
+  "florio" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "drive" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 13
   },
   "deal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 6
   },
   "strong" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -19681,269 +13153,193 @@
   },
   "scheme" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "partiundis" : {
+  "allianc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
+  },
+  "aggrand" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "affect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "scarcity" : {
+  "presuppos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "facing" : {
+  "athenian" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
   "dead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "dainty" : {
+  "hebrew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "IRS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "eyes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "ministers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "proves" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "sea" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "coldly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "sixth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "proved" : {
+  "destruc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "honoured" : {
+  "sea" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
   },
-  "servant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  },
-  "offered" : {
+  "constitu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "civil" : {
+  "sixth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "quickness" : {
+  "personag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "see" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 30
+  },
+  "servant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 15
+  },
+  "vita" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "national" : {
+  "civil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
+  },
+  "subdu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "principalities" : {
+  "cleans" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 18
+    "value" : 1
   },
-  "reiterates" : {
+  "insuffici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "dear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "coldli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "conquerors" : {
+  "extric" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "unjudged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "compared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "set" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 21
+    "value" : 23
+  },
+  "sixtu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "founder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "joined" : {
+  "portent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 1
   },
-  "words" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "founded" : {
+  "fucecchio" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "benefited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "medicine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "entered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "practices" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "battle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 16
-  },
-  "admiration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "difficulties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 28
-  },
-  "insufficiency" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "WARRANTY" : {
+  "decennal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "vicinity" : {
+  "scarciti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "auspices" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Israel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "river" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 22
+    "value" : 26
   },
-  "astonished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "inordinate" : {
+  "dainti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "leaping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Firstly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
   },
   "bed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Nondimanco" : {
+  "offic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 11
   },
   "beg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
-  "shouts" : {
+  "parti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 25
+  },
+  "splendidli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "LUIGI" : {
+  "overcam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "discontinu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "guidanc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "beauti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "romagnian" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
   },
   "contact" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 5
   },
   "useless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
   },
-  "excuses" : {
+  "franci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "disloy" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "North" : {
+  "cantacuzenu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "unsettling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "prospective" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "splendidly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "disadvantage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "flocked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "behoved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "REFUND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "CASTRUCCIO" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "benefices" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "unmeritedly" : {
+  "complain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -19951,7 +13347,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "unstable" : {
+  "abund" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "fickl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
@@ -19959,153 +13359,125 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "anxiety" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "lessened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "parts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "helps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "vigorous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "cardinals" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "mediator" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "party" : {
+  "she" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 17
   },
-  "duties" : {
+  "complac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Immediately" : {
+  "prohibi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Alexander" : {
+  "unmeritedli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 42
+    "value" : 1
+  },
+  "debt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "compas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "compar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "compet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "signa" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "deep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "distrusted" : {
+  "delai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "deem" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "compel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 20
+  },
+  "baldo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "caesar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
   },
-  "humane" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "sources" : {
+  "secondli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "trained" : {
+  "deed" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 11
+  },
+  "repress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "deletions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Pavia" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Alessandria" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "capable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "Fortresses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "enveloped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "liking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "signs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "related" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "captured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
   },
   "await" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "sin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "promot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "Essex" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "INDIRECT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "mouths" : {
+  "sir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
+  },
+  "settl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 8
+  },
+  "battl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 19
   },
   "sit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "directed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "living" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "sanguinary" : {
+  "unhappili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "subjug" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "tyrann" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "carthaginian" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
   },
   "bound" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  },
-  "false" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "wearing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 10
   },
   "tyrant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -20119,27 +13491,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "retained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "sayings" : {
+  "breed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "OTHERS" : {
+  "marriag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
-  "realm" : {
+  "displeas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
+  "sanguinari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "forefath" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "realm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
   "avoid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 19
+    "value" : 32
   },
-  "Descritione" : {
+  "bolognes" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -20147,11 +13527,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "prompt" : {
+  "foundat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 43
+  },
+  "bid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Gracchi" : {
+  "astonish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "posses" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 18
+  },
+  "prompt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -20159,411 +13551,271 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "amazement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Nearly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "frustrated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "select" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "dissolving" : {
+  "misus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Which" : {
+  "warranti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "Borgia" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 12
-  },
-  "nations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 5
   },
   "sick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "bit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "counsels" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
   "slaughter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "improved" : {
+  "obstacl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "fatigue" : {
+  "promis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 13
   },
-  "convinced" : {
+  "sibl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "advances" : {
+  "decemb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
-  "Genoa" : {
+  "ordinari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "majority" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "join" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 8
+  },
+  "moder" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
   },
   "sequel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
+  "decis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "promin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
   "crown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "reduce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Germans" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "sentence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "inquire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Majesty" : {
+  "inquiri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "large" : {
+  "ruberto" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 7
   },
-  "satisfied" : {
+  "director" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 1
+  },
+  "polidori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "vain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "ordinary" : {
+  "defi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
-  "transactions" : {
+  "gasconi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "inevit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "decid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 13
   },
   "drink" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Mandragola" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "intercept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "attracted" : {
+  "experi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 12
   },
-  "defy" : {
+  "john" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "doctrine" : {
+  "besieg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 7
   },
   "begin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 17
   },
-  "valleys" : {
+  "anxieti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Germany" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "alluded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Lunigiana" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "recommending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 7
   },
   "paragraph" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
+    "value" : 15
   },
   "brought" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 25
   },
-  "works" : {
+  "valu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 40
+    "value" : 6
   },
-  "Besides" : {
+  "proportion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "correspondencies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "alive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "Empire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 1
   },
   "prophet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "weariness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "pursuit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "payments" : {
+  "amaz" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "neighbour" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
+  },
+  "visconti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
+  },
+  "sieg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
-  },
-  "undismayed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "professions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "thinking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "POSSIBILITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
   },
   "world" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 11
   },
-  "composed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "viewed" : {
+  "strove" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "strove" : {
+  "moliri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "cicero" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "side" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 21
+    "value" : 25
+  },
+  "centuri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
   },
   "break" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "change" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 15
-  },
-  "South" : {
+  "prestig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "willingness" : {
+  "deceit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "itali" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 58
+  },
+  "bacon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "deceiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 16
+  },
+  "carmignuola" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "indirectly" : {
+  "plagiar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "ALEXANDER" : {
+  "report" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
-  "respectful" : {
+  "indirectli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "Baldini" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "honouring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "likewise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "punishment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "suspicions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Bernardi" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "'wholly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "irrevocable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "instruction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Bernardo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "powers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
-  },
-  "married" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "severities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "improvements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "ALL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Church" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 23
   },
   "constant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "cursed" : {
+  "silvestri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "debatable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "knees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "invalidity" : {
+  "lament" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "sign" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "outrage" : {
+  "xxvi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "visors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "office" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
-  },
-  "precepts" : {
+  "directli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
   "anger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 4
   },
-  "ORSINI" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Nothing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Emperor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "Balfour" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "stands" : {
+  "partridg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -20571,43 +13823,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 9
   },
+  "download" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
   "son" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 25
+    "value" : 32
   },
-  "falls" : {
+  "miniato" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "perilous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "sempre" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "dismantled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "emperors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
+    "value" : 4
   },
   "sow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "directly" : {
+  "administr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 5
   },
-  "usurper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "administrators" : {
+  "boscoli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -20615,229 +13851,141 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "Executive" : {
+  "auxiliari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 11
+  },
+  "beget" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "Europe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Terms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "restrictions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "thrown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "preserve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "roots" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "magnanimous" : {
+  "modif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "establish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Sixtus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Nardo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "rewarded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "belongs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "AND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 15
   },
-  "David" : {
+  "complic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 3
   },
-  "focused" : {
+  "deter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "attached" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "gladiators" : {
+  "inordin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Nardi" : {
+  "proclaim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "produc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 7
   },
   "overthrown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "errors" : {
+  "boi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 3
   },
-  "signification" : {
+  "bon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "parents" : {
+  "vicissitud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "Before" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "infinitely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "toothing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "sparing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "mental" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "inducted" : {
+  "hereditari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 10
   },
   "bow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "ANY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "boy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Praetor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "preservation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "tasted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "loses" : {
+  "restric" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "ills" : {
+  "deni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "highly" : {
+  "composit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 2
   },
-  "unfortunate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "chance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "initiative" : {
+  "buondelmonti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "nature" : {
+  "involv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 16
+    "value" : 1
   },
-  "interesting" : {
+  "suffic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 2
   },
-  "raised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 17
-  },
-  "relying" : {
+  "wheel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "cross" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 7
   },
   "control" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "Scale" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "benignity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Acuto" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Scali" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "editions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "acknowledge" : {
+  "drill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "deferential" : {
+  "poggio" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "dell" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
+  },
+  "highli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "comprehens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "BLAMED" : {
+  "extrem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
-  "hereditary" : {
+  "offici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 9
+  },
+  "quarrel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
   },
   "overthrow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -20845,57 +13993,45 @@
   },
   "inflict" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 5
   },
   "mould" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "occurrences" : {
+  "unduli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "cunning" : {
+  "exerc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 12
   },
-  "dancing" : {
+  "precept" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "paint" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "vary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "buried" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "stood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 10
   },
-  "precept" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "pains" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "vase" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "fighting" : {
+  "injuri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
+    "value" : 12
   },
-  "infamies" : {
+  "transgress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "transgress" : {
+  "ponder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -20903,89 +14039,37 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Tosa" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "injure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
-  },
-  "Giorgio" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "deterred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Carrara" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "OWNER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "encouraged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "unduly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "facilitates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Thirdly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "insolent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Sections" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "overflows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "composite" : {
+  "graciou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Never" : {
+  "environ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "frivol" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "guild" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
+  },
+  "vari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 4
   },
   "hinder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "strengthen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 5
   },
   "friend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 12
+    "value" : 54
   },
-  "accomplishments" : {
+  "strengthen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "draws" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "injury" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 5
   },
   "drawn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -20995,207 +14079,79 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "societies" : {
+  "edific" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "xenophon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "extremity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Thrace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "appreciates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "deny" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "closely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Spartan" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "pleasure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "miserable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Virtu" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "remaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "glory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 15
   },
   "accept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "morning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "horse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "actors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 13
   },
   "mission" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
+  },
+  "fanfani" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "warlik" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "ARE" : {
+  "glori" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 15
   },
-  "prerogatives" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "THINGS" : {
+  "sincer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "stopping" : {
+  "secretari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Faggiuola" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "doctors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "lords" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "Rossi" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "conditions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "interpreted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "lessons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Such" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
-  },
-  "surrendered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "wiped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "ART" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 5
   },
   "access" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
+    "value" : 13
   },
-  "Coming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "redeemed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "advisable" : {
+  "dorco" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "overcome" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
-  },
-  "extended" : {
+  "tightli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "serving" : {
+  "languag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 6
+  },
+  "kei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "current" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "secretary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "managed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "fancies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Histories" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Question" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "preferred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "surprised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
+  },
+  "spittl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "crudelta" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Alberigo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
   "silk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "knights" : {
+  "christendom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -21203,53 +14159,29 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "plebians" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "stopped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
   "storm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "inconstant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "makes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
   },
   "lighter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "enemies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 23
-  },
   "amid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "threatened" : {
+  "store" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Neri" : {
+  "stori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "confirm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
-  },
-  "Goths" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "beloved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
   },
   "centurion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -21257,77 +14189,49 @@
   },
   "hill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 7
   },
-  "discerning" : {
+  "silenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
   "cloak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "explanandis" : {
+  "bui" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
-  "handled" : {
+  "appoint" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "tightly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "stones" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 8
   },
   "vast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "MANY" : {
+  "but" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 275
   },
-  "Cicero's" : {
+  "expens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 9
   },
-  "detriment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "declare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "buy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "wished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 15
-  },
-  "obeisance" : {
+  "jove" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "express" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "pairs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "subjection" : {
+  "dest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "excesses" : {
+  "subjec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -21337,61 +14241,33 @@
   },
   "written" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 11
+    "value" : 12
   },
-  "wishes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "unusual" : {
+  "provok" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "extreme" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Sicilian" : {
+  "enviou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "greatness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 17
-  },
-  "hastened" : {
+  "huguenot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "degree" : {
+  "dismai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 2
+  },
+  "despoil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
   },
   "sint" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "sins" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "Fisherman" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "enhanced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "inquiries" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Persians" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "dismay" : {
+  "brest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -21399,15 +14275,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "General" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "demonstrate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "insists" : {
+  "neapolitan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -21415,11 +14283,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
   },
-  "rallying" : {
+  "achaean" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 6
   },
-  "records" : {
+  "proprietari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -21431,79 +14299,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "prisoners" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "monument" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Liberty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "infantry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 31
-  },
-  "austere" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "What" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "exterminating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "ADOPTED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "sumptuously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "proprietary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "assists" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Peace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "missing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "assent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "virtue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "successful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  },
-  "Ramiro" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "Panciatichi" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "British" : {
+  "parad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -21511,21 +14311,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "types" : {
+  "guidi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 2
   },
   "corrupt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 9
+  },
+  "guido" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "Venetians" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 25
-  },
-  "idled" : {
+  "accumul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "departur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
   },
   "weaker" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -21533,77 +14337,49 @@
   },
   "weaken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "Elizabethan" : {
+  "behav" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "AGAINST" : {
+  "stone" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "CHAPTER" : {
+  "infantri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 26
-  },
-  "passing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 32
   },
   "gentleman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "Leghorn" : {
+  "individu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 8
   },
   "sack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
+    "value" : 4
   },
-  "streets" : {
+  "ampl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Urbino" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 10
+    "value" : 1
   },
   "reach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 30
   },
-  "arbitrament" : {
+  "justifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "LOST" : {
+  "potent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
   },
-  "lightly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "commencement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "physicians" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Further" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "Moreover" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "travelled" : {
+  "realiz" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -21615,11 +14391,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "rulers" : {
+  "alemagna" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 1
   },
   "secondo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "rightli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -21629,13 +14409,9 @@
   },
   "sight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 5
   },
   "weather" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "deviated" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -21643,99 +14419,47 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "guide" : {
+  "bianca" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
-  },
-  "Cesena" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "spectacle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Frederick" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
   },
   "goal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "fossombron" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "natural" : {
+  "opportun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
+    "value" : 38
   },
-  "arising" : {
+  "lightli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "gusciana" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "possent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "rightly" : {
+  "lovingli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "pillage" : {
+  "expedi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 7
   },
-  "deprived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "sergeants" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "stately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "tranquillity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "dell'" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "acquainted" : {
+  "testimoni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "WORK" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Mestri" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Revenue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "deprives" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "provoked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "unwillingly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "insignificant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "combatter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "unsuccessful" : {
+  "wear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -21743,159 +14467,131 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "intrattenere" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "derive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "weak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 7
   },
   "rock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "Cambrai" : {
+  "impress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Colonnesi" : {
+  "assert" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 2
   },
-  "lovingly" : {
+  "leap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "recall" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
+    "value" : 2
   },
   "place" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 20
+    "value" : 37
   },
-  "VITELLOZZO" : {
+  "leav" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 31
+  },
+  "discont" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 5
+  },
+  "faenza" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "audac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "informed" : {
+  "someon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 3
   },
-  "occupying" : {
+  "pistoian" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "dispute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "observation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "prominently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "tired" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Buonaccorso" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 5
   },
   "suggest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "observ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 28
   },
   "lead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 15
   },
   "token" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Buonaccorsi" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
   "della" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
+    "value" : 10
   },
   "expect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
+    "value" : 20
+  },
+  "burgundi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "inaccur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  },
+  "unwillingli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
   },
   "site" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 4
   },
-  "When" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 25
-  },
-  "cease" : {
+  "miser" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "delle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "plagiarized" : {
+  "consequenti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "Sometimes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "elements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "gentlemen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 7
   },
-  "Michelagnolo" : {
+  "ensign" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "realms" : {
+  "cancellieri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "argument" : {
+  "reiter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "passage" : {
+  "unarm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "uniformity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 9
   },
   "begun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "leaders" : {
+  "testam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 1
   },
-  "annoyances" : {
+  "diverg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -21903,165 +14599,89 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "tremendous" : {
+  "lupacci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
-  },
-  "growing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
   },
   "canst" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "utterly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Lettere" : {
+  "twelfth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "describing" : {
+  "divert" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
   "plain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 15
   },
-  "divers" : {
+  "calumni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "sacked" : {
+  "should" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 79
   },
-  "justice" : {
+  "utterli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "verse" : {
+  "indirect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "clothed" : {
+  "onli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "enumerated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "officers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "readable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "centuries" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "natures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Endless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "individual" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "alarmed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Letters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "comprehends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "accepted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
+    "value" : 71
   },
   "tax" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 8
+    "value" : 12
   },
   "constrain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "lovers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "Roberto" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "ranks" : {
+  "colleg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "chances" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "favours" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "person" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 23
-  },
-  "testimony" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "Carthaginians" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "safe" : {
+  "collec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "files" : {
+  "person" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 30
+  },
+  "safe" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 6
+  },
+  "week" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "departure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "banquets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "secretive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "acknowledged" : {
+  "execu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
   },
-  "instances" : {
+  "gherardesca" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "candal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "enterpr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 19
   },
   "tenuto" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -22069,15 +14689,15 @@
   },
   "artel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  },
-  "Egypt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 4
   },
   "stout" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "deliv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
   },
   "distinct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -22087,17 +14707,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 5
   },
-  "aware" : {
+  "aragon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 6
   },
-  "Dido" : {
+  "unclaim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "guarding" : {
+  "can" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "value" : 19
   },
   "hair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -22107,83 +14727,55 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "marriage" : {
+  "satisfi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
+    "value" : 12
   },
-  "securely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "ready" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 13
-  },
-  "taxing" : {
+  "delic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "studies" : {
+  "februari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Bickers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "village" : {
+  "locrian" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
+  },
+  "alarm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 3
+  },
+  "provid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 21
   },
   "greatest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 14
   },
-  "Belfagor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "routed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  },
-  "carried" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
-  },
-  "illustrious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  },
-  "Severus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  },
   "motion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "idle" : {
+  "canti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "satisfy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  },
-  "limited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "value" : 1
   },
   "weakest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   },
-  "Forli" : {
+  "readi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 5
+    "value" : 13
   },
-  "reads" : {
+  "amus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  },
+  "palavicini" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -22195,31 +14787,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "While" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
-  "distracted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  },
   "hail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "passive" : {
+  "lucca" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 48
+  },
+  "piacenza" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "Signoria" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "clothes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  },
-  "resembled" : {
+  "granada" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
@@ -22227,7 +14807,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   },
-  "covetous" : {
+  "efficaci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   }

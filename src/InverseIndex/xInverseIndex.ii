@@ -1,7 +1,11 @@
 {
-  "XI" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+  "xenophon" : [ {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 2
+  } ],
+  "xi" : [ {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "value" : 4
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
     "value" : 2
@@ -9,8 +13,8 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 3
@@ -21,9 +25,9 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 2
   } ],
-  "XII" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+  "xii" : [ {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "value" : 4
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
     "value" : 2
@@ -31,8 +35,8 @@
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 6
@@ -43,15 +47,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
     "value" : 2
   } ],
-  "XIII" : [ {
+  "xiii" : [ {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "value" : 4
+  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
@@ -59,15 +63,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 2
   } ],
-  "XIV" : [ {
+  "xiv" : [ {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "value" : 4
+  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Picture of Dorian Gray.txt",
     "value" : 1
@@ -78,14 +82,14 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 3
   } ],
-  "XIX" : [ {
+  "xix" : [ {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "value" : 2
+  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
@@ -94,170 +98,150 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 2
   } ],
-  "XL" : [ {
+  "xl" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 2
   } ],
-  "XLI" : [ {
+  "xli" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 2
   } ],
-  "XLII" : [ {
+  "xlii" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 2
   } ],
-  "XV" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }, {
+  "xv" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
     "value" : 4
   }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "value" : 2
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
+  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 2
   } ],
-  "XVI" : [ {
+  "xvi" : [ {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
+    "value" : 2
+  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 3
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 1
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 4
   } ],
-  "XVII" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }, {
+  "xvii" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
     "value" : 2
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  } ],
-  "XVIII" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  } ],
+  "xviii" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
     "value" : 2
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  } ],
-  "XX" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  } ],
+  "xx" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
     "value" : 2
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  } ],
-  "XXI" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  } ],
+  "xxi" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
     "value" : 2
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  } ],
-  "XXII" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  } ],
+  "xxii" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
     "value" : 2
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  } ],
-  "XXIII" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  } ],
+  "xxiii" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
     "value" : 2
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  } ],
-  "XXIV" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  } ],
+  "xxiv" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\A Tale of Two Cities.txt",
     "value" : 2
   }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  } ],
-  "XXIX" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }, {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  } ],
-  "XXV" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
     "value" : 2
   }, {
@@ -270,7 +254,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 2
   } ],
-  "XXVI" : [ {
+  "xxix" : [ {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  } ],
+  "xxv" : [ {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
+    "value" : 2
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "value" : 2
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
+    "value" : 1
+  }, {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "value" : 2
+  } ],
+  "xxvi" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
     "value" : 2
   }, {
@@ -283,7 +287,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 2
   } ],
-  "XXVII" : [ {
+  "xxvii" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\Dracula.txt",
     "value" : 2
   }, {
@@ -293,73 +297,69 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 2
   } ],
-  "XXVIII" : [ {
+  "xxviii" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 2
   } ],
-  "XXX" : [ {
+  "xxx" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 2
   } ],
-  "XXXI" : [ {
+  "xxxi" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 2
   } ],
-  "XXXII" : [ {
+  "xxxii" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 2
   } ],
-  "XXXIII" : [ {
+  "xxxiii" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 2
   } ],
-  "XXXIV" : [ {
+  "xxxiv" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 2
   } ],
-  "XXXIX" : [ {
+  "xxxix" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 2
   } ],
-  "XXXV" : [ {
+  "xxxv" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Adventures of Tom Sawyer.txt",
     "value" : 2
   }, {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 2
   } ],
-  "XXXVI" : [ {
+  "xxxvi" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 2
   } ],
-  "XXXVII" : [ {
+  "xxxvii" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
     "value" : 2
   } ],
-  "XXXVIII" : [ {
+  "xxxviii" : [ {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  } ],
-  "Xenophon" : [ {
-    "key" : "E:\\RIW-proiect\\src\\books\\10-15\\The Prince.txt",
     "value" : 2
   } ]
 }

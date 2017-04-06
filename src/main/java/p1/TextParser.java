@@ -22,23 +22,26 @@ public class TextParser {
 
 		for(int i = 0; i < text.length(); i++) {
 			if(!Character.isLetter(text.charAt(i)) && text.charAt(i) != '\''){
-				if(words.containsKey(word.toString())) {
-					MyPair pair = words.get(word.toString());
-					pair.setValue(pair.getValue() + 1);
-					words.put(word.toString(), pair);
-				}else {
-					if (!word.toString().equals("")) {
-						if(!StopWords.stopWords.contains(word.toString())) {
-							if(ExceptionWords.exceptionWords.contains(word.toString())) {
-								MyPair pair = new MyPair();
-								pair.setKey(fileName);
-								pair.setValue(1);
-								words.put(word.toString(), pair);
-							}else{
-								MyPair pair = new MyPair();
-								pair.setKey(fileName);
-								pair.setValue(1);
-								words.put(getCanonicalForm(word.toString()), pair);
+				if(!word.toString().equals("")) {
+					String canonicalForm = getCanonicalForm(word.toString());
+					if (words.containsKey(canonicalForm)) {
+						MyPair pair = words.get(canonicalForm);
+						pair.setValue(pair.getValue() + 1);
+						words.put(canonicalForm, pair);
+					} else {
+						if (!word.toString().equals("")) {
+							if (!StopWords.stopWords.contains(word.toString())) {
+								if (ExceptionWords.exceptionWords.contains(word.toString())) {
+									MyPair pair = new MyPair();
+									pair.setKey(fileName);
+									pair.setValue(1);
+									words.put(word.toString(), pair);
+								} else {
+									MyPair pair = new MyPair();
+									pair.setKey(fileName);
+									pair.setValue(1);
+									words.put(getCanonicalForm(word.toString()), pair);
+								}
 							}
 						}
 					}
@@ -54,7 +57,9 @@ public class TextParser {
 
 
 	private static String getCanonicalForm(String word){
-		return word;
+		Porter porter = new Porter();
+
+		return porter.stripAffixes(word);
 	}
 
 	public void getWords (String text) {

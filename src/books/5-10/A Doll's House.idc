@@ -1,16 +1,4 @@
 {
-  "nicely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "prepare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Twenty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "half" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 7
@@ -19,85 +7,53 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "numerous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "fifty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
   "hall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 33
   },
-  "Therefore" : {
+  "your" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 187
+  },
+  "hurri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "salary" : {
+  "pretend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "bearable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "I've" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "explanation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
+    "value" : 2
   },
   "slower" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "pretenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "youth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "begins" : {
+  "these" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "introduced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 6
   },
   "drunk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "contributions" : {
+  "would" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 51
   },
-  "Helmer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 303
-  },
-  "installments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "legs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Michael" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "electronically" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "calculate" : {
+  "reproach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "ten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "sake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -107,53 +63,37 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "whatsoever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
   "conceal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 4
   },
-  "Small" : {
+  "sometim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "riddl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  },
+  "serv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   },
   "solid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "possess" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "require" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "footlights" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "volunteers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "devise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "costumes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Promise" : {
+  "intellectu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "Shows" : {
+  "possess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "befor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 19
   },
   "left" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -163,103 +103,59 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "asparagus" : {
+  "wink" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "amusing" : {
+  "grope" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "dawn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "wing" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
-  },
-  "squirrels" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
   },
   "wine" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "newspaper" : {
+  "object" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "A" : {
+  "besid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 42
+    "value" : 9
+  },
+  "champagn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 6
+  },
+  "moralis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   },
   "chirp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "folly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "telling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "entitled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "accessible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "hang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 5
   },
-  "Neapolitan" : {
+  "engag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "B" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "vengeance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "C" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "airs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "D" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "E" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 22
-  },
-  "F" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 11
-  },
-  "I" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 950
-  },
-  "talking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
   },
   "turn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 19
   },
-  "tosses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "Screams" : {
+  "suffici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -275,37 +171,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "minds" : {
+  "folli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "arrived" : {
+  "same" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "indulgent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "FOUNDATION" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Contributions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "S" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
+    "value" : 9
   },
   "selfish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
-  },
-  "U" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
   },
   "quiet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -315,79 +191,79 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "staircase" : {
+  "after" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 14
   },
-  "deceitful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "borrowed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "lights" : {
+  "surfac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "hand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 20
-  },
-  "hushed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Hush" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
+    "value" : 38
   },
   "a" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 520
+    "value" : 562
   },
-  "ordered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "committed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "b" : {
+  "unsavouri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "address" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "c" : {
+  "b" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "licensed" : {
+  "piec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 10
+  },
+  "address" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "c" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
+  },
+  "salt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "costum" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "d" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "e" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 23
   },
-  "Rank" : {
+  "f" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 144
+    "value" : 11
+  },
+  "i" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 950
+  },
+  "emmi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   },
   "blood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "ruined" : {
+  "the" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 983
   },
-  "gripping" : {
+  "wipe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -395,11 +271,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 6
   },
-  "unsavoury" : {
+  "halt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "destroyed" : {
+  "convic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -409,7 +285,11 @@
   },
   "s" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 6
+  },
+  "thi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 151
   },
   "blue" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -417,41 +297,45 @@
   },
   "throw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 9
   },
-  "speaks" : {
+  "u" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "days" : {
+  "fifti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
+    "value" : 5
   },
-  "obvious" : {
+  "thank" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 20
+  },
+  "regain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "information" : {
+  "salari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "Folds" : {
+  "goe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 41
   },
   "wrap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
-  "hawk's" : {
+  "novel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "reports" : {
+  "thu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "shabbily" : {
+  "violent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -459,93 +343,57 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "Its" : {
+  "ladi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 3
   },
-  "zealously" : {
+  "advic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "good" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 32
+    "value" : 43
   },
-  "empty" : {
+  "wish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "Obstinate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "PGLAF" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "suffered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 10
   },
   "romp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "Light" : {
+  "pai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 14
   },
-  "copying" : {
+  "advis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
+    "value" : 3
   },
-  "sews" : {
+  "obstin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "export" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "laugh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 10
   },
-  "conversation" : {
+  "practic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Unless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "STRICT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "making" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Duties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Whom" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "KROGSTAD'S" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "FOR" : {
+  "intim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "pay" : {
+  "diseas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
-  },
-  "Krogstad" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 156
+    "value" : 3
   },
   "clearer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -553,99 +401,59 @@
   },
   "check" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "strange" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "ventures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "About" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Dear" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "owed" : {
+  "krogstad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 161
   },
-  "Redistributing" : {
+  "gone" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 5
+  },
+  "practis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
   },
   "success" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "authority" : {
+  "hundr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Shocking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "supposed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "End" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "permitting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "creature" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "shocking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 8
   },
   "child" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 9
   },
-  "solicitor's" : {
+  "fortun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "formats" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 3
   },
   "harm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
+  "ensur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
   "young" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 5
   },
-  "provided" : {
+  "contribu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "obsolete" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "clinging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 2
   },
   "medium" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 5
+  },
+  "hart" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   },
   "lent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -655,35 +463,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "remove" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Naturally" : {
+  "determin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "disclaimers" : {
+  "root" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "arranged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "Redistribution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Ivar's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "patiently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "treasure" : {
+  "gra" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -691,13 +479,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 9
   },
+  "ridicul" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "tiresom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
   "spoil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
-  },
-  "ensuring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
   },
   "lend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -705,33 +497,41 @@
   },
   "live" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 16
+    "value" : 21
   },
-  "People" : {
+  "societi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "peac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "perform" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "lucrative" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "shrugging" : {
+  "cheek" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "expose" : {
+  "perform" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 8
   },
   "room" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 50
+    "value" : 52
   },
-  "absently" : {
+  "cheer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "with" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 171
+  },
+  "shabbili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "loathsom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -739,111 +539,91 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "service" : {
+  "there" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 125
   },
-  "coffee" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "confectioner's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "lady" : {
+  "permit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "Aha" : {
+  "well" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 86
+  },
+  "permis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 8
   },
   "hopeless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "rearrangement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "taking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
-  },
   "pocket" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 8
   },
-  "named" : {
+  "empti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 6
   },
-  "License" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
-  },
-  "hats" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "invisible" : {
+  "unhappi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "changing" : {
+  "darent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "recognising" : {
+  "expos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "flashes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
   "approach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Steals" : {
+  "usher" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "DOLL'S" : {
+  "havana" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 1
   },
-  "loved" : {
+  "reveng" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
+    "value" : 2
   },
   "pen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
+  "hate" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
   "write" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 8
   },
-  "Excuse" : {
+  "propos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
+    "value" : 1
   },
   "order" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
+    "value" : 9
   },
-  "IMPLIED" : {
+  "capabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "scurrilous" : {
+  "period" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Everyone" : {
+  "inten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -851,17 +631,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "breathlessly" : {
+  "revenu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "corporation" : {
+  "mustnt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 18
   },
   "understand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 39
+    "value" : 41
   },
   "birth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -869,161 +649,137 @@
   },
   "dismiss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 6
   },
   "tiniest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Offers" : {
+  "hast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "confirmation" : {
+  "heaven" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "slowly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "unhappy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 4
   },
   "draught" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "bringing" : {
+  "even" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 32
+  },
+  "wive" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "captivating" : {
+  "aris" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "binary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "orders" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "appearing" : {
+  "dishevel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "coach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "despair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "parcels" : {
+  "conceiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 1
   },
   "women" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "eBook" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "Hide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "hundred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "Rubbish" : {
+  "frankli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "wait" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 12
   },
   "woman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 13
+    "value" : 14
   },
   "successor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "cursedly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "save" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 13
+    "value" : 22
   },
-  "kinds" : {
+  "increas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Shouts" : {
+  "entitl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "spasmod" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "matter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 18
+    "value" : 23
   },
-  "What's" : {
+  "restrict" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "shutting" : {
+  "entiti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "footsteps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "frankly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "indicating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
   "hypertext" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "walls" : {
+  "peep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "listens" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
   },
   "top" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "smothered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "noise" : {
+  "cursedli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Fairbanks" : {
+  "breathlessli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "have" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 250
+  },
+  "presum" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "slowli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "crimin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "handkerchief" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -1031,23 +787,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 5
   },
-  "additions" : {
+  "bought" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "housemaid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "bought" : {
+  "spirit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "loves" : {
+  "excus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 9
   },
   "quill" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "intellectual" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
@@ -1055,59 +811,67 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "produce" : {
+  "littl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 42
   },
-  "opportunities" : {
+  "charact" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
+  },
+  "incap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "walks" : {
+  "meanwhil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "messenger" : {
+  "rose" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "unreasonable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Very" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 15
   },
   "thousand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "entity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "All" : {
+  "instanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
+    "value" : 1
   },
-  "New" : {
+  "infect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 1
   },
   "tonight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 10
   },
-  "capital" : {
+  "capric" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "imposed" : {
+  "instal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "restlessly" : {
+  "fundrais" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "almost" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 9
+  },
+  "chariti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "pleas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 20
+  },
+  "motiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -1115,31 +879,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "employee" : {
+  "tidi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
-  "professionally" : {
+  "quietli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 4
   },
-  "employed" : {
+  "crawl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "plead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Copyright" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "stricken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Unintentionally" : {
+  "whenev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "restlessli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -1147,123 +911,83 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "defective" : {
+  "lai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 4
   },
-  "raise" : {
+  "generos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "owns" : {
+  "west" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "plenti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   },
   "stock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "counting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
   "terror" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "circumstances" : {
+  "evid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "law" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
-  },
-  "including" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
+    "value" : 18
   },
   "void" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "liability" : {
+  "voic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "However" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 14
   },
   "pardon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "plenty" : {
+  "absolut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 13
   },
-  "suspects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "AGREEMENT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Public" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "affected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "ushers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "READ" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Trying" : {
+  "repudi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "condition" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 7
   },
-  "Eve" : {
+  "try" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 15
   },
-  "And" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 96
-  },
-  "skylarks" : {
+  "swai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "arms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
   },
   "evil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "rising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "hastily" : {
+  "hawk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "unenforceability" : {
+  "lake" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "perplex" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -1271,41 +995,37 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "HELMER'S" : {
+  "busi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
+    "value" : 24
   },
-  "Any" : {
+  "chatter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "indulge" : {
+  "respons" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "wound" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "effective" : {
+  "dissolu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "times" : {
+  "hastili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "agitated" : {
+  "distanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "ties" : {
+  "identif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "busy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "working" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 1
   },
   "saddest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -1315,115 +1035,71 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
+  "cri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
   "floor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Stoops" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Publish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "direction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "That" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 33
-  },
-  "burn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "wounded" : {
+  "burn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 5
   },
-  "buttons" : {
+  "buri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "wring" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "chief" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 3
   },
   "accord" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "performing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 5
   },
   "forfeit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Getting" : {
+  "procur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
   "lamp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 5
   },
-  "satisfying" : {
+  "italian" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "cry" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "PORTER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
-  },
-  "opening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
   },
   "doctor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "burning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "English" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "lengths" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 48
   },
   "wall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 3
   },
-  "renamed" : {
+  "incident" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "walk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 12
   },
-  "quietly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "refusing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "unspeakably" : {
+  "disclos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -1431,15 +1107,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "marry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "pity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "led" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "absorb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -1447,19 +1119,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "beautiful" : {
+  "concern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
+    "value" : 9
   },
-  "worked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "hinted" : {
+  "leg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Nods" : {
+  "thirti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "helen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 9
+  },
+  "handwrit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "trembl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -1467,149 +1147,129 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "Thank" : {
+  "snuf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
+    "value" : 1
   },
-  "Then" : {
+  "let" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 24
+    "value" : 44
   },
-  "coaching" : {
+  "lotteri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "piti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "state" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "thinks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 20
   },
   "worker" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "subordinates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "events" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "displayed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "germs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "cat's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "cares" : {
+  "onlin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
+  },
+  "coffe" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "yesterdai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 9
   },
   "began" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
+  "gener" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 7
+  },
+  "want" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 54
+  },
   "night" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 6
   },
-  "concealment" : {
+  "havent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 9
   },
-  "opposite" : {
+  "statu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "Comes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 4
   },
   "pack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
+  "each" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 7
+  },
+  "ivar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
+  },
   "restraint" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "Project" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 83
-  },
-  "deserts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "bravely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Are" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 14
-  },
-  "humming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
   },
   "ajar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "creating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "difference" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "thirty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Punishment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "wasting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "perfectly" : {
+  "marri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 6
   },
+  "must" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 95
+  },
+  "offend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "anim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "cun" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "liabil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
   "cut" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Should" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Vanilla" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "manly" : {
+  "realist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Would" : {
+  "distribu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 6
+  },
+  "dread" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "two" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 19
   },
   "prize" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -1619,31 +1279,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 18
   },
-  "Defects" : {
+  "perfectli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Silk" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 6
   },
   "found" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 10
   },
-  "excuse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
   "tear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 8
   },
-  "worries" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Brings" : {
+  "teas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -1651,21 +1299,21 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Ask" : {
+  "larg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "curios" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "reported" : {
+  "curiou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "helplessness" : {
+  "attach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "distribute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
   },
   "lark" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -1673,89 +1321,33 @@
   },
   "shout" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 4
   },
   "kitchen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "prevented" : {
+  "anoth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "escape" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 5
   },
   "creation" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "SUCH" : {
+  "think" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "BUT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Really" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "receive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "implied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "beating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "uneasily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 92
   },
   "forbidden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "anxiously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Calls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Run" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "intimate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "They" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
-  },
   "religion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 5
   },
-  "OTHER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "standing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
-  },
-  "unspeakable" : {
+  "claw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -1763,31 +1355,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "PUNITIVE" : {
+  "charg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 7
   },
   "mistress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "realise" : {
+  "charm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 5
   },
-  "perplexes" : {
+  "uneasili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "watch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 5
   },
-  "Helmers" : {
+  "speech" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 2
   },
-  "Standing" : {
+  "clap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
+  },
+  "manli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "quit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 39
+  },
+  "deliber" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
@@ -1797,33 +1401,9 @@
   },
   "thing" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 57
-  },
-  "surely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "medical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "principle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Creating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 97
   },
   "friendship" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Once" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Anything" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
@@ -1831,37 +1411,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
+  "prepar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
   "forsaken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "anymore" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
   },
   "smell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "secure" : {
+  "redistribut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "There" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 46
+    "value" : 3
   },
   "late" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
-  },
-  "paying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "dying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 11
   },
   "school" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -1871,59 +1439,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "feathers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "continue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Dinner" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "things" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 40
-  },
-  "dogs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "This" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 18
-  },
-  "donation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "hat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
+    "value" : 10
   },
-  "starts" : {
+  "incred" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 4
   },
-  "Linde's" : {
+  "wast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "cautiously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
   "brush" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "offers" : {
+  "doubl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Heaven" : {
+  "actual" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -1931,23 +1467,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "weighs" : {
+  "guilti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 5
   },
-  "impetuously" : {
+  "unlock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "last" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 12
   },
   "doubt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "cheerful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "uncomfortable" : {
+  "solicitor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -1955,43 +1491,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "secrets" : {
+  "courag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 9
+  },
+  "warn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "privileged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Nor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Not" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 16
   },
   "warm" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "guilty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "These" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "exaggerated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "checks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Capri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
@@ -1999,17 +1507,9 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Now" : {
+  "gloriou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 23
-  },
-  "Enter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "playing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 1
   },
   "receipt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -2017,115 +1517,47 @@
   },
   "page" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "employees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 3
   },
   "full" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 15
+    "value" : 18
   },
-  "Seek" : {
+  "tini" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "Italian" : {
+  "becaus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "memory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "cards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "sinks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 21
   },
   "concept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "impossible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 19
-  },
-  "Was" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "effort" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "settling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "house" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 15
-  },
-  "practising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "yesterday" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
-  },
-  "ends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "heavens" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "denying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "contemptuously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "painful" : {
+  "awar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "wreckage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "early" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "hours" : {
+  "effort" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 5
   },
+  "instruc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "prudent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "snowbal" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
   "pain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "LINDE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
-  },
-  "Lowering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "disease" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 4
   },
   "churchyard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -2137,229 +1569,149 @@
   },
   "start" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 8
   },
-  "Foundation's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "overworking" : {
+  "contemptu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "meditatively" : {
+  "earli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "starv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "manage" : {
+  "chanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 6
+  },
+  "colour" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   },
   "fallen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "wife's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "Far" : {
+  "fund" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  },
+  "chang" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 10
   },
   "paid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 10
   },
-  "delightful" : {
+  "dishonour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
+    "value" : 1
   },
   "short" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 13
   },
+  "financi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
   "time" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 41
+    "value" : 42
   },
-  "exacted" : {
+  "pall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "forming" : {
+  "tambourin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 4
   },
-  "Come" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 17
-  },
-  "happy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 17
-  },
-  "PARAGRAPH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "continually" : {
+  "outstretch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "put" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 24
+    "value" : 50
   },
-  "required" : {
+  "glanc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "olsen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Bless" : {
+  "twitter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Rank's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "CONSEQUENTIAL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Suppose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Children's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "grasps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Special" : {
+  "deletion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "payment" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "macaroons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "struggle" : {
+  "enter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 8
   },
   "pale" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "flowers" : {
+  "applic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 3
   },
-  "laws" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
-  },
-  "suppressing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "INCIDENTAL" : {
+  "sixpenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "lesson" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
-  "destroy" : {
+  "wretch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 2
   },
-  "House" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "Lies" : {
+  "memori" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "GIVE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "provide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
   },
   "light" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
+    "value" : 8
   },
-  "Web" : {
+  "happi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 20
   },
-  "tiny" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "palled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Life" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "dolly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "dolls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Thirty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Puts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
-  },
-  "Hits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "NOTICE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Taking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "redistribute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Could" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "shipwrecked" : {
+  "destroi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "methods" : {
+  "judg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "recogn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "tabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 20
+  },
+  "congratul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -2367,55 +1719,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "mustn't" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 18
-  },
-  "confirmed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
   "smart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "lot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 11
+    "value" : 15
   },
-  "Sits" : {
+  "helmer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "computer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "ways" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "fundraising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 335
   },
   "low" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "assure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
-  },
   "letterbox" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "absurdly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "gracious" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -2427,121 +1747,53 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Walks" : {
+  "tire" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Almost" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 6
   },
   "meant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "snuffing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "means" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 13
-  },
-  "Stenborgs'" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "oysters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "survive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "doll" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  },
-  "suffers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 16
   },
   "chair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
-  },
-  "Haven't" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "disgrace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "precarious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "performed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 12
   },
   "sword" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "permanent" : {
+  "struggl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
   "fellow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 7
   },
-  "Gives" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "organized" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Quite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "advancing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "travel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "hanging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "choice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "lays" : {
+  "cling" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
-  },
-  "facility" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
   },
   "small" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 12
+    "value" : 13
+  },
+  "daresai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   },
   "door" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 78
+    "value" : 79
   },
   "quick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -2551,61 +1803,37 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "possession" : {
+  "tell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "gropes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "replace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "appointment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 80
   },
   "husband" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 43
+    "value" : 55
   },
-  "experience" : {
+  "dai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 24
   },
   "listen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "merry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "daresay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 20
   },
   "hit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 3
   },
-  "companions" : {
+  "nuisanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "papa" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
+    "value" : 16
   },
-  "Goes" : {
+  "beat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 12
-  },
-  "disappeared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "interrupt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -2613,145 +1841,97 @@
   },
   "goodnight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "funds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 10
   },
   "affair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 5
   },
   "bear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 5
   },
+  "titl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
   "domino" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
+  },
+  "consider" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   },
   "proofread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "day" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 13
-  },
-  "accustomed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Who" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
-  },
   "group" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "raising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
   "obtain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 5
   },
-  "curiosity" : {
+  "suppos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 29
   },
   "gross" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Especially" : {
+  "employe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 3
   },
-  "created" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "tree" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "format" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "Why" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 14
-  },
-  "pleaded" : {
+  "liter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "sacrifice" : {
+  "resist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 1
   },
-  "EXCEPT" : {
+  "tree" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 14
+  },
+  "format" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 6
+  },
+  "sureti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "water" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "exchang" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "dont" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 85
+  },
+  "merri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "entertain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
-  },
-  "pause" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  },
-  "congratulate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "nibbling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "absolutely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 12
-  },
-  "KIND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "surety" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "apples" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "novels" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "INDEMNITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
   },
   "request" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "Unlocks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "critical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "composure" : {
+  "incom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -2759,71 +1939,47 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 13
   },
-  "rocking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "Say" : {
+  "dolli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
+  },
+  "wildli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   },
   "point" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "principal" : {
+  "unenforc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "general" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "visits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "dove's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Year's" : {
+  "synonym" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "frighten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 8
   },
-  "dated" : {
+  "signatur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 6
   },
   "relief" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "Will" : {
+  "easi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 8
+  },
+  "facil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "wildly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Healthy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "requirements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "revenge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "subscribe" : {
+  "process" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -2831,57 +1987,49 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 5
   },
-  "Only" : {
+  "asparagu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
+    "value" : 1
+  },
+  "reliev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   },
   "clean" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "morally" : {
+  "loneli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Date" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "ears" : {
+  "backwat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "confession" : {
+  "uneasi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Nora" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 687
-  },
-  "gratitude" : {
+  "fairbank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  },
+  "mean" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 52
   },
   "earn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 4
   },
   "glad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "Helen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
-  },
   "account" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "uneasy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 7
   },
   "dearest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -2891,47 +2039,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "DRAMATIS" : {
+  "decidedli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "smiles" : {
+  "recov" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
-  "innocent" : {
+  "hasnt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "hoarse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "RANK" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "That's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 11
-  },
-  "unfathomable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "viewing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
   "trip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
+  "deliri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
   "bind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Thus" : {
+  "gregori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "trim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -2939,105 +2075,85 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "DISTRIBUTOR" : {
+  "nervou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "strict" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "knowledge" : {
+  "you" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
+    "value" : 1054
   },
-  "limitations" : {
+  "jump" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "accepting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
   "happen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 23
-  },
-  "apparition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 29
   },
   "sofa" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 10
   },
-  "carefully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
   "pass" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 5
   },
   "past" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "delighted" : {
+  "shock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
-  "opportunity" : {
+  "capri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 3
   },
-  "active" : {
+  "especi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 3
   },
   "court" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "easy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
-  },
-  "venture" : {
+  "whose" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "LIMITED" : {
+  "carefulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
-  },
-  "Here" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  },
-  "smiled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "See" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "Mississippi" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "eats" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
   },
   "domain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
+    "value" : 8
+  },
+  "preserv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "organ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   },
   "treatment" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Wrap" : {
+  "troubl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 4
+  },
+  "sentenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   },
   "comer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -3047,49 +2163,41 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "waited" : {
+  "corpor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "existed" : {
+  "how" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 75
+  },
+  "grasp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "procured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "THE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  },
-  "Salt" : {
+  "releas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "October" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Emmy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
   },
   "dove" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
-  "hearing" : {
+  "inde" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 21
+  },
+  "direc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "wedding" : {
+  "term" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 22
+  },
+  "regul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "one's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
   },
   "spare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -3097,37 +2205,33 @@
   },
   "mine" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
+    "value" : 9
   },
   "mind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 20
-  },
-  "business" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 17
-  },
-  "committing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 26
   },
   "staff" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "noticeable" : {
+  "right" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "march" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "recollections" : {
+  "opposit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "possibli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
   },
   "breathless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "ANYTHING" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -3145,29 +2249,37 @@
   },
   "answer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "calls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
+    "value" : 3
   },
   "borrow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "Your" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 12
+    "value" : 8
   },
   "maximum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "desert" : {
+  "disgrac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "purse" : {
+  "paus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 7
+  },
+  "under" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 8
+  },
+  "desert" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "did" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 46
+  },
+  "deserv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
@@ -3175,47 +2287,39 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
+  "represent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
   "die" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "putting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 13
-  },
-  "promise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "ASCII" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "enjoying" : {
+  "reserv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  },
+  "gratefulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "down" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 16
   },
   "hold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 8
+  },
+  "shipwreck" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "She" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 39
-  },
-  "wretched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "brings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "absurd" : {
+  "convinc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "outdated" : {
+  "absurd" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -3233,89 +2337,81 @@
   },
   "legal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 4
   },
   "talk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 16
-  },
-  "LICENSE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Gone" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "possibly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
+    "value" : 24
   },
   "parcel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 4
   },
-  "journey" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "commonly" : {
+  "accompani" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "For" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 12
-  },
-  "failings" : {
+  "footlight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "conviction" : {
+  "count" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Wasn't" : {
+  "absurdli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Because" : {
+  "varieg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
+    "value" : 1
+  },
+  "indiscr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "asham" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "take" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 70
+  },
+  "consump" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   },
   "month" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
+  "commonli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
   "blame" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "dressmaker" : {
+  "perhap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 18
+  },
+  "octob" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "speechlessli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "gratefully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "carrying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "Sit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "needn't" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
   },
   "bred" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "needles" : {
+  "some" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -3327,109 +2423,57 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "waiting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "beginning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "overstrained" : {
+  "dissimul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "Well" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 40
-  },
-  "additional" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
   },
   "back" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 32
   },
-  "speechlessly" : {
+  "compani" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
-  "papers" : {
+  "miss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
-  },
-  "trifles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "With" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
-  },
-  "states" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 2
   },
   "paler" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Money" : {
+  "abid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "pound" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 7
   },
-  "Language" : {
+  "journei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 5
+  },
+  "wasnt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
   },
   "bite" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "exposed" : {
+  "just" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "engagements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "company" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "passed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Children" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "SCENE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 60
   },
   "human" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "notice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "International" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "owner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 5
   },
   "sold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -3439,31 +2483,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "darling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
-  },
-  "permission" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
-  },
-  "Locks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "concerns" : {
+  "length" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "killed" : {
+  "babi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
-  "strictly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Wish" : {
+  "afterlif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -3471,91 +2499,95 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 30
   },
-  "entreaties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "moralised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "decidedly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "print" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "inherit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "baby" : {
+  "michael" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "Good" : {
+  "print" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
+    "value" : 3
   },
-  "fortunes" : {
+  "maam" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 11
+  },
+  "although" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "inherit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "interpret" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "pays" : {
+  "relat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "grant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "strictli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "explain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "hum" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
   },
   "basket" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "newsletter" : {
+  "inexpressibli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "incubus" : {
+  "devot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "brothers" : {
+  "convers" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "necess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "helping" : {
+  "ignor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 1
   },
   "convert" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "royalty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "hope" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
+    "value" : 10
   },
-  "paragraphs" : {
+  "dearli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "Already" : {
+  "influenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 8
   },
-  "December" : {
+  "doesnt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
-  "TRADEMARK" : {
+  "inexor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -3563,11 +2595,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "sons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "balance" : {
+  "stalk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -3575,53 +2603,33 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "Despite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "revealed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "inexpressibly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "action" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
   "lock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
+  },
+  "indulg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "husbands" : {
+  "hypocrit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "letters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  },
-  "dearly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "lying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
+    "value" : 2
   },
   "fear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Adamson" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 3
   },
   "song" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  },
+  "creat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 6
   },
   "heartless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -3631,30 +2639,6 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 11
   },
-  "suspected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "bits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Director" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "signed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "sense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "MERCHANTIBILITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "protest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
@@ -3663,257 +2647,173 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 8
   },
-  "Tomorrow" : {
+  "manag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 11
   },
-  "altered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "procuring" : {
+  "plucki" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "printed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
   },
   "afford" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "physically" : {
+  "singl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 6
+  },
+  "invalid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "contents" : {
+  "doe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "served" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "warned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "opens" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 11
-  },
-  "Hart" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "appease" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 18
   },
   "dog" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
-  "plucky" : {
+  "notifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "status" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
   },
   "upset" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "DISTRIBUTE" : {
+  "natur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 10
   },
-  "Slower" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "goodbye" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Right" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "deliver" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "quarterly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "scattered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Still" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "mad" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "inserted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "file" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "legally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "nurse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "PURPOSE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "man" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 42
-  },
-  "stifled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "stand" : {
+  "deriv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 5
   },
-  "illness" : {
+  "mention" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 3
   },
-  "twenty" : {
+  "twenti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 3
+  },
+  "mad" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "file" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "mai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 34
+  },
+  "man" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 46
+  },
+  "stand" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 25
+  },
+  "quarterli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "independ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "within" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 6
   },
   "forward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 6
   },
-  "playfully" : {
+  "could" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 10
+  },
+  "strike" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "subordin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "zealous" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "joking" : {
+  "bless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
   "prospect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
-  "o'clock" : {
+  "ebook" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 18
   },
   "widest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "machine" : {
+  "explan" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
+  },
+  "discrep" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "probabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "sweets" : {
+  "royalti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
+  },
+  "playfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "evening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 17
   },
   "mend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "agonies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "One's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "return" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 4
   },
-  "Wags" : {
+  "nonsens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "THAT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 8
   },
   "feet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "codes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "forged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "fees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "charities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "instance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "concerned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
   "mail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "LIABLE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "conscience" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
   },
   "subject" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "practically" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "feel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 16
+    "value" : 18
   },
   "banquet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -3923,67 +2823,47 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "terribly" : {
+  "reput" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "serve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Lake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
   "smile" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 16
   },
-  "Bob" : {
+  "strip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 1
   },
   "fine" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 6
   },
-  "downloading" : {
+  "find" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 16
+  },
+  "terribli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "find" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 15
-  },
-  "Oho" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
   "maid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 30
   },
   "credit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "calculated" : {
+  "exactli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 6
   },
-  "terrible" : {
+  "alter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 3
   },
-  "likes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "waste" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "cries" : {
+  "embroid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -3995,10 +2875,6 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "Between" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "difficult" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
@@ -4007,39 +2883,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "equipment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
   "dry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Have" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 16
-  },
-  "includes" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "sort" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 15
-  },
-  "Jumps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 17
   },
   "fill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "steps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Excellently" : {
+  "presenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -4047,35 +2903,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 5
   },
-  "utters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "dullest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "forget" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "servic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
+  },
+  "professor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   },
   "task" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "busies" : {
+  "background" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "background" : {
+  "hors" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "true" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 18
+    "value" : 19
   },
-  "leaning" : {
+  "tast" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "exagger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -4083,73 +2947,57 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 12
   },
-  "Wait" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
   "present" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 5
   },
   "laughter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "sentiment" : {
+  "stair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 4
   },
-  "handkerchiefs" : {
+  "belong" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "soul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "Going" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "stalking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "dangerous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
-  },
-  "appears" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "troubles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "conceive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Information" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "nonsense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
   },
   "breath" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
+  "deprav" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "certainli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 11
+  },
   "ball" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
+    "value" : 6
+  },
+  "transform" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "execut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   },
   "hour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 9
+  },
+  "hous" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 22
   },
   "reckless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -4159,89 +3007,29 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "advise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
   "men" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "rooted" : {
+  "make" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "regulating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "hour's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "genuine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "physical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "included" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 47
   },
   "met" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "make" : {
+  "capit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 34
+    "value" : 1
   },
   "heard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 19
   },
-  "wicked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "unassailable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "falling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "winked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "West" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "speeches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "pretended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "thread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "constituting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "heaps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
   },
   "master" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -4253,11 +3041,7 @@
   },
   "fright" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "witness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 2
   },
   "due" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -4265,73 +3049,41 @@
   },
   "mere" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 5
   },
-  "online" : {
+  "disagre" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 3
   },
-  "opinions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Poison" : {
+  "princip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Lets" : {
+  "inform" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "hypocrite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "writes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "coming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
-  },
-  "doubtfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Each" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "REMEDIES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 8
   },
   "depend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 7
   },
   "shawl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 8
   },
-  "feared" : {
+  "about" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 69
+  },
+  "commit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "commis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Aren't" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "enters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "United" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
-  },
-  "friendships" : {
+  "scream" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -4345,55 +3097,23 @@
   },
   "danger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 7
   },
-  "Must" : {
+  "staircas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "granted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "hiding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "character" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
   },
   "bank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 21
   },
-  "Department" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "womanly" : {
+  "unfathom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "fire" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
-  },
-  "Ivar" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "goals" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "based" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "singing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
   },
   "outer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -4403,43 +3123,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "LIABILITY" : {
+  "sleepi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "wonderful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 14
-  },
-  "PROVIDED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "received" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
+    "value" : 2
   },
   "benefit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "animal" : {
+  "doubtfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "processing" : {
+  "forgiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
+  },
+  "declar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "sincere" : {
+  "except" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
-  "repents" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "shared" : {
+  "qualiti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -4451,99 +3159,63 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "One" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "March" : {
+  "fret" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "long" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 24
+    "value" : 25
   },
-  "Tarantella" : {
+  "redistribu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
+    "value" : 2
+  },
+  "announc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   },
   "fell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "pieces" : {
+  "imprud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
+    "value" : 4
   },
-  "remember" : {
+  "unless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
+    "value" : 3
   },
-  "Horrible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Miserable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "glance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "boots" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "wonderfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Under" : {
+  "excess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "free" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 15
+    "value" : 16
   },
-  "cuts" : {
+  "everydai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "But" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 129
-  },
-  "dirty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Don't" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 11
+    "value" : 6
   },
   "honour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "middle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
   "bother" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "expression" : {
+  "stifl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "childhood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "accordance" : {
+  "wonderfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
@@ -4551,73 +3223,53 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "people" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 18
-  },
-  "Deprave" : {
+  "dirti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "knitting" : {
+  "appear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "stay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "everyday" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
+    "value" : 9
   },
   "face" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 8
   },
-  "afraid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 12
-  },
-  "increasing" : {
+  "appeas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "After" : {
+  "afraid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 12
   },
   "household" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "holds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "invite" : {
+  "reliabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "overwork" : {
+  "nurs" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 27
   },
-  "intolerable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "open" : {
+  "mani" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 14
   },
-  "Nurse" : {
+  "overwork" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 16
+    "value" : 2
   },
-  "love's" : {
+  "open" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 32
+  },
+  "stai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 6
   },
   "mamma" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -4631,163 +3283,131 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "starving" : {
+  "monei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 48
   },
-  "wholly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "forced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "obligations" : {
+  "atten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "maids" : {
+  "afterward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "reputation" : {
+  "project" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 87
   },
-  "ice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Whose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "independence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Full" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Last" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "leaves" : {
+  "seven" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "carpeted" : {
+  "shrug" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "falsely" : {
+  "genuin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "ruin" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "displaying" : {
+  "whatev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "icy" : {
+  "ici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "surprise" : {
+  "wholli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "loos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "arent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "dropping" : {
+  "ruin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "five" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Tear" : {
+  "vanilla" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "enclos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "HELMER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 18
   },
   "felt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 5
   },
-  "owing" : {
+  "entranc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "sufferings" : {
+  "look" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 89
+  },
+  "nibbl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "collection" : {
+  "investig" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "guid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "allow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 8
+  },
+  "arriv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
-  },
-  "modification" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "youthful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "forces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "flying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "THIS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "Does" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "unlocks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
   },
   "knock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 3
   },
-  "needed" : {
+  "transcrip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 1
   },
   "father" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 23
+    "value" : 31
   },
-  "begging" : {
+  "binari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "commerci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "rule" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
   },
   "proper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "derivative" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
   "condemn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "assistance" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -4795,47 +3415,55 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "Empty" : {
+  "everi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 6
+  },
+  "transcrib" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Breaking" : {
+  "recal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "peopl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 20
+  },
+  "admir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
   },
   "interest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Anne" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  },
-  "sleepy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "performances" : {
+  "appli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  },
+  "certainti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "wonder" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 15
   },
   "mask" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "ungrateful" : {
+  "middl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 4
   },
-  "indifferently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "madness" : {
+  "accustom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "apply" : {
+  "womanli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -4843,67 +3471,55 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "incredible" : {
+  "healthi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 2
   },
-  "Title" : {
+  "overlook" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "certainty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
   },
   "spine" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "Someone" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "bars" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "foreseen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "money" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 47
-  },
-  "healthy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Every" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
   "step" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
+    "value" : 9
   },
-  "Bankrupt" : {
+  "truffl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "disgust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "forever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "gutenberg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
+    "value" : 93
   },
-  "subordinate" : {
+  "mark" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "base" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "torvald" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 126
+  },
+  "unreason" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "septemb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
@@ -4911,19 +3527,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "degrees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "nonproprietary" : {
+  "messeng" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "dances" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "shillings" : {
+  "consist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -4931,19 +3539,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "reliable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "compatible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "charitable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "darlings" : {
+  "critic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
@@ -4951,19 +3547,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "dresses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "dependent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "controlling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "slate" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "nonproprietari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -4975,25 +3563,21 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "profits" : {
+  "still" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "EBook" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 20
   },
   "worn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "work" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 63
-  },
-  "arise" : {
+  "compress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  },
+  "work" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 103
   },
   "lose" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -5003,55 +3587,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "dressed" : {
+  "hesit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "cherish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "wors" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 6
   },
-  "agree" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
-  },
-  "Throws" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "THOSE" : {
+  "fail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "I'm" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "resistance" : {
+  "statem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Out" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "doors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Heavens" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "books" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "discrepancy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "DISCLAIMER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "convince" : {
+  "jilt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -5063,79 +3619,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "humiliating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Society" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "ascertained" : {
+  "impetu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "word" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "danced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 7
   },
   "refund" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
+    "value" : 10
   },
   "love" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 15
+    "value" : 33
   },
-  "internal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Torvald's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "donations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 12
-  },
-  "signature" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "hoped" : {
+  "iii" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "damages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
   },
   "forehead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "enjoy" : {
+  "impos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 1
   },
   "secret" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
+    "value" : 8
   },
-  "throwing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "naturally" : {
+  "requir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 6
   },
-  "discontinue" : {
+  "caress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -5143,29 +3663,33 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "ear" : {
+  "irresolut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "fall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "writing" : {
+  "ear" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "scatter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "henrik" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "federal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "believed" : {
+  "eat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "pretends" : {
+  "event" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Holds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
   "finger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -5175,103 +3699,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "witnessed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "simplest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "include" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "repent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
-  "caused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "aged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "tremendously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  },
-  "fascinating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Doctor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 39
-  },
-  "disagreeable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "haste" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "gathering" : {
+  "subscrib" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "nice" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 13
-  },
-  "hunted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 15
   },
   "opinion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 5
   },
-  "sends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "lots" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "Olsen's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "altogether" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
-  },
-  "appearance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Lottery" : {
+  "excel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "wings" : {
+  "literari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "damaged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 13
   },
   "hairpin" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "exists" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -5279,37 +3735,13 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "runs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
   "insult" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "voice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 12
-  },
-  "dawned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "perfect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
-  },
-  "prepared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "pretence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Oysters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
   },
   "float" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -5323,63 +3755,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Doll's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "prettily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Halting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "NORA" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 18
-  },
   "spite" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "It's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 15
-  },
-  "arrange" : {
+  "punit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "EXPRESS" : {
+  "from" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 34
+  },
+  "depart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "state's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "subdued" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Tree" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 12
-  },
-  "expecting" : {
+  "prettili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
   "spell" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "discover" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "imply" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -5393,29 +3789,37 @@
   },
   "ill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
-  },
-  "disengages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 13
   },
   "solicit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "fals" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "unspeak" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "SEND" : {
+  "mayb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
-  "appointed" : {
+  "impli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Can" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
+    "value" : 3
   },
   "provision" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "enjoi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "uncomfort" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -5423,33 +3827,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "replacement" : {
+  "cloudi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 1
   },
   "death" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 8
   },
-  "Opens" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Chief" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "steal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "advice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "scientific" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
+  },
+  "arrai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "goodby" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 9
   },
   "frequent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -5459,11 +3855,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "statements" : {
+  "conscienc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "error" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Splendid" : {
+  "recit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -5471,101 +3871,33 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "jealous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "forsake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "skylark" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
-  },
-  "holding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 9
   },
   "paper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
+    "value" : 19
   },
   "public" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
-  },
-  "array" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "walking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  },
-  "KROGSTAD" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 10
   },
   "spend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "Thanks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "barrister's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "notifies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "track" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "concealed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "DIRECT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "listening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "fortune" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "repay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "gbnewby" : {
+  "overstrain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "spent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 6
-  },
-  "Papa" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "tricks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Service" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
   },
   "unheard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -5579,27 +3911,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "expensive" : {
+  "seduct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Contact" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "dears" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "cloudy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "BEFORE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "performance" : {
+  "emploi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -5607,31 +3923,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
+  "repai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
   "round" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 13
-  },
-  "watering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
   },
   "unlink" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Additional" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Tell" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 12
-  },
-  "deductible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "insisted" : {
+  "gbnewbi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -5639,11 +3943,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "WILL" : {
+  "retir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Ten" : {
+  "agit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -5651,61 +3955,37 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 5
   },
-  "YOU" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "truffles" : {
+  "perman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "hands" : {
+  "properli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 18
+    "value" : 1
   },
-  "references" : {
+  "stenborg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "refus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
   "year" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
+    "value" : 24
   },
-  "saved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
-  },
-  "desperate" : {
+  "branch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "allowed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "objects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "redistribution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "resolution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "properly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "emergencies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Everything" : {
+  "fairi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
+  },
+  "engrav" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   },
   "music" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -5713,77 +3993,45 @@
   },
   "poor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 17
+    "value" : 19
   },
-  "understanding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "silence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "educate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "moving" : {
+  "absent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "sorts" : {
+  "near" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "fairy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "ungraceful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 7
   },
   "grief" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "ashamed" : {
+  "newslett" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "searchingly" : {
+  "persona" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "Maybe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "agreement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 18
   },
   "younger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "agreeable" : {
+  "agreem" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 19
+  },
+  "sledg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "excellent" : {
+  "merchant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "handwriting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "AK" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "economy" : {
+  "satisfac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -5791,7 +4039,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "redistributing" : {
+  "pooh" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "naughti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -5799,155 +4051,87 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "shaking" : {
+  "prevar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "persons" : {
+  "firmli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "hurried" : {
+  "stop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "charges" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "warms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 10
   },
   "guess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Author" : {
+  "fairli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "happening" : {
+  "guest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "returns" : {
+  "unscrupul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "endure" : {
+  "ceas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 1
   },
-  "Where" : {
+  "detail" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "economi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "retriev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "isnt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 9
+  },
+  "wouldnt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "shortly" : {
+  "ein" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "SAME" : {
+  "secretli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
-  },
-  "firmly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "providing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "weeks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "BE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Ah" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 19
-  },
-  "Am" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "An" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "backwater" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "reciting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "eloquent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "posted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "The" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 66
   },
   "sleep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 5
   },
-  "As" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 11
-  },
-  "At" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "refuse" : {
+  "searchingli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "macaroon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 7
   },
-  "Mine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "prohibition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "naughty" : {
+  "machin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "close" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "agreed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "computers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "secretly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "linked" : {
+  "profes" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -5955,51 +4139,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Takes" : {
+  "recklessli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
-  },
-  "Be" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
+    "value" : 1
   },
   "learn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "pulled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Wouldn't" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 8
   },
   "neck" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "practised" : {
+  "distributor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "ridiculous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "By" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "Meanwhile" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "tearing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "qualities" : {
+  "swing" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -6009,81 +4165,49 @@
   },
   "sweet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
+    "value" : 12
   },
-  "Take" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "instructions" : {
+  "kindli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "notes" : {
+  "fleet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Email" : {
+  "undertak" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "movem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "senses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "official" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "Servant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "pushes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Melan" : {
+  "specif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "spring" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 4
   },
   "red" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "recklessly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "act" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 5
   },
   "post" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
+    "value" : 14
   },
-  "Foolish" : {
+  "remedi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "leave" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
-  },
-  "awakening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "tiresome" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "helped" : {
+  "incomplet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -6091,31 +4215,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "educational" : {
+  "chines" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "forbidding" : {
+  "unintention" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  },
+  "need" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 24
+  },
+  "steadili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   },
   "wrote" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "intentions" : {
+  "gather" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Do" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 46
-  },
-  "Isn't" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "newspapers" : {
+  "insist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -6125,41 +4249,17 @@
   },
   "helpless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 5
   },
-  "Dr" : {
+  "els" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 6
   },
   "respect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "obtaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "DAMAGE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "kindly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Ibsen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "Walking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
   "mutual" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Doesn't" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -6167,19 +4267,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "There's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Little" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "loose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "loathsome" : {
+  "altern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -6187,35 +4275,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 8
   },
-  "hesitate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "rises" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "income" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "trust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 5
   },
-  "private" : {
+  "companion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Posting" : {
+  "adamson" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
-  "production" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "searching" : {
+  "frightfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
@@ -6223,103 +4295,55 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "choose" : {
+  "famili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Gregory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "peaceful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "During" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "desperately" : {
+  "consequ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "prevent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
+    "value" : 9
   },
   "undo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "disturbing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "happiness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "Donations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "strikes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "responsible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "frightfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
   "end" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 13
+    "value" : 17
   },
-  "lines" : {
+  "strang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 6
   },
-  "incapable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "offending" : {
+  "modifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "tidying" : {
+  "volunt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Down" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "identify" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 7
   },
   "rich" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "cleverly" : {
+  "undisturb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Replacement" : {
+  "anyth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 37
   },
-  "message" : {
+  "howev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
-  "WITH" : {
+  "special" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -6327,35 +4351,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "twittering" : {
+  "agre" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 11
+  },
+  "numer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "GUTENBERG" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "Exactly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "moves" : {
+  "cleverli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "royalties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "START" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
   },
   "exempt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "family" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
@@ -6363,135 +4371,87 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "age" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "shoulders" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "atmosphere" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "slightly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "copyright" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 13
+    "value" : 14
   },
-  "called" : {
+  "donat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
+    "value" : 20
   },
   "told" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 15
   },
-  "springs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "ago" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "Go" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  },
-  "overlooked" : {
+  "sickli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  },
+  "properti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   },
   "rid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "nervousness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "accessed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "crosses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "years" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 13
-  },
-  "infects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "fisher" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "turns" : {
+  "eloqu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 1
   },
   "moral" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
+    "value" : 7
   },
   "number" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 5
   },
+  "slightli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
   "defect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 7
+  },
+  "identifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   },
   "punish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "odds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "property" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "mayn't" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 5
   },
   "brave" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "narrow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
+  },
+  "aha" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "judge" : {
+  "dramati" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Stuff" : {
+  "invis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
-  "He" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 52
-  },
-  "IF" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "II" : {
+  "happili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -6499,107 +4459,39 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "fleeting" : {
+  "invit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Whatever" : {
+  "trifl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Hm" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "NORA'S" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "IN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "stitches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "embroider" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "distributed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "wives" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "thousands" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Just" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
-  },
-  "happily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Afterwards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "exit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 6
   },
-  "Some" : {
+  "wreckag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 4
   },
   "driver" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "compose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "charming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
+    "value" : 2
   },
   "spot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Miss" : {
+  "precari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 1
   },
   "driven" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "AGREE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "EVEN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "If" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 38
-  },
   "partial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "daren't" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -6607,57 +4499,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
+  "other" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
   "tone" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
-  },
-  "In" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 17
-  },
-  "imprudent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "father's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
-  },
-  "Certainty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "HAVE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
   },
   "exclusion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Is" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 26
-  },
-  "Gutenberg" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 83
-  },
-  "It" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 95
-  },
   "air" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
-  "representations" : {
+  "barrist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "courage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
   },
   "remind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -6667,271 +4527,167 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "tm's" : {
+  "assur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 10
+  },
+  "honestli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "extravagant" : {
+  "ibsen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 4
   },
-  "asked" : {
+  "locat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 6
-  },
-  "interceding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "steadily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "morality" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
   },
   "amiss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Smiles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "electronic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 27
-  },
   "speak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
+    "value" : 19
   },
   "share" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 4
   },
-  "punished" : {
+  "bustl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "prevaricate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "unsolicited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "sacred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "obstinate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Believe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "honestly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "horrors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "USE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "rests" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "eBooks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
   },
   "featherhead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Indeed" : {
+  "notic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 10
+  },
+  "surpris" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "citi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "pleasur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
+  },
+  "endur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "mississippi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "tarantella" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 8
+  },
+  "shake" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "ungrac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "glove" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "anxiou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 6
   },
-  "unrecognisable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "satisfaction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "meantime" : {
+  "jealou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "removed" : {
+  "ungrat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "ala" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "future" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  },
-  "stored" : {
+  "retribu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "sickly" : {
+  "oblig" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 9
+  },
+  "unsolicit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "acquaintance" : {
+  "all" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 150
   },
-  "DONATIONS" : {
+  "new" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 17
   },
-  "movement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "infamous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "FITNESS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "copied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "telegraphed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "True" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "body" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "absorbed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "admiring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "undertake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "copies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  },
-  "pages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Whispers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "commissions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "modified" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "presume" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "Try" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "links" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "entrance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "nasty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "catching" : {
+  "escap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "read" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 13
+    "value" : 16
   },
-  "intimately" : {
+  "todai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 16
+  },
+  "shall" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 50
+  },
+  "rememb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 10
+  },
+  "choos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "applicable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
   },
   "real" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "prompted" : {
+  "nasti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "neednt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "unit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 10
+  },
+  "alreadi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 7
+  },
+  "therefor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "strangers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "expense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Newby" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "maintaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "differed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "alas" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Housemaid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "slandered" : {
+  "bodi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -6947,67 +4703,59 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "NO" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "entertaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "jumping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Mr" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
-  },
-  "financial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "reaching" : {
+  "medic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "trick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "My" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 24
+    "value" : 3
   },
   "favour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 5
   },
-  "weakness" : {
+  "shortli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "floors" : {
+  "clumsi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "telegraph" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "OF" : {
+  "resolu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
+    "value" : 1
   },
-  "today" : {
+  "disengag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 13
+    "value" : 1
   },
-  "whispers" : {
+  "calcul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
+    "value" : 2
+  },
+  "and" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 647
+  },
+  "vengeanc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "rot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "medit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   },
   "chose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "construction" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -7015,163 +4763,91 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "dissimulation" : {
+  "obsolet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "declared" : {
+  "ani" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 20
   },
-  "No" : {
+  "ann" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 113
+    "value" : 7
   },
   "abroad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "OR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "deliberately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "wheedling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "looked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Explain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "unnecessary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "drawer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Maid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 14
-  },
-  "specific" : {
+  "indemn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "minute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "Havanas" : {
+  "misfortun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "complying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
   },
   "caller" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "compilation" : {
+  "captiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "inherited" : {
+  "previou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Of" : {
+  "martin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 14
+    "value" : 2
   },
-  "Looks" : {
+  "shant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 2
   },
-  "PG" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Find" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Oh" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 46
-  },
-  "consists" : {
+  "unnecessari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "whisper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 10
   },
-  "borrowing" : {
+  "until" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
-  },
-  "Let" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 19
-  },
-  "Perhaps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "needle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
   },
   "dull" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "clumsy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "On" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "NEGLIGENCE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "reason" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
-  },
-  "Or" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 14
   },
   "thought" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 28
-  },
-  "dressmaking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 34
   },
   "ring" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 6
   },
   "farther" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "ornam" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "maintain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -7179,15 +4855,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "taste" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "entertainments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "rehabilitate" : {
+  "compos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -7195,169 +4863,105 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "afterlife" : {
+  "nil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 11
+  },
+  "forsak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "identification" : {
+  "construc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "differently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "accusation" : {
+  "fragil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "pounds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "Sweet" : {
+  "english" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Foundation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 21
-  },
-  "gentle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "dance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 12
-  },
-  "goodness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "devoted" : {
+  "unassail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "deeds" : {
+  "shoulder" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
+  },
+  "mysteri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "circumst" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "remain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
+    "value" : 8
   },
-  "dining" : {
+  "gentli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "patienc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "expected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "forgiveness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "voices" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "spirits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "Make" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
   },
   "sunlit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "man's" : {
+  "toss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
-  },
-  "countries" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Two" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
   },
   "demand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "eye" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "warranties" : {
+  "reel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "mystery" : {
+  "infam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "rings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "wanted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
-  },
-  "Refund" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "gently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
   },
   "letter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 37
+    "value" : 44
   },
-  "exchanged" : {
+  "necessarili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "bearabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "deserved" : {
+  "flash" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "corruption" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Bank" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 19
   },
   "needlework" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "regrets" : {
+  "appl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "poisons" : {
+  "indemnifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "tastefully" : {
+  "devis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "Certainly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
   },
   "worth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -7367,37 +4971,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Helmer's" : {
+  "silli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
+    "value" : 6
   },
-  "Royalty" : {
+  "where" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "permitted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "patience" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "indemnify" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Many" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "takes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 16
+    "value" : 10
   },
   "arm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
+    "value" : 16
+  },
+  "tastefulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "stitch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   },
   "broken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -7405,7 +4997,7 @@
   },
   "pglaf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
+    "value" : 8
   },
   "art" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -7413,93 +5005,69 @@
   },
   "horror" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "poison" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "infring" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "silly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "noticed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
   },
   "black" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 7
   },
-  "Martin" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
   "holder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "fortunate" : {
+  "suppress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "gras" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "fitted" : {
+  "balanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "call" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 18
   },
-  "Restaurant" : {
+  "playtim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  },
+  "such" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 41
   },
   "calm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "recovered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "irresolute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Sleep" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
   "kick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "dishonourable" : {
+  "ask" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 23
   },
-  "Has" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "TO" : {
+  "principl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
-  },
-  "So" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 20
-  },
-  "relations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
   },
   "understood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "longed" : {
+  "rub" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "openli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -7507,111 +5075,83 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Compliance" : {
+  "innoc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "justified" : {
+  "deject" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "run" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
+    "value" : 10
   },
-  "remains" : {
+  "refin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 1
   },
   "research" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "Hullo" : {
+  "curtsei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "worri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
   "mother" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 18
+    "value" : 21
+  },
+  "either" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 9
   },
   "view" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
+  },
+  "acknowledg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "those" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 6
+  },
+  "discov" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "forgetting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "incomplete" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "openly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "'AS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "To" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 17
-  },
-  "Look" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 12
-  },
-  "helpful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "donate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "curtsey" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "UT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "travelling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "worry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "watches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "imagine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  },
-  "attractive" : {
+  "difficulti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
+  },
+  "imposs" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 19
   },
   "town" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 10
   },
-  "else's" : {
+  "examin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "motives" : {
+  "gladli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
   "bold" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "dure" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
@@ -7619,163 +5159,127 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "sharing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Free" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "worse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "FULL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "difficulty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "longer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 19
   },
-  "watched" : {
+  "introduc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
-  "volunteer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "ignorance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "leads" : {
+  "occupi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
+  },
+  "privat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "aliv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
   },
   "trumpet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "gladly" : {
+  "name" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "ugliness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "worst" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 5
   },
+  "aloud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "bolt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
   "mourn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "swinging" : {
+  "humili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "leaving" : {
+  "physic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
-  "Domain" : {
+  "nod" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "trifle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "blind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Christmas" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 22
-  },
   "shop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "occupy" : {
+  "import" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "September" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 5
   },
   "mood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "distance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Yes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 150
-  },
-  "wringing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "prospects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "book" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 7
+  },
+  "attract" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
   },
   "show" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
+    "value" : 7
   },
   "edition" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 5
   },
-  "originator" : {
+  "cautious" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "caprices" : {
+  "disappear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "malicious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Linde" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 214
-  },
-  "drops" : {
+  "penni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "gloves" : {
+  "button" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "hurriedly" : {
+  "nor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "scientif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "crying" : {
+  "comput" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "not" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 199
+  },
+  "privileg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -7783,77 +5287,65 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "Saved" : {
+  "now" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 106
   },
-  "Flesh" : {
+  "nearli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "trademark" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
+    "value" : 11
   },
-  "faintly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "derived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "news" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "indiscretion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "thoughts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "breaks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "learned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "introduce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Suddenly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "suddenly" : {
+  "wag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
+  },
+  "boot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "ascii" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "wai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 35
+  },
+  "hurriedli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "duti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 9
+  },
+  "bone" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "faintli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   },
   "bond" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 9
   },
-  "We" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 21
-  },
-  "necessaries" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "mouth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "Five" : {
+  "what" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 234
+  },
+  "knowledg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
   },
   "droop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -7861,31 +5353,19 @@
   },
   "refer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "restricted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
   "nervous" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 1
   },
   "spendthrift" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "Within" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "duty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 4
   },
   "stranger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
+    "value" : 6
   },
   "risk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -7895,27 +5375,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 5
   },
+  "rise" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 7
+  },
+  "suddenli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
   "crotchet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "penny" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
   },
   "tactless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "play" : {
+  "intoler" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 12
+    "value" : 1
   },
-  "fancy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
-  },
-  "Behind" : {
+  "agreeabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -7923,37 +5403,13 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "quickly" : {
+  "when" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
+    "value" : 66
   },
-  "WARRANTIES" : {
+  "plai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "taxes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "decide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "pleases" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "glancing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "synonymous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Goodnight" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
+    "value" : 23
   },
   "piano" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -7961,31 +5417,31 @@
   },
   "anxious" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "doubly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "dressing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
+  },
+  "far" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "quickli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
+  },
+  "displai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 6
   },
   "broad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "struggling" : {
+  "electron" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "HOUSE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 29
   },
   "catch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "plan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -8001,49 +5457,21 @@
   },
   "case" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  },
-  "admired" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 9
   },
   "give" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 23
+    "value" : 36
   },
-  "waits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "lives" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "depends" : {
+  "doubli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "double" : {
+  "unconquer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "dissolution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "III" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "comfortably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Fairly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "bewildered" : {
+  "obviou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -8051,107 +5479,95 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 5
   },
-  "Seven" : {
+  "melan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "another's" : {
+  "studi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
-  "concealing" : {
+  "hullo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
-  "determined" : {
+  "futur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 7
   },
-  "refined" : {
+  "didnt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 9
   },
-  "PLEASE" : {
+  "everyth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 18
   },
   "waist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "burdens" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "suit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "completely" : {
+  "flesh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 1
   },
   "card" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
+    "value" : 8
   },
   "care" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 12
-  },
-  "damage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "study" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "EBOOK" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 17
   },
   "direct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Absolute" : {
+  "smother" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "terribl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "compil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "MRS" : {
+  "couldnt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 14
   },
   "scrape" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "receiving" : {
+  "caus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "admirer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 5
   },
   "freedom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
+  "violat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
   "web" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 6
   },
   "wee" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "glorious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Nice" : {
+  "wed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -8163,101 +5579,81 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "dared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "protect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
-  },
-  "relieved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
   },
   "mischief" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
+  "grip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "rescu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "more" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 20
+  },
   "born" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "friend's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "display" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "life's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "kill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "morn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 7
   },
   "great" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 18
   },
-  "happened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
   "bore" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "inaccurate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "beautifully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
   "wrong" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 4
   },
-  "His" : {
+  "fanci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 10
+  },
+  "appari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "advanc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "beautifulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "Speak" : {
+  "stuff" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 1
   },
-  "pleased" : {
+  "sacrific" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
-  },
-  "stockings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "sides" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "accounts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Day" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "wondered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
   },
   "shut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 23
+  },
+  "whim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   },
   "luck" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -8265,227 +5661,183 @@
   },
   "widow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "bidding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "schooldays" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "persistently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "springing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
   "fee" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
+    "value" : 12
   },
-  "Turning" : {
+  "lucr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
-  "minded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "maids'" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "someone's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "influence" : {
+  "section" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 8
   },
-  "prudently" : {
+  "schooldai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "attractiveness" : {
+  "indescrib" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "amicably" : {
+  "simpli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 4
   },
   "foie" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "INCLUDING" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Mission" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Spendthrifts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Turns" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "rogue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "marked" : {
+  "threaten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "Produced" : {
+  "questioningli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "strain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
+  },
+  "desper" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "hunt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "dispos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   },
   "forgiven" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 7
   },
-  "borne" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "kind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 18
-  },
-  "Yesterday" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 20
   },
   "nearer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 5
   },
-  "laughed" : {
+  "germ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "opened" : {
+  "rais" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 3
   },
-  "produced" : {
+  "both" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 17
+  },
+  "most" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 11
+  },
+  "shill" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "transfer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "important" : {
+  "footstep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "reproaching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "phrase" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "bones" : {
+  "imagin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 7
+  },
+  "keep" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 22
   },
   "effect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "unscrupulous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
   "daughter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
+  "who" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 57
+  },
   "cloth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
-  "limitation" : {
+  "weigh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 1
   },
   "game" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "Playtime" : {
+  "ascertain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "solicitation" : {
+  "joi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "maynt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "bows" : {
+  "why" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 33
+  },
+  "insert" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "continu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
-  },
-  "deserves" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
   },
   "faith" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "investigations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "awaken" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "died" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
-  },
-  "forbid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "rotting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "necessarily" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "Shall" : {
+  "remark" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "forbid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "everyon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "snowballing" : {
+  "donor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "damned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "bustling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "joy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
   },
   "bedridden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -8493,57 +5845,57 @@
   },
   "patient" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 4
   },
   "sad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "dialogue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "cashier" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  },
+  "arrang" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
   },
   "sheer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Porter" : {
+  "sai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 51
   },
-  "mentioned" : {
+  "newbi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 1
+  },
+  "messag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   },
   "win" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "accompanying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "profit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Release" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "lawyer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 7
   },
-  "Until" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "rest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "breach" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "move" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
@@ -8553,79 +5905,55 @@
   },
   "wit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "disclosed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "comply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "original" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 7
   },
   "sat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "earnestly" : {
+  "tremend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 13
   },
-  "questioningly" : {
+  "liabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "From" : {
+  "differ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "leans" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "delirious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 12
   },
   "spread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "REPLACEMENT" : {
+  "oclock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "contained" : {
+  "situat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Today" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "matters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "guests" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "attention" : {
+  "oyster" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "investigation" : {
+  "compli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 9
+  },
+  "archiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 13
+  },
+  "earnestli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   },
   "visit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 4
   },
   "front" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -8635,19 +5963,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "You" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 140
-  },
-  "simply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "Truffles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "tidies" : {
+  "confid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -8655,7 +5971,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "regaining" : {
+  "viru" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -8663,11 +5979,7 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 8
   },
-  "Stop" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "trembles" : {
+  "corrup" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -8677,19 +5989,19 @@
   },
   "bring" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
+    "value" : 14
   },
   "bag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "boys" : {
+  "complet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 3
   },
-  "stripped" : {
+  "kiss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
   "fond" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -8697,43 +6009,51 @@
   },
   "offer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 4
   },
   "fit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "bar" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 4
   },
   "suffer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 7
+  },
+  "bar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
+  },
+  "gentl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "hush" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 8
   },
   "fix" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "incredulously" : {
+  "rank" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 151
+  },
+  "interced" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  },
+  "contriv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "angri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
   },
   "rubbish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Henrik" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "Pooh" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "wagging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "neglect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -8741,57 +6061,77 @@
   },
   "addition" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 6
+  },
+  "despit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "promoting" : {
+  "grow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "sure" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 10
+  },
+  "defiantli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "ag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "grow" : {
+  "ah" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 19
+  },
+  "recollec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "disclaim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 5
   },
-  "angry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "EIN" : {
+  "ak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "punctually" : {
+  "am" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 53
   },
-  "How" : {
+  "greatli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 31
+    "value" : 2
   },
-  "delay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "violates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "defiantly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Sixpence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "turning" : {
+  "secur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "peace" : {
+  "an" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 34
+  },
+  "ar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 135
+  },
+  "fold" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "as" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 194
+  },
+  "at" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 179
+  },
+  "constitut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -8799,17 +6139,9 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "IS'" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "greatly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
   "brother" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 4
   },
   "frank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -8819,43 +6151,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "Christine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 51
-  },
   "strong" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
+  },
+  "be" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 219
   },
   "prove" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "hesitating" : {
+  "insignific" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "cherished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "dainty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "jilts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "IRS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "eyes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "virus" : {
+  "affect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -8863,135 +6175,79 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Makes" : {
+  "servant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "coldly" : {
+  "see" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Couldn't" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "amuse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "claws" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 54
   },
   "search" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "furnished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "responsibility" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "Stops" : {
+  "by" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 62
   },
-  "Defect" : {
+  "whom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 7
   },
   "cardboard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "scarcely" : {
+  "subdu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 1
   },
   "dear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 44
+    "value" : 48
   },
-  "Did" : {
+  "tooth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
+    "value" : 1
   },
-  "disclaimer" : {
+  "coldli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "contain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
   },
   "set" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 11
   },
-  "charge" : {
+  "incredul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "Poor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 1
   },
   "sew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "keeping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "Torvald" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 123
-  },
-  "words" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "alternate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 6
   },
   "familiar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "entered" : {
+  "freeli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
+  },
+  "figur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Near" : {
+  "renam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "embroidery" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "ACT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "Year" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "difficulties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "WARRANTY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Telling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Dance" : {
+  "fly" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -8999,13 +6255,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "freely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "widower" : {
+  "dainti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  },
+  "embroideri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "christin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 51
   },
   "bed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -9015,35 +6275,59 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "rooms" : {
+  "scarc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "transferred" : {
+  "brittl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "beauty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "beg" : {
+  "offic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 6
   },
-  "Nils" : {
+  "di" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 11
+    "value" : 8
   },
-  "stairs" : {
+  "beg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 8
   },
   "scare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "forc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "do" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 207
+  },
+  "dr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "parti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "forg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "justic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "generosity" : {
+  "furnish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "discontinu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -9051,63 +6335,55 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "slightingly" : {
+  "beauti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 7
   },
-  "criticise" : {
+  "dy" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "contact" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 4
   },
-  "excuses" : {
+  "deduct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "chairs" : {
+  "carri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 6
   },
-  "North" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "REFUND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "downstairs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "pulls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "anxiety" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "piece" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "Italy" : {
+  "needl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "dishevelled" : {
+  "she" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 82
+  },
+  "ev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "never" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 41
+  },
+  "ey" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 8
+  },
+  "activ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "prohibi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "END" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "carry" : {
+  "sentim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -9115,31 +6391,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "claps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "necessity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "party" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "duties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "lucky" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "tears" : {
+  "compat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "distractedly" : {
+  "indic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "delai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -9147,31 +6407,27 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "deletions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "forgive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
   "songbird" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
+  },
+  "origin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "for" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 241
   },
   "compel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "capable" : {
+  "unlucki" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "loneliness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "explained" : {
+  "depress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -9181,17 +6437,21 @@
   },
   "content" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 4
   },
-  "riddle" : {
+  "deed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "wronged" : {
+  "burden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Aloud" : {
+  "dine" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "distractedli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -9199,79 +6459,67 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "intently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "trouble" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
   "sin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "outstretched" : {
+  "promot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "sir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "contrary" : {
+  "settl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "views" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "INDIRECT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
   "sit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
+    "value" : 30
   },
-  "assurances" : {
+  "slightingli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "living" : {
+  "someth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "papa's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 18
   },
   "bound" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 5
   },
-  "Emptying" : {
+  "go" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "false" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "wearing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Although" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 112
   },
   "dinner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "stroke" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "contrari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "treasur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "preciou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "lucki" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "tease" : {
+  "rehabilit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -9279,13 +6527,21 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
+  "marriag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
   "form" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
+    "value" : 8
   },
-  "unlucky" : {
+  "publish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  },
+  "ha" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 88
   },
   "avoid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -9297,47 +6553,67 @@
   },
   "fresh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "bid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  },
+  "foundat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 25
+  },
+  "he" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 190
+  },
+  "posses" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "prompt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
   },
   "promotion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "rubbing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "presents" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Professor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "big" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 11
   },
-  "Fresh" : {
+  "feather" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Nearly" : {
+  "hi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 53
   },
-  "transcription" : {
+  "agoni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "hm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 6
   },
-  "Hasn't" : {
+  "altogeth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 8
+  },
+  "degre" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
+  },
+  "easili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 6
+  },
+  "warranti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
   },
   "sick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -9345,353 +6621,265 @@
   },
   "bit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 12
+    "value" : 13
   },
-  "amusements" : {
+  "ventur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "capricious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "maiden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "transcribe" : {
+  "veri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 69
   },
-  "agony" : {
+  "promis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "striking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Helps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 12
   },
   "corner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "recognise" : {
+  "decemb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "easily" : {
+  "ic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
+    "value" : 1
   },
   "join" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "costume" : {
+  "promin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 2
+  },
+  "if" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 115
+  },
+  "somedai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   },
   "burnt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "burns" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Exit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
   "sky" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "violently" : {
+  "ii" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "sentence" : {
+  "extravag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "im" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "inquire" : {
+  "in" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 388
   },
-  "large" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "surface" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "dejected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "literally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "satisfied" : {
+  "director" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "lower" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 3
   },
   "tomorrow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 13
+    "value" : 17
   },
-  "doorway" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
-  },
-  "fretful" : {
+  "ir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
+  "is" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 467
+  },
+  "fascin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "it" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 607
+  },
   "foolish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 4
   },
-  "someday" : {
+  "iv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "decid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "odd" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "wildest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "talked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "lively" : {
+  "surviv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Plain" : {
+  "christma" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 22
+  },
+  "experi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
-  },
-  "cheeks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
   },
   "gave" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 9
   },
-  "alteration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "brittle" : {
+  "constern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "begin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 11
   },
   "rascal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
+  "anxieti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
+  },
   "paragraph" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
-  },
-  "recovering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Besides" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
+    "value" : 14
   },
   "brought" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "works" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 32
-  },
-  "alive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "May" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "turned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "dolly's" : {
+  "librari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "payments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "Where's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "peeps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "thinking" : {
+  "downstair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 5
   },
-  "extraordinarily" : {
+  "amaz" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "POSSIBILITY" : {
+  "believ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 16
+  },
+  "sadli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
   },
   "world" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 15
   },
-  "library" : {
+  "meantim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "viewed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "RIGHT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "sending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "bundle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "abyss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "table" : {
+  "delight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 20
-  },
-  "sadly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 8
   },
   "side" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
+    "value" : 8
   },
   "break" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Use" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "change" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 5
   },
   "knew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 9
   },
-  "indirectly" : {
+  "deceit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "comfort" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "joke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
-  "generally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Engravings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "hide" : {
+  "itali" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "punishment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "instruction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "candle" : {
+  "knee" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "indescribably" : {
+  "hide" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 10
+  },
+  "report" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "indirectli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "complete" : {
+  "li" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "married" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "Listens" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 4
   },
   "fun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 9
   },
+  "extraordinarili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
   "fur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "sigh" : {
+  "inquir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Probably" : {
+  "sigh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -9699,159 +6887,111 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "knees" : {
+  "receiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 10
   },
-  "invalidity" : {
+  "sob" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "sign" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Nonsense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "office" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 6
   },
-  "MAID" : {
+  "directli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
+    "value" : 1
+  },
+  "while" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "ly" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 7
   },
   "anger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Nothing" : {
+  "that" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "stands" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
+    "value" : 490
   },
   "high" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "son" : {
+  "download" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "falls" : {
+  "son" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "www" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 6
   },
-  "sufficient" : {
+  "extravagantli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "champagne" : {
+  "limit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
+    "value" : 9
   },
   "claim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "locked" : {
+  "outdat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "porter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
+  },
+  "mr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 255
+  },
+  "author" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
-  },
-  "Something" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "directly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "mother's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Alas" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Executive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Updated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
   },
   "aright" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "extravagantly" : {
+  "creatur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "unconquerable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "possessed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Terms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "restrictions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 5
   },
   "thrown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "feeling" : {
+  "my" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 193
   },
-  "preserve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "City" : {
+  "modif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "throws" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
   },
   "coat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 7
   },
-  "license" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
   "disk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "hateful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "dismissal" : {
+  "bob" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
@@ -9859,63 +6999,51 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "belongs" : {
+  "oho" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "AND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "attached" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "retrieve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "coal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "shuts" : {
+  "updat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 14
+    "value" : 1
   },
   "bunch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "errors" : {
+  "produc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 6
+  },
+  "unutter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Except" : {
+  "boi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 3
   },
-  "Before" : {
+  "malici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 1
   },
   "bride" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "favourable" : {
+  "no" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 237
   },
-  "swayed" : {
+  "behind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 5
   },
-  "tastes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Shakes" : {
+  "code" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -9923,131 +7051,99 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "keys" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "sledge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "careful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "CONTRACT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "tiring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "box" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 16
   },
-  "ANY" : {
+  "bow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "boy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "head" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 12
   },
-  "elapsed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "considerable" : {
+  "restric" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "upstairs" : {
+  "deni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 2
   },
-  "reserve" : {
+  "charit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
+  "of" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 525
+  },
+  "bundl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "oh" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 46
+  },
+  "possibl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "doorwai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 10
+  },
   "heap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
+  },
+  "elaps" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "hear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 17
+    "value" : 18
   },
   "fight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 3
   },
-  "rescue" : {
+  "on" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 230
   },
-  "occupied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "highly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "pretty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "whims" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "chance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "recover" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "plays" : {
+  "purpos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "determine" : {
+  "or" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 91
   },
-  "nature" : {
+  "ow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "bolts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 7
   },
   "cross" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 4
   },
-  "economise" : {
+  "complianc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
+  },
+  "control" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "frightful" : {
+  "confes" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "coloured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Lately" : {
+  "highli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -10059,25 +7155,33 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "acknowledge" : {
+  "pretti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 6
   },
-  "editions" : {
+  "extrem" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "equip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "offici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
-  },
-  "chattering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
   },
   "earth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "kisses" : {
+  "pg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  },
+  "candl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
   },
   "easier" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -10085,57 +7189,25 @@
   },
   "knit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "sitting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
-  },
-  "infringement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 4
   },
   "stool" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "dancing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "cunning" : {
+  "stoop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "consternation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Archive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 13
   },
   "splendid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "buried" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 7
   },
   "stood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "registered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "You're" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "fighting" : {
+  "scurril" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -10147,203 +7219,99 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "promised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "evidently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "Settle" : {
+  "graciou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "expedient" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
   },
   "scene" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "States" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
-  },
-  "OWNER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "speaking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "extremely" : {
+  "horribli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "Sections" : {
+  "necessari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Remember" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 9
   },
   "clever" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "Never" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  },
-  "retribution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "horrible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  },
-  "friend" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 11
-  },
-  "buries" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "hundreds" : {
+  "hoars" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "tambourine" : {
+  "friend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 12
   },
-  "prompts" : {
+  "damag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "breaking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "deny" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "horribly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "nods" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "imprudence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 7
   },
   "spoilt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "pleasure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "settled" : {
+  "varieti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "miserable" : {
+  "then" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 86
   },
-  "remaining" : {
+  "thei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "morning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
+    "value" : 48
   },
   "accept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "horse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Pulls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 6
   },
   "squirrel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
+    "value" : 6
+  },
+  "indiffer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   },
   "mission" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 4
   },
-  "doctors" : {
+  "includ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "diseased" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 13
   },
   "adopt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "donors" : {
+  "minut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 5
   },
-  "stops" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  },
-  "conditions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "starting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "interpreted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "lessons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Such" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "discovered" : {
+  "sincer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "access" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
+    "value" : 12
+  },
+  "confection" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   },
   "unread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "crawls" : {
+  "languag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -10351,71 +7319,67 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "Listen" : {
+  "plainli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 8
+    "value" : 2
   },
-  "undisturbed" : {
+  "expres" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  },
+  "seek" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "kei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
   },
   "current" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "ma'am" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 11
-  },
-  "poisoning" : {
+  "atmospher" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "variety" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "managed" : {
+  "entreati" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "disturb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 4
   },
-  "plainly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "manager's" : {
+  "persist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  },
+  "so" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 180
   },
   "liar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "strained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "key" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
   "email" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 3
   },
-  "situations" : {
+  "silk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Call" : {
+  "gratitud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 1
   },
   "silent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "intern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
@@ -10423,43 +7387,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "manager" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "laying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "manages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "makes" : {
+  "onc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 9
   },
-  "souls" : {
+  "anymor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Everyday" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "started" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
   "amid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "threatened" : {
+  "amic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 1
   },
-  "UNDER" : {
+  "store" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -10467,83 +7411,71 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Section" : {
+  "flower" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
+    "value" : 2
   },
-  "single" : {
+  "emerg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
+    "value" : 1
+  },
+  "confirm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "pull" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "silenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
   },
   "cloak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 9
   },
-  "Needle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "depths" : {
+  "ti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "closed" : {
+  "bui" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "remov" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "appoint" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 5
+  },
+  "acquaint" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "tm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 56
+    "value" : 57
   },
-  "Literary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 13
-  },
-  "Tooth" : {
+  "assist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "compressed" : {
+  "to" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 765
   },
-  "laughing" : {
+  "but" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
+    "value" : 220
   },
-  "country" : {
+  "expens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 5
   },
-  "commercial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "exporting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "remarkably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "reasonable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "blessings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "buy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "generations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "wished" : {
+  "dialogu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -10555,81 +7487,45 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "rules" : {
+  "express" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "wick" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "countri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "devotedly" : {
+  "nois" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "NURSE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "enclosed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "regularly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "amazing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "excesses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "trimming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "details" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "fragments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "wishes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
   },
   "written" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 6
   },
-  "hides" : {
+  "us" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 19
+  },
+  "dressmak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "Volunteers" : {
+  "ut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "children's" : {
+  "regularli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "PROJECT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "smiling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
+    "value" : 2
   },
   "usual" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "dreadfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
   },
   "clergyman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -10637,73 +7533,49 @@
   },
   "sink" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "DAMAGES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "suppose" : {
+  "dreadfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 26
-  },
-  "Please" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "remarkable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "NOT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "woman's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "sees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 6
   },
   "expend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "hint" : {
+  "carpet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "General" : {
+  "hint" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 2
   },
   "sing" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "devotedli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "frightened" : {
+  "neapolitan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 1
   },
   "support" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "changed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
   "higher" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Krogstad's" : {
+  "drop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 4
   },
-  "figures" : {
+  "proprietari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -10713,65 +7585,29 @@
   },
   "cold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
+    "value" : 8
   },
-  "learning" : {
+  "wa" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "housekeeping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "What" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 105
+    "value" : 80
   },
   "life" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 37
+    "value" : 39
   },
-  "clapping" : {
+  "we" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 81
   },
-  "coldness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "proprietary" : {
+  "rearrang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "examination" : {
+  "danc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Introducing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "lies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "disposed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Whenever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Narrow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 22
   },
   "mortal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "I'll" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -10779,21 +7615,13 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "lovely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  },
-  "strokes" : {
+  "choic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "types" : {
+  "horribl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "cases" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 8
   },
   "slight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -10803,31 +7631,39 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "previous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "wide" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  },
+  "licens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 17
   },
   "org" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 13
   },
+  "newspap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "recognis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
   "teach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "reading" : {
+  "distribut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 17
   },
-  "consumption" : {
+  "forev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Answer" : {
+  "damn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -10835,35 +7671,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "variegated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "willed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "passing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "gentleman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "Tears" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "driver's" : {
+  "punctual" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Sobbing" : {
+  "bankrupt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Internal" : {
+  "restaur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "housekeep" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "individu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "justifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "reach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -10871,51 +7707,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "lightly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "seizes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Give" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "retiring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "practise" : {
+  "sacr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "BREACH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "travelled" : {
+  "deepli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  },
+  "ye" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 166
+  },
+  "type" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "realis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
   },
   "problem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "terms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 20
-  },
   "children" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 41
+    "value" : 50
   },
   "road" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "kissing" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
@@ -10923,19 +7743,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "depressed" : {
+  "unrecognis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "dreadful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
   },
   "teeth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "deeply" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -10947,55 +7759,59 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "presence" : {
+  "between" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 11
   },
-  "Dropping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "guide" : {
+  "goal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "method" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
   "wife" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 22
+    "value" : 25
   },
   "drank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "PERSONAE" : {
+  "contract" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "reeling" : {
+  "come" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 108
+  },
+  "push" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "ornaments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "misfortune" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "shilling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
   },
   "exist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
+  },
+  "purs" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "provisions" : {
+  "penalti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "seiz" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "opportun" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "exact" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -11003,129 +7819,101 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "WORK" : {
+  "lightli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Show" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "force" : {
+  "regist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "Revenue" : {
+  "feder" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "caprici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Those" : {
+  "educ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "scared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "spasmodic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
   "south" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "insignificant" : {
+  "expedi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
-  "periodic" : {
+  "north" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "wear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 4
   },
-  "mending" : {
+  "slander" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "distribution" : {
+  "copi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
+    "value" : 26
   },
-  "ACTUAL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "derive" : {
+  "weak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Mrs" : {
+  "out" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 244
+    "value" : 50
   },
-  "husband's" : {
+  "rock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 11
+    "value" : 4
   },
-  "More" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "announcing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Mother" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Caressing" : {
+  "confess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "lean" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
-  "Begins" : {
+  "composur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "recall" : {
+  "get" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 46
   },
   "dark" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "Either" : {
+  "darl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 13
+  },
+  "accus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "sewing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "copy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 12
-  },
   "place" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 11
+    "value" : 12
   },
   "power" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "Didn't" : {
+  "leav" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
+    "value" : 13
   },
   "regular" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -11133,69 +7921,49 @@
   },
   "dare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
-  "According" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "sits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 6
   },
-  "precious" : {
+  "someon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 8
   },
   "bigger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "prominently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "obstinacy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "tired" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  },
   "suggest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "transformation" : {
+  "suspect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
-  "abide" : {
+  "upstair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "contrive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 4
   },
   "lead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
   },
   "token" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "puts" : {
+  "readabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 2
+  },
+  "help" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 27
   },
   "expect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
+    "value" : 8
   },
-  "inexorable" : {
+  "inaccur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -11203,55 +7971,51 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "When" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 23
-  },
-  "cease" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Sometimes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Chinese" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "located" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "owe" : {
+  "depth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "Goodbye" : {
+  "miser" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
+    "value" : 2
   },
-  "roses" : {
+  "obstinaci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "consequenti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
+  "drape" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "date" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
+    "value" : 9
   },
-  "unutterable" : {
+  "wheedl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
   "dress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 24
+    "value" : 33
   },
-  "addresses" : {
+  "whatsoev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "nora" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 709
   },
   "reveal" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 2
+  },
+  "incubu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -11259,19 +8023,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "Keep" : {
+  "utter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 1
   },
   "sound" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 4
   },
-  "obliged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  },
-  "Most" : {
+  "own" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
@@ -11279,23 +8039,11 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "tremendous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "seductive" : {
+  "bewild" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "growing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "realistic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "knocking" : {
+  "neglig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
@@ -11305,127 +8053,55 @@
   },
   "plain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
+  },
+  "should" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 36
+  },
+  "econom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "distributing" : {
+  "replac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 6
+  },
+  "sens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 7
-  },
-  "Nora's" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "consequences" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "justice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "confessed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "criminal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "tossing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "readable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "natures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
   },
   "proud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 5
   },
-  "curious" : {
+  "indirect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "alarmed" : {
+  "like" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 47
   },
-  "individual" : {
+  "onli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "creatures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "repudiating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "patients" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "proposes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "depended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "nuisance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "ugly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "accepted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 57
   },
   "tax" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 6
-  },
-  "judged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "branches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "wipes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 7
   },
   "broach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "efforts" : {
+  "collec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "drapes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "chances" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 4
   },
   "person" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 9
+    "value" : 10
   },
   "fraud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -11435,37 +8111,33 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "files" : {
+  "ugli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 7
   },
   "ground" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "fragile" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "send" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
+    "value" : 8
   },
-  "Both" : {
+  "here" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 62
   },
-  "expenses" : {
+  "lind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 225
   },
   "note" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 3
   },
   "week" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 4
   },
   "moonlight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -11473,107 +8145,87 @@
   },
   "regret" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 2
   },
-  "purpose" : {
+  "noth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 38
+  },
+  "line" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "penalty" : {
+  "deliv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "balls" : {
+  "link" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "wits'" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "candles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "shan't" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 4
   },
   "tune" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "aware" : {
+  "can" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 75
   },
   "hair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 5
   },
-  "security" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
   "cap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "marriage" : {
+  "satisfi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "ready" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "value" : 2
   },
   "stove" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 13
   },
+  "cat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
+  },
   "alarm" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "idly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Gets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  },
-  "Shuts" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "affairs" : {
+  "provid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 17
+  },
+  "realli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 31
+  },
+  "rogu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 1
   },
   "greatest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 3
   },
-  "earning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "costs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
   "cost" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
+    "value" : 9
   },
-  "limited" : {
+  "will" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 62
   },
-  "confidence" : {
+  "readi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "amus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 4
   },
   "match" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
@@ -11583,41 +8235,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 2
   },
-  "While" : {
+  "idli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
+  },
+  "cosi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
+    "value" : 3
   },
   "follow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
+    "value" : 7
   },
-  "played" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  },
-  "clothes" : {
+  "intent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
   },
-  "carries" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "compliance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  },
-  "Bought" : {
+  "fragment" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
     "value" : 1
-  },
-  "locations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  },
-  "cosy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
   },
   "harmless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\5-10\\A Doll's House.txt",

@@ -1,31 +1,23 @@
 {
-  "nicely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "acutely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
   "half" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 70
   },
-  "Louisa" : {
+  "spoke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 43
   },
-  "costing" : {
+  "withdrawn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "gloomi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "abrupt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "shooting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
   "hall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -37,137 +29,149 @@
   },
   "pretend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 12
   },
-  "quadrille" : {
+  "pretenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 1
   },
   "tea" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 13
   },
-  "Sure" : {
+  "dishonor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "gloomy" : {
+  "successfulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "replet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "would" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 412
+  },
+  "stumbl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "laughingli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "superlatively" : {
+  "reproach" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "warrant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "ten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 30
+    "value" : 34
   },
   "sake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 23
+    "value" : 25
   },
-  "daring" : {
+  "pretens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "energy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 1
   },
   "conceal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
+    "value" : 24
   },
-  "deference" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "spreading" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "coincide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "require" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "avoidance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "compassionate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Promise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "neatness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "amusing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "newspaper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "A" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 50
-  },
-  "telling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "B" : {
+  "solid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
+  "stabil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "untitl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "hearer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "unsoci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "inexhaust" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "size" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "temper" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 30
+  },
+  "left" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 65
+  },
+  "eleven" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "object" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 59
+  },
+  "besid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "derang" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "consolatori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
   "hang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "C" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
-  },
-  "D" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "E" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 23
   },
   "fearless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "F" : {
+  "sonnet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
+    "value" : 1
   },
-  "I" : {
+  "pronounc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2070
+    "value" : 14
   },
   "turn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 27
+    "value" : 85
   },
-  "perseverance" : {
+  "suffici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 10
   },
-  "M" : {
+  "elect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "polici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -175,89 +179,81 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "P" : {
+  "constru" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "opposition" : {
+  "same" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "pies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "S" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 23
   },
   "selfish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 8
   },
-  "U" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "W" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "commission" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "staircase" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "rational" : {
+  "quiet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 10
   },
-  "barbarously" : {
+  "after" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 195
   },
   "connect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 16
   },
   "hand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 25
-  },
-  "resume" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 35
   },
   "a" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1962
+    "value" : 2012
   },
-  "ordered" : {
+  "wittic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 1
   },
   "b" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 4
+  },
+  "address" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 47
+  },
+  "piec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
   },
   "c" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 5
+  },
+  "salt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "d" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "e" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 24
   },
-  "eating" : {
+  "f" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 16
+  },
+  "i" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2070
   },
   "m" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
   "prettier" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -267,209 +263,221 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "entering" : {
+  "the" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
+    "value" : 4507
+  },
+  "poorli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "p" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "s" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 656
+    "value" : 661
+  },
+  "thi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 495
   },
   "t" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 12
   },
-  "Adieu" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "exciting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "obvious" : {
+  "inconsider" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "information" : {
+  "throw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 30
+    "value" : 10
   },
-  "regain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "resolve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Again" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "converting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sufferer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Follies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "good" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 187
-  },
-  "faithful" : {
+  "u" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "empty" : {
+  "fifti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "w" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "thank" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 52
+  },
+  "regain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "philosoph" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "thu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 23
+  },
+  "violent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  },
+  "overjoi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "pigs" : {
+  "mingl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "undoubtedli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "advic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  },
+  "good" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 211
+  },
+  "violenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "serious" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "advis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 18
+  },
+  "export" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
-  },
-  "Obstinate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "PGLAF" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "suffered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "copying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
   },
   "laugh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 40
+  },
+  "practic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "intim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 17
   },
-  "delivering" : {
+  "reduc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 4
   },
-  "STRICT" : {
+  "check" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "owes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "suspecting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "adoration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "puddles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unhappiness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 14
   },
   "walker" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "walked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 44
-  },
   "sang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "owed" : {
+  "practis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "resolut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "hundr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 7
   },
-  "importune" : {
+  "ascend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
-  "SIR" : {
+  "fortun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 57
+  },
+  "ensur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   },
   "harm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "disturbed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "provided" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
   "harp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "displeased" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "inmate" : {
+  "unprincipl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Surely" : {
+  "hart" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "kindest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "seminaries" : {
+  "root" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "representation" : {
+  "ridicul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "motive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "deliberated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 10
   },
   "hard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 12
   },
-  "colouring" : {
+  "preclud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 1
+  },
+  "tiresom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "apprehen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
+  },
+  "lend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "hauteur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "quarters" : {
+  "societi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 34
   },
-  "simpered" : {
+  "ticket" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "cheek" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   },
   "valueless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -477,57 +485,81 @@
   },
   "room" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 150
+    "value" : 159
+  },
+  "cheer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  },
+  "energi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "avow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "contrariw" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "encumbr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "permit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "well" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 222
+  },
+  "permis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
+  },
+  "wilder" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "suitable" : {
+  "empti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "expos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
+  },
+  "pile" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "pitiabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "Pulvis" : {
+  "hatr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "taking" : {
+  "satin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
+    "value" : 2
   },
-  "Eastbourne" : {
+  "satir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Annesley" : {
+  "faultless" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "reveng" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "assiduously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "complimented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "conjecture" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "diffuseness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "discharged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "gained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "exerting" : {
+  "executor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -539,43 +571,67 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 14
   },
-  "hate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "dinners" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "flow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "order" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "conceit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "sprained" : {
+  "tortur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "pressed" : {
+  "hate" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 16
   },
-  "exertion" : {
+  "cordial" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "flow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "propos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 27
+  },
+  "order" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 22
+  },
+  "propor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "conceit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "gaieti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "capabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 18
+  },
+  "inten" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 21
+  },
+  "distant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "revenu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "hast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 9
   },
-  "propose" : {
+  "flog" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 1
   },
-  "ensue" : {
+  "custodi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -583,35 +639,67 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 10
   },
-  "indecision" : {
+  "conceiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
   "women" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
+    "value" : 20
+  },
+  "pecuniari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "frankli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "dictatori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "woman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 60
   },
-  "civilities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "save" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "protection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "frankly" : {
+  "successor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
+  "incumb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "ceremoni" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "orderli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "save" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "increas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 29
+  },
+  "stagger" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "matter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 37
+  },
   "hypertext" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "exquisit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -619,19 +707,39 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "orderly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Richard" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unforgiving" : {
+  "gaili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "energetic" : {
+  "too" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "godfath" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "have" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 934
+  },
+  "bakewel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "presum" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "noisi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "meadow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "roast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -641,55 +749,47 @@
   },
   "avail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 4
   },
-  "gaming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Fairbanks" : {
+  "product" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "question" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 23
+    "value" : 42
   },
-  "additions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "housemaid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Four" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "spirit" : {
+  "lover" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 9
   },
-  "intellectual" : {
+  "housemaid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "spirit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 49
+  },
+  "glimps" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "wishing" : {
+  "littl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
+    "value" : 108
   },
-  "picture" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "sarcastic" : {
+  "cheap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "observances" : {
+  "cheat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "incap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
   },
   "acutest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -697,13787 +797,207 @@
   },
   "regard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 48
+    "value" : 53
   },
   "rose" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 57
   },
-  "officious" : {
+  "michaelma" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 2
   },
   "thousand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 34
   },
-  "All" : {
+  "imit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  },
-  "tortured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "invectives" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "graces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "gown" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "abilities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "Copyright" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Merely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Generous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "owns" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "circumstances" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 28
-  },
-  "timed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "including" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "introducing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "pardon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "seconding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "plenty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "AGREEMENT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "alluding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "anew" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "And" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 154
-  },
-  "mounting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "obligation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "violation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "chicken" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unenforceability" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Any" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "times" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
-  },
-  "equipage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "direction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "That" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 52
-  },
-  "Their" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 33
-  },
-  "cry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dreading" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "impatience" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "directing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "impelled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sketch" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "caught" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "pity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "infatuation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "uncertain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "concern" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 26
-  },
-  "unimportant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "beautiful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "worked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "refrain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Affectation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Then" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "state" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 25
-  },
-  "scolded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "contrasted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "defined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "concealment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "probable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "opposite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "Hurst" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 33
-  },
-  "Hear" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "LIZZY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "superintended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "restraint" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "watchful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "clouded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Are" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  },
-  "offering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Thoughtless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "creating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "restrained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "cup" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "wasting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Vanilla" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "prepossession" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "starve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "weighed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "dread" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "moment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 70
-  },
-  "warmly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "Defects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "tear" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "desired" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "calmly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "attack" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "humour" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 25
-  },
-  "reported" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "distribute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "attach" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "kitchen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "ankle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "prevented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 23
-  },
-  "creation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "inclination" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 22
-  },
-  "vexations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "SUCH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "BUT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "languages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "occurred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "anxiously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "accused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Pemberley" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 53
-  },
-  "lottery" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "brotherly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "services" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "forfeited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "They" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 125
-  },
-  "OTHER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "txt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "filling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "mistress" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "speech" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "watch" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "envying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "thing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 42
-  },
-  "lessening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "wickedest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "FRIEND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Gardiners" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "vexatious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "tedious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "reflecting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "apparel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Rendered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "manor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "domestic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "amends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "shook" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "There" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 67
-  },
-  "dying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "paying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "deception" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Complied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "fellows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "This" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 72
-  },
-  "donation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "shoot" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Lucases" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "stability" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "actual" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "glass" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "reflection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "widely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "misunderstand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "privileged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "frailty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "exposing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "suited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "These" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "adorned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "rashness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "shops" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "assume" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Italian" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "memory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "concept" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "banish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "house" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 99
-  },
-  "practising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "indefinite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "construed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "gentleness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "replying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Astonishment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "deservedly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Others" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "hours" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 27
-  },
-  "unjust" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "start" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "suppositions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "humoured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "earliest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "fallen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "hotels" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "short" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 43
-  },
-  "replete" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "blemish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "persisting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "regulate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "obstacles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "PARAGRAPH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "imagined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "acceding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Aye" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "consistency" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "required" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "CONSEQUENTIAL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Importance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "measures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "coats" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "enter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "restoration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "gallery" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "Stoke" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "warmth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "INCIDENTAL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "destroy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "deemed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "doings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "creative" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "blots" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "reckoned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "flogged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "NOTICE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "redistribute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "bright" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "planned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "unknown" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "frivolous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "assure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 39
-  },
-  "consult" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "gracious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "mildly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "manners" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 45
-  },
-  "performer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "survive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "BROTHER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "blown" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "performed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "persuasions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "ante" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "idleness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "fetch" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "barely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "hanging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "speedy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "friendly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "possession" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "Send" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "daughters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 49
-  },
-  "shows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "emptiness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "shown" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "audible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "celebrated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "forcibly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "pointing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "unvarying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "day" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 143
-  },
-  "accustomed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "raising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "drinking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "created" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "format" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "EXCEPT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "water" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "corps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "stays" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "formal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "fidget" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "flirtation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Theatre" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "entertain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "tens" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "tent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "critical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "sakes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "prefaced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Say" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "guarded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "inducement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "exceedingly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 25
-  },
-  "tend" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Sept" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "nicest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sixteen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "regulars" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "possessing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "introduction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "spiteful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "revenge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "built" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "subscribe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "paltry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "noticing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "illiberal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "entertained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "cottagers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "successively" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "overtook" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "confession" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "build" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "demands" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dearest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "contracted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "resent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "mixing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Much" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "Towards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "viewing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "finds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Thus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "contradictions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "angelic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "examining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "fretfulness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "exuberance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "abusing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "swelled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "prejudices" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "carefully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "banks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "shock" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Ashworth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "prejudiced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Here" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "See" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "resounding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "finer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "folios" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "attitude" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "treatment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "compare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "bodies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "choosing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "waited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "THE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "grasp" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "composition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "weighty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unlike" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "hotel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "term" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "acquisition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Pleased" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "business" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 47
-  },
-  "withdrawing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "staff" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "partly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "constrained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "shoes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "taught" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "stage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "returning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "premeditated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "borrow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "maximum" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "waiter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "repelled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "desert" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "quarter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "healthfulness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "die" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "handsomest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "happiest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "believing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "fears" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "She" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 326
-  },
-  "impudent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "tete" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "depravity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Scarcely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "forgotten" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "evils" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "imperfection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "possibly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "inconceivable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "renewing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "suiting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "journey" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
-  },
-  "test" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "finally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "remained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 23
-  },
-  "conviction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  },
-  "publicly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "brown" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sermon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "misleading" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "acceded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "acceptance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "embraced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "puzzled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "learnt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "final" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "whispering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Sir" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 49
-  },
-  "deserving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "occasion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 38
-  },
-  "bred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "proportionate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "back" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 41
-  },
-  "expectation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
-  },
-  "heavier" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "resisting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "conjugal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Lady" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 137
-  },
-  "officiousness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "states" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "duration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "paler" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pales" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "sheets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "hermitage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Eliza" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 22
-  },
-  "Bourgh" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 39
-  },
-  "company" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 22
-  },
-  "engagements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "blinded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "abusive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "length" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 32
-  },
-  "grand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "concerns" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "conceals" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "showing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "qualified" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "newsletter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "chatty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "attempt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
-  },
-  "crayons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "parading" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "conciliating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Despite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "revealed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "undeserving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "corroborated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "lock" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "kindness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 29
-  },
-  "dearly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "lying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "exceeded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "made" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 126
-  },
-  "yielded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "hoping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "contents" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "invalid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "warned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "interval" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "counterbalance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "status" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "silenced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "don" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "familiarity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "bags" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "embarrassed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "stamp" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "operated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "scattered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "willfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "stream" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "stand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "disappointments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "acquaintances" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "overheard" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "pavement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "forward" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 27
-  },
-  "irregularity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "cultivation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "widest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "keenest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "DARCY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "insincere" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "THAT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "creditably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "mail" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "subject" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 85
-  },
-  "nourishes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "nursing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "main" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Lake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "effusions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "arrangement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "esteemed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "sufficiency" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "weaknesses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "BINGLEY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pretense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "grain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "credit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 28
-  },
-  "maid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "likes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "alter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "waste" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "cheerfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "bearing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "establishment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "Hunsford" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 25
-  },
-  "includes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "cheating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dullest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "creditable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "handsomely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "staid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "originate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "varieties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "compass" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dispose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unaffectedly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Unhappy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Information" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "commended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "ball" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 36
-  },
-  "uncommon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "Pride" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "inventing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "discomposed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "threats" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "suppressed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "outdone" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "retailing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "included" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "make" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 168
-  },
-  "fulfil" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "reprehensible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "ingratitude" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "assisting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "attempting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "unallied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "opposed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "Brighton" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
-  },
-  "rebuke" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "questioned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "combated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "rapidly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "admittance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "avowal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "witness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "due" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "waking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Amazed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "invention" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "devoid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "inform" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "avowed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "wilfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "crammed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "cure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sorrow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "undutiful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "trees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "Must" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "observed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 27
-  },
-  "observer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "happier" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "dejection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "verily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "meaning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "oppressed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "brow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "drawing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
-  },
-  "vexation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "boxes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "singing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "repinings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Lane" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Absence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "LIABILITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "PROVIDED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "benefit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "celerity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "balm" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "vastly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "highest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "prognostics" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "regained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "impatiently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "overpowered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "male" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "examine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "long" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 101
-  },
-  "Insolent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "uproar" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "remember" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 20
-  },
-  "examined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "relationship" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "Sermons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "But" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 318
-  },
-  "expression" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 22
-  },
-  "childhood" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "stay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 36
-  },
-  "extensive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "inspire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "increasing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "progress" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "respected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "mamma" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "devote" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Charlotte" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 85
-  },
-  "treat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "agent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "militia" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "wholly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 25
-  },
-  "odious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "rapid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "expressing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "affectation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "devoting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Last" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "uniformly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "wood" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "bare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "admitted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "surprise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 36
-  },
-  "Liverpool" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "invited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "complaints" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "gentlewoman" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "modification" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "troubling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "grounds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "achieving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "converse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "THIS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "eccentric" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "farewell" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "needed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "lord" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Whether" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "speed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "admit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "common" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
-  },
-  "interest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 26
-  },
-  "threadbare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "apply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "separated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "gratifying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "histories" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "foreseen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "bass" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Till" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "eagerly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "rapturously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "landing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Every" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "separates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "step" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  },
-  "revolt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "disgust" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "mark" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "tribute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "stem" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "estates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "loss" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "relate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "lost" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 29
-  },
-  "premises" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "trifling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "disagreeably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "EBook" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "worn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "work" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 65
-  },
-  "Parsonage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "lose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "exceptional" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Matlock" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "aunts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "convince" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "jilt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "wore" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "word" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 49
-  },
-  "irretrievable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "stated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "love" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 92
-  },
-  "inoffensive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "HARRIET" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "secret" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "foundation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "ear" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unacknowledged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "rushed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "eat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "solitude" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Younge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "prevailed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "loud" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "disagreement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "persevered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "disagreeable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "Everybody" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "godfather" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "gathering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "degenerate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "opinion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 68
-  },
-  "exists" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "stir" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "avarice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "existence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "pretence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unqualified" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "expressive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "EXPRESS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dismission" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "repined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "exaggerate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "demean" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unsettled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "vex" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "SEND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Can" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "visitors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "qualification" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "preparing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "reasonableness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "concerto" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "provision" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "tickets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Chief" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "congratulations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "winter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "walking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 26
-  },
-  "spend" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "Since" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "sweetest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "February" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "appertain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "tenants" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "heartily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "grave" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "advantage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 34
-  },
-  "spent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 22
-  },
-  "Service" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Change" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "whispered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "BEFORE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "watering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unlink" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Allowing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "anticipate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "imparted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Ten" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "slightest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "exception" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "carpets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "temporary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "hands" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "year" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 29
-  },
-  "sufficiently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "allowed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 26
-  },
-  "staying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "awful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "branch" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "Consoled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "anguish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "shrewish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "understanding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
-  },
-  "absent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "neat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "surveying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pedantic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "silence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 34
-  },
-  "inviting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "instruct" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "AK" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "economy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "inspired" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "version" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "planning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "AS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "slighted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "dishonesty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "stop" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "humbled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "flirt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "heartfelt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "inspires" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "postilions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "prudence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "Where" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "consented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "BE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Ah" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "peaches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "confiding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "immediately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 60
-  },
-  "resignation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "An" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "The" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 285
-  },
-  "clamorous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "As" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 57
-  },
-  "At" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 44
-  },
-  "inmates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "misrepresentation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "agreed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "computers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "secretly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Be" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "learn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "excepting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "representing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "ridiculous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "intrusion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "By" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "severe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "lease" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Tis" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "addressing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "instructions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "notes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "errand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "official" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "parishioners" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "suspense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "spring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "leave" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 62
-  },
-  "unmoved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "imperfectly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "faint" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "vexed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "shade" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Do" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 40
-  },
-  "encoding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "staggered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "syllables" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "obtaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "DAMAGE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Dr" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "kindly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "loose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Dearest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "http" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "lasting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "liberally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "private" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "companion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  },
-  "complained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "oddities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "During" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "encumbrance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sleeping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "cheering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "precisely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "gates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "intentionally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "proportioned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "end" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 29
-  },
-  "lines" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "packed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "billiard" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "vow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "forty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "offending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "females" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Replacement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "special" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "contempt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "alleviated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "vouch" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Unfeeling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "undertaking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "GUTENBERG" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "royalties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "calmness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "betray" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "START" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "pronounce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "jokes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unattended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "slightly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "wanting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "education" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "occupation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "called" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 41
-  },
-  "slacken" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "springs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Go" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "occurs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "turns" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "fullest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "newly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "gradually" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "aspire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "deepest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "succeeding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "narrow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "proceedings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "He" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 235
-  },
-  "IF" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "contradict" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Whatever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "shape" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "IN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "IS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "gravel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "compose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Too" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "charming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 20
-  },
-  "supercilious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Bell" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "If" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 104
-  },
-  "lamentations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "In" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 86
-  },
-  "Neglect" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "characterise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "accusations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Is" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
-  },
-  "Gutenberg" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 83
-  },
-  "It" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 249
-  },
-  "valid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "appeased" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "tormenting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "asked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 40
-  },
-  "arrear" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "amiss" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Smiles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "ere" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "share" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "elegant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "elope" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "err" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "USE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "boasted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "sharp" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "petticoat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "strongest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "journeys" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "FITNESS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "shake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "displeasure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "UTF" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "finery" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "screen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "degradation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "worthlessness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "trial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "finest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "declares" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "La" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "links" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "entrance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "intimately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "woods" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "estate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 20
-  },
-  "MY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "woody" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "driving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "Gretna" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "sofas" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "individually" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "graciously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "amusement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "shame" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "NO" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "unexpectedly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Mr" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 786
-  },
-  "condescension" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "elderly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "financial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "enormity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "prudential" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "My" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 113
-  },
-  "running" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "propensities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "OF" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "chose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  },
-  "airing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "seasonable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unprofitable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "render" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "declared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "No" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 52
-  },
-  "OR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "relieve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "transport" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "teased" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "complying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "indignity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "rated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Of" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "resolutely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "PG" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Oh" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 93
-  },
-  "straws" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Perhaps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
-  },
-  "appetite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Balls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "forms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "On" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 35
-  },
-  "summon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Or" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "maintain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "farther" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "bashful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "differently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "accusation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "jestingly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pounds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
-  },
-  "meadows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "represented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "attractions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "remorse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Lizzy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 95
-  },
-  "beneficence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dissuade" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "joyful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "remain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "expected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 43
-  },
-  "countries" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Two" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "undervaluing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "eye" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "envelope" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "wanted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
-  },
-  "immoral" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "querulous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "feels" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "disturbance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "argued" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "enemy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "obligingly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "default" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "indolent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Royalty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "frisks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "indemnify" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Courier" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "triumph" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "discovering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "horror" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "newcomers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "fluctuating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "black" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "fortunate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "recovered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "livery" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "describe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "TO" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "So" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "countenance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 30
-  },
-  "Other" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "fetched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "St" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "dwelt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "presently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "remains" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "dwell" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "arriving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "features" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "incomplete" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "white" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "openly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "furniture" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "counterpart" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "To" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 54
-  },
-  "UT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "termination" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "exclaimed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "whist" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "sharing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "expressions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "affable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "servants" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "wonders" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "solemnity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "leads" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "fields" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "cousins" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "occupy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "submit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "originator" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "conclusion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "doubtless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "impose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "trademark" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "derived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "postponed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "news" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 32
-  },
-  "severity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "green" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "race" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Barnet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "warehouses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "possessor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "derives" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "grew" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "We" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 60
-  },
-  "sensation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "summons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "cassino" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Within" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "window" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  },
-  "attempted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "play" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "prized" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "quickly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "attentive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "censured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "taxes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "decide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "pleases" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "synonymous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "doubly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unaccountable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "confirming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "fat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "plan" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "panegyric" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "rained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "matrimonial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "double" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "solaced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "instituted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "rendering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "comfortably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "bewildered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "horrid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "lowest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "comfortable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "prizes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "PLEASE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "suit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "completely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "rested" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "feelingly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "elated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "denial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "dividing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "study" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "EBOOK" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "ponies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "portion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "differences" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "youngest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "gain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "engross" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "receiving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
-  },
-  "web" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "memories" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "older" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "relieved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "explore" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "duped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "wet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "great" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 141
-  },
-  "happened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
-  },
-  "ordained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "northward" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Speak" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "proceeded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "pleased" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 38
-  },
-  "rage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "sides" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "indebted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "Day" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "wondered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "distinction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "unprincipled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "despised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Conceal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "fee" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "retirement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "originated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "despises" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "provoke" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "presented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "archly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "controverted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "EDW" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "thankfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Assistance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "rain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "licence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "heirs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "rail" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "repugnant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "laughed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "sunk" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "opened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "tranquil" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "produced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "expences" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "fastidious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "effect" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "explaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "topic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "forgets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "perceive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "game" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "unexpected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "contribute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "remark" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "died" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "precipitance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "netting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "intelligible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "hospitality" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Pursuing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "win" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "wit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "ungracious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "From" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 22
-  },
-  "availed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "recommended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "matters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "variance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "posterity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "stanzas" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "attention" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 68
-  },
-  "visit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 53
-  },
-  "headache" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "denied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "extent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "rant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "parent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pleasanter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "luckily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "insipidity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "fond" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  },
-  "losing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "fit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "venison" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "familiarly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "fix" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "apprehending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "honest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "rank" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "trembled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "rang" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "addition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "doubts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "grow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "excited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "shrink" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Unwilling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "proceeding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "EIN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dreaded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "punctually" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "proxy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "nothings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "interpretation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dullness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "intermediate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "formed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  },
-  "hurt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "prove" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "cherished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "chambermaid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "admire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "virus" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Exceedingly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "intimacy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "accusing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "notions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "sudden" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "fool" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "popularity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "groundwork" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Defect" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Did" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "foot" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "nectarines" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "enabling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "hating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "charge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "flutterings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Poor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "keeping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "familiar" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "food" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Pope" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "withdrew" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "partner" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "unfit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "freely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "interview" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "perceiving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "apace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "de" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 39
-  },
-  "language" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "congenial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "woe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "excessively" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "Stone" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "observe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "painfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "furnish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "strangeness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "accomplished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "criticise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "bequest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Friday" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "attacks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "corroboration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "won" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "reanimated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "preceded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Though" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "Wherever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "fatigued" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "importuned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "downstairs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "piece" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "Miller" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "vexing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "END" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "stared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "advantageously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "christening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "jumbled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "tears" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "watching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "content" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "condescendingly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "waived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  },
-  "rate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "skill" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "prosperity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "divide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "proprietor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "contrary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "superintends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "recalled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Gracechurch" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "surmises" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "justly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "form" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "gate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "sedate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Professor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "feather" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "transcription" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "welfare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "coincided" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "soothed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "foul" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "intricate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "appeared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 31
-  },
-  "easily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 28
-  },
-  "unaware" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "decease" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "resentments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "violently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "Don" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "talker" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "extenuating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dismissed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "impartiality" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "schemes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "doorway" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Observing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "aimed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "disputes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "announce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "talked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 38
-  },
-  "enjoyments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "lively" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "distraction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "contrast" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "gave" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 54
-  },
-  "alteration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "brittle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "affinity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "recovering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "unfelt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Darcy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 417
-  },
-  "eagerness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "disposal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "matrimony" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "settlement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "recede" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "footman" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "irreproachable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "RIGHT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "profligacy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "domestics" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "belief" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "delight" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 25
-  },
-  "proficient" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "James" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "Use" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "knew" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 58
-  },
-  "suggestion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "clearing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "disposition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 25
-  },
-  "places" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "troublesome" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "equals" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "misunderstood" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "conscious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "fun" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "accomplishment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "triumphantly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "dilatory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "ll" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Nonsense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "solitary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "contentment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "laudable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Read" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "ma" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "www" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "sufficient" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "communication" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "ungraciousness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "possessed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "dirt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "formality" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "feeling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 38
-  },
-  "liveliest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "charms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "City" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Caroline" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  },
-  "flowing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "repented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "license" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "disk" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "gaze" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "possesses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Perfectly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "noble" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "fluttered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Except" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "legacy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "careful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "elopement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "kissed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "CONTRACT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "mixed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "head" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 32
-  },
-  "elapsed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "involuntarily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "missent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Gardiner" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 94
-  },
-  "pausing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "reserve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "heal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "artfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "hear" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 71
-  },
-  "occupied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "rescue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "whims" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "sports" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "guardians" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "families" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "cousin" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 49
-  },
-  "occupies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "intelligent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "whilst" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "incessantly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "sitting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
-  },
-  "infringement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "consternation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "salad" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Archive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "readily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "splendid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "meditations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "registered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "convenience" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "determination" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "falsehood" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "stretching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "scarlet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "extremely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "tongues" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "toilette" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "inevitably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "clever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "hundreds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "recent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "January" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "perpetually" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "inevitable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "grouped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "imprudence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "consciousness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "piqued" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "allowance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Catherine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 126
-  },
-  "capers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "insensible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "seat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "adopt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "attorney" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "wander" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "guardianship" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "London" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 55
-  },
-  "donors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "oppose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "singular" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "obtained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "bridge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "discovered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "serenity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "mistrust" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "executed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "seek" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "se" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "piquet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "nightcap" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "thanked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "email" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "abominable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "prodigiously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "closet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "started" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "neighbours" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "UNDER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Section" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "closer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "single" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "closed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "flowed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "tm" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 57
-  },
-  "consequent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Literary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "compressed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "commercial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "remarkably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "separate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "reasonable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "generations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "sighted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "thoughtless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "abominably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "rules" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "biting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "insignificance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "retreating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "revolted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "embracing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "military" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "reluctant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Volunteers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "PROJECT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "usual" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 34
-  },
-  "purchases" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "alacrity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "pleasantry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "thin" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "scruple" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "Please" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "remarkable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "purchased" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "sees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "failure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "protesting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "suggesting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "frightened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "changed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "ingenious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "gossiping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Vingt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "housekeeping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "indisposed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "willingly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "expeditiously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "summoned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "discompose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "similarity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "examination" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "destitute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "disposed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "gay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "evenness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "slight" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "previous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "teach" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "reading" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "ceremonious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Michaelmas" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "deeper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "compensation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "talents" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "acknowledgment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "held" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "Internal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "perusing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "BREACH" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "terms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 41
-  },
-  "deeply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "proof" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "surrounding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "laurel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "veracity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "conclude" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "misfortune" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "mingling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "ornaments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "recommenced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "provisions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "exact" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "force" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "ascertaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "surrounded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "caprice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "periodic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "north" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "eminence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "watchfulness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "power" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 42
-  },
-  "rivers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pleasantly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "yielding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "precious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "sell" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "continued" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 51
-  },
-  "suspect" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "abide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "brain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "forcing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "ended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "located" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "prone" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "dress" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "overpowering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "addresses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "succeeds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "obliged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 29
-  },
-  "sound" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "Mount" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "indignation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "welcoming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "discontentedness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "comforts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "proud" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
-  },
-  "curious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "Character" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "creatures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "unexampled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "depended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "judged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "sheltered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "addressed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "treasured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "send" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 23
-  },
-  "inconsiderable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "expenses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "gig" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "purpose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
-  },
-  "rejected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "regret" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
-  },
-  "smirks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "scale" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "engaging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "kinder" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "security" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "surmount" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "purport" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "observations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "station" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "disappointing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "continual" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "costs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "stating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "confidently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "firmest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "follow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "wretchedness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "triumphing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "edged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "harmless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "intend" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Think" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "exceeding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "numerous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Steady" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "England" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "spacious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "recognized" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "youth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "involuntary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "introduced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "discernible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "squeamish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "whatsoever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "reverie" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "audience" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Things" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "possess" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "volunteers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "Having" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "replies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "entitled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "miseries" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "rejecting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "defence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "perturbation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "misery" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "masters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "indulgent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "FOUNDATION" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Contributions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "deceitful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "resolved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 31
-  },
-  "committed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "hardships" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "union" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "faculties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "ruined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "illustration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "arch" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "returned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 45
-  },
-  "adopted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "simpers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "reports" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "correct" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "reader" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "imitate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "ambition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Brother" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "mindful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "murmurs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "gracefully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "enumeration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "contributed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "revered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "lace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "backgammon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "FOR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "tractable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "clearer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "neglected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "success" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
-  },
-  "ingenuity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "authority" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "remarked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "End" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "cleared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "shocking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "unnaturally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "formats" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "young" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 127
-  },
-  "obsolete" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "youths" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "eloquence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "inexhaustible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "paintings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "forlorn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "reputed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "fairest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "minutest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "authorise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "departed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "People" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Unfortunately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "retrospective" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unpardonable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "portrait" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "complaint" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "lady" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 54
-  },
-  "enumerating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "purposely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "pocket" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "named" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "injustice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "offense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "indifference" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "considered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 23
-  },
-  "John" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Commerce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "delivered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "minutely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "changing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "approach" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "exaggeration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "qualifications" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "decisive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "genteel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Vain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "barefaced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "write" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 38
-  },
-  "sneer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Excuse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "IMPLIED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "neglecting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "musical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "corporation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "understand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 31
-  },
-  "disrespect" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "suspended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "heaven" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "intelligence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
-  },
-  "vigorously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "harshly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unhappy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "Imprudent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "captivating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "arrogance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "strongly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "appearing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "despair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "parcels" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "larger" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "disputable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "hundred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "wait" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "circuit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "instant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "captivation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "entailing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "hitherto" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "tempted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "handkerchief" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "laid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "consequence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 32
-  },
-  "Esq" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "discussed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "soliciting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "opportunities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "lingering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "names" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "entity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "tide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "possibilities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "steward" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "equally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 20
-  },
-  "prevents" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "elevating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sustained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "scrupulous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "earlier" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Denny" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "charity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "headstrong" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "counting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Charles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "beneath" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "void" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "lagged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "dispense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "liability" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "quarrelsome" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "However" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "Public" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "basis" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "affected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
-  },
-  "resolute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pleasures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "army" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "READ" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "reconcile" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "annum" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "raptures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "replied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 103
-  },
-  "unite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "restoring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "accidentally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "indulge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "sacrificed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sorely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pursue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "convey" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "busy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unluckily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "land" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "lane" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "elevation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "imposing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "tithes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "performing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "doubtful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "apologies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "darting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "conduct" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 23
-  },
-  "partridges" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "walk" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 51
-  },
-  "quietly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "refusing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "ardently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "witnessing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "marry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 42
-  },
-  "discussion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "contrariwise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "grieve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "nonsensical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "lessen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "hinted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "thinks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "arrangements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "events" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "separately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "mankind" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "abundant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "disgraceful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "unnecessarily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "deserts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "induce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "difference" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "circle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "Laugh" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "resign" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Hill" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "equivocal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "ward" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "accident" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "retreated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "found" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 69
-  },
-  "defense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "honours" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "conversible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "arts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "limits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "cruelty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "affability" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "intimate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "complimenting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "disclose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "charm" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "perusal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "undetermined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "stables" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "contrived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Haggerston" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "till" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 87
-  },
-  "attend" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "Once" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "inferiority" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "accounting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "secure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "guided" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "antagonist" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dispirited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "late" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
-  },
-  "ham" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "school" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "preserved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "impolitic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "subsisting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "things" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 30
-  },
-  "hat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "avenue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "passages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "sameness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "advantageous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Heaven" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "connubial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sighed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "weight" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "intrepidity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "cheerful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "loveliest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dissemble" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "warn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "Collins" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 179
-  },
-  "warm" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "measure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "checks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "rattle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "injurious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "impossible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 42
-  },
-  "Was" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "War" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "effort" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "discreditable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "settling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "exercising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "wave" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "yesterday" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "partiality" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "forbade" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "handsomer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "stronger" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "denying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "contemptuously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "steady" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "witticisms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "early" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 28
-  },
-  "quieter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "intruder" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "prepossessed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "communicative" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "quieted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "alike" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "colour" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "Far" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "delightful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
-  },
-  "observing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "time" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 203
-  },
-  "aroused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "happy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 81
-  },
-  "universities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "offence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "authorized" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "deprive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "probabilities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Women" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "stationed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "laws" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "lesson" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "House" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "philosophy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "bedrooms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "terrific" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Web" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "lawn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "unpleasing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "doubled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "merits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "confirmed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "smart" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "personage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "ways" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "Exceed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Whilst" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "profligate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Almost" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "deficient" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "impropriety" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "vows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "chair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "consistent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "reverse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "glories" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "garden" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "lamenting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "gloried" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "governed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "small" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 25
-  },
-  "gallant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "temptations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "emphasis" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "bear" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 25
-  },
-  "grandfather" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "brightened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Who" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "awaited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "repeatedly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "exclamations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "resist" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "Why" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 22
-  },
-  "pleaded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "history" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "instinctively" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "careless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "counteract" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "interference" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "belonged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "unfavourably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "allusion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "point" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 46
-  },
-  "polished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "visits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "diverted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "attachment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 27
-  },
-  "sounds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Imprudence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sneering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unfavourable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Harriet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "deserve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "reproached" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "alternative" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Only" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "crowded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "nearness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "debts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "luckless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "approve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "valued" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "reproaches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Times" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "meat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "determining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "persisted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "attendance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "truest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "settlements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "disobliging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "cordiality" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "jumps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "neices" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Removed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "rectitude" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "advance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Design" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "scolding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "attendants" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "safely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "preference" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "delighted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 23
-  },
-  "opportunity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 30
-  },
-  "active" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "court" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "bestowing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "stateliness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "LIMITED" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "disregarded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Scotch" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "entreat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "secluded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "advising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "begs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "meanest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "hot" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "vanity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "characteristic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "unseldom" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "assembly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "parental" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "chin" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "subjects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "overcoming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "upbraided" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "griefs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "ANYTHING" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "repel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "advantages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "answer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 65
-  },
-  "meet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 32
-  },
-  "regarded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "calls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Won" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "restored" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "abused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "passions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Monday" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "putting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "questions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  },
-  "listener" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "promise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  },
-  "enjoying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "listened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
-  },
-  "reply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 26
-  },
-  "vanish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "spurned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "For" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
-  },
-  "horseback" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "probity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "blame" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "reckon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "confusion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "carrying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "affording" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "waiting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "beginning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "deceives" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Well" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 36
-  },
-  "swallowed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Language" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "deceived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "conceited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "exposed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "annexed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "shameful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "atone" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "notice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 23
-  },
-  "entailed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "Convinced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Mamma" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "superintendence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "killed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "entreaties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "generality" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "encouragement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "hug" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "fortunes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "repulsed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "envy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Respect" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dropped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Hatfield" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "action" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "manifold" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Clarke" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "predominance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "suspected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "bounty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "MERCHANTIBILITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "bell" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "mantelpiece" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "altered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "procuring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "accompanied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "bewitching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "afford" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "reached" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "impression" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "dutifully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "comprehended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "acting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "shield" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "DISTRIBUTE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Right" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "reconciling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "instantaneous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "headed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "curtailed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sensibility" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "periods" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "PURPOSE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "disapprove" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "illness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "topics" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "strike" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "bent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "gaudy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "marks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "cruelly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "coarseness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "trusted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "decamping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "mend" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "codes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "charities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "concerned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "LIABLE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "conscience" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "Were" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "cough" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "scampering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "harboured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "downloading" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "calculated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "filial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Accept" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sooner" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "petulance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Between" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "difficult" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "steps" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "friends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 55
-  },
-  "undergone" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "forget" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "bequeathed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "principles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "testifying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "present" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 68
-  },
-  "arrested" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "wavered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "belong" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "mess" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "allusions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "advise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "rooted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "magnitude" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "regulating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "genuine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "spokesman" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "West" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "entreating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pretended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "impressive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "shocked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "master" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 28
-  },
-  "Upon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "attraction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "regulation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "puzzle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "hypocrisy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "mere" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "opinions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "undervalued" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Pray" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "Each" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "REMEDIES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "profess" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "feared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "favourites" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "United" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "vices" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "cover" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "reflect" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "Goulding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Clement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "extort" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "exclaiming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "dissolved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "based" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "servility" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pliancy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "bets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "intention" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "pointed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "rude" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "impulse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "beholding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "remonstrance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "fact" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "resentfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "dictating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "respectable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "fret" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "deliberation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "pieces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "retaliate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Under" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "particulars" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 20
-  },
-  "free" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "Grantley" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "honour" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 42
-  },
-  "unnatural" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "weary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "wears" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "preferment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "face" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 27
-  },
-  "congratulation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "afraid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 37
-  },
-  "showed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "cessation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "worldly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "After" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 37
-  },
-  "household" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "invite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "calculation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "habitual" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "conditional" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "shrug" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "blushed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "independence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "Full" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "melancholy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "presentation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "afforded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "ostentation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "awkward" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "falsely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "condescended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "ruin" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "impatient" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "quarrelling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "revealing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "alienated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "finding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "enlarging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Does" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "judging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "censuring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "jumped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "rule" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "detect" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "condemn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Stupid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "resentment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "impressing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "gulf" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "rapturous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "blinds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "inferior" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "refuge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "certainty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "deficiency" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "imaginary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "professed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "brightening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "removal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "diffused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "comparatively" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "professing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "fair" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 22
-  },
-  "stepping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "preparation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "PREJUDICE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Away" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "palatable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "compatible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "charitable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "enable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "safety" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "overtaken" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dresses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "softness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "profession" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "zip" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "blameable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "arise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "dressed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "Captain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "eminent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "doors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "fail" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "repaid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "DISCLAIMER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Society" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "breakfast" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 25
-  },
-  "refund" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "dines" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "seize" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "church" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "affectionate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "privilege" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "pictures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "conjecturing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "discontinue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "subsisted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "fall" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "dined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "decorums" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "boldly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pictured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "boundless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "contrivance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "speediest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "gratify" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "safest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "nice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "excel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "appearance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 33
-  },
-  "forgot" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "runs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "perfect" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "fewer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "graceful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "descending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "unbending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "spite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 23
-  },
-  "punctuality" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "nephew" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 22
-  },
-  "Spanish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "campful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "ill" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 75
-  },
-  "likeness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "finished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "rejection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "lustre" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "connivance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "speaker" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dignified" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "fame" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "replacement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "bribery" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "death" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "deportment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "advice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  },
-  "bestow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "error" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "attendant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "paper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "liberality" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "unalterable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "endeavour" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
-  },
-  "concealed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "listening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "enforced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "fortune" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 39
-  },
-  "quantity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "inn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "tricks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "inducements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "worthless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "purses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Additional" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "presuming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "growth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "YOU" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "fare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "objects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "shaken" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "impunity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "resolution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
-  },
-  "properly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "sharers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "livings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "poor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 30
-  },
-  "interruptions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "gratified" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "farm" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Anxiety" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "fronted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "grief" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "ashamed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  },
-  "stiles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "enduring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "excellent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
-  },
-  "civilly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "ensigncy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "fairly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "handwriting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pool" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "adapted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Park" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "persons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "charges" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "advancement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "charged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "shortly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "smilingly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "FITZWILLIAM" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "firmly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "providing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "weeks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "attachments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "fate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "hasten" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "playfulness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "kindled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "God" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "close" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "delighting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "linked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "grieving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "intending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "embarrassment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "oblige" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "disdain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "fast" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "trials" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "restless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "communicate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "concurrence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Email" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "asserting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "senses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "Melan" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "fortunately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "post" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "negligence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "repeating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "blush" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "tiresome" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "conciliate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "concluding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "accede" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "educational" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "indelicacy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "upbraiding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "remedy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "respect" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 29
-  },
-  "article" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "port" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "yawned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "ankles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Dove" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "hesitate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "income" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "joining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "Posting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "united" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "production" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "smallest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "searching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "choose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
-  },
-  "benevolence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Gregory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Edward" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "miles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  },
-  "behave" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "undo" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "grandeur" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "previously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "mixture" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "Donations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "disinterestedness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unsuspicious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "bills" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "colonel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Attendance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "mortifications" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "identify" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pour" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "improvement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "steadfast" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Wholly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "detest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "scandalous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "variation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "number" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "shorten" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "punish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "casual" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "property" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "incomprehensible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "delicacy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "shorter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "distributed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "repaired" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "animation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "urged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "happily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "resented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Miss" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 281
-  },
-  "partial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "blessing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "generously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "city" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "confident" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "exclusion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "courage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "local" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "extravagant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "advertised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "yield" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "assertion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "decisions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "recollected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "filled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "eBooks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "Indeed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
-  },
-  "satisfaction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 27
-  },
-  "heartening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "removed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "powerful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "superciliousness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "shan" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "sickly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "objected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "acquaintance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 52
-  },
-  "despising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "infamous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "shed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "copied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "precision" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "bordered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "construing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "correspond" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "points" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "copies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "reap" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "acrimony" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "modified" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "presume" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Impossible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "maintained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "read" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 42
-  },
-  "real" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 31
-  },
-  "clock" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "couples" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "prompted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "admission" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Newby" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "April" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "monthly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "resigning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "collect" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "disgracing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "paling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "disappoint" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "implicitness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "predict" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "construction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "universal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "fifteen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "poultry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "deliberately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "looked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 74
-  },
-  "minute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "shew" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "application" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "productive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "animating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "comprehend" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
-  },
-  "profuse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "reason" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 51
-  },
-  "wearied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "intimation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "humbling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "identification" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "gayer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "annual" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Foundation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
-  },
-  "rectory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "gentle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "occasioned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "shopping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "goodness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "reconciled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "completed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "demand" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "fugitives" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "reel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "acquiesce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "concisely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "rings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Refund" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "letter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 117
-  },
-  "Persuaded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "accuse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "tallest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "frequently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 23
-  },
-  "handed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "doubting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "acquire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "worth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "notion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "openness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "takes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "popular" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "perforce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "broken" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "detection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "strenuously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Had" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 25
-  },
-  "fitted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "Great" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dishonourable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Choose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Has" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "derision" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "solace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "hatefully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "longed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "forwards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "shewed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Compliance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "lifetime" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "occasional" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "indiscreet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "repeated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
-  },
-  "boisterously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "recollection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "curtsey" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "courses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "flaming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "indelicate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "watches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Into" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "flattering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "motives" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "sanguine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "lifted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "significant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "worse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "complaisant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "delicious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "rein" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "FULL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Irish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "difficulty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "longer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 44
-  },
-  "watched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "winding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "gladly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "parties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "marrying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 23
-  },
-  "worst" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "leaving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "forbearance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "shop" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "distance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  },
-  "Yes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 57
-  },
-  "prospects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "unavailing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "show" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "description" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "Yet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "cautious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "coughs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "augmented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "forgave" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "situated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "malicious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "street" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "arrive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "feverish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "shoe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "vanished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "learned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "resolving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "substance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "estimated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "approbation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "footstool" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "suddenly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  },
-  "Her" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 87
-  },
-  "earnestness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "guidance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "nervous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "volubility" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "stranger" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "affronted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Green" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "hastening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "simpleton" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "delicate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "fancy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
-  },
-  "poured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "glancing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "proficiency" : {
+  "capric" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "carriages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "explanatory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dressing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "frost" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "apothecary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "awakened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "canvas" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "stiffly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Lambton" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "captivated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Fitzwilliam" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 36
-  },
-  "omen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "rely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "detestable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "bounds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "style" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "merited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "guard" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "settle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "madam" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "pressing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "freedom" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
-  },
-  "invitations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "recollecting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "stress" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "mischief" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "consolation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "canvassed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Chapter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 61
-  },
-  "licentiousness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "consulted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "ducks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
   },
-  "His" : {
+  "pleas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 80
   },
-  "disquiet" : {
+  "cow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "persists" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "allowances" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "superseded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "shut" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "luck" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "mature" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "minded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "influence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "unsuitable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "exigence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "totally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "dissipation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "roused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "interrupting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "unasked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "forgiven" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "persuasion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "important" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "requited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "glimpse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "parting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "phrase" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "daily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Woods" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "daughter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 84
-  },
-  "omit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "largest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "limitation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "pretending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "solicitation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "consoled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "severest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "footing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "jot" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Shall" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "joy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "compliment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 26
-  },
-  "imitation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sheet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Release" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "adds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "rest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 40
-  },
-  "comply" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "original" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "Kitty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 71
-  },
-  "kingdom" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "differ" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "afternoon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "twelvemonth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "interruption" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "investigation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "front" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "You" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 221
-  },
-  "stupid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "equivalent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "momentary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "hypocritical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "commiseration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "agitations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Carter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "perpetual" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "plague" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "offer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 28
-  },
-  "neighbourhood" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 29
-  },
-  "Phillip" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "iniquitous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "healthful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "gaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Gouldings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "narrowly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "disclaim" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "How" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 66
-  },
-  "transient" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "plans" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "plant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "drive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "Archbishop" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "readiness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "IRS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sixth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "servant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "offered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "civil" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "subsequent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Resignation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "words" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 29
-  },
-  "benefited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "founded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "entered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 36
-  },
-  "instructed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pompous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "glowing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "piling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "synonymously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "performs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "rooms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "larder" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "excused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "needless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "nearest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "slightingly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "parish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "contact" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "excuses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "North" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "tires" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "disadvantage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "REFUND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dishonest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "anxiety" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "parts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "Accordingly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "party" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 58
-  },
-  "duties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "lucky" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "visiting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "distrusted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Instead" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "sources" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "relates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "trembling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "packing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sparkled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "signs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "related" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  },
-  "candid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "aunt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 84
-  },
-  "silliest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "diffident" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "views" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "INDIRECT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "mouths" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "tenderness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "directed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "assurances" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "unassailed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "false" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "dinner" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 35
-  },
-  "equalled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "candour" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "executors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "prompt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Nearly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "parasol" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "crowd" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "laity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Which" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "repose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "provoking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "sick" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "maiden" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "fatigue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "corner" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "reproofs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "join" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
-  },
-  "influencing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Seriously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "crown" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "cradles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sentence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "deceiving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "realised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "faithfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "imitations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "vain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "accents" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "ordinary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "drink" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "attracted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "impulses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "breeding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "recommending" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Proud" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "judgement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "brought" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 37
-  },
-  "Besides" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "desponding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "works" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 32
-  },
-  "proportion" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "alive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "pursuit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "payments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "plate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "thinking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
-  },
-  "POSSIBILITY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "world" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 66
-  },
-  "composed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "felicitations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "assented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "prejudice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "Wretched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "guardian" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "urgent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "side" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 54
-  },
-  "creditors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "break" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "missed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "predominate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "South" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "expressly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "willingness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "indirectly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "vogue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Jane" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 295
-  },
-  "joke" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "comfort" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 31
-  },
-  "commissioning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "respectful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "hide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Sally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "condescend" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "report" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "powers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "reminding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "married" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 61
-  },
-  "paused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Church" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sigh" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "mortifies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "lament" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "knees" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "invalidity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sign" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "diffuse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Nothing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "pauses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "high" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "mortified" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "falls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "expressed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 26
-  },
-  "outlived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "criticisms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "directly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 23
-  },
-  "depreciate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "absurdities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "obliging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "Executive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Terms" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "restrictions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "preserve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "establish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "deter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "belongs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "proclaim" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "confide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "attached" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "rambled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "overthrown" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "errors" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "parents" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "Before" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "tastes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "scores" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "decent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "preservation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "total" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "niece" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
-  },
-  "pursued" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "loser" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "savage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "drily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "informs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "console" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "plays" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "social" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "interesting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "raised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "cross" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "Ignorant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "nettled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "demanding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "coloured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "declined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "acknowledge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "lobby" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "editions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "earth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "overthrow" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Georgiana" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "inflict" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "COLLINS" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "cunning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "vary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "upper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "intercourse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "decency" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "behalf" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "supposing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "scene" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  },
-  "injure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "exert" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "insolent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "sideboard" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "overflows" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Never" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "accomplishments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "injury" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "inclinations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "exhibit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "lighted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "inadequate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "assemblies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "sportive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "remaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "accept" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "stopping" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "affront" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "intruding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "access" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "Wilfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "communicativeness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "apprehension" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "curtains" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pyramids" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "covies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "surprised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 35
-  },
-  "silent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 26
-  },
-  "stopped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "foxhounds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Implacable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "laying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "fancied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "oftener" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "confirm" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "hill" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "unacquainted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "courted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "discerning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Ring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "fourth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "vast" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "intervene" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "laughing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "Vanity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "declare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "dislike" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 23
-  },
-  "guiding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "quest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "Tease" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "fervently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "cautioning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "unusual" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "extreme" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "farmhouse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "preservative" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "clergyman" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "sink" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "degree" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 23
-  },
-  "inquiries" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 23
-  },
-  "dismay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "paddock" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "expend" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "hint" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "sing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "insists" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "peculiarities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "grapes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "brilliancy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "doleful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "hire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "figures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Risk" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "What" : {
+  "upon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 77
   },
-  "drawings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "manoeuvre" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "assent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unanswerable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "virtue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "turnpikes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "British" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "types" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "corrupt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "mingled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "disapprobation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "Meryton" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 57
-  },
-  "speedily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "willed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "gentleman" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 39
-  },
-  "expedite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Clapham" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "reach" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "backed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "comparative" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "unjustly" : {
+  "preposses" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
-  },
-  "Give" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "positively" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "travelled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "justify" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "sight" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "dreadful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "teeth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "keener" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "joyfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dissuaded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "deprived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "negatived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "regretting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "blamelessness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "overthrowing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "provoked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "complacency" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "wear" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "weak" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "overhear" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "distressed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "assert" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "place" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 76
-  },
-  "gamester" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "regular" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "objection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "picturesque" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "informed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "dispute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "observation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "prominently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "tremble" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "tired" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "designedly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "lead" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "expect" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 35
-  },
-  "elegance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "site" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "When" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 80
-  },
-  "objecting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "apprehensive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "gentlemen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 38
-  },
-  "ensign" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "passage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "adequate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Keep" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "bustle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "disbelieving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "palings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "divert" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "plain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "describing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "justice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "refrained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "officers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 31
-  },
-  "individual" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "Letters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "inquiring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "comprehends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "accepted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "comparing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "person" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 55
-  },
-  "testimony" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "imputing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "week" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 29
-  },
-  "acknowledged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 20
-  },
-  "emphatic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "preaching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "weep" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "bewitched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "prettyish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Netherfield" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 73
-  },
-  "ready" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 20
-  },
-  "studier" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "studies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "endurable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "greatest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 20
-  },
-  "compliments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "limited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "studied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "weakest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "match" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
-  },
-  "While" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "fearful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "played" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "giddiness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "accent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "endeavouring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "prepare" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "spoke" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 43
-  },
-  "mince" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "fifty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "withdrawn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "discourage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "nowadays" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "approved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Michael" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "reproach" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "electronically" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "warrant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unfeeling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "quitted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "successfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "untitled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "solid" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Forsters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "narrative" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "reserves" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "backwards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "size" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "applies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "irritable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "temper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
-  },
-  "left" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 65
-  },
-  "reserved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "extracts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "rejoice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "eleven" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "object" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 48
-  },
-  "poorly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "accessible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sonnet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "infinite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "attics" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pleasantness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "elect" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "minds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "characters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "pitiable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "consolatory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "bowing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Kenilworth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "stirring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "quiet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "resigned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "policy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "hushed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Happiness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "address" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 20
-  },
-  "benches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Nobody" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "ramble" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "destroyed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "heightened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "throw" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "brevity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "violent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "unreasonably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "warded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Its" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "barouche" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "illiterate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "ascended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "hardened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "making" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 38
-  },
-  "fashions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "defection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "check" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "arranges" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "ductility" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Redistributing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "supposed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 26
-  },
-  "anticipating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "applied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "misrepresented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "disclaimers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "society" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 31
-  },
-  "arranged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Redistribution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "romantic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "anticipation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "kindest" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "ensuring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "lend" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "November" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "Young" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Kent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "imperturbably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "indispensably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "endeavoured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "expose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "extinguished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "resentful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "satin" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "incensed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "fearing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "loved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "faultless" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "cordial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "unconnected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "consigned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "distant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "felicity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "custody" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "despaired" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "gaiety" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "bringing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "prohibited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "binary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "spots" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "orders" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "deferred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "successor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "gaily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "obtruded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "matter" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 29
-  },
-  "conjunction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "noise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "succession" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "mechanically" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "stupidity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "contented" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "lover" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "loves" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "discouraged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "noisy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "cheap" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "produce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "hates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "walks" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "cheat" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "reminded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "thoughtlessness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "undoubtedly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "unreasonable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "anecdote" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Very" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "extravagance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "capital" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "exhibiting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "employee" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pray" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
   },
   "lad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "employed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "governess" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "plead" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "defective" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "west" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "circumspection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "hated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "law" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
-  },
-  "comparison" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "Pratt" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "lay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "pitched" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "suspects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "adventure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "condition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "gratification" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "improve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "ceremony" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "desirous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "naming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "rudeness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Harringtons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "environs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "immovable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "hastily" : {
+  "gown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 9
   },
-  "censure" : {
+  "proce" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
+  },
+  "plead" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "whenev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  },
+  "lag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "lai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "reveri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "ordin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "west" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "plenti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "prai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 26
+  },
+  "law" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 27
+  },
+  "comparison" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
+  },
+  "pardon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  },
+  "rout" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "revert" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "revers" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "rous" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "welcom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 20
+  },
+  "condition" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "anew" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "were" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 419
+  },
+  "chicken" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "coolli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   },
   "troop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "regimentals" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "intimidate" : {
+  "gratif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "attrac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
   },
   "wound" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 7
   },
-  "coolly" : {
+  "dissolv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "hastili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "twelv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "generous" : {
+  "distanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
+    "value" : 16
   },
-  "ridiculing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "repressed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "coincidence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "possibility" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "Twice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "exhibition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "wounded" : {
+  "anneslei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "laughingly" : {
+  "cri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 91
   },
-  "distinguished" : {
+  "encourag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 28
   },
-  "chooses" : {
+  "chamberlayn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 1
   },
-  "opening" : {
+  "piqu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
+    "value" : 1
+  },
+  "howsoev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "cry" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "clamor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "spoken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -14487,61 +1007,113 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
+  "sketch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
   "sport" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 5
   },
-  "barbarous" : {
+  "incident" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "caught" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
   },
   "cluster" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "prey" : {
+  "intermis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "lieutenant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unconcerned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 3
   },
   "led" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 18
   },
-  "supply" : {
+  "uncertain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 2
   },
-  "integrity" : {
+  "concern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 59
   },
-  "injunctions" : {
+  "thirti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "enhanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "liable" : {
+  "handwrit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "mountain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "prei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "repugn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "refrain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "supplic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "trembl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "piti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
+  },
+  "let" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 75
+  },
+  "lotteri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "brotherli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "state" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 47
+  },
+  "courtesi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
   "press" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 12
   },
-  "cares" : {
+  "haughti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 3
   },
-  "regretted" : {
+  "gener" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 89
   },
   "night" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -14553,291 +1125,403 @@
   },
   "exclaim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 13
   },
-  "courtesy" : {
+  "statu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 4
   },
   "pack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "complied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "rendered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "untamed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "jewels" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "cordially" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "thirty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "polite" : {
+  "each" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
+  },
+  "restraint" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "muslin" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "wandered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "perfectly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 46
-  },
-  "ardent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "entertainment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "proving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "promote" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "hackney" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "situation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 38
-  },
-  "allayed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Against" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Collinses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "refused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "haughty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "PUNITIVE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "emphatically" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "admitting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "detained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "quit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "fashion" : {
+  "abhorr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 7
   },
-  "surely" : {
+  "unalloi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "creativ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "amiabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 36
+  },
+  "lewi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "principle" : {
+  "disservic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "anim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "suppli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "cun" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "cup" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "muslin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "liabil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "ardent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "cut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "raptur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "distribu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "dread" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 23
+  },
+  "two" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 79
+  },
+  "moment" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 81
+  },
+  "perfectli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 47
+  },
+  "tear" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "teas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "attack" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "humour" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 32
+  },
+  "curios" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 24
+  },
+  "curiou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "Creating" : {
+  "attach" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 43
+  },
+  "kitchen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "creation" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "warmli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "resourc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "think" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 236
+  },
+  "laudabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "hacknei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "ankl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "calmli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "txt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "mistress" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "illiber" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "gentlemanlik" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "speech" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  },
+  "watch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 21
+  },
+  "misrepresent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "quit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 116
+  },
+  "deliber" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "polish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "thing" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 73
+  },
+  "fashion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "wickedest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "graviti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "startl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "lie" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "source" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "circulated" : {
+  "apparel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "unable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "expressively" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "uncontrolled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "separation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "unguarded" : {
+  "unconnect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "feathers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "weakened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dishonorable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "acquired" : {
+  "manor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "beatings" : {
+  "lip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 9
   },
-  "involves" : {
+  "shook" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 11
   },
-  "doubt" : {
+  "shoot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 37
+    "value" : 4
   },
-  "merit" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "develop" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "employing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pecuniary" : {
+  "authorit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "involved" : {
+  "mantelpiec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "fixed" : {
+  "authoris" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
+    "value" : 3
+  },
+  "advertis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "actual" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  },
+  "doubl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "frailti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "glass" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "doubt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 51
+  },
+  "merit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "develop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "misunderstand" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "undon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "unbend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "repuls" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "actuat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "page" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 6
   },
   "full" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 29
+    "value" : 32
   },
-  "cards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "duets" : {
+  "depreci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "stubbornness" : {
+  "displeasur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "delici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "becaus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "concept" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "awar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
+  },
+  "banish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "awak" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "grossest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "unappeasable" : {
+  "stare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 5
   },
-  "cared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "scorned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Blame" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "painful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "enhance" : {
+  "precis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "pain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 28
+    "value" : 47
   },
-  "Happy" : {
+  "unjust" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "obtrud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
   "suspicion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
+    "value" : 13
   },
-  "purchase" : {
+  "start" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "nettl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "contemptu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "earliest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 6
-  },
-  "refusal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "advised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
   },
   "supper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -14847,155 +1531,191 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "manage" : {
+  "starv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 1
   },
   "equal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 30
+    "value" : 52
   },
   "wiser" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "detested" : {
+  "fallen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "awai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 35
+  },
+  "watson" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
-  },
-  "separating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "gravity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "Dale" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "moderation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
   },
   "paid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 25
   },
-  "spared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "verses" : {
+  "dishonour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "imitated" : {
+  "short" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 44
+  },
+  "unusu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "financi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "penanc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "alight" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "blemish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "incur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "Come" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "insufferably" : {
+  "barefac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "doubtingly" : {
+  "distrac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Teasing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "remembered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "season" : {
+  "compris" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "payment" : {
+  "three" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "galleri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "preten" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "glanc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "deservedli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "unbecoming" : {
+  "doubtingli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "tongu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "season" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "payment" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "enter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 57
+  },
+  "attain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "tenant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
   "pale" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 8
   },
-  "dispelling" : {
+  "applic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 15
   },
   "threw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 9
   },
-  "players" : {
+  "warmth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 8
   },
-  "entreated" : {
+  "wretch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 10
   },
-  "roads" : {
+  "preced" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "insufferable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 5
   },
   "muffin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "GIVE" : {
+  "memori" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 10
   },
-  "provide" : {
+  "destroi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
+    "value" : 4
   },
-  "Write" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "inhumanity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Could" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "paperwork" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "teaching" : {
+  "solac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "formation" : {
+  "indefinit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "cessat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "recogn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "pant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "bright" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "congratul" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 22
+  },
+  "paperwork" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -15003,39 +1723,39 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "accidental" : {
+  "inconceiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 1
+  },
+  "unknown" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
   },
   "unconcern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 5
   },
   "lot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "computer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "fundraising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
   "low" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 9
   },
-  "inheriting" : {
+  "consult" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "gracious" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "indulging" : {
+  "pang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "pang" : {
+  "unpretend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -15051,33 +1771,25 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "means" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 60
-  },
   "sentinel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "performers" : {
+  "dole" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "hereabouts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "discourses" : {
+  "mildli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "disliking" : {
+  "blown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "contemplation" : {
+  "persever" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 3
   },
   "redress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -15087,235 +1799,199 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "absurdity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
   "mien" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
+  "fetch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
   "fellow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "awed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 11
   },
   "blameless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "contradicted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "None" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "crushing" : {
+  "unmov" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "door" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 35
-  },
-  "inflexibly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "commanded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 43
   },
   "quick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
+    "value" : 13
   },
-  "overpower" : {
+  "tell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "invaluable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "alliance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "distinguishing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "improper" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "recognizing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 70
   },
   "husband" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 50
+    "value" : 54
   },
-  "experience" : {
+  "unavail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "merry" : {
+  "dai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 178
+  },
+  "shown" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "speedi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "papa" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "checked" : {
+  "paltri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "Yours" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
+    "value" : 2
   },
   "affair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
+    "value" : 25
+  },
+  "hertfordshir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 41
   },
   "obtain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "fixing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 12
   },
   "adept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "curiosity" : {
+  "suppos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 23
+    "value" : 89
   },
-  "minutes" : {
+  "forcibli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 37
+    "value" : 4
   },
-  "amiable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 36
-  },
-  "suddenness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sacrifice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "nieces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "pause" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "August" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "congratulate" : {
+  "format" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 7
   },
-  "perceived" : {
+  "particular" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
+    "value" : 47
   },
-  "ample" : {
+  "reconcil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 4
   },
-  "diffidence" : {
+  "water" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "relished" : {
+  "dispens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "INDEMNITY" : {
+  "savour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "ease" : {
+  "formal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
+    "value" : 11
   },
-  "York" : {
+  "fidget" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "friendli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "sparkl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "achiev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "relied" : {
+  "merri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "entertain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 18
+  },
+  "scienc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "overruled" : {
+  "exceedingli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 26
+  },
+  "tent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "overrul" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "adequ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "part" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 64
+    "value" : 90
   },
-  "unalloyed" : {
+  "incom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 11
   },
-  "insulted" : {
+  "farewel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
-  "behaves" : {
+  "ampli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "jealousy" : {
+  "unexpect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "banished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "conversations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 8
   },
   "reproof" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 6
   },
-  "principal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "inured" : {
+  "tend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "blaming" : {
+  "coars" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "unrestrained" : {
+  "synonym" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "resound" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -15323,7 +1999,15 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "hearers" : {
+  "nicest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "sixteen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "obeis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -15331,53 +2015,53 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 13
   },
-  "Will" : {
+  "jealousi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 4
   },
-  "amply" : {
+  "easi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 28
+  },
+  "park" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 22
+  },
+  "distinc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
   },
   "thither" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 9
   },
-  "park" : {
+  "benevol" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
+    "value" : 4
   },
-  "neighbourhoods" : {
+  "clapham" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "built" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "reliev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "overtook" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "persuaded" : {
+  "build" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
+    "value" : 4
   },
-  "Jenkinson" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "seeking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "Date" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Single" : {
+  "fairbank" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
-  },
-  "gratitude" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
-  },
-  "Colonel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 63
   },
   "earl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -15387,41 +2071,41 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "behaved" : {
+  "dearest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 17
   },
-  "interfere" : {
+  "allai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "apartment" : {
+  "decidedli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "smiles" : {
+  "recov" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
+    "value" : 17
   },
-  "gallantry" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "regulated" : {
+  "forbor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "mutually" : {
+  "lieuten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "resent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 27
+  },
+  "intellig" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 27
   },
   "compassion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "bracelets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
   "phaeton" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -15431,129 +2115,149 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "depending" : {
+  "gregori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "gallantri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "irreligi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "partli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
-  },
-  "startled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "principally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "retrospections" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "DISTRIBUTOR" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "accepting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "Fatigued" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
   },
   "pass" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  },
-  "Compared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 88
   },
   "mile" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "delightfully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 22
   },
   "past" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 10
   },
+  "shock" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  },
+  "grate" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
+  },
   "mild" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "bill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "whichever" : {
+  "unblemish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
   },
-  "stiffness" : {
+  "conjectur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 15
   },
-  "easy" : {
+  "sugges" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 25
+    "value" : 1
   },
-  "Forster" : {
+  "senior" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 39
-  },
-  "smiled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
+    "value" : 1
   },
   "dose" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Blenheim" : {
+  "carefulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
-  "bathing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "domain" : {
+  "impres" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 7
   },
-  "omitted" : {
+  "censur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 8
   },
-  "reverting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "relative" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "touched" : {
+  "delightfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "lodgings" : {
+  "finer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "Nicholls" : {
+  "domain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 8
   },
-  "existed" : {
+  "abomin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 12
   },
-  "October" : {
+  "treatment" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 6
   },
-  "annoyed" : {
+  "sentenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  },
+  "wednesdai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "bequeath" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "syllabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "grasp" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "dove" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "palat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "inde" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 94
+  },
+  "direc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  },
+  "hotel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "term" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 45
+  },
+  "celebr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "mine" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -15561,37 +2265,45 @@
   },
   "mind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 57
+    "value" : 64
   },
-  "grateful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "thankfulness" : {
+  "minc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "emergence" : {
+  "forbear" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "staff" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "unwillingness" : {
+  "right" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "involve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 45
   },
   "outrun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "recollections" : {
+  "chestnut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "undec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "opposit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "possibli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 8
   },
-  "requisite" : {
+  "inflexibli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -15599,243 +2311,343 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "obsequious" : {
+  "cradl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "palliation" : {
+  "taught" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "stage" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Your" : {
+  "patro" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 44
+    "value" : 7
   },
-  "added" : {
+  "borrow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 71
+    "value" : 3
+  },
+  "maximum" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "paus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 25
+  },
+  "inch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "waiter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "desert" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "under" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "did" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 269
+  },
+  "deserv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 22
+  },
+  "quarter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
+  },
+  "die" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "london" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 55
+  },
+  "reserv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  },
+  "handsomest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "happiest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
   },
   "reappear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Watson" : {
+  "impel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "recommendations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "incumbent" : {
+  "gratefulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "shifting" : {
+  "down" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 70
   },
   "wretched" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
+    "value" : 2
   },
   "habit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "brings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 10
   },
   "bandbox" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "adding" : {
+  "tete" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 8
   },
   "clue" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
+  "bird" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "forgotten" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
   "legal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 5
+  },
+  "diversifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "signal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "fortitude" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "LICENSE" : {
+  "parcel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "seated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "fastened" : {
+  "test" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "alterations" : {
+  "exhaust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "varied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "ostentatious" : {
+  "grape" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "sallied" : {
+  "succes" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Because" : {
+  "straw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "brown" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "sermon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "asham" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
   },
   "month" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
+    "value" : 30
   },
-  "occasions" : {
+  "learnt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
+  },
+  "final" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 8
   },
-  "tackle" : {
+  "injur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "humbl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
+  },
+  "publicli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "interven" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "gratefully" : {
+  "awok" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 1
   },
-  "requesting" : {
+  "faculti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "distract" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "importance" : {
+  "occasion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 26
+    "value" : 68
   },
-  "worthy" : {
+  "bred" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "troublesom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "misl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "busili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
+  },
+  "back" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 42
+  },
+  "compani" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 22
   },
   "endless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "title" : {
+  "heavier" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "papers" : {
+  "kympton" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
-  },
-  "With" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 33
   },
   "miss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 287
   },
-  "delights" : {
+  "poetri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "conveying" : {
+  "paler" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "plantation" : {
+  "pound" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 24
+  },
+  "journei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 22
+  },
+  "bite" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "busily" : {
+  "ecstasi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "disgusting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Peak" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
   "human" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 8
   },
-  "poetry" : {
+  "coincid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 3
   },
-  "arrogant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "stirs" : {
+  "stabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "ecstasy" : {
+  "apprehens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "robinson" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   },
   "custom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "blessed" : {
+  "length" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 32
   },
-  "abode" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "permission" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "inconveniences" : {
+  "grand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "considerations" : {
+  "apprehend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "decidedly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "Regard" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
   "inherit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 4
   },
-  "articles" : {
+  "interpret" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
+  "worthi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "relat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 70
+  },
+  "grant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
   "withstood" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "boister" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -15847,187 +2659,263 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "brothers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "exhausted" : {
+  "inexpressibli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "convers" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 71
+  },
+  "devot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "grandfath" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "ignor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 23
   },
   "convert" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 3
   },
-  "Already" : {
+  "necess" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "attempt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 29
+  },
+  "dearli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "influenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  },
+  "relish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "TRADEMARK" : {
+  "profici" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "lock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "exasperate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "testified" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "inexpressibly" : {
+  "chatti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
-  },
-  "Even" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
   },
   "blacken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "proudly" : {
+  "pitch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "letters" : {
+  "rapidli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
+    "value" : 2
   },
   "fear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
+    "value" : 52
   },
-  "incessant" : {
+  "reynold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 10
   },
-  "inspection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Ever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "inferences" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Director" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 36
-  },
-  "pretension" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "removing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "printed" : {
+  "panegyr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "Fordyce" : {
+  "incens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "made" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 126
+  },
+  "anonym" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "foxhound" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "manag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "purchas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
   },
   "field" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 4
   },
-  "wilderness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "messages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "realities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "overtures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "grievances" : {
+  "invalid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "cleanse" : {
+  "doe" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 66
+  },
+  "don" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "willfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "incauti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "unimport" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "stamp" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "unfortun" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
   },
   "mention" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 30
+    "value" : 65
   },
-  "legally" : {
+  "twenti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 17
   },
-  "unstudied" : {
+  "mai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 173
+  },
+  "stream" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "recur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "unpardon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   },
   "man" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 151
   },
-  "insinuating" : {
+  "stand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 25
   },
-  "leisure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "twenty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "supplied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "bless" : {
+  "surround" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "joking" : {
+  "overheard" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "forward" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 32
+  },
+  "urg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "bless" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "intrigu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "agonies" : {
+  "petrifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "ebook" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 18
+  },
+  "widest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "lodg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  },
+  "keenest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "louisa" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
   },
   "feet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "fees" : {
+  "turnpik" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 2
   },
-  "condolence" : {
+  "mail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
+  "subject" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 95
+  },
+  "disposi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 26
+  },
   "feel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 39
+    "value" : 167
   },
-  "circulating" : {
+  "edward" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "disinterest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "main" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "incess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -16035,83 +2923,135 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "unavoidably" : {
+  "conveni" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "irreproach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "inns" : {
+  "kenilworth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "residence" : {
+  "commun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 20
   },
-  "BENNET" : {
+  "grain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "syllable" : {
+  "credit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 31
+  },
+  "maid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "alter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  },
+  "brook" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "utf" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "weighti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "heedless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "equipment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "ideas" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "unavoidable" : {
+  "aspir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "interrupted" : {
+  "failur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
+    "value" : 1
   },
-  "apprehensions" : {
+  "dullest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "cheerfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "Widely" : {
+  "staid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "servic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "rencontr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "directions" : {
+  "compass" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 1
   },
   "bonnet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "rejoiced" : {
+  "exagger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
+    "value" : 2
   },
-  "handsome" : {
+  "injustic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 37
+    "value" : 4
   },
-  "constitution" : {
+  "servil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "conceive" : {
+  "disconcert" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "nonsense" : {
+  "stair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 18
+  },
+  "freckl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "breath" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "ball" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 44
+  },
+  "uncommon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "unappeas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "blameabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "unaffectedli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
@@ -16121,45 +3061,61 @@
   },
   "repeat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 32
   },
-  "eclipsed" : {
+  "make" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "justification" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "physical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 216
   },
   "met" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 40
   },
-  "diversified" : {
+  "capit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "fulfil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "speeches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "contrariety" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "inexpressible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "circulation" : {
+  "wicked" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "lodge" : {
+  "likew" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  },
+  "unrestrain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "untinctur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "proudli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "fright" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "lacon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "discours" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "due" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "threat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -16167,109 +3123,137 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "disgraced" : {
+  "princip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 20
+  },
+  "devoid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "contrarieti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "inform" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 58
+  },
+  "verili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "depend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 22
-  },
-  "wretchedly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sized" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 40
   },
   "gentlest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "untidy" : {
+  "about" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 104
+  },
+  "commit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "commis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "cure" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "sorrow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   },
   "danger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
+    "value" : 20
   },
-  "granted" : {
+  "ungraci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "prudenti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "patch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "staircas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "happier" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   },
   "character" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 64
+    "value" : 1
   },
-  "womanly" : {
+  "bank" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "wretchedli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "eluded" : {
+  "brow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "archness" : {
+  "wilfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Imagine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
   "height" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "moderate" : {
+  "suscept" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "vastli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "august" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
-  },
-  "comprise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "goals" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "injunction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "engrossed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
   },
   "invent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "received" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 66
-  },
-  "wonderful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "substantial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "quality" : {
+  "impati" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 23
   },
-  "deduced" : {
+  "benefit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "balm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "avoided" : {
+  "miller" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "highest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
   },
   "beaux" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -16279,37 +3263,53 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "animal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sincere" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "maternal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Office" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "shared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "abruptness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "discomposure" : {
+  "encount" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "March" : {
+  "untidi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "male" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "qualiti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "benefic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "acquir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "shelter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
+  },
+  "vigor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "monthli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "long" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 127
+  },
+  "redistribu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "uproar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "fell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -16317,113 +3317,225 @@
   },
   "augment" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "ungovernable" : {
+  "into" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 35
+  },
+  "imprud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 20
+  },
+  "impass" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "glance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "resuming" : {
+  "sharer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "attentively" : {
+  "defin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 2
+  },
+  "industri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "relationship" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
   },
   "mix" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 4
+  },
+  "emphat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "acquit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "dirty" : {
+  "stiff" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "crayon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "prosper" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "though" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 211
+  },
+  "childhood" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "polit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 25
+  },
+  "dissatisfi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
-  },
-  "middle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "renewal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
   },
   "appeal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 3
   },
   "swamp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "monotonous" : {
+  "eastbourn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Philips" : {
+  "dirti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "appear" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 107
+  },
+  "appeas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "impart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "descended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Webbs" : {
+  "rapac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "allur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "progress" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "allud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "oper" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "nurs" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "mani" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 91
   },
   "open" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
+    "value" : 50
   },
-  "justifying" : {
+  "stai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 55
+  },
+  "mamma" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "treat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
+  },
+  "agent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "hysterics" : {
+  "eagerli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 14
   },
-  "forced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 20
-  },
-  "suffering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "project" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "trepidation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "exclamation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "associating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "First" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "displaying" : {
+  "militia" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 6
   },
-  "formidable" : {
+  "monei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 30
+  },
+  "atten" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 94
+  },
+  "rapid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "project" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 89
+  },
+  "genuin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "whatev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 33
+  },
+  "imput" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "impur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "unsuspici" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "sever" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 31
+  },
+  "wholli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 26
+  },
+  "loos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "wood" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "bare" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "illiter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "impun" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "impud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
@@ -16431,269 +3543,353 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "studying" : {
+  "pointedli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "uneasiness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 1
   },
   "felt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 100
   },
-  "owing" : {
+  "warwick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "bears" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "William" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 45
+    "value" : 1
   },
   "conquest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "gardener" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "assurance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "injuring" : {
+  "gentlewoman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "look" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 176
+  },
+  "entranc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
   },
   "fortnight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 23
   },
-  "pointedly" : {
+  "inur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "surpassing" : {
+  "investig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "flying" : {
+  "allow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 70
   },
-  "proposals" : {
+  "romant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
+    "value" : 1
   },
-  "Maria" : {
+  "equivoc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 20
-  },
-  "secured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 1
   },
   "defer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 11
   },
-  "befall" : {
+  "longbourn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 88
+  },
+  "transcrip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "impertin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
+  },
+  "lord" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "binari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "proper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 20
   },
-  "Phillips" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 31
-  },
-  "despicable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "resides" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
   "bitter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "transcrib" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "recal" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "speed" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "peopl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 53
+  },
+  "admis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "admit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  },
+  "defec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "common" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 19
+  },
+  "admir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 65
+  },
+  "interest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 48
+  },
+  "appli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 20
+  },
+  "flirtat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "peculiarly" : {
+  "bath" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "Console" : {
+  "presid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "performances" : {
+  "middl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unaffected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 4
   },
   "patron" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "lodges" : {
+  "womanli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "healthi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "overlook" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "incredible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Neither" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "renewed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 6
   },
-  "money" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 29
-  },
-  "healthy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "despicably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unprotected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "forever" : {
+  "uniformli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
+  },
+  "foreseen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "bedroom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "bass" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "remonstr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "attic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "mari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 39
+  },
+  "revolv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "step" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 23
+  },
+  "bash" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "revolu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "revolt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "basi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "disgust" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
   },
   "gutenberg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 93
+  },
+  "peculiarli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "mark" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 22
+  },
+  "stem" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "base" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "heiress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "claimed" : {
+  "denot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 2
   },
-  "fingers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "revolution" : {
+  "cambridg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "nonproprietary" : {
+  "loss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 18
   },
-  "relation" : {
+  "lost" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
+    "value" : 29
   },
-  "shillings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "richly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "ordination" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "patroness" : {
+  "improb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 7
   },
   "overspread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 4
   },
-  "profits" : {
+  "vouchsaf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "eyeing" : {
+  "nonproprietari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "relating" : {
+  "worn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 2
   },
-  "resemblance" : {
+  "work" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 102
   },
-  "Arguments" : {
+  "lose" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 12
   },
-  "constitute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "THOSE" : {
+  "richli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "books" : {
+  "stile" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "wors" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 13
   },
-  "knowing" : {
+  "suitabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 27
+    "value" : 6
   },
-  "Amongst" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "humiliating" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "expostulation" : {
+  "destitut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "indulged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "confederacy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "tongue" : {
+  "statem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
+  },
+  "toward" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 33
+  },
+  "courier" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "among" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 19
+  },
+  "jilt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "denni" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "discourag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "wore" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "word" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 79
+  },
+  "variat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "love" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 109
   },
   "postscript" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -16701,29 +3897,21 @@
   },
   "enjoy" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
+  },
+  "impos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 8
   },
-  "defended" : {
+  "secret" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 7
   },
-  "coppice" : {
+  "recep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 9
   },
   "punch" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "estimable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "throwing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "appearances" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -16731,167 +3919,155 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "naturally" : {
+  "eas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
+    "value" : 17
   },
-  "accosted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "believes" : {
+  "ear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "writing" : {
+  "eat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
+    "value" : 7
   },
-  "federal" : {
+  "reced" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
   },
-  "believed" : {
+  "querul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 37
+    "value" : 1
   },
-  "playful" : {
+  "reward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 3
   },
-  "include" : {
+  "loud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
   "repent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
-  "aged" : {
+  "prejud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "perfections" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "haste" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "destructive" : {
+  "swallow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "sends" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "altogether" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "acquainting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "hasty" : {
+  "hasti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "cutting" : {
+  "unalter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "dimensions" : {
+  "opinion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 76
+  },
+  "confederaci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "voice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 22
-  },
-  "injuries" : {
+  "soldier" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "cucumb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "invect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "literari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
+  },
+  "stir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "requisit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "insult" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "tradesman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "prepared" : {
+  "disguis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "informality" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 4
   },
   "butcher" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "deigned" : {
+  "repeti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "negligent" : {
+  "punit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "olive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "coarse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "evade" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Honourable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "expecting" : {
+  "appar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "spasms" : {
+  "demean" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "discover" : {
+  "vex" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
+    "value" : 10
   },
-  "NIECE" : {
+  "edg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 4
   },
-  "imply" : {
+  "anticip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 8
   },
-  "excite" : {
+  "insol" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 6
   },
-  "failed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "estimation" : {
+  "impli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "appointed" : {
+  "concerto" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "venting" : {
+  "provision" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "indign" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "enjoi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "edw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -16899,169 +4075,237 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
+  "untouch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "catherin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 126
+  },
+  "winter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  },
+  "conscienc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
   "elder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 12
   },
-  "captivate" : {
+  "mayoralti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "talks" : {
+  "recit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "liber" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "humil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "celer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "notifies" : {
+  "essenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "mayoralty" : {
+  "spend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 18
+  },
+  "sweetest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "appertain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Oxford" : {
+  "grave" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 13
   },
-  "gbnewby" : {
+  "improp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "assistant" : {
+  "spent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 22
   },
-  "selfishness" : {
+  "improv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 21
   },
-  "ultimately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "rapacity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "command" : {
+  "instead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 7
   },
-  "Contact" : {
+  "inconveni" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "command" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "unlik" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "heartili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "unlink" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "deductible" : {
+  "gbnewbi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "detach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 5
   },
-  "WILL" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "irritated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "prevailing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "saved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "desperate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "leading" : {
+  "retir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "commendations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "nephews" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "unjustifiable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Everything" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "music" : {
+  "agit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 12
   },
-  "Street" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "July" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "moving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "agreement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 20
-  },
-  "agreeable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 45
-  },
-  "farthing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "stoutly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "fancying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "impetuous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sensations" : {
+  "slightest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "guess" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "science" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "ensued" : {
+  "perman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "conception" : {
+  "refus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 30
+  },
+  "dishonesti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "agreeably" : {
+  "year" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 65
+  },
+  "refut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "absenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 27
+  },
+  "defici" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "curricl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "branch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "anguish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "refug" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "temporari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "shrewish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "music" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
+  },
+  "absent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "volum" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "neat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
+  },
+  "near" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 18
+  },
+  "instruct" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "fireplac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "agreem" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 21
+  },
+  "incivil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "merchant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "version" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "insinu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "stop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
+  },
+  "guess" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "flirt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "heartfelt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "ragout" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -17069,591 +4313,723 @@
   },
   "detain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 7
   },
   "guest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 6
   },
-  "happening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "returns" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "detail" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "folded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "June" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "Newcastle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "eloquent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "sleep" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "repressing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "refuse" : {
+  "ceas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 9
   },
-  "stretched" : {
+  "stoutli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "elevated" : {
+  "economi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "detail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "prohibition" : {
+  "corrobor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "irksom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "ein" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "intimidated" : {
+  "secretli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "sleep" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "forese" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "evenings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "gentlemanlike" : {
+  "measur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 8
   },
-  "Putting" : {
+  "sleev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "machin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "descend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "learn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
   },
   "descent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "assiduous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "refute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sweet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "Take" : {
+  "intrusion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "eager" : {
+  "sweet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 12
+  },
+  "kindli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "eager" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 21
   },
   "bitterest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "nuptials" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "repetition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "premeditation" : {
+  "undertak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "discrimination" : {
+  "errand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "digressions" : {
+  "postilion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "female" : {
+  "imperfectli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "savag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "specif" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "spring" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 8
+  },
+  "georg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "faint" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "cruel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "forbidding" : {
+  "need" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 21
   },
   "wrote" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 21
   },
-  "exquisite" : {
+  "shade" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
-  "originally" : {
+  "matlock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "intentions" : {
+  "often" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 86
+  },
+  "gather" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   },
   "insist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 10
   },
-  "volume" : {
+  "substanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 3
+  },
+  "westerham" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "risen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "perverse" : {
+  "altern" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "http" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "apac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Little" : {
+  "companion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 23
   },
-  "indignant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "rises" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Compliments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "defied" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "chimney" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "respecting" : {
+  "epsom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "perturbed" : {
+  "interfer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 14
+  },
+  "famili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 159
   },
   "ride" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 4
   },
-  "inconsistencies" : {
+  "unsuit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
+  },
+  "ridg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "stretch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "chimnei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "accomplish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 20
+  },
+  "attitud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "end" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 35
+  },
+  "strang" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "billiard" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "vow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "breakfasted" : {
+  "volunt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "particip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
-  },
-  "spirited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "selecting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "mistake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
   },
   "rich" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 12
   },
-  "chiefly" : {
+  "betrai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
+    "value" : 7
   },
-  "denominated" : {
+  "howev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 135
   },
-  "praise" : {
+  "estim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 22
+    "value" : 8
   },
-  "WITH" : {
+  "special" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
-  "levelled" : {
+  "contempt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 12
   },
-  "visited" : {
+  "vouch" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "agre" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 28
+  },
+  "numer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "contempl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "detected" : {
+  "chiefli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 10
   },
   "arisen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "attacked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "inconsistency" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "family" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 151
-  },
-  "referred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
   "gift" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "winking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
   "copyright" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
+    "value" : 14
+  },
+  "donat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 20
+  },
+  "slacken" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "told" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 69
   },
-  "release" : {
+  "specul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "abiding" : {
+  "occurr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 4
   },
-  "grievously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "moral" : {
+  "eloqu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "diminution" : {
+  "moral" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "fullest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "judge" : {
+  "slightli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
+    "value" : 4
   },
-  "abominate" : {
+  "tenderli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "unwearying" : {
+  "collins" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "irremedi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "deepest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "nai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "narrow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "jane" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 295
+  },
+  "newli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "similar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 7
   },
-  "tenderly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "nay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "foundations" : {
+  "neic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "ungenerous" : {
+  "contradict" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "wives" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "crossing" : {
+  "shape" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "Just" : {
+  "invit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 55
+  },
+  "trifl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "forti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Some" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "Madam" : {
+  "gravel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
+  },
+  "composi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "bewail" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "driven" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "glazing" : {
+  "characterist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "jame" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "premis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
-  },
-  "EVEN" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "crossed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "carved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "misfortunes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
   },
   "tone" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 16
   },
-  "industriously" : {
+  "against" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pouring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "representations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 49
   },
   "swell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
   "remind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 10
   },
-  "encourage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "morality" : {
+  "valid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "puffed" : {
+  "assur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 94
   },
-  "obstinate" : {
+  "pictur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 15
   },
-  "congratulated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "honestly" : {
+  "honestli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "minuteness" : {
+  "arrear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "assum" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "amiss" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "share" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 23
+  },
+  "bustl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "err" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "linger" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "invalu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "dispel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "vexati" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "notic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 33
+  },
+  "sharp" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "petticoat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   },
   "slit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "stored" : {
+  "surpris" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 72
   },
-  "preceding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "Soon" : {
+  "fineri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "Hope" : {
+  "pleasur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 99
+  },
+  "endur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "strongest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "True" : {
+  "unguard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "volatility" : {
+  "esq" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "losses" : {
+  "shake" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "cent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "admiring" : {
+  "screen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "unprotect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "trial" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "neg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "jealou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "finest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "constancy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pages" : {
+  "ner" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
   "net" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "nasty" : {
+  "woodi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "new" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 58
+  },
+  "escap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  },
+  "inven" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "catching" : {
+  "belov" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "shall" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 86
+  },
+  "choos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 29
+  },
+  "nasti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "overhearings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "positions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "intervals" : {
+  "invari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "sedateness" : {
+  "strenuous" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "dignifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "shame" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "sisterli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "trick" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Sunday" : {
+  "harden" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "unexpectedli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "calcul" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "disengag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "elderli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "chose" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  },
+  "medit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 9
   },
-  "continuance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "bestowed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "inconvenience" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "boundary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "precipitate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "influenced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "reaching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "respective" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "impassable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sisterly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "dictate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
   "insipid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "stepped" : {
+  "defini" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "intermarriage" : {
+  "render" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  },
+  "kitti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 71
+  },
+  "lydia" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 171
+  },
+  "oakham" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "politeness" : {
+  "transport" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
+    "value" : 3
   },
-  "employment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "specific" : {
+  "sprain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "indemn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "palliat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "misfortun" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
+  },
+  "boundari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "super" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -17663,111 +5039,123 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "engage" : {
+  "previou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 4
   },
-  "inherited" : {
+  "femal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Find" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 10
   },
   "whisper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
+    "value" : 14
   },
   "uglier" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Let" : {
+  "estat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 26
+    "value" : 24
   },
-  "remainder" : {
+  "summon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "farth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "NEGLIGENCE" : {
+  "charlott" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "amendment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 85
   },
   "ring" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 6
   },
-  "oddity" : {
+  "jestingli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "ornam" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "maintain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "farther" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  },
+  "lifetim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "shift" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "nerv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   },
   "echo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "angrily" : {
+  "odditi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "decided" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "lanes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
   "butler" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "disconcerted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "dance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 32
-  },
-  "fully" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "ensuing" : {
+  "angrili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "intrigues" : {
+  "shoulder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "dining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "forgiveness" : {
+  "cheapsid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "amaze" : {
+  "perus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "mysteri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "disinterested" : {
+  "waver" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 2
   },
-  "mystery" : {
+  "circumst" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 47
+  },
+  "remain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 48
+  },
+  "welfar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "importun" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "disinterested" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -17775,27 +5163,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "patched" : {
+  "infam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "supplying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "exchanged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "deserved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 4
   },
   "fainter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "unpleasantly" : {
+  "necessarili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "confidant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "sarcast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -17803,475 +5187,607 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "regrets" : {
+  "recommend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 28
+  },
+  "indemnifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "recommenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "default" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "unpleasantli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "silli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "unfavour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "rallied" : {
+  "obligingli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "triumph" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "horror" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "volubl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "black" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "liveri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "recommend" : {
+  "fulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "prodigious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "disturbers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "amused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "permitted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Sarah" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "obeyed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "expectations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "attribute" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "affliction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "protested" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "silly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "Reynolds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "strictures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "wilful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 5
   },
   "tour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 6
   },
-  "persuade" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "refinements" : {
+  "inflic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "stayed" : {
+  "such" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 386
   },
-  "absolute" : {
+  "remaind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 1
+  },
+  "principl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "gossip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "understood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 13
   },
-  "supported" : {
+  "dwelt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "oppos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "dimen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "openli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "innoc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "objections" : {
+  "dwell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
+    "value" : 9
+  },
+  "philip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "refin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "boast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
+    "value" : 14
   },
   "research" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "forgetting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "houses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "retaining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Engaged" : {
+  "undetermin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "imagine" : {
+  "white" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 26
+    "value" : 3
   },
-  "endeavours" : {
+  "acknowledg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 34
+  },
+  "counterpart" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "indistinctli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "imposs" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 44
   },
   "town" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 66
   },
-  "penance" : {
+  "whist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 5
   },
-  "indistinctly" : {
+  "examin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 13
+  },
+  "irrit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
   },
   "girl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 38
-  },
-  "yards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "engrossing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 83
   },
   "flutter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 5
   },
-  "surmise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "ignorance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "afflicting" : {
+  "superl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "affectionately" : {
+  "occupi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 9
+  },
+  "supersed" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "aloud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 11
   },
-  "designs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "hackneyed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "trifle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "involving" : {
+  "enemi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "Easter" : {
+  "physic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 2
+  },
+  "recreat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "next" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 40
   },
   "blind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 9
   },
-  "naturedly" : {
+  "nod" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "September" : {
+  "import" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 39
+  },
+  "submit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "metcalf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "intrude" : {
+  "feelingli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "nor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 65
+  },
+  "conclusion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "not" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1424
+  },
+  "doubtless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
+  },
+  "privileg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
   },
   "dropt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "tempered" : {
+  "now" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 206
   },
-  "statement" : {
+  "nearli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "trademark" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "fluentli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "rite" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "lofti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "ascii" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "Tuesday" : {
+  "wai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
+    "value" : 112
   },
-  "lived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "housemaids" : {
+  "rack" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "faintly" : {
+  "green" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "race" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
-  },
-  "thoughts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 25
   },
   "conquer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 3
   },
   "complexion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 7
   },
-  "fluently" : {
+  "war" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "battled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Five" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "pitiful" : {
+  "possessor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "detailed" : {
+  "faintli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "grew" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "what" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 480
+  },
+  "naturedli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "droop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "cassino" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "refer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "pemberlei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 53
   },
   "risk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 5
+  },
+  "window" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 22
   },
   "rise" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "flame" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "play" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "intoler" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "abruptli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "innocence" : {
+  "when" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "eligibility" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 375
   },
   "withheld" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "Undoubtedly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
   "modest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "hatred" : {
+  "plai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 26
+  },
+  "crush" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "endured" : {
+  "far" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 43
+  },
+  "quickli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "abruptly" : {
+  "fat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "electron" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 29
   },
   "proudest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "struggling" : {
+  "gould" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
   "catch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 5
   },
-  "promising" : {
+  "plan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 21
   },
-  "Daughters" : {
+  "exhibi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "proprieti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
   },
   "give" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 124
+    "value" : 161
   },
-  "lives" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "travellers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "depends" : {
+  "doubli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "probability" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "survived" : {
+  "obviou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "lofty" : {
+  "horrid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "lowest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "propriety" : {
+  "melan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 1
   },
   "explicit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "consequential" : {
+  "studi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  },
+  "vexat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "explicitli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "concealing" : {
+  "propens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Derbyshire" : {
+  "elat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
+    "value" : 1
   },
-  "determined" : {
+  "futur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 32
+    "value" : 18
   },
-  "ladies" : {
+  "everyth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 74
+    "value" : 43
   },
   "prevail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 19
   },
-  "apartments" : {
+  "suit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "allevi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
+  },
+  "denial" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
   },
   "implicit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "explicitly" : {
+  "netherfield" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 73
   },
-  "sentences" : {
+  "portion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "irish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "direct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 19
   },
-  "scheming" : {
+  "youngest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 13
   },
-  "undeserved" : {
+  "unworthi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 4
   },
-  "housekeeper" : {
+  "insupport" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "gain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 16
   },
-  "heartedness" : {
+  "engross" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "enabled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 7
   },
   "hardship" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
   "modern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "Without" : {
+  "mechan" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "web" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "wed" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
+  },
+  "physician" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "older" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "manoeuvr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "passag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "occasionally" : {
+  "deign" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "acknowledging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
   "shire" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 12
   },
-  "dishes" : {
+  "disput" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 4
   },
-  "eloping" : {
+  "wet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "porridge" : {
+  "great" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 144
+  },
+  "seminari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -18279,39 +5795,39 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 15
   },
-  "veneration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "incredulous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "songs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "condole" : {
+  "usag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "stockings" : {
+  "northward" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "rage" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "behold" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "beauteou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "heads" : {
+  "advanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 10
   },
-  "preside" : {
+  "certain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 51
   },
   "board" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "pursuing" : {
+  "whim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
@@ -18319,11 +5835,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "springing" : {
+  "arrest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "heretofore" : {
+  "bourgh" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 39
+  },
+  "fee" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "section" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "dawson" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -18331,39 +5859,51 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "constantly" : {
+  "circumspec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 2
   },
-  "letting" : {
+  "overflow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 2
   },
-  "awoke" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "marked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  },
-  "recital" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "visible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "irremediable" : {
+  "threaten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "borne" : {
+  "constantli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "grosvenor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "remembr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "rain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "recurring" : {
+  "desper" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "hunt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "dispos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 19
+  },
+  "eleg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 23
+  },
+  "rail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -18371,133 +5911,161 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "colds" : {
+  "archli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "stumbling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pleasing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 22
-  },
-  "solely" : {
+  "sunk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
+  },
+  "tranquil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "rais" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "thankfulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "market" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "effects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "indifferent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  },
-  "solemn" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "dictatorial" : {
+  "shill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "unworthy" : {
+  "effectu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
+  },
+  "keep" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 33
+  },
+  "elev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "effect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 21
+  },
+  "topic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "solemn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "embarrass" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  },
+  "who" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 243
+  },
+  "weigh" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "subjoin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "acute" : {
+  "game" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "why" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 53
+  },
+  "faith" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "remark" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 29
+  },
+  "strive" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "deserves" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "transpired" : {
+  "donor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "necessarily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "satirical" : {
+  "newbi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "rocks" : {
+  "wil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "win" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "wearisome" : {
+  "approb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 7
   },
-  "dialogue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "designed" : {
+  "breach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "breach" : {
+  "wit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  },
+  "discomposur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
   "regiment" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 22
-  },
-  "unblemished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "adhering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
   "shine" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "thanking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
   "surpass" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "dawdled" : {
+  "overpow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "contained" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 5
   },
   "aloof" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "Lewis" : {
+  "archiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 13
   },
-  "approached" : {
+  "visit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 67
+  },
+  "approv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "confus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   },
   "user" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -18505,19 +6073,63 @@
   },
   "unfold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "extent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "confid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 18
+  },
+  "unavoid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "rant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "inhabitants" : {
+  "parent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "proxi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "extenu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "hearten" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "familiarli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "extens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "unwil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "corrup" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "indol" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "conciliatory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
   "bring" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
+    "value" : 31
   },
   "hearted" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -18527,95 +6139,231 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "promoted" : {
+  "fond" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  },
+  "sauci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "forbore" : {
+  "fit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "venison" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "gentl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "unsettl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "hush" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "fix" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 28
+  },
+  "conciliatori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "honest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "rank" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "rang" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   },
   "neglect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
+    "value" : 15
   },
-  "saucy" : {
+  "addition" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  },
+  "despit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "promoting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "impenetrably" : {
+  "ductil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "turning" : {
+  "despis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
+    "value" : 9
+  },
+  "eclips" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "sure" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 105
+  },
+  "ad" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 76
+  },
+  "grow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "shrink" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "ag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  },
+  "ah" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "peach" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "elig" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "ak" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "an" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 360
+  },
+  "ashworth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "extend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "ar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 337
+  },
+  "fold" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "as" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1146
+  },
+  "at" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 798
+  },
+  "constitut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "aw" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
   },
   "foretold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "peace" : {
+  "ay" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 6
   },
-  "consideration" : {
+  "luckili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
+    "value" : 4
+  },
+  "blenheim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "brother" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 77
+    "value" : 81
+  },
+  "hurt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "frank" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "prove" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 26
+  },
+  "be" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 763
   },
   "upstart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "disclaimed" : {
+  "insignific" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 4
   },
-  "lawfully" : {
+  "discharg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 7
   },
-  "suitableness" : {
+  "chambermaid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "verdure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "correspondents" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
   "profusion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "reluctance" : {
+  "virtu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 10
+  },
+  "despic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "search" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "sudden" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "fool" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "communications" : {
+  "by" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 656
   },
-  "furnished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "deranged" : {
+  "groundwork" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -18623,103 +6371,203 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "scarcely" : {
+  "binglei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 43
+    "value" : 311
   },
-  "disclaimer" : {
+  "foot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 3
   },
-  "humanity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "lurking" : {
+  "spaciou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "intimaci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
   },
   "ceaseless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "adieus" : {
+  "incredul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 6
+  },
+  "connubi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "uncivil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "acknowledgments" : {
+  "familiar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 5
   },
-  "alternate" : {
+  "freeli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 8
   },
-  "lasted" : {
+  "unprofit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 1
+  },
+  "food" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "figur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
   },
   "survivor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Thursday" : {
+  "renam" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "fly" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "withdrew" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "partner" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 20
+  },
+  "confin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "lawfulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "unfit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "interview" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "salut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "essential" : {
+  "gape" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "closur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "formid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "scarc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 46
+  },
+  "unwel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
+  "de" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 39
+  },
+  "justif" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "brittl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
   "vent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 3
+  },
+  "di" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   },
   "haunt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "stairs" : {
+  "admitt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
+    "value" : 1
   },
-  "duplicity" : {
+  "assidu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "lightness" : {
+  "forc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 29
+  },
+  "do" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 392
+  },
+  "woe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "chaise" : {
+  "justic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
+    "value" : 15
   },
-  "presumed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "girls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 44
-  },
-  "oppressively" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "commissioned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "accounted" : {
+  "dr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "exclude" : {
+  "furnish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "kent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
+  },
+  "bequest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "dy" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "unwelcom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "nichol" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "won" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "inclin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 33
+  },
+  "outliv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -18727,199 +6575,363 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 10
   },
-  "seduction" : {
+  "painfulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "perturb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "carolin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  },
+  "which" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 542
+  },
+  "deduct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "softened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "temptation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "oddly" : {
+  "unsubdu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "signific" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "oddli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "felic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 18
+  },
+  "carri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 18
+  },
+  "er" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "affirm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "integr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "mismanag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "never" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 203
+  },
+  "ey" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 68
+  },
+  "affabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "activ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
   },
   "burst" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "carry" : {
+  "matrimoni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "arose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "necessity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
+    "value" : 7
   },
   "frame" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "mountains" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "distractedly" : {
+  "indic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "loveliness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "mistakes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "pursuits" : {
+  "unfrequ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "origin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "for" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1069
+  },
+  "exclud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "unlucki" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
   },
   "mistaken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 21
   },
+  "content" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  },
+  "dine" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 43
+  },
+  "distractedli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
   "brightest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
+  "rate" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
   "sanction" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
-  "intently" : {
+  "skill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 3
   },
-  "unsubdued" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "confirms" : {
+  "oak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "trouble" : {
+  "accid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
+    "value" : 6
   },
   "proverb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
+  "proprietor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
   "class" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "reporting" : {
+  "spanish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "attended" : {
+  "justli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
+    "value" : 3
   },
-  "employments" : {
+  "thwart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 1
   },
-  "counteracted" : {
+  "surmis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "elop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "go" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  },
+  "deport" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "contrari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "treasur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "counten" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 30
+  },
+  "preciou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "management" : {
+  "arous" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 1
+  },
+  "rash" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "form" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 39
+  },
+  "clark" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "publish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "unlucky" : {
+  "ha" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
+    "value" : 190
   },
-  "counted" : {
+  "restor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "renew" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  },
+  "gate" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "he" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1328
+  },
+  "withdraw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
-  },
-  "correspondent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "presents" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
   },
   "promotion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "practice" : {
+  "hi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 1250
+  },
+  "feather" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "beheld" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "delayed" : {
+  "agoni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 2
   },
-  "amusements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "transcribe" : {
+  "vers" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "agony" : {
+  "altogeth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "easili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 28
+  },
+  "degre" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 24
+  },
+  "ventur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
+  },
+  "unmark" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "DEAREST" : {
+  "foul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "bitterness" : {
+  "veri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 457
+  },
+  "william" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 46
+  },
+  "four" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  },
+  "if" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 366
+  },
+  "french" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "burnt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "encouraging" : {
+  "talker" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "liveli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "dispatched" : {
+  "extravag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 8
+  },
+  "in" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1930
   },
   "lower" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "savours" : {
+  "termin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "ir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Reflection" : {
+  "is" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 877
   },
-  "dictated" : {
+  "it" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1658
+  },
+  "imperfec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -18927,119 +6939,135 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "dictates" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Plain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "acted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "cheeks" : {
+  "surviv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "continuing" : {
+  "contrast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 4
   },
-  "escaping" : {
+  "gave" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 54
+  },
+  "constern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "turned" : {
+  "indel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 43
+    "value" : 1
   },
-  "solicitude" : {
+  "condescendingli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 1
   },
-  "May" : {
+  "sanguin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 2
   },
-  "library" : {
+  "librari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 24
+  },
+  "unfelt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "believ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 130
+  },
+  "sadli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "footman" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "sphere" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "windings" : {
+  "meantim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "dependence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "flirting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "exuberant" : {
+  "elud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "remembrance" : {
+  "fordyc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "belief" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  },
+  "delight" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 70
+  },
+  "acced" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "sadly" : {
+  "knew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 58
+  },
+  "profligaci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "draw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 28
   },
-  "penitent" : {
+  "knee" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "wandering" : {
+  "la" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "revolving" : {
+  "tendenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "misunderstood" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "li" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "generally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
-  },
-  "encroaching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "paining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "complete" : {
+  "fun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 8
   },
-  "Probably" : {
+  "conscious" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "ll" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "rationally" : {
+  "inquir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 23
+  },
+  "receiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 118
   },
   "bribe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pools" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -19047,41 +7075,121 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "mischievously" : {
+  "while" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 76
+  },
+  "ly" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "edge" : {
+  "coax" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "second" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 22
+  },
+  "triumphantli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "Boulanger" : {
+  "dilatori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "that" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1543
+  },
+  "magistr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "claim" : {
+  "ma" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "licenti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "conclud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  },
+  "www" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 6
   },
-  "Morris" : {
+  "limit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "claim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  },
+  "glaze" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "repulsive" : {
+  "outdat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "months" : {
+  "denomin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
+    "value" : 1
   },
-  "Updated" : {
+  "brighton" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 24
+  },
+  "fasten" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "perfec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "impudence" : {
+  "mr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1129
+  },
+  "author" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "geniu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "dirt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "artfulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "survei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "courteou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "liveliest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
+  },
+  "my" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 719
   },
   "chosen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -19089,9 +7197,9 @@
   },
   "coat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 5
   },
-  "headquarters" : {
+  "disk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -19099,57 +7207,129 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 20
   },
-  "magistrate" : {
+  "legaci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "survey" : {
+  "dish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "precipit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "gaze" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "malice" : {
+  "scarborough" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "abundantli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "updat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "termed" : {
+  "ineffectu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "ingratitud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "malici" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "bride" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "favourable" : {
+  "no" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
+    "value" : 489
   },
-  "draughts" : {
+  "involuntarili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "abundantly" : {
+  "incessantli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "code" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "bridg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "irreligious" : {
+  "head" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 34
+  },
+  "missent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "haggerston" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "vindic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "apologis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "charit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "preparations" : {
+  "of" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 3727
   },
-  "considerable" : {
+  "heal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
+    "value" : 1
   },
-  "favourably" : {
+  "bromlei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "oh" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 96
   },
   "subsist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "prodigi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "possibl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 70
+  },
+  "doorwai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "hear" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 97
   },
   "friendlier" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -19157,97 +7337,137 @@
   },
   "fight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 3
   },
-  "pretty" : {
+  "on" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
+    "value" : 995
   },
-  "recover" : {
+  "purpos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 26
+  },
+  "or" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 189
+  },
+  "frisk" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "ow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 18
+  },
+  "complianc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 6
   },
-  "determine" : {
+  "encod" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
+    "value" : 1
   },
-  "considerably" : {
+  "cousin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 60
+  },
+  "confes" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "Lucas" : {
+  "confer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 70
+    "value" : 4
   },
-  "voluntarily" : {
+  "whilst" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 4
   },
   "drew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 19
   },
-  "Christian" : {
+  "pretti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 24
+  },
+  "equip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "pg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "nobl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "pi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "solitari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "voluntarili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
   },
   "eclat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "remarks" : {
+  "whichev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 2
   },
-  "amounting" : {
+  "salad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "fretfully" : {
+  "interpos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
   },
-  "apologise" : {
+  "splendid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 4
   },
-  "promised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
-  },
-  "evidently" : {
+  "digniti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "expedient" : {
+  "falsehood" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "scarlet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "States" : {
+  "clever" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
+    "value" : 7
   },
-  "speaking" : {
+  "damag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 33
+    "value" : 7
   },
-  "Remember" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "promises" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "breaking" : {
+  "concurr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "proposal" : {
+  "recent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
+    "value" : 5
   },
-  "nods" : {
+  "equipag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "vener" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -19255,139 +7475,255 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "settled" : {
+  "varieti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 48
+    "value" : 9
   },
-  "recreation" : {
+  "attornei" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
-  "Rosings" : {
+  "then" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 49
+    "value" : 174
   },
   "ancient" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "twelve" : {
+  "thei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 603
+  },
+  "seat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 23
+  },
+  "indiffer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 33
+  },
+  "includ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 18
+  },
+  "mixtur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "readili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  },
+  "adopt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "starting" : {
+  "wander" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "destruct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "device" : {
+  "guardianship" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
-  "checking" : {
+  "fretfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "precluding" : {
+  "singular" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "opposi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "minut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 50
+  },
+  "mistrust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "conference" : {
+  "cautiou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "activity" : {
+  "expres" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 34
   },
-  "Jones" : {
+  "seek" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 15
+  },
+  "oppress" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "se" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 53
   },
   "fresher" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "variety" : {
+  "entreati" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 11
+  },
+  "pavem" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "piquet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "dilig" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "disturb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "nightcap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "persist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 6
   },
-  "insolence" : {
+  "so" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 571
+  },
+  "unqualifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "caution" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "email" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "incurred" : {
+  "apart" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "st" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "gratitud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 24
+  },
+  "intern" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "decision" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "cents" : {
+  "onc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 37
+  },
+  "conniv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "connected" : {
+  "closet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
+    "value" : 1
+  },
+  "interv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "adorn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "closer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "hedg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "pledg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "pull" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "crowned" : {
+  "enforc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Words" : {
+  "ti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "remov" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 32
   },
   "acquaint" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "buying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "muslins" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 90
   },
   "assist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 28
   },
-  "materially" : {
+  "tm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 57
   },
-  "attained" : {
+  "to" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4211
+  },
+  "interf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "acquiescence" : {
+  "joint" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "chatsworth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "phillips" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "country" : {
+  "willing" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 43
+    "value" : 3
   },
-  "exporting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "excellence" : {
+  "dialogu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
@@ -19395,35 +7731,31 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "powdering" : {
+  "thoughtless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 6
   },
-  "oaks" : {
+  "satisfactori" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 7
   },
-  "sincerity" : {
+  "condescen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 7
   },
-  "excellency" : {
+  "supposi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 5
   },
-  "amazing" : {
+  "countri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 44
   },
-  "regularly" : {
+  "nois" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
-  "Cheapside" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "trimming" : {
+  "dale" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -19431,101 +7763,77 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "satisfactory" : {
+  "us" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 19
   },
-  "quarreled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "conscientious" : {
+  "ut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Another" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "treated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "smiling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "praised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "authoritative" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "ensure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "emotions" : {
+  "regularli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "vouchsafed" : {
+  "usual" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 40
   },
-  "entreaty" : {
+  "exclam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 5
   },
-  "DAMAGES" : {
+  "thin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 5
   },
-  "suppose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 48
-  },
-  "infliction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "NOT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "praises" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "support" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "deceive" : {
+  "undeserv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "drop" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "consoling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "cold" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "learning" : {
+  "archbishop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Anonymous" : {
+  "extract" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
+  },
+  "unequ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "harriet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "pleasantri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "know" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 249
+  },
+  "support" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  },
+  "drop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "unaffect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "cold" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 19
+  },
+  "wa" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1029
   },
   "pure" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -19535,63 +7843,107 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 57
   },
-  "expects" : {
+  "we" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 262
+  },
+  "gai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "damp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "curtseyed" : {
+  "unchang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "lies" : {
+  "licenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "heir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "apologising" : {
+  "danc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 75
   },
-  "Whenever" : {
+  "settlem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "willingli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   },
   "lieu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "cases" : {
+  "choic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 15
+  },
+  "decamp" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "brighten" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "argum" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "slight" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 21
   },
   "wide" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 8
+  },
+  "previous" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "licens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
   },
   "org" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 13
   },
-  "Thoughtlessness" : {
+  "rever" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "storing" : {
+  "teach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 7
   },
-  "superior" : {
+  "distribut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 18
   },
-  "conversed" : {
+  "forev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "superior" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 19
   },
   "succeed" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "deeper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
@@ -19599,335 +7951,455 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "proportions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "moralize" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unconsciously" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
   "retort" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
+  "sourc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
   "torment" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "held" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "deepli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "none" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "competition" : {
+  "ye" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 76
+  },
+  "liverpool" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "type" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "beyond" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 29
+  },
+  "april" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "problem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "arranging" : {
+  "hazard" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "proof" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "fastidi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "depressed" : {
+  "laurel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "voluntary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "connection" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 20
-  },
-  "presence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "seized" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
   },
   "method" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 7
   },
-  "mildness" : {
+  "outdon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
   },
   "wife" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 47
   },
-  "conjectured" : {
+  "unconsci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 3
   },
-  "Surprise" : {
+  "contract" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "voluntari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "come" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 165
+  },
+  "eyelash" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Care" : {
+  "befriend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "exist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 10
   },
-  "conjectures" : {
+  "purs" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 2
+  },
+  "seiz" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   },
   "parlour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 11
   },
+  "exact" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
   "lift" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "undecid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "regist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "feder" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "cops" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "peculiarity" : {
+  "educ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 15
   },
-  "Those" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "mortifying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "sensibly" : {
+  "gratul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "befriended" : {
+  "south" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "distribution" : {
+  "north" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 7
   },
-  "ACTUAL" : {
+  "copi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 26
+  },
+  "lastli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Mrs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 343
-  },
-  "capacity" : {
+  "scrupul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "our" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 52
   },
   "confess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
+    "value" : 20
   },
-  "More" : {
+  "dart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
   },
   "noon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "drooping" : {
+  "bitterli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "induc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
   },
   "dark" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "witty" : {
+  "salli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "darl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "copy" : {
+  "accus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
+    "value" : 11
+  },
+  "sensibli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "power" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 51
+  },
+  "accur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "dare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 40
+    "value" : 55
+  },
+  "asser" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
   },
   "cook" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "reviv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
   },
   "cool" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "obstinacy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "amazes" : {
+  "sell" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "mentioning" : {
+  "witti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 1
   },
-  "contrive" : {
+  "militari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "suspect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  },
+  "brain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "amazed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "polluted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "firmness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "lastly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "owe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "insulting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "roses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "vindication" : {
+  "readabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "date" : {
+  "pleasantli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
+  },
+  "obstinaci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "prone" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "sportiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "fitzwilliam" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 37
+  },
+  "date" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "dress" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 21
+  },
+  "blot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "whatsoev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "tuesdai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "discompos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "reveal" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "corp" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
   },
   "data" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "rightful" : {
+  "sound" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "own" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 156
+  },
+  "unacquaint" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Most" : {
+  "separ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 20
   },
-  "Excellent" : {
+  "breviti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "King" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "Certain" : {
+  "bewild" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "distributing" : {
+  "neglig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 3
   },
-  "consequences" : {
+  "circl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "boulang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
-  },
-  "avoiding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
   },
   "blow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "development" : {
+  "embrac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 4
   },
-  "bitterly" : {
+  "replac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 6
   },
-  "asserted" : {
+  "sens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 40
   },
-  "resource" : {
+  "proud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 22
   },
-  "efforts" : {
+  "like" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 152
   },
-  "proposed" : {
+  "judgem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "dazzling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "hills" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 11
   },
   "ground" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
+    "value" : 17
   },
   "visitor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
+    "value" : 25
   },
-  "Both" : {
+  "send" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 28
   },
-  "sagacity" : {
+  "here" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 67
   },
   "note" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 9
   },
-  "hearty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "line" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "riding" : {
+  "gig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "recovery" : {
+  "regret" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 25
   },
-  "conveyed" : {
+  "line" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  },
+  "noth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 178
+  },
+  "link" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "scale" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "misrepres" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "kinder" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "everybodi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 37
+  },
+  "surmount" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "purport" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "hearti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
@@ -19935,297 +8407,297 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "affairs" : {
+  "station" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 5
+  },
+  "recoveri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "inmat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "nose" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
+  "emin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
   "cost" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 10
   },
-  "refreshment" : {
+  "sept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 1
   },
   "warmest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "confidence" : {
+  "will" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
+    "value" : 386
   },
-  "fishing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "allowing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "bordering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "tempers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "compliance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "assured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 28
-  },
-  "challenge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dignity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "roasted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "locations" : {
+  "barbar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
+  },
+  "firmest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "follow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 63
+  },
+  "intent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "connec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 38
+  },
+  "york" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "harmless" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "intend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 31
   },
   "wild" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 11
   },
-  "perverseness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "overflowing" : {
+  "ultim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "govern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "enlarg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "explanation" : {
+  "your" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 480
+  },
+  "hurri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 24
+  },
+  "youth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 10
   },
-  "begins" : {
+  "without" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 134
+  },
+  "these" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 65
+  },
+  "stratagem" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "impuls" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "nominally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "contributions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unsocial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "essentials" : {
+  "afflict" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "calculate" : {
+  "squeamish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
   },
   "sister" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 218
+    "value" : 294
   },
-  "Consider" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "thoughtfulness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "fashionable" : {
+  "involuntari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "apparent" : {
+  "sometim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 29
+  },
+  "serv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "exposure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "wink" : {
+  "intellectu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "seizing" : {
+  "pompou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "reluct" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "possess" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "covi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "befor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 180
+  },
+  "wink" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   },
   "wine" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
+  "much" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 266
+  },
   "wind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "chapter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 61
+  },
+  "harbour" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
-  },
-  "revived" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "presumption" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "humble" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "folly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
   },
   "flight" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "carriage" : {
+  "engag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 44
+    "value" : 81
   },
-  "airs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "independent" : {
+  "concili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "concluded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "talking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 39
-  },
-  "afflicted" : {
+  "dispirit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "arrived" : {
+  "durat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "folli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 15
   },
-  "economically" : {
+  "expedit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "miseri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
   },
   "fervent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "borrowed" : {
+  "pervers" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "remors" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Westerham" : {
+  "sharpen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "unworthili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "licensed" : {
+  "enorm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "cows" : {
+  "union" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 4
   },
   "deaden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "faced" : {
+  "convic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "plentiful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "lips" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "impartial" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 16
   },
   "blue" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "speaks" : {
+  "arch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 2
   },
-  "days" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 34
-  },
-  "disguise" : {
+  "god" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "faces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "undone" : {
+  "novel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "discuss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "liberal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "acceptable" : {
+  "correct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 2
   },
-  "harmony" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Austen" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "belonging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "incredulity" : {
+  "reader" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
+  },
+  "ladi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 265
+  },
+  "gracefulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "wish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 186
   },
   "luckiest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -20233,37 +8705,45 @@
   },
   "wise" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 9
   },
-  "exceed" : {
+  "ambition" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "patronage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "conversation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 61
-  },
-  "Unless" : {
+  "wherev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "vicious" : {
+  "exceed" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "pai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 18
+  },
+  "obstin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "gamest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "invitation" : {
+  "controvert" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 34
+    "value" : 1
   },
-  "pay" : {
+  "lace" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
+    "value" : 1
   },
-  "revival" : {
+  "backgammon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "clearer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -20271,139 +8751,123 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "strange" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "rivals" : {
+  "tediou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "inquired" : {
+  "forster" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 40
   },
-  "About" : {
+  "success" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 23
   },
-  "Dear" : {
+  "unacknowledg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 1
   },
-  "spending" : {
+  "evad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "circumstance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 19
-  },
-  "sinking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "claims" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "scenes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "salutation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "creature" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
+    "value" : 1
   },
   "child" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 14
   },
-  "mismanagement" : {
+  "secreci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 10
   },
-  "divided" : {
+  "young" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 134
   },
-  "detaining" : {
+  "contribu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "instrument" : {
+  "instabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
+    "value" : 1
   },
   "medium" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "fingering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "remove" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
   "wisdom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "outstrip" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "secrecy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "confinement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "treasure" : {
+  "obsequi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "ridge" : {
+  "outstrip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "multitud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "determin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 51
+  },
+  "forlorn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "fairest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "live" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
+    "value" : 79
   },
-  "ventured" : {
+  "perforc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "minutest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "unawar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "peac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 7
   },
-  "wits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "victory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
   "perform" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 26
   },
-  "quarreling" : {
+  "magnitud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
   },
-  "Allow" : {
+  "peak" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "portrait" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "occurring" : {
+  "fortitud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "with" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1068
+  },
+  "argu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
@@ -20411,79 +8875,95 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "service" : {
+  "complaint" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 5
   },
-  "coffee" : {
+  "there" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 339
+  },
+  "victori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "folio" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "hopeless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 7
   },
-  "cheerfulness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "Bingley" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 305
-  },
-  "Nay" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "License" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "affords" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "milliner" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "uncles" : {
+  "pocket" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "concise" : {
+  "unhappi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 15
   },
-  "pen" : {
+  "strongli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "desir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 49
+  },
+  "penetr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "revive" : {
+  "approach" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 26
+  },
+  "genteel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "pen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "avenu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "ceased" : {
+  "ordain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 1
   },
-  "Bromley" : {
+  "disagr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "write" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 56
+  },
+  "sneer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "harshli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "period" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
+    "value" : 17
   },
   "proceed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 17
   },
-  "impertinent" : {
+  "understand" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 52
   },
-  "offenses" : {
+  "disrespect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
@@ -20491,91 +8971,107 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "confirmation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "misused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "slowly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "singling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unwelcome" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "tanned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "assisted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "imaginations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "loving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "uniting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Elizabeth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 635
-  },
-  "meetings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "assumed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "vacancy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "eBook" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "engaged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 37
-  },
-  "doubted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "vulgarity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "kinds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "injured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "disgusted" : {
+  "dismiss" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "indicating" : {
+  "heaven" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
+  },
+  "ever" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "draught" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "even" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 164
+  },
+  "vivac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "aris" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
+  },
+  "wive" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "despair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "larger" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "waiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "wait" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 34
+  },
+  "intrud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "circuit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "institut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "irregular" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "entitl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "kindr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "articl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "kindl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "entiti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "mondai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "instant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "vogu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "accordingli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "porridg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -20583,27 +9079,43 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Among" : {
+  "unembarrass" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "insincer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "slowli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "hitherto" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "handkerchief" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Books" : {
+  "laid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "violence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "attributed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 8
   },
   "bought" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "apprehended" : {
+  "excus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 20
+  },
+  "charact" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 68
+  },
+  "harmoni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -20611,47 +9123,71 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "requiring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "sermons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "ineffectual" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
   "mirth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "retains" : {
+  "instanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 11
   },
-  "burying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "asperity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "imposed" : {
+  "tide" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "manner" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 98
-  },
-  "foresee" : {
+  "prohibit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "earthly" : {
+  "fundrais" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "obei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "steward" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "almost" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 49
+  },
+  "chariti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "manner" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 143
+  },
+  "motiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 24
+  },
+  "quietli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "deser" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "pig" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "wake" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "earlier" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "rejoin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -20663,95 +9199,179 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "coquetry" : {
+  "hereabout" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "unabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
+  },
+  "whether" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 22
+  },
+  "rejoic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 20
+  },
+  "headstrong" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "stock" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "objec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 26
+  },
+  "earthli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "suspend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
-  "sloping" : {
+  "armi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "beneath" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "evid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 23
+  },
+  "void" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "voic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 22
+  },
+  "transpir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Three" : {
+  "verac" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "tempt" : {
+  "reconcili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "absolut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 22
+  },
+  "carter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
+  "tempt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "annum" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "temptat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
   "evil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
+    "value" : 22
+  },
+  "lake" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
   },
   "seclusion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "rising" : {
+  "headach" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 2
+  },
+  "perplex" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "fruit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "extorted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "despise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
+  },
+  "busi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 48
+  },
+  "accost" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "fridai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "combat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "grievous" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 1
   },
-  "agitated" : {
+  "bennet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 333
   },
   "vulgar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "intended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
+    "value" : 3
   },
   "design" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
+    "value" : 32
   },
-  "attending" : {
+  "suspens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
+    "value" : 6
   },
-  "explanations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "kindred" : {
+  "identif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "land" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "victim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Through" : {
+  "lane" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "qualif" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "burn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "extractions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "allude" : {
+  "buri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -20759,23 +9379,39 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "penetration" : {
+  "chief" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  },
+  "audibl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "convei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "accord" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "chief" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "liberties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
   "forfeit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "unluckili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "italian" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "satisfying" : {
+  "procur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "coquetri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -20783,599 +9419,619 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "burning" : {
+  "confidenti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "English" : {
+  "conduct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 25
   },
-  "obey" : {
+  "solicitud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 8
   },
-  "encamped" : {
+  "aros" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "interested" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 5
   },
   "triumphant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "renamed" : {
+  "walk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 125
   },
-  "WILLIAM" : {
+  "disclos" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "joints" : {
+  "liberti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 8
   },
-  "liberty" : {
+  "lessen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 6
   },
   "snug" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Thank" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "meeting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 22
-  },
-  "confidential" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "displayed" : {
+  "onlin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "unpretending" : {
+  "undiminish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "wickedness" : {
+  "coffe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 7
   },
-  "disinclination" : {
+  "yesterdai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 13
+  },
+  "mankind" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "began" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 59
   },
-  "exerted" : {
+  "want" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 83
   },
-  "steadfastly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "repentance" : {
+  "realiti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Project" : {
+  "instrum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 83
+    "value" : 11
+  },
+  "offens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
   },
   "foresaw" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "comparisons" : {
+  "marri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 126
+  },
+  "unnecessarili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
+  "creditor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "must" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 82
+  },
   "offend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  },
+  "offenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "resign" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "steadfastli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "commendation" : {
+  "detec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 2
   },
-  "actions" : {
+  "defianc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 3
   },
   "nobler" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Would" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "giving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 25
-  },
-  "objectionable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "scrutiny" : {
+  "unshackl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "facts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pens" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "excuse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "mornings" : {
+  "ward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "sanctioned" : {
+  "infatu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "prize" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "escape" : {
+  "accident" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
+    "value" : 6
+  },
+  "found" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 72
+  },
+  "prais" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 26
+  },
+  "larg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 23
+  },
+  "unfeel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "anoth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 54
+  },
+  "scrutini" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "advantag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 46
   },
   "latest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "receive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 31
-  },
-  "Really" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "implied" : {
+  "etiquett" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "consulting" : {
+  "refresh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 7
   },
-  "correspondence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "dispositions" : {
+  "pressingli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "declaration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "Birmingham" : {
+  "prognost" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Intimate" : {
+  "charg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 16
   },
-  "standing" : {
+  "cruelti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
+    "value" : 4
   },
-  "ceremonies" : {
+  "charm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 30
   },
-  "philosophic" : {
+  "charl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "prosperous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "implies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "feelings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 86
+    "value" : 7
   },
   "calico" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
+  "till" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 93
+  },
   "friendship" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 9
   },
-  "unknowingly" : {
+  "attend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 45
   },
-  "Anything" : {
+  "eliza" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 22
   },
-  "mischance" : {
+  "had" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 1111
   },
-  "subsided" : {
+  "prepar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 27
   },
-  "placing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "disappointed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "continue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "mediocrity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "interpose" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pressingly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "beauteous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "clerical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "offers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "pronounced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "flattered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "insufficient" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "uncomfortable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "secrets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Nor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "Not" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 29
-  },
-  "guilty" : {
+  "immov" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "Now" : {
+  "antagonist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "redistribut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "late" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 31
+  },
+  "adventur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "ham" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "school" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "immor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "newcom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "hat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "incred" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "wast" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "rambl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "encroach" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "hay" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "guilti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "last" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 126
+  },
+  "adapt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "weight" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "loveliest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "courag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 12
   },
-  "playing" : {
+  "unaccount" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "warn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "warm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 6
+  },
+  "nomin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "attent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
   },
   "receipt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "coaxed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "employees" : {
+  "scotch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "alighted" : {
+  "effort" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 12
   },
-  "complaining" : {
+  "prudenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 4
   },
   "trespass" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "condescends" : {
+  "steadi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
+  },
+  "wave" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "heavens" : {
+  "instruc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 5
+  },
+  "stronger" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
   },
   "prudent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "quieter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "yet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 50
+  },
+  "exult" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "earli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 28
+  },
+  "chanc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 20
+  },
+  "colour" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 21
+  },
+  "dictat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "retired" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "overcame" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "assembled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "attentions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 26
-  },
-  "forgetfulness" : {
+  "unknowingli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "gravely" : {
+  "chang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 37
   },
-  "steadiness" : {
+  "terrif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "windows" : {
+  "time" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "genius" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Grosvenor" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "heinous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 224
   },
   "embargo" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "unquestionably" : {
+  "puf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "forming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "striving" : {
+  "pratt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "desertion" : {
+  "circul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 4
   },
-  "circles" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "continually" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "misleads" : {
+  "percept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "put" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 30
+    "value" : 36
   },
-  "assents" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "freckled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Special" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "turnpike" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "struggle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "meets" : {
+  "inspec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "Militia" : {
+  "her" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2230
+  },
+  "deletion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "sixpenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "lesson" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "infamy" : {
+  "congeni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 1
   },
-  "impertinence" : {
+  "slope" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 1
   },
-  "infancy" : {
+  "persuad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 43
   },
   "junior" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "eyelashes" : {
+  "dissembl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
-  },
-  "discharging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
   },
   "light" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
+    "value" : 20
   },
-  "apparently" : {
+  "happi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 155
   },
-  "impute" : {
+  "stanza" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "valuable" : {
+  "sagac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "philosophi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "lawn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "judg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 22
+  },
+  "infanc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "condol" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "tabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 41
+  },
+  "stubborn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "januari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "smart" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "alien" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "repeatedli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 9
   },
-  "satisfactions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "conditionally" : {
+  "theatr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "methods" : {
+  "infami" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Calling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "gowns" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "enraged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "ornament" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "cautiousness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "consenting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 4
   },
   "grown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "Fixed" : {
+  "tire" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 5
   },
   "henceforth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "disclosure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "desire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 23
-  },
-  "unintelligible" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "suffers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "decked" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "disgrace" : {
+  "chais" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 11
+  },
+  "murmur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "chair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "improprieti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "unforgiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "struggl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
   },
   "grove" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "permanent" : {
+  "garden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 14
   },
-  "organized" : {
+  "travel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 11
   },
-  "choice" : {
+  "small" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
+    "value" : 25
   },
-  "facility" : {
+  "gallant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -21383,57 +10039,49 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "imputed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "cucumber" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "replace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "appointment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
   "listen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
+    "value" : 46
   },
-  "wondering" : {
+  "conscienti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "unworthily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "answering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "companions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
   "interrupt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 16
+  },
+  "beat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "spiritless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "unassuming" : {
+  "bear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 29
+  },
+  "titl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "consider" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 29
+  },
+  "inspir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
   },
   "flatter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
+    "value" : 21
+  },
+  "prepossess" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "proofread" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -21441,277 +10089,373 @@
   },
   "group" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 4
+  },
+  "tith" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "gross" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "untinctured" : {
+  "employe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "resist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "tree" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
   },
   "disarm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "thwarted" : {
+  "unnatur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
+  },
+  "careless" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "twice" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
   },
   "distrust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 3
   },
-  "hurts" : {
+  "cultiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "absolutely" : {
+  "counteract" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "KIND" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
   "sleepless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "deserted" : {
+  "histori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "exchang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "stratagems" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "novels" : {
+  "sustain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "request" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
+    "value" : 18
   },
-  "composure" : {
+  "their" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
+    "value" : 439
   },
-  "fidgets" : {
+  "meryton" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 57
+  },
+  "novemb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "allusion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "fidgeti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "point" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 60
   },
   "thirteen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "grieved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "general" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 49
-  },
   "mistook" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "frighted" : {
+  "unenforc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "induced" : {
+  "hurst" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "discontinuance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 34
   },
   "frighten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 8
   },
-  "Chatsworth" : {
+  "compens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "applying" : {
+  "facil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 1
   },
   "process" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "requirements" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "philosopher" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "clear" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "encounter" : {
+  "acquiesc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "disinclined" : {
+  "bottl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "attribut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "clear" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "uneasi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  },
+  "seclud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "LYDIA" : {
+  "luckless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "mean" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 108
+  },
+  "neither" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 29
   },
   "glad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 37
   },
-  "hurry" : {
+  "meat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "fidgety" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 4
   },
   "account" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 38
+    "value" : 46
   },
-  "uneasy" : {
+  "gardin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 103
   },
-  "easiness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "undoubted" : {
+  "truest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "innocent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "diligence" : {
+  "unquestion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "vivacity" : {
+  "exuber" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
+  },
+  "dawdl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "prefac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "trim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "hunting" : {
+  "nervou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "strict" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "knowledge" : {
+  "you" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 20
+    "value" : 1428
+  },
+  "jump" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "soft" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "miniatur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   },
   "happen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
+    "value" : 40
   },
-  "sixpence" : {
+  "sofa" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "venture" : {
+  "perceiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 23
   },
-  "meditated" : {
+  "scrupl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "headquart" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "court" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "cours" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 50
+  },
+  "ralli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "Mississippi" : {
+  "entreat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 9
   },
   "discern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 6
   },
-  "route" : {
+  "dissuad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 2
   },
   "saloon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "quartered" : {
+  "abat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "juli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "preserv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
+  },
+  "affin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "reprehens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "wisely" : {
+  "organ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 1
+  },
+  "rectitud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "troubl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 22
   },
   "unwilling" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
+    "value" : 3
   },
   "pleasantest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "trusting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "bottle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "honourable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "procured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "Salt" : {
+  "meanest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "hearing" : {
+  "hot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
+    "value" : 3
   },
-  "consisted" : {
+  "corpor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "pursu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "how" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 235
+  },
+  "releas" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "wedding" : {
+  "unseldom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
+    "value" : 1
+  },
+  "regul" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   },
   "spare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 15
   },
-  "DEAR" : {
+  "fluctuat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 1
   },
-  "spars" : {
+  "gover" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "chin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "assembli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "nectarin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -21719,25 +10463,57 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "atonement" : {
+  "march" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "tells" : {
+  "charmingli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "blast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "appeals" : {
+  "nowadai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "overspreading" : {
+  "repel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "june" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "solitud" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "answer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 105
+  },
+  "meet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 58
+  },
+  "spasm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "purse" : {
+  "thursdai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 4
+  },
+  "disgrac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 19
+  },
+  "vaniti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 18
   },
   "glen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -21745,63 +10521,51 @@
   },
   "represent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 5
   },
-  "charmingly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "goodwill" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "sympathise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "inclined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "inconvenient" : {
+  "dispatch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "ASCII" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "wounding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "obsequiousness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "hold" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "modesty" : {
+  "modesti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 6
   },
+  "georgiana" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  },
+  "easter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "competi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "hold" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "scotland" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "convinc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 44
+  },
   "absurd" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "outdated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 8
   },
   "prior" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "Bennets" : {
+  "expostul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
+    "value" : 1
   },
   "trait" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -21809,117 +10573,177 @@
   },
   "talk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 32
+    "value" : 110
   },
   "tall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 8
   },
-  "serviceable" : {
+  "unprepar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "vanish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   },
   "train" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "commonly" : {
+  "tribut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "rapidity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "accompany" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "beneficial" : {
+  "richard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "undecided" : {
+  "ingenu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "accompani" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "probiti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "boasting" : {
+  "count" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "repli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 133
+  },
+  "transac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "vehem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "trifled" : {
+  "take" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 100
+  },
+  "horseback" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "commonli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "authorising" : {
+  "farmhous" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "blame" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 20
+  },
+  "octob" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "perhap" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 73
+  },
+  "affec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 62
+  },
+  "reckon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "confusion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "some" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 167
+  },
+  "upbraid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "landlord" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "additional" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "monosyllable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
   "commonest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Money" : {
+  "univers" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 7
   },
-  "tidings" : {
+  "reflec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 19
+  },
+  "abid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "passed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 61
-  },
-  "reception" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "quitting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "respects" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "International" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "owner" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "sole" : {
+  "austen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "darling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "remembering" : {
+  "ingeni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "comforted" : {
+  "soften" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "maria" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 20
+  },
+  "just" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
+  },
+  "divid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "owner" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "sole" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "coupl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "disoblig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "strictly" : {
+  "ensu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "ramsgat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "blowsi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -21927,293 +10751,337 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 66
   },
+  "michael" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
   "prettiest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "existing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
   "print" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "material" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "owned" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "Lakes" : {
+  "repin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 7
   },
-  "blowsy" : {
+  "wearisom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "peculiar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 7
   },
   "unshaken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Good" : {
+  "hug" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
+    "value" : 1
   },
-  "rites" : {
+  "strictli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "explain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 18
   },
-  "arguing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "answers" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "royalty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "hope" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 121
-  },
-  "paragraphs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "tables" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "sons" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "eloped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "anticipated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "assertions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "husbands" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "whimsical" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "song" : {
+  "visibl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "Human" : {
+  "hope" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 169
+  },
+  "artifici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "assembl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "soon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 163
+  },
+  "insuffer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "grievou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "bounti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "action" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "manifold" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "indulg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  },
+  "hypocrit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "song" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "creat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
   },
   "misconduct" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "unfrequently" : {
+  "newcastl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 4
   },
-  "studious" : {
+  "abil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "ridicule" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 6
   },
   "protest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
+  },
+  "forgav" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "bell" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
   },
   "vacant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "heavy" : {
+  "dissip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 1
   },
-  "detached" : {
+  "auster" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 1
   },
   "culprit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
+  "afford" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  },
+  "envi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "repos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "singl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  },
   "hardest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Hart" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "appease" : {
+  "quarrelsom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "disdained" : {
+  "notifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "disbeliev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "shield" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "irrevoc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "britain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "natur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 69
+  },
+  "diver" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "sings" : {
+  "dutifulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unpleasant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "improprieties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "conquered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
   "summer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 19
   },
-  "nerves" : {
+  "deriv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 9
   },
-  "trunks" : {
+  "smirk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
+  "plantat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "disadvantag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
   "file" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 4
+  },
+  "derbyshir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 24
+  },
+  "intrepid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "member" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "affirmative" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "actuated" : {
+  "nourish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "supplication" : {
+  "heavi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "vacanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "follies" : {
+  "independ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "within" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 37
+  },
+  "could" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 474
+  },
+  "strike" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "bent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
-  },
-  "Hate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
   },
   "health" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "gathered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "positive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "favourite" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 22
-  },
-  "atoned" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 20
   },
   "prospect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
+    "value" : 18
   },
-  "machine" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "evening" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 74
-  },
-  "return" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 52
-  },
-  "instance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "practically" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "laconic" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "serve" : {
+  "exercis" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "seats" : {
+  "explan" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 12
   },
-  "insensibility" : {
+  "dishearten" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "gaudi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "probabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 46
+  },
+  "cruelli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "royalti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "smile" : {
+  "mend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 29
+    "value" : 5
   },
-  "importing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Recovering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "confused" : {
+  "inconsist" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
+  },
+  "return" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 112
+  },
+  "nonsens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "hermitag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "british" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "reput" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "cough" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "smile" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 67
   },
   "fine" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -22221,39 +11089,51 @@
   },
   "find" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 57
+    "value" : 72
+  },
+  "adher" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "backward" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "selected" : {
+  "abod" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 8
   },
-  "downs" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Occupied" : {
+  "occup" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "filial" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "sooner" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
   },
   "pleasant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
+    "value" : 26
   },
   "occur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 22
   },
   "drove" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 11
   },
-  "Have" : {
+  "difficult" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 11
+  },
+  "vallei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   },
   "sort" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -22261,115 +11141,155 @@
   },
   "fill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
-  "hears" : {
+  "presenc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 6
   },
   "heart" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 45
+    "value" : 46
+  },
+  "petul" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "painter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "convenient" : {
+  "vestibul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "true" : {
+  "forget" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 22
+    "value" : 21
   },
-  "leaning" : {
+  "professor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "infer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "hors" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "true" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 26
+  },
+  "tast" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
   },
   "sore" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "valley" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 2
   },
   "position" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "racked" : {
+  "present" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 80
+  },
+  "curtail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "glow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 4
   },
   "laughter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "sentiment" : {
+  "curtain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 1
   },
   "soup" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
+  "belong" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
   "soul" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "Haye" : {
+  "mess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
-  },
-  "dangerous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "appears" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
   },
   "sour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "effectually" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "persevering" : {
+  "unexampl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
+  "sooth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "deprav" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "certainli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 67
+  },
+  "execut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
   "hour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 38
+    "value" : 65
+  },
+  "hous" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 111
+  },
+  "unvari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "heard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 86
   },
-  "experienced" : {
+  "strictur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 1
+  },
+  "extraordinari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
   },
   "discontented" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
   },
-  "falling" : {
+  "spokesman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 1
   },
-  "execution" : {
+  "hypocrisi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 1
   },
   "sought" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -22377,75 +11297,95 @@
   },
   "discredit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 3
   },
-  "extraordinary" : {
+  "master" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
+    "value" : 30
   },
-  "evident" : {
+  "domest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
+    "value" : 8
   },
-  "forbearing" : {
+  "mere" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 30
   },
-  "online" : {
+  "disagre" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "curiosities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 15
   },
   "writer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "writes" : {
+  "profess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 6
   },
-  "coming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 61
-  },
-  "Cambridge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "firm" : {
+  "envelop" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "coughing" : {
+  "cover" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "firm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "reflect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "ostentati" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
-  },
-  "ignorant" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
   },
   "fire" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 6
   },
-  "solidity" : {
+  "extort" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
+  },
+  "giddi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "uncontrol" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "immedi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 74
   },
   "distinguish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "indeci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "intention" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "dissatisfied" : {
+  "rude" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 5
+  },
+  "counterbal" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "symptom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 6
   },
   "haunch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -22455,43 +11395,79 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "processing" : {
+  "forgiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
+  },
+  "declar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 30
+  },
+  "plianci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Metcalf" : {
+  "except" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 28
   },
-  "inflicted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "superiority" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "jewel" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "One" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "Prejudice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "collecting" : {
+  "predomin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
+  "jumbl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "fact" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  },
+  "jewel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "unjustifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "fret" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "announc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "indebt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "abus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "saturdai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  },
   "adieu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 7
+  },
+  "unless" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  },
+  "resentfulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "excess" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  },
+  "christian" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
@@ -22499,15 +11475,19 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "wonderfully" : {
+  "free" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "honour" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 59
+  },
+  "worldli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "denoted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "accordance" : {
+  "wonderfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
@@ -22515,129 +11495,133 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Hertfordshire" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 41
-  },
-  "people" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 50
-  },
-  "designing" : {
+  "commerc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "repine" : {
+  "face" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 31
+  },
+  "arrog" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "weari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "afraid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 37
   },
   "fish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 9
   },
-  "intolerable" : {
+  "household" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 1
+  },
+  "befal" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "unweari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "whimsic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "rector" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "alarming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "obligations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "reputation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "consign" : {
+  "reanim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "tranquilly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "leaves" : {
+  "undervalu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "innocently" : {
+  "instinct" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "unattend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "needlessly" : {
+  "needlessli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "consign" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "shrug" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "restrain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 3
   },
-  "adjusting" : {
+  "awkward" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
+  },
+  "tranquilli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "chestnuts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "hesitated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "apologised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "admirable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "GARDINER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "sufferings" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "collection" : {
+  "ruin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 8
   },
-  "announced" : {
+  "five" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 15
+  },
+  "melancholi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "vanilla" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "repres" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "idl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "inatten" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "slept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "guessed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "yawning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Bingleys" : {
+  "guid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "loudly" : {
+  "intercours" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 6
   },
-  "reasons" : {
+  "arriv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 48
   },
   "rough" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -22647,331 +11631,419 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 135
   },
-  "begging" : {
+  "commerci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "detect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "rule" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "condemn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "everi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 191
+  },
+  "regim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 22
+  },
+  "canvass" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "derivative" : {
+  "loudli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 2
   },
-  "forwarding" : {
+  "depriv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "gulf" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "assistance" : {
+  "certainti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
+    "value" : 8
   },
-  "unreserved" : {
+  "wonder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "declaring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "definition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Howsoever" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Anne" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 44
   },
   "mansion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "lowness" : {
+  "accustom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "meanness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "answered" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 34
+    "value" : 2
   },
   "entail" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  },
+  "imaginari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "inferior" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 8
   },
-  "Title" : {
+  "again" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 110
+  },
+  "exposur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "artificial" : {
+  "commend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "commenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "trepid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Supposing" : {
+  "annoi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "outstripped" : {
+  "resembl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "avaric" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "imparti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "diminu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "excit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  },
+  "inoffens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "employ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 10
   },
-  "reasoning" : {
+  "unreason" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "intermedi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "residing" : {
+  "ungovern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "desirable" : {
+  "septemb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
+    "value" : 1
   },
-  "unwell" : {
+  "safeti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
   },
   "wisest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 6
   },
-  "degrees" : {
+  "fair" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 22
+  },
+  "consist" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "negativ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "dances" : {
+  "critic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
+    "value" : 4
   },
-  "disadvantages" : {
+  "quantiti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
   },
   "price" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "disliked" : {
+  "overtaken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 1
   },
-  "dependent" : {
+  "zip" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 1
   },
-  "briefly" : {
+  "compress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 1
   },
-  "hints" : {
+  "hesit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 10
   },
   "cherish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 5
   },
-  "reduced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "dislikes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "agree" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "swelling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "imagination" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "Our" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "resistance" : {
+  "rattl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "welcomed" : {
+  "declin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 8
   },
-  "enjoyment" : {
+  "gracechurch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
+    "value" : 9
+  },
+  "fail" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "repaid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "concis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "unanswer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "pride" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 45
+    "value" : 54
   },
-  "betrayed" : {
+  "inhuman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 1
   },
-  "danced" : {
+  "impetu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
+    "value" : 1
+  },
+  "breakfast" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 27
+  },
+  "refund" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
   },
   "distress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
+    "value" : 35
   },
-  "incautiously" : {
+  "church" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "boldli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "donations" : {
+  "requir" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
+    "value" : 24
   },
-  "hoped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 20
-  },
-  "irksome" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "damages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "unequally" : {
+  "disapprov" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "birds" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "substitute" : {
+  "requit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "uniform" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 3
   },
-  "hopes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 23
-  },
-  "event" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 22
-  },
-  "established" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "witnessed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "unprepared" : {
+  "birmingham" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "multitude" : {
+  "fall" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 14
   },
-  "caused" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "sweetness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "bewailed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unreserve" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "damaged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "seniority" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pronouncing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "masterly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "prefer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "composedly" : {
+  "scatter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "impurities" : {
+  "event" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 27
+  },
+  "finger" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "boundless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "struggled" : {
+  "heretofor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "inhabit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "subscrib" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "puzzl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "speediest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "safest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "nice" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "excel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 25
+  },
+  "morri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "unintellig" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "gratifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 22
+  },
+  "disapprob" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "spar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "excep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
+  },
+  "forgot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "first" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 143
+  },
+  "infinit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "prefer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 22
+  },
+  "perfect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  },
+  "vicin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "fewer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "matern" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "seren" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   },
   "space" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "reference" : {
+  "spite" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 24
   },
   "chamber" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "arrange" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "disengaged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "struggles" : {
+  "composedli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "depart" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "expence" : {
+  "simpl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "petrified" : {
+  "nephew" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 24
+  },
+  "from" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 487
+  },
+  "depart" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "bench" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -22979,191 +12051,223 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "misled" : {
+  "ill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 77
   },
-  "invariable" : {
+  "niec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "disheartened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 31
   },
   "solicit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 7
+  },
+  "fals" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
+  },
+  "toilett" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "bridegroom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "covered" : {
+  "masterli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "phillip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 32
+  },
+  "speaker" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "uncomfort" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "fame" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "bosom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "invariably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "arrival" : {
+  "repair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 30
+    "value" : 3
+  },
+  "death" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "arrai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "frequent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
+    "value" : 36
   },
-  "statements" : {
+  "powder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "bestow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  },
+  "superintend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "error" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "poni" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   },
   "network" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "jealous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "holding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
   "trace" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "moments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "public" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 20
-  },
-  "array" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Lodge" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 7
   },
-  "DIRECT" : {
+  "public" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 21
+  },
+  "paper" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "briefli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "dejec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "endeavour" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 43
+  },
+  "protec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "annex" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "procure" : {
+  "inn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "provocations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unchanged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 8
   },
   "unheard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "sisters" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 76
-  },
   "shameless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "transports" : {
+  "rush" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "emploi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "enumer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "worthless" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   },
   "trade" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "performance" : {
+  "briberi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 1
+  },
+  "pollut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "round" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 17
   },
-  "Tell" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "insisted" : {
+  "growth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "shortness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "horses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "vague" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "civility" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 42
-  },
-  "Scarborough" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "references" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "accuracy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "redistribution" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "overbearing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "building" : {
+  "oliv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "setting" : {
+  "properli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "pope" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "fare" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
+  "sensat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "shaken" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
   "score" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 5
   },
-  "favoured" : {
+  "describ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 15
   },
-  "repining" : {
+  "substanti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "poor" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 38
   },
   "scorn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "farm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "accuraci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -23171,55 +12275,67 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "improbable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
   "ran" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 13
   },
-  "Kympton" : {
+  "grief" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "newslett" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "descrip" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "retrospec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "younger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 29
+    "value" : 30
   },
-  "envied" : {
+  "illustr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "pool" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "gaped" : {
+  "satisfac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 28
+  },
+  "firmli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "redistributing" : {
+  "ensignci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "shaking" : {
+  "fairli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "hurried" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "artful" : {
+  "encamp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Author" : {
+  "poster" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "endure" : {
+  "degener" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "desiring" : {
+  "fate" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
@@ -23227,121 +12343,97 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "conscientiously" : {
+  "hasten" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "unkind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "essence" : {
+  "unab" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Beyond" : {
+  "smilingli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "uncertainty" : {
+  "odiou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
-  "blamed" : {
+  "civilli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "posted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "personages" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "French" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
   "aspect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 6
   },
-  "practises" : {
+  "close" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 16
   },
-  "breathed" : {
+  "profes" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 13
   },
-  "indulgence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "unmarked" : {
+  "verdur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "signify" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "unkindness" : {
+  "deduc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Phillipses" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "reconciliation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "practised" : {
+  "distributor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "leisurely" : {
+  "disdain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 9
   },
-  "desperation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "calling" : {
+  "materi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 14
   },
-  "qualities" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "frankness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "couple" : {
+  "fast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 8
   },
-  "astonishment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 29
-  },
-  "offended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "moved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "fourthly" : {
+  "mischanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "agreeing" : {
+  "signifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
+  },
+  "exce" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "uncertainti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "restless" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "ach" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "contribut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "exer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
   },
   "languor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -23353,71 +12445,151 @@
   },
   "act" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
+    "value" : 18
+  },
+  "post" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "duck" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "blush" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "rel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   },
   "finish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 16
+  },
+  "remedi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   },
   "morrow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 20
   },
+  "nuptial" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "incomplet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
   "add" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
+    "value" : 15
   },
-  "propitious" : {
+  "quadril" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "amend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "premedit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "steadili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "equival" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "consent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
+    "value" : 16
   },
-  "commendable" : {
+  "discrimin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "benevolent" : {
+  "respect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 63
+  },
+  "lizzi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 97
+  },
+  "retreat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "unal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
-  },
-  "escaped" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
   },
   "mutual" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 6
   },
-  "begged" : {
+  "concep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 1
+  },
+  "indelicaci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "port" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "fourthli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "shelv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "trust" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
+    "value" : 24
   },
-  "universally" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "soldiers" : {
+  "untam" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "theatres" : {
+  "smallest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "scamper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "consequ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 43
   },
   "prevent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
+    "value" : 41
   },
-  "happiness" : {
+  "parishion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 71
+    "value" : 1
+  },
+  "undo" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "grandeur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   },
   "scope" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -23427,125 +12599,165 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "humiliation" : {
+  "patronag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 4
   },
-  "incapable" : {
+  "sacrif" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 1
   },
-  "Epsom" : {
+  "colonel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 66
+  },
+  "benefici" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "modifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "seduc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "mortifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "pour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "message" : {
+  "succe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 4
   },
-  "irritation" : {
+  "anyth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 51
+  },
+  "strikingli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "steadfast" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "truth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 27
   },
-  "villainous" : {
+  "uncl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 72
+  },
+  "cram" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Pen" : {
+  "detest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "strikingly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 5
   },
   "exempt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "age" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "shoulders" : {
+  "challeng" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "untouched" : {
+  "overbear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "tendency" : {
+  "properti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 10
   },
   "ago" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 26
   },
-  "overlooked" : {
+  "sickli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 4
   },
   "knighthood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "faulty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
   "rid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "accessed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "faults" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "years" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 36
-  },
-  "meditating" : {
+  "agr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "defect" : {
+  "delicaci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 11
   },
-  "disappointment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "George" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "decline" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "strangely" : {
+  "rebuk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "carelessness" : {
+  "retali" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
   },
-  "shrubbery" : {
+  "number" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 8
+  },
+  "defect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  },
+  "shorten" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "identifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "punish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "casual" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "faulti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "shorter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "proflig" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "happili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "nothing" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "duet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "likelihood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -23555,151 +12767,147 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "defects" : {
+  "indispens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 1
   },
   "spot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 9
   },
-  "animated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "AGREE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "sleeves" : {
+  "unduti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "shrubberi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "partial" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 23
   },
   "aid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "repugnance" : {
+  "exig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "uncommonly" : {
+  "other" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
+    "value" : 243
   },
-  "imprudent" : {
+  "aim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "uncle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 69
+    "value" : 1
   },
   "retain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 6
   },
-  "HAVE" : {
+  "exclusion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
   "air" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 30
+    "value" : 32
+  },
+  "resum" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "retail" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "local" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "decorum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 5
   },
-  "imaginable" : {
+  "uncommonli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 9
   },
-  "steadily" : {
+  "afflic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 1
   },
-  "electronic" : {
+  "locat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 27
+    "value" : 6
+  },
+  "yield" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
   },
   "speak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 65
+    "value" : 102
   },
-  "unsolicited" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "intermission" : {
+  "consciou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
-  },
-  "endeared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
   },
   "tender" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "gratulation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "detaching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "blushing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Believe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 7
   },
   "circumspect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "meditate" : {
+  "duplic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "meantime" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "undeceive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
   "recollect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 24
   },
-  "future" : {
+  "citi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
+    "value" : 2
   },
-  "meditation" : {
+  "fugit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "shan" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   },
   "plainer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "DONATIONS" : {
+  "mississippi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "impressed" : {
+  "aton" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "shed" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "symmetri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "unreserv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "precision" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -23707,13 +12915,21 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "tolerable" : {
+  "anxiou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
+    "value" : 26
   },
-  "body" : {
+  "sarah" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "correspond" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "villag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
   },
   "spur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -23723,19 +12939,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "brains" : {
+  "amongst" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "ala" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "reap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "symmetry" : {
+  "oblig" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 49
   },
-  "exultation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "closure" : {
+  "unsolicit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -23743,121 +12963,145 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "respectability" : {
+  "favourit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 24
+  },
+  "all" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 628
+  },
+  "border" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "abhorrence" : {
+  "read" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 59
   },
-  "informing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "conducted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "applicable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "expense" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "strangers" : {
+  "touch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "maintaining" : {
+  "goodwil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "alas" : {
+  "rememb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 33
   },
-  "Painful" : {
+  "real" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 31
   },
-  "stupider" : {
+  "clock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 6
+  },
+  "presump" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "unit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 20
+  },
+  "alreadi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
   },
   "ladyship" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 42
   },
-  "tolerably" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "overjoyed" : {
+  "unstudi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "susceptibility" : {
+  "bodi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
-  "jumping" : {
+  "collect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "singled" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 7
   },
   "rob" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "interfering" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
   "ennight" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "lamented" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "favour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 22
+    "value" : 39
   },
-  "weakness" : {
+  "interrup" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 11
+  },
+  "shortli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "unabash" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "disappoint" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 35
   },
   "tacit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "rejoicing" : {
+  "poultri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 3
   },
-  "petitioned" : {
+  "resolv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 40
+  },
+  "resolu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 19
+  },
+  "and" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3655
+  },
+  "ration" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
+  },
+  "predict" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "inattention" : {
+  "obsolet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
   },
   "chaperon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Bakewell" : {
+  "ani" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 38
+  },
+  "ann" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "fifteen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   },
   "guilt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -23871,67 +13115,75 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "uncompanionable" : {
+  "financ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "disposing" : {
+  "relianc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "ant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "unnecessary" : {
+  "tackl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "acrimoni" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "qualifi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "Forgive" : {
+  "shew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "suggested" : {
+  "compromis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "captiv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "caring" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "compilation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "communicated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "consists" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dull" : {
+  "unnecessari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "silently" : {
+  "dull" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 5
   },
-  "thought" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 112
-  },
-  "accurate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "taste" : {
+  "prejudic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 13
   },
-  "allowable" : {
+  "comprehend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 23
+  },
+  "reason" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 77
+  },
+  "thought" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 140
+  },
+  "rectori" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "graciousness" : {
+  "compos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "oxford" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -23939,21 +13191,41 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
+  "gayer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "construc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
   "cake" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "hired" : {
+  "english" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "poverty" : {
+  "annual" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
   },
-  "devoted" : {
+  "mistak" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 10
+  },
+  "unassail" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "dazzl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "stuffi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "broke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -23963,93 +13235,121 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "spirits" : {
+  "patienc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 39
+    "value" : 9
   },
-  "inattentive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Make" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "warranties" : {
+  "asper" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "miracul" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "testifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "mount" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "demand" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "profus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "reel" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "duchess" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "pathetic" : {
+  "letter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 133
+  },
+  "volatil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "corruption" : {
+  "tallest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "succeeded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "increased" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "awkwardness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "inspiring" : {
+  "overtur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Certainly" : {
+  "experienc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 4
   },
-  "increases" : {
+  "worth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
+  },
+  "hatefulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "cried" : {
+  "discus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 91
+    "value" : 5
   },
-  "varying" : {
+  "notion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "fruits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "patience" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
+    "value" : 10
   },
   "grace" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
-  "Many" : {
+  "where" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 67
+  },
+  "popular" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "perpetu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   },
   "arm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "Stay" : {
+  "penit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "pglaf" : {
+  "devic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "malic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "caper" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "broken" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 7
+  },
+  "pglaf" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
   },
   "friendless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -24057,35 +13357,31 @@
   },
   "art" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 8
   },
   "vice" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 4
   },
-  "esteem" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "thoughtful" : {
+  "acquisi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "noticed" : {
+  "esteem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 18
   },
-  "miserly" : {
+  "inexpress" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "infring" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "dupe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Wickham" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 194
+    "value" : 2
   },
   "holder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -24093,37 +13389,41 @@
   },
   "suppress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "poverti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "bowed" : {
+  "acut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 6
   },
   "call" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 28
+    "value" : 85
   },
   "calm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 9
   },
-  "partners" : {
+  "essenti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 4
   },
-  "allurements" : {
+  "ask" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 83
+  },
+  "miserli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "rapture" : {
+  "derision" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "relations" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
-  },
-  "engagement" : {
+  "through" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 20
   },
@@ -24131,221 +13431,317 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 6
   },
-  "officer" : {
+  "disregard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 1
+  },
+  "sedat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "run" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
+    "value" : 22
   },
-  "justified" : {
+  "indiscreet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 1
+  },
+  "coher" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "curtsei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   },
   "mother" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 137
   },
-  "view" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "ate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Look" : {
+  "extinguish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "donate" : {
+  "view" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 33
+  },
+  "preach" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   },
   "newest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "defiance" : {
+  "discov" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 18
   },
-  "travelling" : {
+  "those" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 37
+  },
+  "unsuccessfulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "alik" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "difficulti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "defens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "gladli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "dure" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 22
   },
   "bold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "Hursts" : {
+  "viciou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "rein" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "picturesqu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "camp" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 4
   },
-  "agitation" : {
+  "longer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 44
   },
-  "volunteer" : {
+  "introduc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 35
   },
-  "instability" : {
+  "privat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 14
   },
-  "Long" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "Domain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "abatement" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "benefits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "complaisance" : {
+  "novelti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "Christmas" : {
+  "aliv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 2
   },
-  "presided" : {
+  "name" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 42
   },
-  "novelty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "mercenary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "reflections" : {
+  "jenkinson" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 9
   },
-  "absence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 26
-  },
-  "book" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "approaching" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
-  },
-  "edition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "perplexity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "negative" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "defend" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "crying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Mary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 39
-  },
-  "scruples" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "introduce" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "Conjectures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Interested" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Put" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "awe" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "discourse" : {
+  "worst" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 7
   },
-  "unsuccessfully" : {
+  "humili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "shop" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "forbad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "thirdly" : {
+  "fatigu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "reli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "scrupled" : {
+  "book" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 32
   },
-  "mouth" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "duty" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  },
-  "usage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "curricle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "pledged" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "WARRANTIES" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "collected" : {
+  "attract" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "Bath" : {
+  "show" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 22
+  },
+  "edition" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "cautious" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "comput" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "dovedal" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "capac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "mercenari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "defend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "street" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 20
+  },
+  "defenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "feverish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "overcom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "shoe" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "simper" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "enabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "elizabeth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 635
+  },
+  "explanatori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "thirdli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "associ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "emphasi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "duti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  },
+  "bracelet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "footstool" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "disinclin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "knowledg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 20
+  },
+  "mouth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "stranger" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  },
+  "comprehen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "suddenli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  },
+  "incomprehens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "narr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "simpleton" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "yard" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "agreeabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 48
+  },
+  "hyster" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "apothecari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "carv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "enrag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "appetit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "cast" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -24353,11 +13749,19 @@
   },
   "anxious" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 25
+    "value" : 2
   },
-  "vestibule" : {
+  "darci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 418
+  },
+  "frost" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "displai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
   },
   "broad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -24367,99 +13771,83 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 25
   },
-  "elevate" : {
+  "pianofort" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 5
   },
   "case" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 32
+    "value" : 38
   },
-  "admired" : {
+  "sundai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 12
+    "value" : 9
   },
-  "generation" : {
+  "toler" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 29
+  },
+  "illustri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "affections" : {
+  "threadbar" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 2
   },
   "trunk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "longing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "Lord" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  },
-  "saving" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "miraculous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "failing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "excessive" : {
+  "destin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "displease" : {
+  "consid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 70
+  },
+  "stiffli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "omen" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "style" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "explor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "card" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
+    "value" : 17
   },
   "care" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 34
+    "value" : 50
   },
-  "participation" : {
+  "guard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Depend" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "CAROLINE" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "damage" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "portraits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 16
   },
   "heighten" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "insens" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "compil" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "exercise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "disservice" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "fireplace" : {
+  "uselessli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -24467,35 +13855,35 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
+  "madam" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 21
+  },
   "scrape" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "admirer" : {
+  "caus" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "admires" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 10
   },
   "scold" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 4
+  },
+  "freedom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "violat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   },
   "seldom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 9
   },
-  "unabashed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "dared" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "cooking" : {
+  "impolit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -24503,179 +13891,223 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "incivility" : {
+  "stress" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "mischief" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "Ramsgate" : {
+  "rescu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 1
   },
-  "reliance" : {
+  "more" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "display" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 179
   },
   "born" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 9
   },
-  "distressing" : {
+  "furnitur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 10
   },
   "kill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 5
   },
-  "Oakham" : {
+  "clement" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "morn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 81
   },
   "bore" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 9
   },
-  "inaccurate" : {
+  "heinou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "copse" : {
+  "mischiev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "fanci" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 30
+  },
+  "disquiet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "habitu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "diffid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "spurn" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "sacrific" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "shut" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "luck" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "parted" : {
+  "handsom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
+    "value" : 42
   },
-  "Family" : {
+  "simpli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "accounts" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "uselessly" : {
+  "cloud" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "habits" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "bidding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "simple" : {
+  "contradic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "alleviate" : {
+  "luca" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "prudently" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "northwards" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 70
   },
   "talent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 7
   },
-  "INCLUDING" : {
+  "unassum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
-  "Mission" : {
+  "england" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "connections" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "revenging" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "speculation" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Produced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 5
   },
   "king" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "forgiven" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "kind" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 61
+    "value" : 92
   },
   "tumult" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "supposition" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "traces" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "meanly" : {
+  "daili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
+  },
+  "both" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 65
+  },
+  "persuasion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "most" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 132
+  },
+  "transfer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "epithet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
+  "phrase" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "imagin" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 39
+  },
   "affection" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 58
+    "value" : 21
   },
-  "diversion" : {
+  "valuabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "daughter" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 134
+  },
+  "omit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "meanli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "forgiving" : {
+  "cloth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 13
   },
-  "courteous" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Warwick" : {
+  "largest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "ascertain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 3
   },
-  "bows" : {
+  "joi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 12
   },
-  "Lydia" : {
+  "propiti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 170
+    "value" : 1
+  },
+  "severest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "continu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 74
+  },
+  "awaken" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   },
   "forbid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "captain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
@@ -24683,9 +14115,17 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "stuffy" : {
+  "resid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "jot" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "joy" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "patient" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -24693,39 +14133,47 @@
   },
   "reject" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 10
   },
   "sad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "traced" : {
+  "arrang" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 15
   },
-  "mentioned" : {
+  "sheet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 28
+    "value" : 4
+  },
+  "sai" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 55
+  },
+  "messag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   },
   "profit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 3
   },
-  "accompanying" : {
+  "rest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 41
+  },
+  "dislik" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 29
   },
   "amount" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 3
   },
   "move" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "disclosed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 17
   },
   "sat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -24733,45 +14181,77 @@
   },
   "yawn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 4
   },
-  "alarms" : {
+  "inadequ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "earnestly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "increase" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "spread" : {
+  "kingdom" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "REPLACEMENT" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "educated" : {
+  "liabl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "guests" : {
+  "differ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 55
   },
-  "adhered" : {
+  "undergon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "treating" : {
+  "griev" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 16
   },
-  "simply" : {
+  "spread" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "afternoon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "situat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 42
+  },
+  "consol" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 24
+  },
+  "compli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 19
+  },
+  "partak" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "twelvemonth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "earnestli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "front" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "exasper" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "stupid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "viru" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -24779,17 +14259,13 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 15
   },
-  "Stop" : {
+  "christen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "boys" : {
+  "bag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "reflected" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 1
   },
   "luncheon" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -24799,65 +14275,97 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "awake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "kiss" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "suffer" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "ruining" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "partake" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "violated" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "personal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "angry" : {
+  "complet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 17
   },
-  "seconded" : {
+  "kiss" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "retrospect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "symptoms" : {
+  "offer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 46
+  },
+  "suffer" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 27
+  },
+  "iniquit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "neighbourhood" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 30
+  },
+  "narrowli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "delay" : {
+  "contriv" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 10
   },
-  "submitted" : {
+  "angri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  },
+  "posit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "recollec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 20
+  },
+  "intermarriag" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "violates" : {
+  "disclaim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 7
   },
-  "greatly" : {
+  "greatli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 14
   },
-  "hesitation" : {
+  "secur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 21
+  },
+  "ostent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "momentari" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
+  },
+  "gretna" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "transient" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "plant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "drive" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "smoothli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "deal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -24867,85 +14375,81 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 19
   },
-  "abuse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "hazarded" : {
+  "digres" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "scheme" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
+    "value" : 26
   },
-  "hesitating" : {
+  "allianc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
   "affect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "scarcity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "refusals" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 26
   },
   "dead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "eyes" : {
+  "leisur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 52
+    "value" : 14
   },
   "sea" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "coldly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "amuse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "proved" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "smoothly" : {
+  "constitu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "honoured" : {
+  "sixth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
+    "value" : 1
+  },
+  "personag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "servant" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 31
+  },
+  "see" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 147
+  },
+  "subsid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "tenor" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "quickness" : {
+  "civil" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 67
   },
-  "effectual" : {
+  "insuffici" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "cleans" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "dear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 144
+    "value" : 158
   },
-  "compared" : {
+  "coldli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 2
   },
   "completion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -24953,363 +14457,519 @@
   },
   "set" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 40
+    "value" : 42
   },
-  "unabated" : {
+  "contain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "joined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 28
+    "value" : 18
   },
   "sex" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 7
   },
-  "admiration" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 25
-  },
-  "WARRANTY" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "petition" : {
+  "suspici" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "vicinity" : {
+  "barnet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "conjunc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "instantan" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "scarciti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "petition" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "deceas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "commiser" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "earnest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
+    "value" : 17
   },
   "river" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "astonished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  },
-  "courting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 7
   },
   "bed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "transferred" : {
+  "larder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "beauty" : {
+  "featur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 27
+    "value" : 10
+  },
+  "offic" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 47
   },
   "beg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
+    "value" : 28
+  },
+  "conjug" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "deck" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "stroll" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Chamberlayne" : {
+  "eccentr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "needless" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "nearest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "parti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 70
+  },
+  "overcam" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "bet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "discontinu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "guidanc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "beauti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 46
+  },
+  "parish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "contact" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   },
   "useless" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 6
   },
-  "discharge" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "wavering" : {
+  "dishonest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "insupportable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Presuming" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "teasing" : {
+  "complais" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 6
   },
-  "suspicious" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
   "complain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 6
   },
-  "liveliness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "lessened" : {
+  "abund" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "finances" : {
+  "monosyl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "she" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1706
+  },
+  "adjust" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "complac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "prohibi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "sentim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 18
   },
   "debt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 14
   },
-  "Younger" : {
+  "compat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
+  },
+  "compas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
+  },
+  "compar" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
   },
   "deep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 7
   },
-  "unshackled" : {
+  "delai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "confined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 12
   },
   "shy" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "deletions" : {
+  "deem" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "forgive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "Scotland" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "capable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "parade" : {
+  "depress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "explained" : {
+  "energet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
+    "value" : 1
   },
   "repress" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 4
   },
-  "unhappily" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "liking" : {
+  "warehous" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "sir" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 27
-  },
-  "Dining" : {
+  "faithfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "mortification" : {
+  "candid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 1
+  },
+  "aunt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 85
+  },
+  "silliest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "await" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "promot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "sir" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 78
+  },
+  "settl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 58
   },
   "sit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
+    "value" : 36
   },
-  "pretensions" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "Robinson" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "living" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
-  },
-  "breathing" : {
+  "battl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "assuring" : {
+  "unhappili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 3
+  },
+  "slightingli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "someth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 52
   },
   "bound" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 4
+  },
+  "dinner" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 37
   },
   "stroke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "Dovedale" : {
+  "breed" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 6
   },
-  "retained" : {
+  "vagu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "avoid" : {
+  "lucki" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
+    "value" : 6
   },
-  "bid" : {
+  "marriag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 66
+  },
+  "brillianc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "displeas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "candour" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "vingt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "uttered" : {
+  "pyramid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 1
+  },
+  "avoid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 22
+  },
+  "bid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "foundat" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 30
   },
   "fresh" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 9
   },
-  "astonish" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "amazement" : {
+  "posses" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 10
   },
-  "thankful" : {
+  "astonish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 46
   },
-  "advanced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "improves" : {
+  "prompt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "recommendation" : {
+  "rejec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "postpon" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "select" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
+  },
+  "misus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "parasol" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "crowd" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "speedili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "warranti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "sick" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
   },
   "bit" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "unfolded" : {
+  "alacr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "improved" : {
+  "obstacl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 2
   },
-  "striking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "convinced" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 39
-  },
-  "advances" : {
+  "maiden" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "promis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 45
+  },
+  "corner" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "laiti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "intimid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "model" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
+  "ordinari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "join" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 52
+  },
+  "decis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "moder" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
   "sequel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "inquire" : {
+  "promin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
+    "value" : 2
   },
-  "large" : {
+  "crown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 23
+    "value" : 2
+  },
+  "inquiri" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 33
   },
   "spleen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "satisfied" : {
+  "director" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 34
+    "value" : 1
+  },
+  "vain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 20
+  },
+  "clergi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "perseveringli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "tractabl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "defi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "inevit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   },
   "foolish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 8
   },
-  "transactions" : {
+  "decid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  },
+  "drink" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "christma" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "experi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "Girls" : {
+  "john" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "beauties" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "conversing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "perseveringly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "defy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "compromised" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
   "begin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
+    "value" : 30
   },
-  "rencontre" : {
+  "anxieti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "alluded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
+    "value" : 19
   },
   "sly" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -25317,279 +14977,387 @@
   },
   "paragraph" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
+    "value" : 14
   },
-  "professions" : {
+  "brought" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 37
+  },
+  "valu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "downstair" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 6
   },
+  "proportion" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "pursuit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "amaz" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 19
+  },
+  "hatfield" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
   "neighbour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 21
   },
-  "abhorrent" : {
+  "plate" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "finishing" : {
+  "world" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 66
   },
-  "inquiry" : {
+  "guardian" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
+    "value" : 2
   },
-  "viewed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "clergy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "parsonage" : {
+  "urgent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
-  },
-  "table" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 35
-  },
-  "resisted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
   },
   "amidst" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "change" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
-  },
-  "irrevocably" : {
+  "cleric" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "blasted" : {
+  "side" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 59
   },
-  "miniatures" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "likewise" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "punishment" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "suspicions" : {
+  "break" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "discovery" : {
+  "discoveri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 7
   },
-  "instruction" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "unembarrassed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "improvements" : {
+  "ador" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "deceit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "joke" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "comfort" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 50
+  },
+  "hide" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "deceiv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 20
+  },
+  "sensibl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "condescend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "report" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 21
+  },
+  "expressli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "extrac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "indirectli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "sigh" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   },
   "constant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 13
   },
+  "complim" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 41
+  },
+  "lament" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "sign" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
   "mislead" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "office" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 3
   },
   "angel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 4
+  },
+  "directli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 23
   },
   "northern" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
+  "jone" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
   "anger" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 13
   },
-  "panting" : {
+  "partridg" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "stands" : {
+  "harrington" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
   },
-  "instructing" : {
+  "high" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  },
+  "download" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "son" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 22
+    "value" : 24
   },
   "godson" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "Something" : {
+  "pulvi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "decep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "gaieties" : {
+  "hunsford" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 25
   },
   "discretion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
+  "level" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "puddl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "creatur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  },
   "thrown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 8
+  },
+  "modif" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "establish" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 15
   },
   "colder" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "rewarded" : {
+  "lurk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 1
   },
-  "AND" : {
+  "deter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 1
   },
-  "Wednesday" : {
+  "constanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
+    "value" : 1
   },
-  "comprised" : {
+  "proclaim" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "produc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 21
   },
   "missish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "tremblings" : {
+  "boi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 7
   },
-  "infinitely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "shades" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "PRIDE" : {
+  "overthrown" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
-  },
-  "sentiments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
   },
   "box" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
   "bow" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
+    "value" : 17
   },
-  "ANY" : {
+  "decent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "boy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "tents" : {
+  "matur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "authorised" : {
+  "restric" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "politely" : {
+  "deni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 12
   },
-  "attributing" : {
+  "total" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "involv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "loser" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "highly" : {
+  "elaps" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "disclosur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "lobbi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "social" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "unbecom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "cross" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "drili" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "highli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 28
-  },
-  "unfortunate" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "chance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 18
-  },
-  "nature" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
-  },
-  "Lately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
   },
   "clerk" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
+  "extrem" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 19
+  },
   "quarrel" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 9
+  },
+  "offici" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "earth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "overthrow" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "decenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "inflict" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "diffus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
   },
   "closest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "occurrences" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "dancing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 21
-  },
-  "coherent" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "county" : {
+  "exerc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 6
+  },
+  "hospit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "upper" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "stood" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -25597,151 +15365,139 @@
   },
   "paint" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "dwelling" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "pains" : {
+  "injuri" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "miserably" : {
+  "behalf" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
+  },
+  "endear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "fighting" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "Saturday" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 17
-  },
-  "OWNER" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "encouraged" : {
+  "graciou" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 8
   },
-  "Sections" : {
+  "scene" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 19
+  },
+  "environ" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "horrible" : {
+  "frivol" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "exert" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "scandal" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "audienc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "vari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "sideboard" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "friend" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 111
+    "value" : 167
+  },
+  "exhibit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "drawn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 8
   },
-  "societies" : {
+  "lustr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "ached" : {
+  "monoton" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "requester" : {
+  "degrad" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "deny" : {
+  "accept" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 51
   },
-  "closely" : {
+  "collin" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "pleasure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 92
-  },
-  "miserable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "Britain" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "morning" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 79
-  },
-  "glory" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "horse" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "requested" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 180
   },
   "mission" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 4
   },
   "noblest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "conditions" : {
+  "affront" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "interpreted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 6
   },
   "strictest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Such" : {
+  "glori" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 16
+    "value" : 3
   },
-  "Dawson" : {
+  "sincer" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 23
   },
-  "advisable" : {
+  "access" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "languag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "plainli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 6
-  },
-  "overcome" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
   },
   "sum" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 5
   },
-  "extended" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "serving" : {
+  "impenetr" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "pitied" : {
+  "wickham" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 194
+  },
+  "cottag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "current" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -25751,123 +15507,123 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "managed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "plainly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "preferred" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "offensive" : {
+  "bewitch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
+  },
+  "silent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 29
   },
   "storm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "manager" : {
+  "inattent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "varianc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
-  },
-  "makes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
   },
   "amid" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "enemies" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "threatened" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "prided" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
   "store" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "stori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "confirm" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
+  },
+  "emerg" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "beloved" : {
+  "supercili" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "condemned" : {
+  "hill" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 13
   },
   "uppermost" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "confidante" : {
+  "silenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 35
+  },
+  "grievanc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "venturing" : {
+  "bui" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "counti" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "appoint" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "fourth" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "vast" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "but" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1007
+  },
+  "indispos" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "undoubt" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Anxious" : {
+  "stoke" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "story" : {
+  "expens" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "sincerely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  },
-  "buy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "wished" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 40
-  },
-  "wantonly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "obeisance" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "unequal" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 12
   },
   "express" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
+    "value" : 63
   },
-  "indolence" : {
+  "quest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 7
   },
-  "instantly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 31
-  },
-  "subjection" : {
+  "subjec" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "austerity" : {
+  "subsequ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "wantonli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -25875,33 +15631,49 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "wishes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 34
-  },
   "written" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 22
   },
+  "provok" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "grantlei" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
   "passion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 3
+  },
+  "studiou" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "instantli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 31
   },
   "taciturn" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "greatness" : {
+  "pedant" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
   },
-  "hastened" : {
+  "clergyman" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "value" : 8
   },
-  "dreadfully" : {
+  "dismai" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "sink" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
   },
   "cogent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -25911,65 +15683,117 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "General" : {
+  "substitut" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 1
+  },
+  "dreadfulli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "expenc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "paddock" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "expend" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "hint" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 17
+  },
+  "carpet" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "sing" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "sinc" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 49
   },
   "higher" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
+  "apolog" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "persev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "hire" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "proprietari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
   "idea" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 49
+    "value" : 62
   },
-  "unfolding" : {
+  "coppic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "shelves" : {
+  "assent" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "proprietary" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "missing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 4
   },
   "shyness" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
+  "parad" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
   "mortal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "successful" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "lovely" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "Eager" : {
+  "horribl" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
-  },
-  "figure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
   },
   "gradual" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "corrupt" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "discernment" : {
+  "newspap" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 1
+  },
+  "departur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "felicit" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "weaken" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "behav" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
   },
   "bye" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -25977,37 +15801,45 @@
   },
   "stone" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "passing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "punctual" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "streets" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "humility" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "commencement" : {
+  "loveli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
+  "gentleman" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 39
+  },
+  "punctual" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 8
+  },
+  "housekeep" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 19
+  },
+  "individu" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "ampl" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "reach" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 30
+  },
+  "justifi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 12
+  },
+  "realis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
   "hack" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "inches" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "physicians" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -26017,81 +15849,65 @@
   },
   "road" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
+    "value" : 15
   },
   "review" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
+  "rightli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "congratulatori" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "sight" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 18
+  },
   "weather" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 6
   },
-  "guide" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "natural" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 22
-  },
-  "arising" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "anecdotes" : {
+  "teeth" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "rightly" : {
+  "unjustli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "benefiting" : {
+  "between" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 60
+  },
+  "implac" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "goal" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "answerable" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Pardon" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "comprehension" : {
+  "stateli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "forwarded" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "Bennet" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 322
-  },
-  "stately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "tranquillity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "Next" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "forwarder" : {
+  "keener" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "acquainted" : {
+  "nobodi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
+    "value" : 10
   },
-  "WORK" : {
+  "opportun" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 32
+  },
+  "joyfulli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -26099,39 +15915,23 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Revenue" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "vehemence" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "nothingness" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "neighbouring" : {
+  "expediti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "unwillingly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "bosoms" : {
+  "pathet" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "insignificant" : {
+  "expedi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "perceptible" : {
+  "testimoni" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
-  "range" : {
+  "wear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
@@ -26139,45 +15939,93 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "derive" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "undiminished" : {
+  "uncompanion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "feature" : {
+  "weak" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 13
+  },
+  "overhear" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "screens" : {
+  "rock" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "impress" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "lean" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "composur" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 16
+  },
+  "assert" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
   },
   "flat" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "recall" : {
+  "leas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "place" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 93
+  },
+  "leav" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 82
+  },
+  "designedli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "regular" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "discont" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "disrespectful" : {
+  "objection" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 3
   },
   "courtier" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "congratulatory" : {
+  "provoc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
   "suggest" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 8
+  },
+  "observ" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 69
+  },
+  "lead" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
+  },
+  "apologi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
   },
   "token" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -26187,187 +16035,207 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "soothe" : {
+  "expect" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 110
+  },
+  "anecdot" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "inaccur" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "cease" : {
+  "unwillingli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
+    "value" : 4
+  },
+  "site" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 4
   },
   "emotion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 6
   },
-  "etiquette" : {
+  "miser" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "consequenti" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "intimates" : {
+  "sympath" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Sometimes" : {
+  "gentlemen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "rejoined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "implacability" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 38
   },
   "behaviour" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 55
   },
-  "scarce" : {
+  "carriag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 50
+  },
+  "ensign" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "apology" : {
+  "barouch" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 1
   },
-  "argument" : {
+  "villain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
+    "value" : 1
+  },
+  "lucas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 14
   },
   "utter" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "uniformity" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 11
   },
   "begun" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "cooks" : {
+  "injunc" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 2
   },
   "dozen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "natured" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "growing" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "utterly" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "deciding" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "confessed" : {
+  "divert" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
   },
-  "readable" : {
+  "plain" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 13
+  },
+  "econom" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "lambton" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 10
+  },
+  "tan" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "effusion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 4
   },
-  "sharpened" : {
+  "utterli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "alarmed" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 1
   },
   "indirect" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 3
   },
-  "ugly" : {
+  "onli" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 218
+  },
+  "unpleas" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
   },
   "tax" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 9
+  },
+  "constrain" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "dismis" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "collec" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 8
   },
-  "lovers" : {
+  "person" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "chances" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  },
-  "favours" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "brooking" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "value" : 66
   },
   "safe" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
+    "value" : 11
   },
-  "files" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "destined" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "departure" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "chanced" : {
+  "webb" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "ugli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "sportsmen" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "covering" : {
+  "week" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "value" : 47
   },
-  "instances" : {
+  "execu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 4
-  },
-  "balls" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
   },
   "stout" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "hedge" : {
+  "deliv" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 5
+  },
+  "intric" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
+  },
+  "ungener" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 3
+  },
+  "weep" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "aware" : {
+  "plagu" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
+    "value" : 3
   },
-  "projected" : {
+  "irretriev" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "mortif" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 7
+  },
+  "can" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 199
+  },
+  "prettyish" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
@@ -26375,17 +16243,21 @@
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 3
   },
-  "Longbourn" : {
+  "satisfi" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 88
+    "value" : 46
   },
-  "marriage" : {
+  "delic" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 66
+    "value" : 6
   },
-  "eligible" : {
+  "despond" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
+    "value" : 1
+  },
+  "februari" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
   },
   "flew" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
@@ -26393,73 +16265,81 @@
   },
   "alarm" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
+    "value" : 28
   },
-  "village" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  },
-  "privately" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "carried" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "illustrious" : {
+  "studier" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "Breakfast" : {
+  "canva" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
+  },
+  "provid" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 27
+  },
+  "realli" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 67
+  },
+  "greatest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 20
+  },
+  "player" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 2
   },
   "motion" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "idle" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  },
-  "satisfy" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  },
-  "fault" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  },
-  "hurrying" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  },
-  "distracted" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  },
-  "clothes" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  },
-  "efficacy" : {
+  "unask" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   },
-  "refreshing" : {
+  "readi" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 24
+  },
+  "parsonag" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 18
+  },
+  "weakest" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "amus" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 30
+  },
+  "match" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 24
+  },
+  "fault" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 11
+  },
+  "imperturb" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "accent" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 6
+  },
+  "mediocr" : {
+    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
+    "value" : 1
+  },
+  "rival" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 2
   },
-  "arguments" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  },
-  "pianoforte" : {
-    "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  },
-  "rival" : {
+  "efficaci" : {
     "key" : "E:\\RIW-proiect\\src\\books\\0-5\\PrideAndJustice.txt",
     "value" : 1
   }
