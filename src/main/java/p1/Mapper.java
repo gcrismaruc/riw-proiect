@@ -76,66 +76,67 @@ public class Mapper implements  Runnable{
 
     public void mapPhaseTwo(Path path) throws IOException {
 
-        writeLock.lock();
+        try {
+            writeLock.lock();
 
-        Map<String, MyPair> directIndex = objectMapper.readValue(new File(String.valueOf(path)), new TypeReference<TreeMap<String, MyPair>>() {});
+            Map<String, MyPair> directIndex = objectMapper.readValue(new File(String.valueOf(path)), new TypeReference<TreeMap<String, MyPair>>() {
+            });
 
-        System.out.println(PHASE_TWO + "  " + Thread.currentThread().getId() + "   " + path.toString());
+            System.out.println(PHASE_TWO + "  " + Thread.currentThread().getId() + "   " + path.toString());
             char c = 'a';
             List<DirectIndex> tempMap = new ArrayList<DirectIndex>();
 
             for (Map.Entry entry : directIndex.entrySet()) {
-                if(!entry.getKey().equals("")) {
-                    if (Character.toLowerCase(entry.getKey().toString().charAt(0)) == c) {
+                if (!entry.getKey().equals("")) {
+                    if (Character.toLowerCase(entry.getKey().toString().charAt(0)) != c) {
+                        printToCharFile(c, tempMap);
+                        c = Character.toLowerCase(entry.getKey().toString().charAt(0));
+                        tempMap.clear();
+
                         DirectIndex d = new DirectIndex();
                         d.setKey(entry.getKey().toString());
                         d.setValue((MyPair) entry.getValue());
                         tempMap.add(d);
                     } else {
-
-                        printToCharFile(c, tempMap);
-                        c = Character.toLowerCase(entry.getKey().toString().charAt(0));
-                        tempMap.clear();
+                        DirectIndex d = new DirectIndex();
+                        d.setKey(entry.getKey().toString());
+                        d.setValue((MyPair) entry.getValue());
+                        tempMap.add(d);
                     }
                 }
             }
 
-            if(!tempMap.isEmpty() && c == 'z'){
+            if (!tempMap.isEmpty() && c <= 'z') {
                 printToCharFile(c, tempMap);
             }
+        } catch (JsonMappingException e) {
+
+        }finally {
             writeLock.unlock();
+        }
     }
 
     private void printToCharFile(char c, List<DirectIndex> tempMap) throws IOException {
 
-        String filePath = "E:\\RIW-proiect\\src\\DirectIndex\\" + c + "DirectIndex.idc";
-            File file = new File(filePath);
-            //file.createNewFile();
-            List<DirectIndex> objectList;
-           // FileReader reader = new FileReader(file);
-           // BufferedReader br = new BufferedReader(reader);
-                if (file.exists()) {
-                    objectList = objectMapper.readValue(new File(String.valueOf(filePath)), new TypeReference<ArrayList<DirectIndex>>() {});
-//                    JsonReader jsonReader = new JsonReader(new FileReader(file));
-//                    objectList =  gson.fromJson(jsonReader,  new TypeToken<ArrayList<DirectIndex>>() {}.getType());
-                } else {
-                    objectList = new ArrayList<>();
-                }
+        String filePath = "\\RIW-proiect\\working\\DirectIndex\\" + c + "DirectIndex.idc";
+        File file = new File(filePath);
+        List<DirectIndex> objectList;
+        if (file.exists()) {
+            objectList = objectMapper.readValue(new File(String.valueOf(filePath)), new TypeReference<ArrayList<DirectIndex>>() {});
+        } else {
+            objectList = new ArrayList<>();
+        }
 
-                for (DirectIndex directIndex1 : tempMap) {
-                    objectList.add(directIndex1);
-                }
+        for (DirectIndex directIndex1 : tempMap) {
+            objectList.add(directIndex1);
+        }
 
-                readLock.lock();
-                FileOutputStream outputStream = new FileOutputStream(file);
-                objectMapper.writerWithDefaultPrettyPrinter().writeValue(outputStream, objectList);
-                outputStream.close();
-                readLock.unlock();
-//                try (Writer writer = new FileWriter(file)) {
-//                    gson.toJson(objectList, writer);
-//                }
-
-            }
+        readLock.lock();
+        FileOutputStream outputStream = new FileOutputStream(file);
+        objectMapper.writerWithDefaultPrettyPrinter().writeValue(outputStream, objectList);
+        outputStream.close();
+        readLock.unlock();
+    }
 
     public long countWords(Path path) throws IOException {
         long count = 0;

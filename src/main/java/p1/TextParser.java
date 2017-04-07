@@ -23,14 +23,14 @@ public class TextParser {
 		for(int i = 0; i < text.length(); i++) {
 			if(!Character.isLetter(text.charAt(i)) && text.charAt(i) != '\''){
 				if(!word.toString().equals("")) {
-					String canonicalForm = getCanonicalForm(word.toString());
+					String canonicalForm = getCanonicalForm(word.toString().toLowerCase());
 					if (words.containsKey(canonicalForm)) {
 						MyPair pair = words.get(canonicalForm);
 						pair.setValue(pair.getValue() + 1);
 						words.put(canonicalForm, pair);
 					} else {
 						if (!word.toString().equals("")) {
-							if (!StopWords.stopWords.contains(word.toString())) {
+							if (!StopWords.stopWords.contains(word.toString().toLowerCase())) {
 								if (ExceptionWords.exceptionWords.contains(word.toString())) {
 									MyPair pair = new MyPair();
 									pair.setKey(fileName);
@@ -40,7 +40,7 @@ public class TextParser {
 									MyPair pair = new MyPair();
 									pair.setKey(fileName);
 									pair.setValue(1);
-									words.put(getCanonicalForm(word.toString()), pair);
+									words.put(getCanonicalForm(word.toString().toLowerCase()), pair);
 								}
 							}
 						}
@@ -83,8 +83,6 @@ public class TextParser {
 			}
 		}
 	}
-
-
 
 	public void printWords(String text) {
 		getWords(text);

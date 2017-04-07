@@ -23,7 +23,7 @@ public class FileLoader {
 
     }
 
-    public static List<File> getFiles(String directoryName, String extension) throws IOException {
+    public static List<File> getFilesForInternalPath(String directoryName, String extension) throws IOException {
 
         File targetDir = getTargetFile(directoryName);
 
@@ -35,12 +35,38 @@ public class FileLoader {
         return filesInFolder;
     }
 
+    public static List<File> getFilesForDirectoryPath(String directoryPath, String extension) throws IOException {
+        if(Files.isDirectory(Paths.get(directoryPath.toString()))) {
+            List<File> filesInFolder = Files.walk(Paths.get(directoryPath))
+                    .filter(Files::isRegularFile)
+                    .map(Path::toFile)
+                    .filter(p -> p.getName().contains(extension))
+                    .collect(Collectors.toList());
+            return filesInFolder;
+        } else {
+            System.out.println("Nu este un director valid");
+            return null;
+        }
+    }
+
+    public static int getNoFiles(String directoryName, String extension) throws IOException {
+
+        File targetDir = getTargetFile(directoryName);
+
+        List<File> filesInFolder = Files.walk(Paths.get(targetDir.getAbsolutePath()))
+                .filter(Files::isRegularFile)
+                .map(Path::toFile)
+                .filter(p -> p.getName().contains(extension))
+                .collect(Collectors.toList());
+        return filesInFolder.size();
+    }
+
     public static File getTargetFile(String directoryName) throws IOException {
         File currentDir = new File( "." ); // Read current file location
         File targetDir = null;
         if (currentDir.isDirectory()) {
             File parentDir = currentDir.getCanonicalFile().getParentFile(); // Resolve parent location out fo the real path
-            targetDir = new File( parentDir, "RIW-proiect\\src\\" + directoryName + "\\" ); // Construct the target directory file with the right parent directory
+            targetDir = new File( parentDir, "RIW-proiect\\working\\" + directoryName + "\\" ); // Construct the target directory file with the right parent directory
         }
         return targetDir;
     }
