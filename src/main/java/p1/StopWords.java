@@ -9,6 +9,9 @@ import java.util.List;
 /**
  * Created by Gheorghe on 3/1/2017.
  */
+
+//clasa care mapeaza stop word-urile din fisierul /resources/stopWords
+
 public class StopWords {
 
     public static List<String> stopWords;

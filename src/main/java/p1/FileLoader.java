@@ -23,6 +23,7 @@ public class FileLoader {
 
     }
 
+    //returneaza toate fisierele cu o anumita extensie, dintr-un director din cadrul proiectului
     public static List<File> getFilesForInternalPath(String directoryName, String extension) throws IOException {
 
         File targetDir = getTargetFile(directoryName);
@@ -35,6 +36,7 @@ public class FileLoader {
         return filesInFolder;
     }
 
+    //returneaza o lista de fisiere cu o anumita extensie, dintr-un director cu o cale specificata
     public static List<File> getFilesForDirectoryPath(String directoryPath, String extension) throws IOException {
         if(Files.isDirectory(Paths.get(directoryPath.toString()))) {
             List<File> filesInFolder = Files.walk(Paths.get(directoryPath))
@@ -47,6 +49,20 @@ public class FileLoader {
             System.out.println("Nu este un director valid");
             return null;
         }
+    }
+
+    //returneaza o lista de fisiere ce incep cu un caracter specificat din directorul "temp"
+    public static List<File> getFilesForChar(char c) throws IOException {
+        File targetDir = getTargetFile("temp");
+
+        List<File> filesInFolder = Files.walk(Paths.get(targetDir.getAbsolutePath()))
+                .filter(Files::isRegularFile)
+                .map(Path::toFile)
+                .filter(p -> p.getName().charAt(0)==c)
+                .filter(p -> p.getName().contains(".idc"))
+                .collect(Collectors.toList());
+
+        return filesInFolder;
     }
 
     public static int getNoFiles(String directoryName, String extension) throws IOException {
@@ -62,21 +78,22 @@ public class FileLoader {
     }
 
     public static File getTargetFile(String directoryName) throws IOException {
-        File currentDir = new File( "." ); // Read current file location
+        File currentDir = new File( "." );
         File targetDir = null;
         if (currentDir.isDirectory()) {
-            File parentDir = currentDir.getCanonicalFile().getParentFile(); // Resolve parent location out fo the real path
-            targetDir = new File( parentDir, "RIW-proiect\\working\\" + directoryName + "\\" ); // Construct the target directory file with the right parent directory
+            File parentDir = currentDir.getCanonicalFile().getParentFile();
+            targetDir = new File("RIW-proiect/working/" + directoryName + "/" );
         }
         return targetDir;
     }
 
+    //returneaza un fisier din directorul de resurse
     public static File getResourceFile(String fileName) throws IOException {
-        File currentDir = new File( "." ); // Read current file location
+        File currentDir = new File( "." );
         File targetDir = null;
         if (currentDir.isDirectory()) {
-            File parentDir = currentDir.getCanonicalFile().getParentFile(); // Resolve parent location out fo the real path
-            targetDir = new File( parentDir, "RIW-proiect\\src\\main\\resources\\" + fileName); // Construct the target directory file with the right parent directory
+            File parentDir = currentDir.getCanonicalFile().getParentFile();
+            targetDir = new File(fileName);
         }
         return targetDir;
     }

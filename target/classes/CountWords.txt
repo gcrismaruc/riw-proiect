@@ -1,7 +1,7 @@
 {
-  "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.idc" : 24,
-  "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.idc" : 26,
-  "D:\\de toate\\books\\0-5\\A Tale of Two Cities.idc" : 28,
-  "D:\\de toate\\books\\0-5\\Frankenstein.idc" : 22,
-  "D:\\de toate\\books\\0-5\\PrideAndJustice.idc" : 21
+  "C:\\Users\\Gheorghe\\Desktop\\folder\\3.idc" : 41569,
+  "C:\\Users\\Gheorghe\\Desktop\\folder\\1.idc" : 56414,
+  "C:\\Users\\Gheorghe\\Desktop\\folder\\2.idc" : 53976,
+  "C:\\Users\\Gheorghe\\Desktop\\folder\\4.idc" : 5824,
+  "C:\\Users\\Gheorghe\\Desktop\\folder\\5.idc" : 16498
 }

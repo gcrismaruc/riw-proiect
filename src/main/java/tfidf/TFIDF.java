@@ -26,9 +26,6 @@ public class TFIDF {
     private Map<String, List<Pair<String, Double>>> docTF;
     private ObjectMapper objectMapper = new ObjectMapper();
 
-
-
-
     private String querry;
 
     public TFIDF(String querry){
@@ -48,11 +45,12 @@ public class TFIDF {
                 directIndexFiles.addAll(myPairs.stream().map(pair -> pair.getKey()).collect(Collectors.toSet()));
             }
         }
-
-//        directIndexFiles = invertedIndexForQuerryWords.values().stream().forEach(myPairs ->
-//         myPairs.stream().map(pair -> pair.getKey()).collect(Collectors.toSet()));
     }
 
+    /**
+     * Realizeaza boolean search pentru cuvintele dintr-o interogare
+     * @throws IOException
+     */
     public void booleanSearch() throws IOException {
         Queue<String> queue = QuerryParser.parse(this.querry);
         ObjectMapper objectMapper = new ObjectMapper();
@@ -66,113 +64,14 @@ public class TFIDF {
             Map<String, List<MyPair>> stringListMap = objectMapper.readValue(file, new TypeReference<HashMap<String, ArrayList<MyPair>>>(){});
             invertedIndexForQuerryWords.put(word, stringListMap.get(word));
         }
-
-        System.out.println(invertedIndexForQuerryWords);
-//        System.out.println(directIndexFiles);
     }
 
-    public void calculateIDF(){
-        Queue<String> queue = QuerryParser.parse(this.querry);
-
-        getDirectIndexFiles();
-
-        while(queue.size() != 0){
-            String word = queue.poll();
-            if(invertedIndexForQuerryWords.get(word) != null) {
-                double idf = 1.0 + Math.log(directIndexFiles.size() / invertedIndexForQuerryWords.get(word).size());
-                idfMap.put(word, idf);
-            } else {
-                idfMap.put(word, 0.0);
-            }
-        }
-
-        System.out.println(idfMap);
-    }
-
-    @Deprecated
-    public void calculateTF() throws IOException {
-        File file = new File("\\RIW-proiect\\src\\main\\resources\\CountWords.txt");
-
-        totalNumberOfWords = objectMapper.readValue(file, new TypeReference<HashMap<String, Integer>>() {});
-
-        this.calculateIDF();
-
-        docTF  = new HashMap<>();
-
-//        for(Map.Entry entry : invertedIndexForQuerryWords.entrySet()){
-//            List<MyPair> myPairs = (List<MyPair>) entry.getValue();
-//            if(myPairs != null) {
-//                for (MyPair pair : myPairs) {
-//
-//                    double tf = ((double) pair.getValue()) / totalNumberOfWords.get(pair.getKey().replace(".txt", ".idc"));
-//                    double val = tf * idfMap.get(entry.getKey());
-//
-//                    Pair wordTF = new Pair(entry.getKey(), val);
-//                    if (docTF.containsKey(pair.getKey())) {
-//                        Set<Pair<String, Double>> pairs = docTF.get(pair.getKey());
-//                        pairs.add(wordTF);
-//                        docTF.put(pair.getKey(), pairs);
-//                    } else {
-//                        Set<Pair<String, Double>> pairs = new TreeSet<>();
-//                        pairs.add(wordTF);
-//                        docTF.put(pair.getKey(), pairs);
-//                    }
-//                }
-//            }
-//        }
-//
-//        Set<String> words = invertedIndexForQuerryWords.keySet();
-//
-//        for(Map.Entry entry : docTF.entrySet()){
-//            Set<Pair<String, Double>> set = (Set<Pair<String, Double>>) entry.getValue();
-//
-//            for(String word : words){
-//                if(set.stream().map(p->p.getKey().equals(word)).count() != 1){
-//                    set.add(new Pair<>(word, 0.0));
-//                }
-//            }
-//
-//            docTF.put((String) entry.getKey(), set);
-//        }
-
-        Set<String> words = invertedIndexForQuerryWords.keySet();
-
-        for(String doc : directIndexFiles){
-            List<Pair<String, Double>> pairs = new ArrayList<>();
-
-            for(String word : words) {
-                List<MyPair> myPairs = invertedIndexForQuerryWords.get(word);
-                if (myPairs != null) {
-                    for (MyPair pair : myPairs) {
-                        double tf, val;
-                        if (pair.getKey().equals(doc)) {
-                            tf = ((double) pair.getValue()) / totalNumberOfWords.get(pair.getKey().replace(".txt", ".idc"));
-                            val = tf * idfMap.get(word);
-
-                            List<Pair<String, Double>> l = new ArrayList<>(pairs);
-                            for(Pair p : l){
-                                if(p.getKey().equals(word))
-                                    pairs.remove(p);
-                            }
-
-                            pairs.add(new Pair<>(word, val));
-                        } else {
-                            if(pairs.stream().filter(p->p.getKey().equals(word)).count() == 0){
-                                pairs.add(new Pair<>(word, 0.0));
-                            }
-                        }
-                    }
-                }
-            }
-            docTF.put(doc, pairs);
-        }
-
-        for(Map.Entry entry : docTF.entrySet()){
-            System.out.println(entry);
-        }
-
-    }
-
+    /**
+     * calculeaza distanta cosinus intre o interogare si setul de documente
+     * rezultat in urma booleanSerach
+     * @return
+     * @throws IOException
+     */
     public Set<String> calculateDistance() throws IOException {
         booleanSearch();
 
@@ -193,23 +92,28 @@ public class TFIDF {
 
         Map<String, Double> distanceMap = new HashMap<>();
         double sum = 0.0;
-        //calculate norm for query
+        //calculez norma interogarii
         for(String word:words){
-            double idf = idfMap.get(word);
-            double tf = 1.0/words.size();
-            tfidfQuerry.put(word, tf*idf);
+            double idf, tf;
+            if(idfMap.containsKey(word)) {
+                idf = idfMap.get(word);
+                tf = 1.0 / words.size();
+                tfidfQuerry.put(word, tf * idf);
 
-            sum += (tf*idf)*(tf*idf);
+                sum += (tf * idf) * (tf * idf);
+            } else {
+                sum += 0.0;
+            }
         }
 
         double normQuerry = Math.sqrt(sum);
 
-        //get all docs after boolean search
-//        Set<List<MyPair>> values = (Set<List<MyPair>>) invertedIndexForQuerryWords;
-
+        //iau toate documentele rezultate din boolean search
         Set<String> docs = new TreeSet<>();
-        for(List<MyPair> list : invertedIndexForQuerryWords.values()){
-            docs.addAll(list.stream().map(p->p.getKey()).collect(Collectors.toSet()));
+        for(List<MyPair> list : invertedIndexForQuerryWords.values()) {
+            if (list != null) {
+                docs.addAll(list.stream().map(p -> p.getKey()).collect(Collectors.toSet()));
+            }
         }
 
         List<File> documents = FileLoader.getFilesForInternalPath("Norms", ".norm");
@@ -219,12 +123,12 @@ public class TFIDF {
             norms.putAll(objectMapper.readValue(file, new TypeReference<TreeMap<String, Double>>(){}));
         }
 
-        documents = FileLoader.getFilesForInternalPath("TF", ".tf");
+        //pentru fiecare document din boolean search calculez distanta cosinus
         for(String doc : docs) {
 
             String fileName = Paths.get(doc).getFileName().toString();
 
-            String filePath = Constants.PATH_TO_TF + fileName.replaceFirst("[.][^.]+$", ".tf");;
+            String filePath = Constants.PATH_TO_TF + fileName.replaceFirst("[.][^.]+$", ".tf");
 
             Map<String, Double> tf = objectMapper.readValue(new File(filePath), new TypeReference<TreeMap<String, Double>>(){});
             double wordTF, wordIDF;
@@ -246,7 +150,7 @@ public class TFIDF {
             distanceMap.put(doc, vectorialProduct / normProduct);
         }
 
-        //sort distance map
+        //sortare distance map
         distanceMap = distanceMap.entrySet().stream()
                 .sorted(Map.Entry.comparingByValue(Collections.reverseOrder()))
                 .collect(Collectors.toMap(
@@ -255,10 +159,10 @@ public class TFIDF {
                         (e1, e2) -> e1,
                         LinkedHashMap::new));
 
-        System.out.println("Cos distance:");
-        for(Map.Entry entry : distanceMap.entrySet()){
-            System.out.println(entry);
-        }
+//        System.out.println("Cos distance:");
+//        for(Map.Entry entry : distanceMap.entrySet()){
+//            System.out.println(entry);
+//        }
 
         return distanceMap.keySet();
     }

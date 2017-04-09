@@ -16,11 +16,19 @@ import java.util.TreeMap;
 /**
  * Created by Gheorghe on 4/6/2017.
  */
-public class IDF {
+public class IDF implements Runnable{
 
 //    public  static Map<String, Double> idf = new ConcurrentHashMap<>();
 
     private static final ObjectMapper objectMapper = new ObjectMapper();
+
+    private File file;
+    private double nrTotalFisiere;
+
+    public IDF(File file, double nrTotalFisiere){
+        this.file = file;
+        this.nrTotalFisiere = nrTotalFisiere;
+    }
 
     public void calculateIDF(String pathToDir) throws IOException {
 
@@ -32,7 +40,13 @@ public class IDF {
         }
     }
 
-    private void calculateIDF(File file, int nrFile) throws IOException {
+    /**
+     * Calculeaza idf-ul pentru toate cuvintele dintr-un fisier dat ca parametru
+     * @param file
+     * @param nrFile
+     * @throws IOException
+     */
+    private void calculateIDF(File file, double nrFile) throws IOException {
         System.out.println("CALCULATE IDF " + Thread.currentThread().getId() + " " + file.getName());
 
         Map<String, List<MyPair>> map = objectMapper.readValue(file, new TypeReference<TreeMap<String,ArrayList<MyPair>>>() {});
@@ -41,7 +55,7 @@ public class IDF {
         for(Map.Entry entry : map.entrySet()){
             int nrFilesForWord = ((List<DirectIndex>)entry.getValue()).size();
 
-            idfMap.put((String) entry.getKey(), Math.log((double)nrFile / nrFilesForWord));
+            idfMap.put((String) entry.getKey(), Math.log((double)nrFile / nrFilesForWord) + 1);
         }
 
         String newPath = file.getPath().toString().replace("InverseIndex", "IDF")
@@ -50,4 +64,12 @@ public class IDF {
     }
 
 
+    @Override
+    public void run() {
+        try {
+            calculateIDF(this.file, this.nrTotalFisiere);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
 }

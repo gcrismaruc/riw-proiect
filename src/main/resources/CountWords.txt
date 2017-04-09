@@ -1,16 +1,7 @@
 {
-  "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.idc" : 85324,
-  "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.idc" : 15416,
-  "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.idc" : 65810,
-  "D:\\de toate\\books\\0-5\\A Tale of Two Cities.idc" : 70758,
-  "D:\\de toate\\books\\5-10\\Metamorphosis.idc" : 12100,
-  "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.idc" : 13018,
-  "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.idc" : 43155,
-  "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.idc" : 50675,
-  "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.idc" : 4557,
-  "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.idc" : 46966,
-  "D:\\de toate\\books\\0-5\\Frankenstein.idc" : 47409,
-  "D:\\de toate\\books\\10-15\\The Prince.idc" : 26596,
-  "D:\\de toate\\books\\5-10\\A Doll's House.idc" : 14257,
-  "D:\\de toate\\books\\0-5\\PrideAndJustice.idc" : 59335
+  "C:\\Users\\Gheorghe\\Desktop\\folder\\3.idc" : 41569,
+  "C:\\Users\\Gheorghe\\Desktop\\folder\\1.idc" : 56414,
+  "C:\\Users\\Gheorghe\\Desktop\\folder\\2.idc" : 53976,
+  "C:\\Users\\Gheorghe\\Desktop\\folder\\4.idc" : 5824,
+  "C:\\Users\\Gheorghe\\Desktop\\folder\\5.idc" : 16498
 }

@@ -28,6 +28,12 @@ public class Norm implements  Runnable{
         this.file = file;
     }
 
+    /**
+     * calculeaza norma unui fisier dat ca parametru
+     * trebuie sa fie calculati in prealabil tf si idf
+     * @param file
+     * @throws IOException
+     */
     public void calculateNormsForFile(File file) throws IOException {
         String pathToNewFile = Constants.PATH_TO_NORM + file.getName().replace(".tf", ".norm");
         String pathToIdf = Constants.PATH_TO_IDF;

@@ -15,6 +15,7 @@ public class TextParser {
 		return aparitii;
 	}
 
+
 	public static Map<String, MyPair> getParsedWords(String text, String fileName) {
 
 		StringBuilder word = new StringBuilder();
@@ -22,7 +23,7 @@ public class TextParser {
 
 		for(int i = 0; i < text.length(); i++) {
 			if(!Character.isLetter(text.charAt(i)) && text.charAt(i) != '\''){
-				if(!word.toString().equals("")) {
+				if(!word.toString().equals("") && word.length() > 1) {
 					String canonicalForm = getCanonicalForm(word.toString().toLowerCase());
 					if (words.containsKey(canonicalForm)) {
 						MyPair pair = words.get(canonicalForm);

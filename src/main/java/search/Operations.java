@@ -84,6 +84,12 @@ public class Operations {
         return set1.stream().filter(f -> !set2.contains(f)).collect(Collectors.toList());
     }
 
+    /**
+     * Realizeaza reuniunea dintre un set de stringuri si un cuvant
+     * @param set1
+     * @param cuv
+     * @return
+     */
     public Set<String> doUnion(Set<String> set1, String cuv){
         Set<String> set = new HashSet<>();
         set.addAll(set1);
@@ -94,6 +100,12 @@ public class Operations {
         return set;
     }
 
+    /**
+     * Realizeaza intersectia dintre un set de stringuri si un cuvant
+     * @param set1
+     * @param cuv
+     * @return
+     */
     public Set<String> doIntersection(Set<String> set1, String cuv) {
         if (mappedWords.containsKey(cuv)) {
             Set<String> set2 = mappedWords.get(cuv).stream().map(p -> p.getKey()).collect(Collectors.toSet());
@@ -103,6 +115,12 @@ public class Operations {
         }
     }
 
+    /**
+     * Realizeaza diferenta dintre un set de stringuri si un cuvant
+     * @param set1
+     * @param cuv
+     * @return
+     */
     public Set<String> doDifference(Set<String> set1, String cuv) {
         if (mappedWords.containsKey(cuv)) {
             Set<String> set2 = mappedWords.get(cuv).stream().map(p -> p.getKey()).collect(Collectors.toSet());

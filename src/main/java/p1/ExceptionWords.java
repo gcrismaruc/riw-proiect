@@ -6,6 +6,7 @@ import java.util.List;
 /**
  * Created by Gheorghe on 3/1/2017.
  */
+//clasa care mapeaza exceptiile din fisierul /resources/exceptionWords
 public class ExceptionWords {
 
     public static List<String> exceptionWords;

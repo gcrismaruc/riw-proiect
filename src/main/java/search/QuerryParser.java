@@ -10,12 +10,15 @@ import java.util.Queue;
  */
 public class QuerryParser {
 
-//    private List<String> querryWords;
 
     public QuerryParser(){
-//        this.querryWords = new ArrayList<>();
     }
 
+    /**
+     * Imparte un string in cuvinte si returneaza o coada de cuvinte in forma lor caninica
+     * @param querry
+     * @return
+     */
     public static Queue<String> parse(String querry){
         StringBuilder word = new StringBuilder();
         Queue<String> querryWords = new ArrayDeque<>();

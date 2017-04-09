@@ -1,4510 +1,1732 @@
 {
-  "u" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 7
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 5
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  } ],
-  "ubaldo" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
+  "uc" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 2
   } ],
-  "uberti" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  } ],
-  "ubiquit" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+  "ucla" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 2
-  } ],
-  "ud" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 3
-  } ],
-  "uffa" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
   } ],
   "ugh" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
   } ],
   "ugli" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 4
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 5
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 6
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 9
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 16
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 7
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 2
-  } ],
-  "uglier" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
-  "uglif" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  } ],
-  "uglifi" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  } ],
-  "uguccion" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 22
-  } ],
-  "ugucionn" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
+  "ugliest" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   } ],
-  "ulster" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 6
+  "uh" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 1
+  } ],
+  "ulcer" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 1
+  } ],
+  "ulm" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 1
   } ],
   "ultim" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 2
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "um" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 20
-  } ],
-  "umbl" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 2
   } ],
   "umbrella" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 2
-  } ],
-  "umf" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
   } ],
   "un" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 12
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "unab" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "unabash" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
   } ],
   "unabl" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 22
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 14
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 9
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 8
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 3
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 5
-  } ],
-  "unaccount" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  } ],
-  "unaccus" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "unaccustom" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  } ],
-  "unacknowledg" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "unacquaint" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "unadept" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  } ],
-  "unadorn" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  } ],
-  "unadulter" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  } ],
-  "unadvis" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\4.txt",
+    "value" : 3
   } ],
   "unaffect" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  } ],
-  "unaffectedli" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  } ],
-  "unal" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "unalloi" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  } ],
-  "unalt" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "unalter" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "unanim" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  } ],
-  "unanswer" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
-  "unappeas" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+  "unansw" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 1
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 1
   } ],
-  "unapproach" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+  "unanticip" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 1
+  } ],
+  "unappreci" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
   "unarm" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 9
-  } ],
-  "unask" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "unaspir" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  } ],
-  "unassail" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  } ],
-  "unassum" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 2
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 3
   } ],
-  "unattain" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+  "unassum" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   } ],
-  "unattend" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+  "unattain" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 2
+  } ],
+  "unattend" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 2
+  } ],
+  "unattract" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   } ],
   "unavail" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  } ],
-  "unaveng" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
   "unavoid" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
   } ],
   "unawar" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
-  "unbar" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+  "unbal" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "unbear" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 5
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  } ],
-  "unbeaten" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  } ],
-  "unbecom" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 3
-  } ],
-  "unbelief" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 2
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "unbeliev" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  } ],
-  "unbend" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "unbent" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "unbidden" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 7
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
-  "unblemish" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "unblink" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  } ],
-  "unblush" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "unbolt" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  } ],
-  "unborn" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  } ],
-  "unborrowd" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  } ],
-  "unbound" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  } ],
-  "unbreak" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "unbridl" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+  "unblinkingli" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   } ],
   "unbroken" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
-  "unbrutalis" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+  "unbuckl" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
-  "unbuilt" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "unburn" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+  "unburden" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "unbutton" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   } ],
-  "uncarpet" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+  "uncanni" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+  } ],
+  "uncap" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
   "unceas" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "unceasingli" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "uncertain" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 4
   } ],
   "uncertainli" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  } ],
-  "uncertainti" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  } ],
-  "unchain" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   } ],
   "unchang" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 2
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 3
   } ],
   "uncheck" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  } ],
-  "uncivil" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 2
-  } ],
-  "uncl" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 14
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 10
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 72
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 13
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 57
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 19
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 26
   } ],
   "unclaim" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 3
   } ],
   "unclasp" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 2
-  } ],
-  "unclean" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  } ],
-  "uncleans" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   } ],
   "unclear" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  } ],
-  "unclos" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "uncock" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  } ],
-  "uncom" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 2
-  } ],
-  "uncomb" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "uncomfort" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 8
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 4
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "uncommit" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
   "uncommon" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 6
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 2
   } ],
   "uncommonli" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 2
   } ],
-  "uncompanion" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+  "uncompl" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "uncomplain" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 1
+  } ],
+  "uncomprehendingli" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 2
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "uncompromis" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "unconcern" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
-  "uncongeni" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+  "uncondi" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "unconnect" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  } ],
-  "unconquer" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "unconsci" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 12
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 5
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 5
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 7
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 9
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 4
   } ],
-  "unconsum" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
+  "unconscion" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "uncontrol" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 2
+  } ],
+  "unconvinc" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 3
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 1
+  } ],
+  "uncoop" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 1
   } ],
   "uncork" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  } ],
-  "uncorrupt" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "uncourt" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "uncouth" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   } ],
   "uncov" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
-  "uncushion" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+  "undamag" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
-  "und" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+  "undef" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   } ],
-  "undat" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+  "undeni" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 1
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
-  "undec" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+  "undepend" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
-  "undeceiv" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+  "underarm" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   } ],
-  "undecid" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+  "underbelli" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  } ],
-  "undefin" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
   } ],
   "underbrush" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 4
   } ],
   "undercloth" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  } ],
-  "undergo" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "undergon" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 2
   } ],
-  "undergradu" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+  "undercov" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 2
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 3
+  } ],
+  "undercurr" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
+  } ],
+  "underestim" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 2
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 1
+  } ],
+  "underf" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 3
+  } ],
+  "underfoot" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 1
+  } ],
+  "undergar" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 1
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 6
   } ],
   "underground" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 2
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 2
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 49
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 1
   } ],
   "undergrowth" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  } ],
-  "underli" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  } ],
-  "underlip" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 2
   } ],
+  "underli" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 1
+  } ],
+  "undermin" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 3
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 3
+  } ],
   "underneath" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 2
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 2
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\4.txt",
     "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 6
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+  } ],
+  "underpow" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
   "underr" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
+  } ],
+  "underse" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 1
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 4
   } ],
   "undershirt" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 4
+  } ],
+  "undershort" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 3
   } ],
   "undersid" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 2
+  } ],
+  "understaf" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
   "understand" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 33
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 22
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 52
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 14
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 9
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 19
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 28
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 20
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 41
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 13
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 16
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 51
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
-  } ],
-  "understood" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 14
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 13
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 11
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\4.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 3
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 15
   } ],
-  "undertak" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 9
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 17
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+  "understat" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 1
+  } ],
+  "understood" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 5
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 4
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 9
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 2
-  } ],
-  "undertaken" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  } ],
-  "underton" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  } ],
-  "undertook" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
-  "undervalu" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  } ],
-  "underw" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  } ],
-  "underwai" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  } ],
-  "underwear" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  } ],
-  "underwood" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  } ],
-  "undeserv" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+  "undertak" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 4
   } ],
-  "undetermin" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+  "underwat" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 4
   } ],
-  "undid" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "undigest" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  } ],
-  "undignifi" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  } ],
-  "undiminish" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "undirect" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "undisclos" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "undiscov" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+  "underwear" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 1
+  } ],
+  "underworld" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 3
+  } ],
+  "undeserv" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 1
+  } ],
+  "undetect" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
   } ],
-  "undisguis" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+  "undi" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 2
   } ],
   "undismai" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  } ],
-  "undispos" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  } ],
-  "undistinguish" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "undisturb" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 2
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  } ],
-  "undivid" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\4.txt",
     "value" : 1
   } ],
   "undo" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 2
   } ],
   "undon" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  } ],
-  "undoubt" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
   } ],
   "undoubtedli" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 2
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 2
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 8
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 4
+  } ],
+  "undream" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "undress" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  } ],
-  "undu" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
-  "undug" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+  "undrink" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "undul" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  } ],
-  "unduli" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  } ],
-  "unduti" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "unearth" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 1
   } ],
   "unearthli" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 1
+  } ],
+  "uneas" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 2
   } ],
   "uneasi" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 14
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 5
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 12
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 8
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 17
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 3
-  } ],
-  "uneasili" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  } ],
-  "uneduc" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  } ],
-  "unembarrass" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 2
   } ],
-  "unemploi" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+  "unedifi" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
-  "unencumb" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "unenforc" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+  "unemploy" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 7
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  } ],
-  "unenlighten" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 6
   } ],
   "unequ" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 5
-  } ],
-  "unequal" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  } ],
-  "uneven" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
   } ],
-  "unexampl" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+  "unev" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 2
   } ],
   "unexpect" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 3
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 2
   } ],
   "unexpectedli" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+  } ],
+  "unexpi" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "unexplain" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "unexplor" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "unfail" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  } ],
-  "unfailingli" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "unfair" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  } ],
-  "unfaith" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 3
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 1
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 2
   } ],
-  "unfashion" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+  "unfamiliar" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 5
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  } ],
-  "unfasten" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 4
   } ],
   "unfathom" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
-  "unfavor" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+  "unfaz" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
-  "unfavour" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  } ],
-  "unfeel" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  } ],
-  "unfeign" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "unfelt" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  } ],
-  "unfenc" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "unfett" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "unfinish" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "unfit" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  } ],
-  "unflag" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+  "unflinch" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "unfold" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 1
+  } ],
+  "unforgett" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 5
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  } ],
-  "unforeseen" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 4
   } ],
   "unforgiv" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 2
-  } ],
-  "unform" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "unfortun" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 5
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 5
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 9
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 18
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 7
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 13
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 9
   } ],
   "unfound" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "unfrequ" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "unfriendli" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
-  "unfruit" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
+  "unger" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
-  "unfulfil" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  } ],
-  "unfurl" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  } ],
-  "ungainli" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  } ],
-  "ungaz" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  } ],
-  "ungener" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "ungent" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "ungentlemanli" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  } ],
-  "unglaz" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  } ],
-  "ungovern" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "ungrac" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  } ],
-  "ungraci" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  } ],
-  "ungrasp" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  } ],
-  "ungrat" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 3
-  } ],
-  "ungratitud" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+  "ungracefulli" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\4.txt",
     "value" : 1
   } ],
   "unguard" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
-  } ],
-  "unhallow" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  } ],
-  "unhandsom" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "unhappi" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 11
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 23
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 15
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  } ],
-  "unhappili" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 3
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
-  "unharden" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+  "unhappili" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 1
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 2
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "unharm" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 2
   } ],
   "unhealthi" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "unheard" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 1
+  } ],
+  "unhing" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 1
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  } ],
-  "unheed" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "unhistor" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  } ],
-  "unhitch" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  } ],
-  "unholi" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
   } ],
   "unhook" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 2
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 1
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 1
   } ],
-  "unicorn" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
+  "uni" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 1
   } ],
   "unifi" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "uniform" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 3
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 12
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 7
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 9
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  } ],
-  "uniformli" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  } ],
-  "unimagin" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  } ],
-  "unimpair" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "unimpeach" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 2
-  } ],
-  "unimped" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  } ],
-  "unimport" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 5
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "uninhabit" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
   } ],
   "uninjur" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  } ],
-  "uninstruct" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   } ],
   "unintellig" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 3
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "unintention" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  } ],
-  "uninterest" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  } ],
-  "uninterrupt" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "uninvit" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "union" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 16
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 12
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\4.txt",
+    "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 3
-  } ],
-  "unionist" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "uniqu" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 5
-  } ],
-  "unirrig" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 4
   } ],
   "unison" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 2
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 1
   } ],
   "unit" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 17
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 10
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 26
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 17
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\4.txt",
+    "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 20
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 10
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 10
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 14
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 10
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 23
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 10
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 10
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 11
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 13
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 11
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 15
+  } ],
+  "unitard" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 2
+  } ],
+  "unitarian" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 1
   } ],
   "uniti" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 2
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 4
+  } ],
+  "univ" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
   "univers" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 8
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 7
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 2
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 47
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\4.txt",
     "value" : 2
-  } ],
-  "unjudg" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 30
   } ],
   "unjust" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 6
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 3
   } ],
   "unjustifi" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 1
   } ],
   "unjustli" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  } ],
-  "unkempt" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "unkind" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  } ],
-  "unkindli" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  } ],
-  "unkiv" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  } ],
-  "unknowingli" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   } ],
   "unknown" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 7
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 2
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 5
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  } ],
-  "unlaw" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "unless" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 9
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 6
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 9
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 24
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 13
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 5
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 16
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 6
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 23
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 22
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 5
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 6
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 15
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 4
+  } ],
+  "unlight" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 2
   } ],
   "unlik" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 7
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 6
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 11
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 4
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 1
   } ],
   "unlimit" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 3
+  } ],
+  "unlist" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
-  "unlink" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+  "unlit" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 2
+  } ],
+  "unliv" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "unload" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 4
   } ],
   "unlock" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 7
   } ],
   "unlucki" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 6
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  } ],
-  "unluckili" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\4.txt",
     "value" : 2
   } ],
-  "unmak" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  } ],
-  "unmark" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
   "unmarri" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 3
-  } ],
-  "unmean" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
-  } ],
-  "unmeritedli" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  } ],
-  "unmingl" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
   } ],
   "unmistak" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "unmix" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 4
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 4
   } ],
   "unmolest" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
   "unmov" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 2
-  } ],
-  "unmown" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  } ],
-  "unnat" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
   } ],
   "unnatur" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 3
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 2
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 4
   } ],
   "unnecessari" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  } ],
-  "unnecessarili" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "unnerv" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 2
   } ],
   "unnot" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 1
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 4
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
   "unobserv" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 2
   } ],
   "unobtrus" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  } ],
-  "unoccupi" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  } ],
-  "unoffici" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
   "unopen" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
-  "unornament" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "unpack" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  } ],
-  "unpalat" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  } ],
-  "unpap" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "unparallel" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 5
-  } ],
-  "unpardon" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 2
-  } ],
-  "unpeopl" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  } ],
-  "unperceiv" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  } ],
-  "unpictur" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  } ],
-  "unpirat" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  } ],
-  "unplast" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+  "unpaid" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   } ],
   "unpleas" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 9
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 3
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 7
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 5
-  } ],
-  "unpleasantli" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "unpoet" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 4
   } ],
   "unpopular" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  } ],
-  "unpractis" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "unpreced" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "unprejud" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 1
   } ],
   "unprepar" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 1
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
   } ],
-  "unpretend" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "unprincipl" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "unprofit" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "unpromis" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  } ],
-  "unprosper" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+  "unproduct" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "unprotect" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  } ],
-  "unpublish" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  } ],
-  "unpunctu" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
   "unqualifi" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "unquam" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  } ],
-  "unquench" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  } ],
-  "unquestion" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 2
   } ],
-  "unquiet" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+  "unquestion" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 1
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
   "unravel" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 1
+  } ],
+  "unreach" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 2
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 3
   } ],
   "unread" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  } ],
-  "unreadi" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   } ],
   "unreal" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 5
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 8
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 1
   } ],
   "unreason" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 8
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 2
-  } ],
-  "unrecognis" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
-  "unregular" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 3
+  "unrecogniz" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 1
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 2
+  } ],
+  "unregard" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 1
+  } ],
+  "unregul" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 1
   } ],
   "unrel" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   } ],
-  "unrelax" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+  "unrequit" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   } ],
-  "unreli" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
+  "unresist" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
-  "unremit" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  } ],
-  "unrepair" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+  "unrespons" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
-  "unreserv" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  } ],
-  "unreservedli" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  } ],
-  "unrestfulli" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+  "unrest" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 2
   } ],
   "unrestrain" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
-  "unrip" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  } ],
-  "unrob" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+  "unrestrict" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "unrol" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  } ],
-  "unromant" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "unruli" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "unsaf" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "unsaid" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
   "unsatisfactori" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "unsatisfi" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
-  "unsavouri" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
+  "unscath" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 1
+  } ],
+  "unschedul" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
   "unscrew" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 1
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
   "unscrupul" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  } ],
-  "unseal" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "unseat" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   } ],
   "unseen" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 6
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 2
-  } ],
-  "unseldom" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "unselfconsci" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "unselfish" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
   } ],
   "unsettl" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  } ],
-  "unsewn" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   } ],
-  "unshackl" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+  "unsightli" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
-  "unshad" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "unshaken" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  } ],
-  "unshap" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "unsoci" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "unsoften" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  } ],
-  "unsolicit" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  } ],
-  "unsolv" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "unsought" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  } ],
-  "unsound" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  } ],
-  "unspeak" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+  "unspoken" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 2
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 2
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 2
-  } ],
-  "unspoil" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  } ],
-  "unspot" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 2
   } ],
   "unstabl" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  } ],
-  "unstain" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 2
   } ],
   "unsteadi" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  } ],
-  "unsteadili" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "unstop" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  } ],
-  "unstudi" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "unsubdu" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "unsubstanti" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "unsuccess" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   } ],
   "unsuccessfulli" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
-  "unsuit" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  } ],
-  "unsulli" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  } ],
-  "unsupport" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+  "unsung" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "unsur" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  } ],
-  "unsuspici" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 5
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "unswallow" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "unsympath" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  } ],
-  "unsympathet" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 2
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
-  "unsystemat" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+  "unsuspect" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
-  "untam" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "untarnish" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  } ],
-  "untast" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  } ],
-  "untaught" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  } ],
-  "unten" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
+  "untangl" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 2
   } ],
   "unthink" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
-  } ],
-  "unthought" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "unti" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  } ],
-  "untidi" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  } ],
-  "untim" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "untinctur" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\4.txt",
     "value" : 1
   } ],
   "untir" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "untitl" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "unto" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\4.txt",
     "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
   } ],
   "untold" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "untouch" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 5
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
-  "untrack" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "untrim" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "untrodden" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  } ],
-  "untroubl" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
+  "untreat" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 2
   } ],
   "untru" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   } ],
-  "untruth" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+  "untuck" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 2
   } ],
-  "untwist" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  } ],
-  "unum" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  } ],
   "unus" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 4
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\4.txt",
     "value" : 1
   } ],
   "unusu" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 10
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 2
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 2
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 9
-  } ],
-  "unutter" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\4.txt",
     "value" : 1
   } ],
-  "unvari" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+  "unw" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
-  "unveil" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  } ],
-  "unvisit" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  } ],
-  "unweari" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "unwel" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+  "unwant" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+  } ],
+  "unwarr" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 1
+  } ],
+  "unwash" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "unwelcom" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "unwhitewash" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  } ],
-  "unwholesom" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 2
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 1
   } ],
   "unwil" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 5
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  } ],
-  "unwilling" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  } ],
-  "unwillingli" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "unwind" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 2
   } ],
-  "unwis" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  } ],
-  "unwont" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+  "unwittingli" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "unworthi" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  } ],
-  "unworthili" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "unwound" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
   } ],
   "unwrap" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   } ],
   "unyield" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
-  "unyok" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+  "unzip" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 3
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 3
   } ],
   "up" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 532
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 385
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 351
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 279
   } ],
-  "upbraid" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+  "upbeat" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
+  } ],
+  "upcom" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 2
   } ],
   "updat" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 2
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
-  "upest" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+  "upgrad" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
-  "upheav" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "upheld" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  } ],
-  "uphold" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+  "uphil" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 2
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 2
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 1
   } ],
-  "upholster" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+  "upi" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
   "uplift" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+  } ],
+  "uplos" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+  } ],
+  "upn" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
   "upon" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 291
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 5
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 28
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 128
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 78
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 200
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 150
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 86
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 58
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 15
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 2
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 467
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 11
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\4.txt",
+    "value" : 36
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 13
   } ],
   "upper" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 4
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 2
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 6
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 10
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 3
   } ],
-  "uppermost" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+  "uppercut" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
-  "uppish" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  } ],
-  "uprais" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+  "upplandsgaten" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
   "upright" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 2
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 4
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 9
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\4.txt",
     "value" : 1
   } ],
+  "upris" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 2
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 40
+  } ],
   "uproar" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
+  } ],
+  "uproot" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+  } ],
+  "upscal" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "upset" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 4
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 6
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 8
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
-  "upshot" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "upsid" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
+  "upstag" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   } ],
   "upstair" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 6
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 16
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 16
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 10
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  } ],
-  "upstart" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
   } ],
   "upstream" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  } ],
-  "upstreet" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 1
+  } ],
+  "uptight" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 10
   } ],
   "uptown" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  } ],
-  "upturn" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 3
   } ],
   "upward" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 10
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 2
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 6
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 4
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 1
   } ],
   "urban" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
-  } ],
-  "urbino" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 10
-  } ],
-  "urchin" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 12
   } ],
   "urg" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 8
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 12
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 6
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 3
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 1
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 4
   } ],
   "urgenc" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 2
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
     "value" : 1
   } ],
   "urgent" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
-  "uri" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+  "urin" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 1
+  }, {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
   "urn" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 3
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 1
+  } ],
+  "uruguai" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 1
+  } ],
+  "uruguayan" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
   "us" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 186
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 349
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 70
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 396
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 103
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 231
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 187
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\4.txt",
+    "value" : 30
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 36
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 77
+  } ],
+  "usa" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 1
+  } ],
+  "usabl" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 136
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 110
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 203
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 84
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 83
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 293
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 67
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 280
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 56
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 1
   } ],
   "usag" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
+  } ],
+  "usc" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
   "useless" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 11
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 9
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 6
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 2
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 7
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 6
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 3
-  } ],
-  "uselessli" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  } ],
-  "usent" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  } ],
-  "user" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 3
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 3
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 5
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\4.txt",
     "value" : 3
   } ],
   "usher" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 2
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 3
-  } ],
-  "ust" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  } ],
-  "usual" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 56
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 7
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 7
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 42
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 8
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 14
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 6
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 8
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 20
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 14
-  } ],
-  "usurp" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 4
-  } ],
-  "ut" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\The Yellow Wallpaper.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Metamorphosis.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 1
-  } ],
-  "utensil" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 2
   } ],
-  "utf" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 1
+  "usual" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
+    "value" : 27
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\AliceAdventuresInWornderland.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 38
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 63
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 8
+  } ],
+  "ut" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
-  "uti" : [ {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
+  "utah" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 2
+  } ],
+  "uterin" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 2
+  } ],
+  "uteru" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
   "util" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 1
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 4
   } ],
   "utilitarian" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "utmost" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 9
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 6
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 10
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
-    "value" : 7
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
+    "value" : 1
+  } ],
+  "utopian" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
+    "value" : 2
+  } ],
+  "utrecht" : [ {
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\3.txt",
     "value" : 1
   } ],
   "utter" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 15
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 25
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 11
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
-    "value" : 6
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\2.txt",
+    "value" : 3
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 5
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\A Doll's House.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\4.txt",
     "value" : 1
   }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 6
-  } ],
-  "utterback" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 1
   } ],
   "utterli" : [ {
-    "key" : "D:\\de toate\\books\\0-5\\A Tale of Two Cities.txt",
-    "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\Frankenstein.txt",
-    "value" : 11
-  }, {
-    "key" : "D:\\de toate\\books\\0-5\\PrideAndJustice.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\Grimms' Fairy Tales.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Adventures of Tom Sawyer.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\1.txt",
     "value" : 4
   }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Picture of Dorian Gray.txt",
-    "value" : 1
-  }, {
-    "key" : "D:\\de toate\\books\\10-15\\The Prince.txt",
+    "key" : "C:\\Users\\Gheorghe\\Desktop\\folder\\5.txt",
     "value" : 3
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Adventures of Sherlock Holmes.txt",
-    "value" : 4
-  }, {
-    "key" : "D:\\de toate\\books\\5-10\\The Importance of Being Earnest_ A Trivial Comedy for Serious People.txt",
-    "value" : 2
-  } ],
-  "uv" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 9
-  } ],
-  "uz" : [ {
-    "key" : "D:\\de toate\\books\\5-10\\Adventures of Huckleberry Finn.txt",
-    "value" : 26
   } ]
 }

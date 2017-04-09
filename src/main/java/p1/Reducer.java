@@ -1,15 +1,10 @@
 package p1;
 
-import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.core.type.TypeReference;
-import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.gson.Gson;
-import com.google.gson.reflect.TypeToken;
-import com.google.gson.stream.JsonReader;
 
 import java.io.File;
-import java.io.FileReader;
 import java.io.IOException;
 import java.nio.file.Path;
 import java.util.ArrayList;
@@ -33,6 +28,7 @@ public class Reducer implements  Runnable{
 
     private String phase;
     private Path path;
+    private char c;
 
     public Reducer(){
 
@@ -43,16 +39,45 @@ public class Reducer implements  Runnable{
         this.phase = phase;
     }
 
-    public void method1(Path path) throws IOException {
+    public Reducer( char c, String phase){
+        this.phase = phase;
+        this.c = c;
+    }
+
+    /**
+     * Executa o reducere pe un set de fisiere ce incep cu un anumit caracter si creaza un fisier de forma
+     * <litera>DirectIndex.idc
+     * outputul se va afla in directorul DirectIndex
+     * fisierele pentru care se face reducerea sunt in directorul temp
+     * @param c
+     * @throws IOException
+     */
+    public void reducePhaseOne(char c) throws IOException {
+        List<File> files = FileLoader.getFilesForChar(c);
+
+        List<DirectIndex> tempMap = new ArrayList<>();
+
+        for(File file : files){
+            tempMap.addAll(objectMapper.readValue(file, new TypeReference<ArrayList<DirectIndex>>() {}));
+        }
+
+        String filePath = Constants.PATH_TO_DIRECT_INDEX_DIRECTORY + c + "DirectIndex.idc";
+        objectMapper.writerWithDefaultPrettyPrinter().writeValue(new File(filePath), tempMap);
+    }
+
+    /**
+     * Calculeaza indexul invers pentru fisierele din directorul DirectIndex
+     * outputul se va afla in directorul InverseIndex
+     * @param path
+     * @throws IOException
+     */
+    public void reducePhaseTwo(Path path) throws IOException {
 
            List<DirectIndex> directIndex = objectMapper.readValue(new File(String.valueOf(path)), new TypeReference<ArrayList<DirectIndex>>() {
            });
-//        JsonReader jsonReader = new JsonReader(new FileReader(new File(path.toString())));
-//        List<DirectIndex> directIndex =  gson.fromJson(jsonReader,  new TypeToken<ArrayList<DirectIndex>>() {}.getType());
            System.out.println(PHASE_TWO + "_REDUCER  " + Thread.currentThread().getId() + "   " + path.toString());
 
            String fileName = path.toString().replace("DirectIndex", "InverseIndex").replace(".idc", ".ii");
-
            Map<String, List<MyPair>> map = new TreeMap<>();
 
            for (DirectIndex d : directIndex) {
@@ -76,13 +101,18 @@ public class Reducer implements  Runnable{
     @Override
     public void run() {
         switch (this.phase) {
+            case "PHASE_ONE":
+                try {
+                    reducePhaseOne(this.c);
+
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+                break;
+
             case "PHASE_TWO":
                 try {
-                   // long startTime = System.currentTimeMillis();
-                    method1(this.path);
-                   // long endTime = System.currentTimeMillis();
-                    //System.out.println("Thread: " + Thread.currentThread().getId() + " time = " + (endTime - startTime));
-
+                    reducePhaseTwo(this.path);
                 } catch (IOException e) {
                     e.printStackTrace();
                 }

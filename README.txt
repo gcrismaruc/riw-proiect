@@ -1,0 +1,3 @@
+Pentru a rula programul trebuie sa existe in directorul unde se afla jar-ul, fisierele exceptionWords si stopWords(cu aceste nume).
+Pentru a putea realiza indexarea se foloseste optiunea -i urmata de calea catre directorul unde se afla fisierele de indexat.
+Pentru a realiza o cautare se utilizeaza optiunea -s urmata de interogarea dorita. O cautare nu se poate efectua daca nu a fost realizata in prealabil indexarea.

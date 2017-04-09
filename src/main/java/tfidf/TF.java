@@ -45,6 +45,11 @@ public class TF implements Runnable{
         }
     }
 
+    /**
+     * calculeaza tf pentru toate cuvintele dintr-un fisier dat ca parametru
+     * @param file
+     * @throws IOException
+     */
     public void calculateTF(File file) throws IOException {
         Map<String, DirectIndex> map = objectMapper.readValue(file, new TypeReference<TreeMap<String, MyPair>>() {});
         Map<String, Double> tf = new TreeMap<>();
